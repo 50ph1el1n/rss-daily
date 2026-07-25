@@ -1,6 +1,6 @@
 # RSS Daily — 2026-07-25
 
-共 38 篇文章。
+共 39 篇文章。
 
 ## [別急著讓孩子贏在起跑點，研究：真正的天才靠多元探索慢慢養成](https://technews.tw/2026/07/25/the-slow-burn-rule-of-highly-intelligent-people/)
 
@@ -10,6 +10,14 @@
 - Authors：TechNews 編輯台
 
 一項刊登於《Science》期刊的大型回顧研究，改寫了外界對「天才養成」的想像。研究團隊彙整近 3.5 萬名世 […]
+
+## [AI代理程式失控發動網攻 路透：OpenAI逾1週後才察覺](https://www.cna.com.tw/news/ait/202607250088.aspx)
+
+- Article ID：`sha256:e8fe7f5b4055d19fa421513d9a7e85255b5b562be8862e992057b9d154f738fd`
+- Source：cna-technology
+- Published：2026-07-25T04:38:41Z
+
+（中央社華盛頓24日綜合外電報導）消息人士透露，日前入侵Hugging Face的OpenAI人工智慧（AI）代理程式曾連續數天進行駭客攻擊，但OpenAI並未及時發現，直到威脅受到控制、美國聯邦調查局（FBI）也接獲通報後，才察覺這起事件。
 
 ## [新增產能將開出，NAND Flash 市場迎供需考驗](https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/)
 
@@ -90,7 +98,7 @@
 - Published：2026-07-25T02:54:36Z
 - Authors：JumpCrisscross
 
-Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 134 # Comments: 41
+Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 144 # Comments: 45
 
 ## [CUDA護城河被削弱？黃仁勳在X首次發文？Gemini真的不行了嗎？- KP思考筆記(第52期)](https://www.fomosoc.com/p/cudaxgemini-kp52)
 
@@ -188,7 +196,7 @@ SpaceXAI 執行長馬斯克 7/24 在 X 上丟出新版本時程，Grok 4.6 兩�
 - Published：2026-07-25T01:44:12Z
 - Authors：agnishom
 
-Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize Comments URL: https://news.ycombinator.com/item?id=49043724 Points: 25 # Comments: 7
+Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize Comments URL: https://news.ycombinator.com/item?id=49043724 Points: 29 # Comments: 7
 
 ## [便祕老藥有新用？英國研究：有望解救憂鬱症腦霧危機](https://technews.tw/2026/07/25/prucalopride-constipation-drug-depression-cognitive-savior/)
 
@@ -258,7 +266,7 @@ Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leel
 - Published：2026-07-24T23:13:18Z
 - Authors：hhs
 
-Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 69 # Comments: 6
+Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 70 # Comments: 7
 
 ## [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models)
 
@@ -267,7 +275,7 @@ Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-
 - Published：2026-07-24T19:45:10Z
 - Authors：aarondong
 
-Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 214 # Comments: 128
+Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 216 # Comments: 129
 
 ## [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 
@@ -276,7 +284,7 @@ Article URL: https://artificialanalysis.ai/models Comments URL: https://news.yco
 - Published：2026-07-24T19:05:53Z
 - Authors：KraftyOne
 
-Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 254 # Comments: 46
+Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 258 # Comments: 48
 
 ## [Anthropic 發布 Claude Opus 5！效能逼近 Fable 5 價格卻砍半，成最新預設模型](https://www.blocktempo.com/anthropic-announces-claude-opus-5-release/)
 
@@ -294,7 +302,7 @@ Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Commen
 - Published：2026-07-24T16:57:41Z
 - Authors：alvis
 
-https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1411 # Comments: 775
+https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1424 # Comments: 780
 
 ## [Don't Take the Black Pill \[video\]](https://www.youtube.com/watch?v=zLZwpH5lCD4)
 
@@ -303,7 +311,7 @@ https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.y
 - Published：2026-07-24T16:48:57Z
 - Authors：signa11
 
-Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 151 # Comments: 129
+Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 152 # Comments: 132
 
 ## [Be skeptical of OpenAI's rogue hacker agent story](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
 
@@ -312,7 +320,7 @@ Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://n
 - Published：2026-07-24T16:33:31Z
 - Authors：rwmj
 
-Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 469 # Comments: 272
+Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 470 # Comments: 274
 
 ## [Unitree As2-W](https://www.unitree.com/As2-W/)
 
@@ -321,7 +329,7 @@ Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hac
 - Published：2026-07-24T16:32:52Z
 - Authors：MehrdadKhnzd
 
-Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 113 # Comments: 48
+Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 114 # Comments: 48
 
 ## [婚姻誓言擋不住虛擬感情，美婚前協議新趨勢納入 AI 不忠條款](https://technews.tw/2026/07/25/virtual-affection-marriage-vows-ai-infidelity-us-prenup-trend/)
 

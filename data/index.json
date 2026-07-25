@@ -4,8 +4,8 @@
   "days": [
     {
       "collection_date": "2026-07-25",
-      "status": "partial",
-      "article_count": 38,
+      "status": "success",
+      "article_count": 39,
       "digest_path": "data/2026/07/25/articles.json",
       "metadata_path": "data/2026/07/25/metadata.json"
     }

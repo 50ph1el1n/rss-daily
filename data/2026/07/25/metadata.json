@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
-  "run_id": "05f66735-9344-4a4c-be93-f05b154a5f8a",
+  "run_id": "26830f62-3a8f-4060-b86a-8adfa350d1a2",
   "collection_date": "2026-07-25",
   "timezone": "Asia/Taipei",
-  "started_at": "2026-07-25T05:39:22Z",
-  "completed_at": "2026-07-25T05:39:26Z",
-  "duration_ms": 3902,
-  "status": "partial",
+  "started_at": "2026-07-25T05:55:28Z",
+  "completed_at": "2026-07-25T05:55:32Z",
+  "duration_ms": 3864,
+  "status": "success",
   "trigger": "local",
   "feed_counts": {
     "configured": 16,
-    "enabled": 16,
-    "disabled": 0,
+    "enabled": 6,
+    "disabled": 10,
     "succeeded": 6,
-    "failed": 10
+    "failed": 0
   },
   "entry_counts": {
     "seen": 120,
-    "selected": 38,
-    "exported": 38,
+    "selected": 39,
+    "exported": 39,
     "duplicate": 0,
-    "skipped_invalid_date": 82,
+    "skipped_invalid_date": 81,
     "skipped_invalid_entry": 0
   },
   "artifacts": {
