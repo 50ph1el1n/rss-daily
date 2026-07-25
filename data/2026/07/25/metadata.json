@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "run_id": "d0907ef7-a6bf-448b-b070-a2e33944240e",
+  "run_id": "05f66735-9344-4a4c-be93-f05b154a5f8a",
   "collection_date": "2026-07-25",
   "timezone": "Asia/Taipei",
-  "started_at": "2026-07-25T04:25:23Z",
-  "completed_at": "2026-07-25T04:25:29Z",
-  "duration_ms": 5641,
+  "started_at": "2026-07-25T05:39:22Z",
+  "completed_at": "2026-07-25T05:39:26Z",
+  "duration_ms": 3902,
   "status": "partial",
   "trigger": "local",
   "feed_counts": {
@@ -17,10 +17,10 @@
   },
   "entry_counts": {
     "seen": 120,
-    "selected": 37,
-    "exported": 37,
+    "selected": 38,
+    "exported": 38,
     "duplicate": 0,
-    "skipped_invalid_date": 83,
+    "skipped_invalid_date": 82,
     "skipped_invalid_entry": 0
   },
   "artifacts": {

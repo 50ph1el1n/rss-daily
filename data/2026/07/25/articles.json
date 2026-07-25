@@ -2,8 +2,61 @@
   "schema_version": "1.0.0",
   "collection_date": "2026-07-25",
   "timezone": "Asia/Taipei",
-  "article_count": 37,
+  "article_count": 38,
   "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ec126ae3ba772d87ff92d46ed9b9cdb6b9d1e19fddddf5d0450c229f50193e3a",
+      "title": "別急著讓孩子贏在起跑點，研究：真正的天才靠多元探索慢慢養成",
+      "url": "https://technews.tw/2026/07/25/the-slow-burn-rule-of-highly-intelligent-people/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T05:00:17Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "人力資源",
+        "天才",
+        "奧運",
+        "科技教育",
+        "童年",
+        "諾貝爾獎"
+      ],
+      "guid": "https://technews.tw/?p=1590702",
+      "summary": "一項刊登於《Science》期刊的大型回顧研究，改寫了外界對「天才養成」的想像。研究團隊彙整近 3.5 萬名世 […]",
+      "published_raw": "Sat, 25 Jul 2026 05:00:17 +0000",
+      "updated_at": "2026-07-25T05:00:17Z",
+      "updated_raw": "Sat, 25 Jul 2026 05:00:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ae387bebd673e180a0ac66cecfdb7b2a5ef052a634209532ce6581e7d7ec6125",
+      "title": "新增產能將開出，NAND Flash 市場迎供需考驗",
+      "url": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T03:47:00Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "NAND Flash",
+        "SK 海力士",
+        "Samsung",
+        "半導體",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1592998",
+      "summary": "三星電子與 SK 海力士近期股價回落，市場開始關注 NAND Flash 市場供需是否出現變化。TrendFo […]",
+      "published_raw": "Sat, 25 Jul 2026 03:47:00 +0000",
+      "updated_at": "2026-07-25T03:47:00Z",
+      "updated_raw": "Sat, 25 Jul 2026 03:47:00 +0000",
+      "language": "zh-TW"
+    },
     {
       "schema_version": "1.0.0",
       "id": "sha256:754f0668d5ffd49844c8ab67e4be616722b92caffd5ed0fb869cced1db71a5ea",
@@ -217,7 +270,7 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49044074",
-      "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 65 # Comments: 11",
+      "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 134 # Comments: 41",
       "published_raw": "Sat, 25 Jul 2026 02:54:36 +0000",
       "updated_at": "2026-07-25T02:54:36Z",
       "updated_raw": "Sat, 25 Jul 2026 02:54:36 +0000",
@@ -487,6 +540,26 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "sha256:1d12da0bd3f49d9f2fc7ea07dc4700ab0bcf151282456826dd497fe05b68f015",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T01:44:12Z",
+      "authors": [
+        "agnishom"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49043724",
+      "summary": "Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize Comments URL: https://news.ycombinator.com/item?id=49043724 Points: 25 # Comments: 7",
+      "published_raw": "Sat, 25 Jul 2026 01:44:12 +0000",
+      "updated_at": "2026-07-25T01:44:12Z",
+      "updated_raw": "Sat, 25 Jul 2026 01:44:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "sha256:dc47c35d90d01cb47cec324d828c57e30848ed55e7beb9f7785f09e1cb1f3c3e",
       "title": "便祕老藥有新用？英國研究：有望解救憂鬱症腦霧危機",
       "url": "https://technews.tw/2026/07/25/prucalopride-constipation-drug-depression-cognitive-savior/",
@@ -682,30 +755,10 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49042751",
-      "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 55 # Comments: 3",
+      "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 69 # Comments: 6",
       "published_raw": "Fri, 24 Jul 2026 23:13:18 +0000",
       "updated_at": "2026-07-24T23:13:18Z",
       "updated_raw": "Fri, 24 Jul 2026 23:13:18 +0000",
-      "language": "en"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "sha256:bb991e00f18b9a159d131aa1041081dfb2f3132e4a4c12d7b9518a602ffbcd08",
-      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
-      "url": "https://github.com/apresta/max-studio-tools",
-      "source_feed_ids": [
-        "hacker-news-frontpage"
-      ],
-      "published_at": "2026-07-24T21:03:10Z",
-      "authors": [
-        "apresta"
-      ],
-      "categories": [],
-      "guid": "https://news.ycombinator.com/item?id=49041546",
-      "summary": "Article URL: https://github.com/apresta/max-studio-tools Comments URL: https://news.ycombinator.com/item?id=49041546 Points: 26 # Comments: 0",
-      "published_raw": "Fri, 24 Jul 2026 21:03:10 +0000",
-      "updated_at": "2026-07-24T21:03:10Z",
-      "updated_raw": "Fri, 24 Jul 2026 21:03:10 +0000",
       "language": "en"
     },
     {
@@ -722,7 +775,7 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49040741",
-      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 189 # Comments: 123",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 214 # Comments: 128",
       "published_raw": "Fri, 24 Jul 2026 19:45:10 +0000",
       "updated_at": "2026-07-24T19:45:10Z",
       "updated_raw": "Fri, 24 Jul 2026 19:45:10 +0000",
@@ -742,30 +795,10 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49040296",
-      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 238 # Comments: 43",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 254 # Comments: 46",
       "published_raw": "Fri, 24 Jul 2026 19:05:53 +0000",
       "updated_at": "2026-07-24T19:05:53Z",
       "updated_raw": "Fri, 24 Jul 2026 19:05:53 +0000",
-      "language": "en"
-    },
-    {
-      "schema_version": "1.0.0",
-      "id": "sha256:d106b2921aea29523b6835c2298fa922e7b110c0d118caf43a577888c23fc04b",
-      "title": "Gsxui – Shadcn-style components for Go",
-      "url": "https://ui.gsxhq.dev/",
-      "source_feed_ids": [
-        "hacker-news-frontpage"
-      ],
-      "published_at": "2026-07-24T17:59:08Z",
-      "authors": [
-        "jackielii"
-      ],
-      "categories": [],
-      "guid": "https://news.ycombinator.com/item?id=49039395",
-      "summary": "Article URL: https://ui.gsxhq.dev/ Comments URL: https://news.ycombinator.com/item?id=49039395 Points: 58 # Comments: 8",
-      "published_raw": "Fri, 24 Jul 2026 17:59:08 +0000",
-      "updated_at": "2026-07-24T17:59:08Z",
-      "updated_raw": "Fri, 24 Jul 2026 17:59:08 +0000",
       "language": "en"
     },
     {
@@ -811,7 +844,7 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49038433",
-      "summary": "https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1385 # Comments: 755",
+      "summary": "https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1411 # Comments: 775",
       "published_raw": "Fri, 24 Jul 2026 16:57:41 +0000",
       "updated_at": "2026-07-24T16:57:41Z",
       "updated_raw": "Fri, 24 Jul 2026 16:57:41 +0000",
@@ -831,7 +864,7 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49038298",
-      "summary": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 151 # Comments: 117",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 151 # Comments: 129",
       "published_raw": "Fri, 24 Jul 2026 16:48:57 +0000",
       "updated_at": "2026-07-24T16:48:57Z",
       "updated_raw": "Fri, 24 Jul 2026 16:48:57 +0000",
@@ -851,7 +884,7 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49038060",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 458 # Comments: 261",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 469 # Comments: 272",
       "published_raw": "Fri, 24 Jul 2026 16:33:31 +0000",
       "updated_at": "2026-07-24T16:33:31Z",
       "updated_raw": "Fri, 24 Jul 2026 16:33:31 +0000",
@@ -871,7 +904,7 @@
       ],
       "categories": [],
       "guid": "https://news.ycombinator.com/item?id=49038045",
-      "summary": "Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 108 # Comments: 41",
+      "summary": "Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 113 # Comments: 48",
       "published_raw": "Fri, 24 Jul 2026 16:32:52 +0000",
       "updated_at": "2026-07-24T16:32:52Z",
       "updated_raw": "Fri, 24 Jul 2026 16:32:52 +0000",

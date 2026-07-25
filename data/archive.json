@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "total_days": 1,
-  "total_articles": 37,
+  "total_articles": 38,
   "years": [
     {
       "year": "2026",
       "day_count": 1,
-      "article_count": 37,
+      "article_count": 38,
       "months": [
         {
           "month": "07",
           "day_count": 1,
-          "article_count": 37,
+          "article_count": 38,
           "days": [
             {
               "collection_date": "2026-07-25",
               "status": "partial",
-              "article_count": 37,
+              "article_count": 38,
               "digest_path": "data/2026/07/25/articles.json",
               "markdown_path": "data/2026/07/25/README.md"
             }
