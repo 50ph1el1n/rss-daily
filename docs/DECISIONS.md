@@ -330,3 +330,32 @@ Python CLI 只產出/驗證檔案與 exit status；diff、commit、rebase safety
 
 - Application 呼叫 Git：耦合且難測。
 - GitHub API commit：額外 API 複雜度，無必要。
+
+## ADR-015：GitHub Actions 使用 macOS Hosted Runner
+
+- **Status**：Accepted
+- **Date**：2026-07-25
+
+### Context
+
+16 個來源在本機可全部抓取，但 GitHub `ubuntu-latest` 上的 10 個 Substack Feed
+一致回傳 HTTP 403；同一個 run 的 6 個非 Substack Feed 均成功。GitHub-hosted
+Ubuntu runner 使用 Azure shared egress，來源端可能依 IP reputation 阻擋。
+
+### Decision
+
+production workflow 改用 `macos-latest`，以不同的 hosted runner 網路路徑進行
+Substack 相容性測試與每日收集。
+
+### Consequences
+
+- 正面：維持無伺服器架構，只需一行 workflow 變更。
+- 負面：不能保證來源端不封鎖 macOS runner；執行資源與 queue 行為可能不同。
+- 若 macOS 仍回傳 403，必須新增 ADR 再評估受控 proxy 或安全隔離的 self-hosted
+  runner，不得加入不透明公共 proxy。
+
+### Alternatives
+
+- 增加 403 retry：永久拒絕不會因 retry 解決，且會增加來源負擔。
+- Self-hosted runner：網路可行，但 public repository 存在執行不受信任程式碼風險。
+- Public proxy：可靠性、安全與資料治理不可接受。

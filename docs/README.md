@@ -104,7 +104,7 @@ docs/                             # Product/engineering SSOT
 
 Production 不需要伺服器。default branch 上的 workflow 即 deployment：
 
-- runner：`ubuntu-latest`
+- runner：`macos-latest`（避免 Substack 對 Azure shared egress IP 回傳 403）
 - Python：3.11
 - schedule：每日台北 07:30（UTC cron `30 23 * * *`）
 - concurrency：單一 collector group，不取消進行中 run
