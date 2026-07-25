@@ -3,16 +3,179 @@
   "feeds": [
     {
       "schema_version": "1.0.0",
-      "id": "github-blog",
-      "title": "GitHub Blog",
-      "url": "https://github.blog/feed/",
+      "id": "blocktempo",
+      "title": "BlockTempo 動區動趨",
+      "url": "https://www.blocktempo.com/feed/",
       "enabled": true,
-      "tags": [
-        "technology"
-      ],
-      "homepage_url": "https://github.blog/",
+      "tags": ["blockchain", "cryptocurrency"],
+      "homepage_url": "https://www.blocktempo.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "btyc",
+      "title": "BTYC",
+      "url": "https://btyc.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://btyc.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "capital-cycle",
+      "title": "Capital Cycle",
+      "url": "https://capitalcycle.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://capitalcycle.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "cna-technology",
+      "title": "中央社科技",
+      "url": "https://feeds.feedburner.com/rsscna/technology",
+      "enabled": true,
+      "tags": ["technology"],
+      "homepage_url": "https://www.cna.com.tw/list/ait.aspx",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "crypto-cycle-signal",
+      "title": "Crypto Cycle Signal",
+      "url": "https://cryptocyclesignal.substack.com/feed",
+      "enabled": true,
+      "tags": ["cryptocurrency", "investment"],
+      "homepage_url": "https://cryptocyclesignal.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "fomo-soc",
+      "title": "FOMO SOC",
+      "url": "https://www.fomosoc.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://www.fomosoc.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hacker-news-frontpage",
+      "title": "Hacker News Frontpage",
+      "url": "https://hnrss.org/frontpage",
+      "enabled": true,
+      "tags": ["technology"],
+      "homepage_url": "https://news.ycombinator.com/",
       "language": "en",
-      "notes": "預設範例來源；可依需求替換。"
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "having-chien",
+      "title": "Having Chien",
+      "url": "https://havingchien.substack.com/feed",
+      "enabled": true,
+      "tags": ["knowledge"],
+      "homepage_url": "https://havingchien.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "henry-chu",
+      "title": "Henry Chu",
+      "url": "https://henrychu.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://henrychu.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "inside",
+      "title": "INSIDE",
+      "url": "https://www.inside.com.tw/feed/rss",
+      "enabled": true,
+      "tags": ["technology"],
+      "homepage_url": "https://www.inside.com.tw/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "obsidian-academic-notemaking",
+      "title": "Obsidian Academic Note Making",
+      "url": "https://obsidianacademicnotamaking.substack.com/feed",
+      "enabled": true,
+      "tags": ["knowledge", "productivity"],
+      "homepage_url": "https://obsidianacademicnotamaking.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "samuel-6788",
+      "title": "Samuel 6788",
+      "url": "https://samuel6788.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://samuel6788.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "technews",
+      "title": "科技新報 TechNews",
+      "url": "https://technews.tw/feed/",
+      "enabled": true,
+      "tags": ["technology"],
+      "homepage_url": "https://technews.tw/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "uncle-stock-notes",
+      "title": "Uncle Stock Notes",
+      "url": "https://unclestocknotes.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://unclestocknotes.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "vincent-cw-yu",
+      "title": "Vincent C. W. Yu",
+      "url": "https://vincentcwyu.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://vincentcwyu.substack.com/",
+      "language": "zh-TW",
+      "notes": null
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "wing-lpl",
+      "title": "Wing LPL",
+      "url": "https://winglpl.substack.com/feed",
+      "enabled": true,
+      "tags": ["investment"],
+      "homepage_url": "https://winglpl.substack.com/",
+      "language": "zh-TW",
+      "notes": null
     }
   ]
 }
