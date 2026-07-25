@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "feeds": [
+    {
+      "schema_version": "1.0.0",
+      "id": "github-blog",
+      "title": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "enabled": true,
+      "tags": [
+        "technology"
+      ],
+      "homepage_url": "https://github.blog/",
+      "language": "en",
+      "notes": "預設範例來源；可依需求替換。"
+    }
+  ]
+}

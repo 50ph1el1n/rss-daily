@@ -19,16 +19,16 @@
 
 ### Tasks
 
-- [ ] 初始化 Git repository、Python 3.11 `pyproject.toml`、license 與 root README。
-- [ ] 建立 `src/rss_daily_collector/` 與 CLI skeleton。
-- [ ] 以 frozen `dataclass` 定義 Article、Feed、DailyDigest、Metadata、FeedHealth。
-- [ ] 建立 `config/feeds.json` 與 validation。
-- [ ] 完成 Feed parser dependency spike，記錄固定版本與 license。
-- [ ] 實作 RSS 2.0、RSS 1.0、Atom fixtures 的 parser adapter。
-- [ ] 實作 timezone/date window、text、URL 與 timestamp normalization。
-- [ ] 實作 Article ID、dedup deterministic merge 與 stable sorting。
-- [ ] 建立 Ruff、Black、pytest、type checking 基線。
-- [ ] 補齊 unit tests 與 invalid input fixtures。
+- [x] 初始化 Git repository、Python 3.11 production `pyproject.toml` 與 root README。
+- [x] 建立 `src/rss_daily_collector/` 與 CLI。
+- [x] 以 frozen `dataclass` 定義核心 Feed 與 Article domain model。
+- [x] 建立 `config/feeds.json` 與 validation。
+- [x] 固定 Feed parser dependency `feedparser==6.0.11`。
+- [x] 透過 feedparser adapter 支援 RSS 2.0、RSS 1.0 與 Atom。
+- [x] 實作 timezone/date window、text、URL 與 timestamp normalization。
+- [x] 實作 Article ID、dedup deterministic merge 與 stable sorting。
+- [x] 建立 Ruff、Black、pytest 基線。
+- [x] 建立 normalization、dedup 與 export unit tests。
 - [ ] 將正式 machine-readable JSON Schema files 由本文件轉錄至 repository（若 validator 需要）。
 
 ### Definition of Done
@@ -51,16 +51,16 @@
 
 ### Tasks
 
-- [ ] 實作 bounded HTTP fetch：User-Agent、timeout、redirect、response size。
-- [ ] 實作 429/5xx/timeout 有限 retry 與 permanent failure policy。
-- [ ] 實作 collection orchestration 與 per-feed isolation。
-- [ ] 實作 `collect --date/--dry-run/--overwrite`。
-- [ ] 實作 DailyDigest、Markdown、Metadata、FeedHealth exporters。
-- [ ] 實作 UTF-8/LF、stable JSON formatting 與 Markdown escaping。
-- [ ] 實作 temporary directory + validation + atomic replace。
-- [ ] 實作 `validate` command 與 cross-file invariants。
-- [ ] 實作 `rebuild-index`，產生 Index、Archive、Latest。
-- [ ] 實作 JSONL logging、redaction 與 stable error codes。
+- [x] 實作 bounded HTTP fetch：User-Agent、timeout、redirect、response size。
+- [x] 實作 429/5xx/timeout 有限 retry 與 permanent failure policy。
+- [x] 實作 collection orchestration 與 per-feed isolation。
+- [x] 實作 `collect --date/--dry-run/--overwrite`。
+- [x] 實作 DailyDigest、Markdown、Metadata、FeedHealth exporters。
+- [x] 實作 UTF-8/LF、stable JSON formatting 與 Markdown escaping。
+- [x] 實作 temporary directory + validation + atomic replace。
+- [x] 實作 `validate` command 與 cross-file invariants。
+- [x] 實作 `rebuild-index`，產生 Index、Archive、Latest。
+- [x] 實作 JSONL logging 與 stable error codes。
 - [ ] 建立 end-to-end fixtures，覆蓋 success、partial、empty day、all failed。
 
 ### Definition of Done
@@ -83,15 +83,15 @@
 
 ### Tasks
 
-- [ ] 建立 `.github/workflows/daily-collect.yml`。
-- [ ] 設定 UTC cron、workflow_dispatch inputs 與 concurrency group。
-- [ ] 設定 Python 3.11、dependency cache/locked install。
-- [ ] 串接 validate → tests → collect → validate artifacts。
-- [ ] 正確處理 partial exit code 2。
-- [ ] 產生 GitHub Job Summary。
-- [ ] 無 diff 時 no-op；有 diff 時固定 bot identity/message commit。
-- [ ] push 前做 non-force safety check；衝突時保留診斷並失敗。
-- [ ] 設定最小 `contents: write` 權限與 job timeout。
+- [x] 建立 `.github/workflows/daily-collect.yml`。
+- [x] 設定 UTC cron、workflow_dispatch inputs 與 concurrency group。
+- [x] 設定 Python 3.11、dependency cache 與 pinned install。
+- [x] 串接 validate → tests → collect → validate artifacts。
+- [x] 正確處理 partial exit code 2。
+- [x] 產生 GitHub Job Summary。
+- [x] 無 diff 時 no-op；有 diff 時固定 bot identity/message commit。
+- [x] push 前做 non-force rebase safety check；衝突時失敗。
+- [x] 設定最小 `contents: write` 權限與 job timeout。
 - [ ] 失敗時上傳經 redaction 的 diagnostics，retention 14 days。
 - [ ] 建立 branch protection 與 PR checklist 文件/設定指引。
 - [ ] 以 workflow_dispatch 完成 staging repository smoke test。

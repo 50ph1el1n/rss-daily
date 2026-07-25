@@ -1,0 +1,94 @@
+name: Daily Collect
+
+on:
+  schedule:
+    - cron: "30 23 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Asia/Taipei collection date (YYYY-MM-DD); empty means today"
+        required: false
+        type: string
+      dry_run:
+        description: "Validate collection without publishing"
+        required: false
+        default: false
+        type: boolean
+      overwrite:
+        description: "Overwrite an existing date"
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: rss-daily-collector
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install
+        run: python -m pip install -e ".[dev]"
+      - name: Validate and test
+        run: |
+          ruff check .
+          black --check .
+          python -m pytest
+          python -m rss_daily_collector validate
+      - name: Collect
+        id: collect
+        env:
+          INPUT_DATE: ${{ inputs.date }}
+          INPUT_DRY_RUN: ${{ inputs.dry_run }}
+          INPUT_OVERWRITE: ${{ inputs.overwrite }}
+        run: |
+          args=()
+          if [ -n "$INPUT_DATE" ]; then args+=(--date "$INPUT_DATE"); fi
+          if [ "$INPUT_DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          if [ "$INPUT_OVERWRITE" = "true" ]; then args+=(--overwrite); fi
+          set +e
+          python -m rss_daily_collector collect "${args[@]}"
+          code=$?
+          set -e
+          if [ "$code" -ne 0 ] && [ "$code" -ne 2 ]; then exit "$code"; fi
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+      - name: Validate artifacts
+        if: inputs.dry_run != true
+        run: python -m rss_daily_collector validate
+      - name: Job summary
+        if: always()
+        run: |
+          {
+            echo "## RSS Daily Collector"
+            echo ""
+            echo "- Trigger: \`${{ github.event_name }}\`"
+            echo "- Collector exit code: \`${{ steps.collect.outputs.exit_code || 'failed' }}\`"
+            echo "- Commit candidate: \`data: collect $(TZ=Asia/Taipei date +%F)\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+      - name: Commit and push
+        if: inputs.dry_run != true
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes."
+            exit 0
+          fi
+          git config user.name "rss-daily-collector[bot]"
+          git config user.email "rss-daily-collector[bot]@users.noreply.github.com"
+          git add data
+          collection_date=$(TZ=Asia/Taipei date +%F)
+          if [ -n "${{ inputs.date }}" ]; then collection_date="${{ inputs.date }}"; fi
+          git commit -m "data: collect ${collection_date}"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
