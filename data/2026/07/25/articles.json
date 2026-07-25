@@ -2,6 +2,936 @@
   "schema_version": "1.0.0",
   "collection_date": "2026-07-25",
   "timezone": "Asia/Taipei",
-  "article_count": 0,
-  "articles": []
+  "article_count": 37,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:754f0668d5ffd49844c8ab67e4be616722b92caffd5ed0fb869cced1db71a5ea",
+      "title": "孩子不吃青菜怎麼辦？科學提供更有效的方法",
+      "url": "https://technews.tw/2026/07/25/how-to-get-kids-eating-vegetables/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T03:30:44Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "Food neophobia",
+        "兒童飲食",
+        "挑食",
+        "科技生活",
+        "親子教育",
+        "食品科技",
+        "食物恐新症",
+        "飲食習慣"
+      ],
+      "guid": "https://technews.tw/?p=1581848",
+      "summary": "「再吃一口就好！」「不吃青菜就沒有點心！」這些話，幾乎天天都在許多家庭的餐桌上上演。但父母越催促，孩子就真的越 […]",
+      "published_raw": "Sat, 25 Jul 2026 03:30:44 +0000",
+      "updated_at": "2026-07-25T03:30:44Z",
+      "updated_raw": "Sat, 25 Jul 2026 03:30:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:87ed42777b81733a9fb140a2c7197e263248bd9e11cff1c80928b5dfea18ae6f",
+      "title": "OpenRouter 傳出以 100 億美元被 Stripe 收購，這會是 Atallah 兩年內第二次做出百億美元公司",
+      "url": "https://www.inside.com.tw/article/41915-openrouter-reportedly-acquired-by-stripe-for-10-billion-alex-atallahs-second-10-billion-company-in-two-years",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-07-25T03:22:00Z",
+      "authors": [
+        "Sherlock"
+      ],
+      "categories": [
+        "AI",
+        "Alex Atallah",
+        "OpenRouter",
+        "Stripe",
+        "人工智慧",
+        "新創"
+      ],
+      "guid": "https://www.inside.com.tw/article/41915-openrouter-reportedly-acquired-by-stripe-for-10-billion-alex-atallahs-second-10-billion-company-in-two-years",
+      "summary": "支付服務商 Stripe 傳洽談收購 AI 模型路由層 OpenRouter。此舉旨在將其核心支付業務擴展至 AI 基礎設施，透過統一 API 管理不同模型間的推論請求與價值流動，掌握 AI 經濟中的新興交易模式。",
+      "published_raw": "2026-07-25T11:22:00+08:00",
+      "updated_at": "2026-07-25T03:22:00Z",
+      "updated_raw": "2026-07-25T11:22:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:72e690271009f5a6c5a6cef90b17462ecd292b8d84c4cc4e8cd203b7fdbde91b",
+      "title": "《Clean Code》作者 Uncle Bob 公開表態，他現在完全不讀 AI 寫的程式碼",
+      "url": "https://www.inside.com.tw/article/41914-clean-code-author-uncle-bob-says-he-no-longer-reads-ai-written-code",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-07-25T03:09:00Z",
+      "authors": [
+        "Sherlock"
+      ],
+      "categories": [
+        "AI",
+        "AI Agent",
+        "Clean Code",
+        "Uncle Bob",
+        "人工智慧",
+        "開發者"
+      ],
+      "guid": "https://www.inside.com.tw/article/41914-clean-code-author-uncle-bob-says-he-no-longer-reads-ai-written-code",
+      "summary": "《Clean Code》作者 Robert C. Martin 主張不審查 AI 程式碼，改以自動化測試與工程指標確保品質，以最大化生產力。此言論引發論戰，重新定義軟體工程師的核心價值：從寫程式轉為設計品質關卡。",
+      "published_raw": "2026-07-25T11:09:00+08:00",
+      "updated_at": "2026-07-25T03:09:00Z",
+      "updated_raw": "2026-07-25T11:09:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a9741f5fba05e86fd31e830993ae930726ef72fe533145f6e8e773f90c44168e",
+      "title": "在Steam放木馬偷人錢包的駭客，敗在太愛吃外送",
+      "url": "https://www.blocktempo.com/fbi-uber-eats-orders-monero-seed-phrase-steam-malware-funder/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T03:07:06Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "Bitrefill",
+        "BlockBlasters",
+        "FBI",
+        "Steam",
+        "安全",
+        "犯罪",
+        "門羅幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513937",
+      "summary": "21 歲的 Zyaire Wilkins 7 月 14 日在佛州州被捕。15 頁的聯邦刑事起訴書指控他出資把加 […] 〈 在Steam放木馬偷人錢包的駭客，敗在太愛吃外送 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 03:07:06 +0000",
+      "updated_at": "2026-07-25T03:07:06Z",
+      "updated_raw": "Sat, 25 Jul 2026 03:07:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b0186a68333b2226b8fe1fa872cd79f57cb9dfdfb70cfd33ed59a2c9d22424d1",
+      "title": "Sam Altman 的 World 完成募資 5,250 萬鎂，Pantera 領投",
+      "url": "https://www.blocktempo.com/world-foundation-wld-token-sale-pantera-capital-proof-human-verification/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T03:07:00Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "AI",
+        "Pantera Capital",
+        "Sam Altman",
+        "WLD",
+        "World ID",
+        "worldcoin",
+        "其他幣別"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513931",
+      "summary": "由 OpenAI 執行長 Sam Altman 共同創辦的數位身分專案 World 宣布完成 5,250 萬美 […] 〈 Sam Altman 的 World 完成募資 5,250 萬鎂，Pantera 領投 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 03:07:00 +0000",
+      "updated_at": "2026-07-25T03:07:00Z",
+      "updated_raw": "Sat, 25 Jul 2026 03:07:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a0eda0e907acd39988ab5724b0558ee4920159c64f8d245def1d4af7b868845d",
+      "title": "OpenAI、微軟掀 FDE 軍備競賽，爭奪企業 AI「最後一哩」新戰場",
+      "url": "https://technews.tw/2026/07/25/ai-giants-battlefield/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T03:00:42Z",
+      "authors": [
+        "創業小聚"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 創投",
+        "AI 模型",
+        "Agentic AI",
+        "Anthropic",
+        "FDE",
+        "Microsoft",
+        "Ode",
+        "OpenAI",
+        "Palantir",
+        "新創",
+        "網路",
+        "雲端",
+        "雲端運算"
+      ],
+      "guid": "https://technews.tw/?p=1592132",
+      "summary": "2026 年 7 月 15 日，一家名為 Ode 的公司正式對外亮相，專門派工程師進駐企業，幫客戶把 AI 接 […]",
+      "published_raw": "Sat, 25 Jul 2026 03:00:42 +0000",
+      "updated_at": "2026-07-25T03:00:42Z",
+      "updated_raw": "Sat, 25 Jul 2026 03:00:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:435b29112ae1ae8ba7df55ba3bb62c13d7caf2870482a8484057f92660b38dad",
+      "title": "黃仁勳狠嗆華爾街：你們誤解了DeepSeek！晶片需求將飆5-10倍",
+      "url": "https://www.blocktempo.com/jensen-huang-axios-interview-china-ai-deepseek-misunderstanding-chip-demand-expansion/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T03:00:00Z",
+      "authors": [
+        "PANews"
+      ],
+      "categories": [
+        "AI",
+        "DeepSeek",
+        "Nvidia",
+        "黃仁勳"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513928",
+      "summary": "黃仁勳在Axios專訪中直指華爾街兩度誤解中國AI模型，稱DeepSeek與Kimi將帶動更多算力需求；晶片產 […] 〈 黃仁勳狠嗆華爾街：你們誤解了DeepSeek！晶片需求將飆5-10倍 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 03:00:00 +0000",
+      "updated_at": "2026-07-25T03:00:00Z",
+      "updated_raw": "Sat, 25 Jul 2026 03:00:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c79e6f2c9971a95ff0d626fbadc45739e3c04c591bb3fb398702e136c775b84e",
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T02:54:36Z",
+      "authors": [
+        "JumpCrisscross"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49044074",
+      "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074 Points: 65 # Comments: 11",
+      "published_raw": "Sat, 25 Jul 2026 02:54:36 +0000",
+      "updated_at": "2026-07-25T02:54:36Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:54:36 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f56f83a91331b35d064ba611fb73881ad6e351b76e8eea5046c96d17fdcdbeb9",
+      "title": "CUDA護城河被削弱？黃仁勳在X首次發文？Gemini真的不行了嗎？- KP思考筆記(第52期)",
+      "url": "https://www.fomosoc.com/p/cudaxgemini-kp52",
+      "source_feed_ids": [
+        "fomo-soc"
+      ],
+      "published_at": "2026-07-25T02:48:22Z",
+      "authors": [
+        "KP@FOMOSoc"
+      ],
+      "categories": [],
+      "guid": "https://www.fomosoc.com/p/cudaxgemini-kp52",
+      "summary": "大家好，我是 KP，歡迎來到第 52 期的《週末思考筆記》。",
+      "published_raw": "Sat, 25 Jul 2026 02:48:22 GMT",
+      "updated_at": "2026-07-25T02:48:22Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:48:22 GMT",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f6e83cfd0d5d0262419a7681710cb80a783bd4688e137d57949f17e1afd84975",
+      "title": "SpaceX第13次飛行測試 首度短暫部署升級版星鏈衛星",
+      "url": "https://www.cna.com.tw/news/ait/202607250050.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-07-25T02:48:18Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-07-25/202607250050",
+      "summary": "（中央社華盛頓24日綜合外電報導）美國太空探索科技公司（SpaceX）的「星艦」（Starship）火箭今天從德州發射升空，並將首批20枚升級版「星鏈」（Starlink）網路衛星短暫送入次軌道太空。這是SpaceX第13次星艦測試任務，公司目標是在今年底前開始提供例行服務。",
+      "published_raw": "Sat, 25 Jul 2026 10:48:18 +0800",
+      "updated_at": "2026-07-25T02:48:18Z",
+      "updated_raw": "Sat, 25 Jul 2026 10:48:18 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6c09dbdae825745a68c3f1fd26cdeef9ddd71f0da422a44aa9358b39b685e8c0",
+      "title": "輝達和 SK 集團拋出 5,000 億鎂計畫：2GW AI 資料中心 2027 年開跑，鎖定 HBM4 供應",
+      "url": "https://www.blocktempo.com/nvidia-sk-group-500-billion-ai-data-center-hbm4-memory/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T02:47:07Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "AI",
+        "HBM4",
+        "SK海力士",
+        "SK電訊",
+        "技術",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513914",
+      "summary": "輝達（NVIDIA）與韓國 SK 集團週五（7/24）丟出一份總額超過 5,000 億美元的 AI 計畫，範圍 […] 〈 輝達和 SK 集團拋出 5,000 億鎂計畫：2GW AI 資料中心 2027 年開跑，鎖定 HBM4 供應 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 02:47:07 +0000",
+      "updated_at": "2026-07-25T02:47:07Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:47:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d4ce67ecd68e2c283133f55da926107295bc68cc4e55e058666acc8a1fa443aa",
+      "title": "馬斯克放話：Grok 4.6 兩週後上線、4.7 四週後上線，2 兆引數硬碰 Kimi K3",
+      "url": "https://www.blocktempo.com/musk-grok-4-6-two-weeks-kimi-k3-trillion-parameter/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T02:44:32Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "AI",
+        "Grok 4.6",
+        "Kimi K3",
+        "SpaceXAI",
+        "xAI",
+        "技術",
+        "馬斯克"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513906",
+      "summary": "SpaceXAI 執行長馬斯克 7/24 在 X 上丟出新版本時程，Grok 4.6 兩週後推出、Grok 4 […] 〈 馬斯克放話：Grok 4.6 兩週後上線、4.7 四週後上線，2 兆引數硬碰 Kimi K3 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 02:44:32 +0000",
+      "updated_at": "2026-07-25T02:44:32Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:44:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ad30fdce77820ef4ad7274d25983ab79406a7e4013e7160dc6562a02abc4a3a9",
+      "title": "SpaceX 收盤創上市新低，大摩喊買：跌到 100 鎂就是 AI 業務零估值",
+      "url": "https://www.blocktempo.com/morgan-stanley-spacex-target-price-zero-ai-value-grok-cursor/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T02:43:49Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "AI",
+        "Cursor",
+        "Grok",
+        "SpaceX",
+        "摩根士丹利",
+        "金融市場",
+        "馬斯克"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513909",
+      "summary": "摩根士丹利分析師 Adam Jonas 週五在給客戶的報告中重申 SpaceX 加碼評級與 300 美元目標價 […] 〈 SpaceX 收盤創上市新低，大摩喊買：跌到 100 鎂就是 AI 業務零估值 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 02:43:49 +0000",
+      "updated_at": "2026-07-25T02:43:49Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:43:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e7eec894c2b0bcc577b1d947fe304bf00f8378c5570519f69e257daf70798324",
+      "title": "美對伊朗連13晚空襲、布蘭特原油破百，比特幣被逼退6.4萬美元",
+      "url": "https://www.blocktempo.com/us-centcom-iran-strikes-brent-oil-100-bitcoin-decouples-steady/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T02:29:02Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "伊朗",
+        "即時新聞",
+        "川普",
+        "布蘭特原油",
+        "比特幣",
+        "美國",
+        "荷莫茲海峽"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513896",
+      "summary": "美國中央司令部（CENTCOM）證實，對伊朗的空襲已一路打到第 13 個夜晚，布蘭特原油週四結算價突破 100 […] 〈 美對伊朗連13晚空襲、布蘭特原油破百，比特幣被逼退6.4萬美元 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 02:29:02 +0000",
+      "updated_at": "2026-07-25T02:29:02Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:29:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c75064aafef660235919d1f75d66d7e1b71405176060d567f1ffed9dcfcfe502",
+      "title": "輝達、SK 集團合作 5,000 億美元 AI 計畫，布局 HBM4 與 AI 資料中心",
+      "url": "https://technews.tw/2026/07/25/nvidia-sk-group-partner-500-billion-ai-project-for-hbm4-ai-data-centers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T02:21:56Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Nvidia",
+        "SK 海力士",
+        "半導體",
+        "記憶體",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1592994",
+      "summary": "根據路透社報導，輝達與韓國 SK 集團宣布啟動一項規模超過 5,000 億美元 的 AI 合作計畫，涵蓋下一代 […]",
+      "published_raw": "Sat, 25 Jul 2026 02:21:56 +0000",
+      "updated_at": "2026-07-25T02:21:56Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:21:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:45684770fad2025b9360e65d3e245fc80f5998685526049647590936fc8caf3d",
+      "title": "黃仁勳登入X頂級流量：12小時粉絲58萬、首貼文3362萬瀏覽，馬斯克力挺",
+      "url": "https://www.blocktempo.com/jensen-huang-x-first-post-viral-open-model-musk-support/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T02:21:01Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "AI",
+        "X平台",
+        "技術",
+        "輝達",
+        "開放權重AI",
+        "馬斯克",
+        "黃仁勳"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513891",
+      "summary": "12 小時、58.4 萬追蹤、3362.9 萬次瀏覽，這是黃仁勳（Jensen Huang）在 X 上的第一天 […] 〈 黃仁勳登入X頂級流量：12小時粉絲58萬、首貼文3362萬瀏覽，馬斯克力挺 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 02:21:01 +0000",
+      "updated_at": "2026-07-25T02:21:01Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:21:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f17dac52a58d2f3eab2bc9eb97ff21bcca7f48e120f8ae6c611b95a9d09754a1",
+      "title": "第三方評測》Opus 5 智慧指數微勝 Fable 5、成本砍 26%，幻覺率卻突高",
+      "url": "https://www.blocktempo.com/artificial-analysis-opus-5-intelligence-index-lead-fable-hallucination-cost/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-25T02:16:44Z",
+      "authors": [
+        "Mickey帽鼠"
+      ],
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Artificial Analysis",
+        "Claude Opus 5",
+        "Fable 5",
+        "GPT-5.6",
+        "技術"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513888",
+      "summary": "獨立評測機構 Artificial Analysis 公布 Claude Opus 5 的成績單。在綜合 9 […] 〈 第三方評測》Opus 5 智慧指數微勝 Fable 5、成本砍 26%，幻覺率卻突高 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sat, 25 Jul 2026 02:16:44 +0000",
+      "updated_at": "2026-07-25T02:16:44Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:16:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:162358090feaaa1770951c5a659b1d0fb8a3a0a91a3bd6c9c5c8f23659725de2",
+      "title": "《外送專法》掀漲價潮，業界預言將成高階精品市場",
+      "url": "https://finance.technews.tw/2026/07/25/delivery-law-to-raise-per-order-costs-by-30-to-50percent/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T02:00:47Z",
+      "authors": [
+        "商業周刊"
+      ],
+      "categories": [
+        "Uber EATS",
+        "foodpanda",
+        "人力資源",
+        "共享經濟",
+        "外送",
+        "外送專法",
+        "外送平台",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1592140",
+      "summary": "「以後外送，可能會變成一個『上等人』才消費得起的精品市場！」說這句話的，不是抱怨的消費者，而是一位外送平台的內 […]",
+      "published_raw": "Sat, 25 Jul 2026 02:00:47 +0000",
+      "updated_at": "2026-07-25T02:00:47Z",
+      "updated_raw": "Sat, 25 Jul 2026 02:00:47 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dc47c35d90d01cb47cec324d828c57e30848ed55e7beb9f7785f09e1cb1f3c3e",
+      "title": "便祕老藥有新用？英國研究：有望解救憂鬱症腦霧危機",
+      "url": "https://technews.tw/2026/07/25/prucalopride-constipation-drug-depression-cognitive-savior/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T01:30:35Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "5-HT4",
+        "便祕",
+        "憂鬱症",
+        "普如卡必利",
+        "生物科技",
+        "腦霧",
+        "英國",
+        "認知能力",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1588945",
+      "summary": "憂鬱症患者即便情緒好轉，經常仍須面對記憶力衰退、注意力不集中等「腦霧」與認知困難的困擾。近期，由英國伯明罕大學 […]",
+      "published_raw": "Sat, 25 Jul 2026 01:30:35 +0000",
+      "updated_at": "2026-07-25T01:30:35Z",
+      "updated_raw": "Sat, 25 Jul 2026 01:30:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5aa2b13ba03c3d6184acc1dd5226348db6dad9ecff01ada6042b82768a729b41",
+      "title": "Open Weight 成 AI 新戰場！25 家科技企業籲美國政府鬆綁限制",
+      "url": "https://technews.tw/2026/07/25/open-weight-ai-new-battlefield-25-tech-companies-urge-us-government-relax-restrictions/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T01:25:51Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Nvidia",
+        "open weight",
+        "閉源模型",
+        "開源模型",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1592990",
+      "summary": "由輝達、微軟、Meta、IBM 等約 25 家科技企業及組織，共同發布《Open Weights and Am […]",
+      "published_raw": "Sat, 25 Jul 2026 01:25:51 +0000",
+      "updated_at": "2026-07-25T01:25:51Z",
+      "updated_raw": "Sat, 25 Jul 2026 01:25:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0df0588ea5a354d04e196c026c20c001c1f5d003a29889d864aa64149c9e3469",
+      "title": "輝達攜手鮮京 宣布逾5000億美元AI合作計畫",
+      "url": "https://www.cna.com.tw/news/ait/202607250028.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-07-25T01:11:29Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-07-25/202607250028",
+      "summary": "（中央社舊金山24日綜合外電報導）輝達（Nvidia）與南韓鮮京集團（SK Group）今天宣布一項規模超過5000億美元的人工智慧（AI）合作計畫。輝達表示，計畫涵蓋大型AI資料中心及次世代記憶體。",
+      "published_raw": "Sat, 25 Jul 2026 09:11:29 +0800",
+      "updated_at": "2026-07-25T01:11:29Z",
+      "updated_raw": "Sat, 25 Jul 2026 09:11:29 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:72d27f72bef27101730377db757337757b9f2760d3d347d35461a52e2f79a70c",
+      "title": "不只台積電，這三家台灣公司市值也進入全球 150 大！簡立峰點出毛利拉升、供應鏈擴張關鍵",
+      "url": "https://technews.tw/2026/07/25/lee-feng-chien/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T01:00:06Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "AI 代理",
+        "人力資源",
+        "人才荒",
+        "徵才",
+        "簡立峰"
+      ],
+      "guid": "https://technews.tw/?p=1592155",
+      "summary": "談到人工智慧（AI），許多人會聚焦台灣卓越的製造力，但 Google 台灣前董事總經理簡立峰看來，台灣已有部分 […]",
+      "published_raw": "Sat, 25 Jul 2026 01:00:06 +0000",
+      "updated_at": "2026-07-25T01:00:06Z",
+      "updated_raw": "Sat, 25 Jul 2026 01:00:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:65ca2a482189dc05d87c768da6b3bf67c9832f5ee163846bb8a3ec4193854925",
+      "title": "SpaceX第13次飛行測試 星艦火箭自德州發射升空",
+      "url": "https://www.cna.com.tw/news/ait/202607250025.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-07-25T00:32:22Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-07-25/202607250025",
+      "summary": "（中央社華盛頓24日綜合外電報導）太空探索科技公司（SpaceX）的星艦（Starship）火箭今天從美國德州發射升空，展開SpaceX的第13次飛行測試，以展示一系列機載能力，包括火箭首次在亞軌道部署新款星鏈（Starlink）衛星。",
+      "published_raw": "Sat, 25 Jul 2026 08:32:22 +0800",
+      "updated_at": "2026-07-25T00:32:22Z",
+      "updated_raw": "Sat, 25 Jul 2026 08:32:22 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:adc697a1e988adfcd0ed15cb02c94e2e032deaa1ef42188b654e33d3bb8af8e1",
+      "title": "AI 破解水的百年謎團：為什麼水結冰會膨脹？大阪大學找到觀察水分子的最佳「透視鏡」",
+      "url": "https://technews.tw/2026/07/25/scientists-used-ai-to-crack-one-of-waters-biggest-mysteries/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T00:30:44Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "水",
+        "水結構",
+        "結構描述子",
+        "自然科學",
+        "過冷水"
+      ],
+      "guid": "https://technews.tw/?p=1585242",
+      "summary": "水是地球最常見的物質，卻也是行為最古怪的液體之一。最明顯的例子：幾乎所有液體遇冷都會收縮，水結成冰時體積反而膨 […]",
+      "published_raw": "Sat, 25 Jul 2026 00:30:44 +0000",
+      "updated_at": "2026-07-25T00:30:44Z",
+      "updated_raw": "Sat, 25 Jul 2026 00:30:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:392257d6f2e92c863a4ea9036d34835f4aed4c2fb540e520bd855462ee0104ef",
+      "title": "逛超市逛出「全球唯一」生技專利，瑞磁獨家技術獲 FDA 認證，長征 18 年首度虧轉盈",
+      "url": "https://finance.technews.tw/2026/07/25/applied-biocodesupermarket-inspired-globally-unique-biotech-patent-exclusive-fda-approval-first-profit-18-year/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T00:00:42Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "DNA",
+        "FDA",
+        "公司治理",
+        "半導體",
+        "寄生蟲",
+        "寵物檢測",
+        "晶圓",
+        "瑞磁生技",
+        "生物科技",
+        "磁珠",
+        "臨床試驗",
+        "財經",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1591477",
+      "summary": "專攻疾病檢測的瑞磁生技，苦熬 18 年後，終於在今年第 1 季首度獲利。創辦人何重人（首圖左）一路把握寵物檢測 […]",
+      "published_raw": "Sat, 25 Jul 2026 00:00:42 +0000",
+      "updated_at": "2026-07-25T00:00:42Z",
+      "updated_raw": "Sat, 25 Jul 2026 00:00:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d197780d3f0d3a405ee975e31f15d5fed34dab9b8d3ba9357700518a68963732",
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T23:13:18Z",
+      "authors": [
+        "hhs"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49042751",
+      "summary": "Article URL: https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/ Comments URL: https://news.ycombinator.com/item?id=49042751 Points: 55 # Comments: 3",
+      "published_raw": "Fri, 24 Jul 2026 23:13:18 +0000",
+      "updated_at": "2026-07-24T23:13:18Z",
+      "updated_raw": "Fri, 24 Jul 2026 23:13:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bb991e00f18b9a159d131aa1041081dfb2f3132e4a4c12d7b9518a602ffbcd08",
+      "title": "Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live",
+      "url": "https://github.com/apresta/max-studio-tools",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T21:03:10Z",
+      "authors": [
+        "apresta"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49041546",
+      "summary": "Article URL: https://github.com/apresta/max-studio-tools Comments URL: https://news.ycombinator.com/item?id=49041546 Points: 26 # Comments: 0",
+      "published_raw": "Fri, 24 Jul 2026 21:03:10 +0000",
+      "updated_at": "2026-07-24T21:03:10Z",
+      "updated_raw": "Fri, 24 Jul 2026 21:03:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d1670aefb65e14bafa082d8f92c08596e65e77a1fcb4a52868314beb6a558681",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T19:45:10Z",
+      "authors": [
+        "aarondong"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49040741",
+      "summary": "Article URL: https://artificialanalysis.ai/models Comments URL: https://news.ycombinator.com/item?id=49040741 Points: 189 # Comments: 123",
+      "published_raw": "Fri, 24 Jul 2026 19:45:10 +0000",
+      "updated_at": "2026-07-24T19:45:10Z",
+      "updated_raw": "Fri, 24 Jul 2026 19:45:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ebbc5042c948ca088f58fa3c58e7c9c26027bd707db48835ecd51002127a6a0f",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T19:05:53Z",
+      "authors": [
+        "KraftyOne"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49040296",
+      "summary": "Article URL: https://www.dbos.dev/blog/postgres-listen-notify-scalability Comments URL: https://news.ycombinator.com/item?id=49040296 Points: 238 # Comments: 43",
+      "published_raw": "Fri, 24 Jul 2026 19:05:53 +0000",
+      "updated_at": "2026-07-24T19:05:53Z",
+      "updated_raw": "Fri, 24 Jul 2026 19:05:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d106b2921aea29523b6835c2298fa922e7b110c0d118caf43a577888c23fc04b",
+      "title": "Gsxui – Shadcn-style components for Go",
+      "url": "https://ui.gsxhq.dev/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T17:59:08Z",
+      "authors": [
+        "jackielii"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49039395",
+      "summary": "Article URL: https://ui.gsxhq.dev/ Comments URL: https://news.ycombinator.com/item?id=49039395 Points: 58 # Comments: 8",
+      "published_raw": "Fri, 24 Jul 2026 17:59:08 +0000",
+      "updated_at": "2026-07-24T17:59:08Z",
+      "updated_raw": "Fri, 24 Jul 2026 17:59:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bf554b77cc457fb916897b20c601b02d7c4383abc1bae6d6094876ce14167823",
+      "title": "Anthropic 發布 Claude Opus 5！效能逼近 Fable 5 價格卻砍半，成最新預設模型",
+      "url": "https://www.blocktempo.com/anthropic-announces-claude-opus-5-release/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-24T17:21:27Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "Fable5",
+        "Opus5",
+        "人工智慧",
+        "大語言模型",
+        "程式設計"
+      ],
+      "guid": "https://www.blocktempo.com/?p=513820",
+      "summary": "知名人工智慧新創 Anthropic 於今（24）日正式發布全新模型 Claude Opus 5。該模型主打「 […] 〈 Anthropic 發布 Claude Opus 5！效能逼近 Fable 5 價格卻砍半，成最新預設模型 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 24 Jul 2026 17:21:27 +0000",
+      "updated_at": "2026-07-24T17:21:27Z",
+      "updated_raw": "Fri, 24 Jul 2026 17:21:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:76be25daad08fded2a210a036dd4c5f4f6cf936e764b53a4c6ae5bfd819abb6b",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T16:57:41Z",
+      "authors": [
+        "alvis"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49038433",
+      "summary": "https://www.anthropic.com/claude-opus-5-system-card Comments URL: https://news.ycombinator.com/item?id=49038433 Points: 1385 # Comments: 755",
+      "published_raw": "Fri, 24 Jul 2026 16:57:41 +0000",
+      "updated_at": "2026-07-24T16:57:41Z",
+      "updated_raw": "Fri, 24 Jul 2026 16:57:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fbaa3c78373b65fa5e7f7149a3209898d14cd23512f3d06a441a668679021e36",
+      "title": "Don't Take the Black Pill [video]",
+      "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T16:48:57Z",
+      "authors": [
+        "signa11"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49038298",
+      "summary": "Article URL: https://www.youtube.com/watch?v=zLZwpH5lCD4 Comments URL: https://news.ycombinator.com/item?id=49038298 Points: 151 # Comments: 117",
+      "published_raw": "Fri, 24 Jul 2026 16:48:57 +0000",
+      "updated_at": "2026-07-24T16:48:57Z",
+      "updated_raw": "Fri, 24 Jul 2026 16:48:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f315dcfdc92096d2ef4951067d909ef4881d7698b3b01853fe324d41bcb38e2e",
+      "title": "Be skeptical of OpenAI's rogue hacker agent story",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T16:33:31Z",
+      "authors": [
+        "rwmj"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49038060",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker Comments URL: https://news.ycombinator.com/item?id=49038060 Points: 458 # Comments: 261",
+      "published_raw": "Fri, 24 Jul 2026 16:33:31 +0000",
+      "updated_at": "2026-07-24T16:33:31Z",
+      "updated_raw": "Fri, 24 Jul 2026 16:33:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ad02df0864f9717290dedcb6e32041582d2d1e35f3a7a1928270ef16f7305bf1",
+      "title": "Unitree As2-W",
+      "url": "https://www.unitree.com/As2-W/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-24T16:32:52Z",
+      "authors": [
+        "MehrdadKhnzd"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49038045",
+      "summary": "Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 108 # Comments: 41",
+      "published_raw": "Fri, 24 Jul 2026 16:32:52 +0000",
+      "updated_at": "2026-07-24T16:32:52Z",
+      "updated_raw": "Fri, 24 Jul 2026 16:32:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:529ddf0b6a606aca6f147442670e79012c2f33c5c1b0d13698a8a215bb3ae1c4",
+      "title": "婚姻誓言擋不住虛擬感情，美婚前協議新趨勢納入 AI 不忠條款",
+      "url": "https://technews.tw/2026/07/25/virtual-affection-marriage-vows-ai-infidelity-us-prenup-trend/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-24T16:00:25Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 不忠",
+        "AI 人工智慧",
+        "AI 伴侶",
+        "外遇",
+        "婚前協議",
+        "科技生活",
+        "親密關係"
+      ],
+      "guid": "https://technews.tw/?p=1590322",
+      "summary": "AI 伴侶應用程式（AI Companion Apps）快速普及，婚前協議的內容也開始出現新變化。越來越多律師 […]",
+      "published_raw": "Fri, 24 Jul 2026 16:00:25 +0000",
+      "updated_at": "2026-07-24T16:00:25Z",
+      "updated_raw": "Fri, 24 Jul 2026 16:00:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:49b39829c16c7033e5e36d8a6778a686c1295a328846d37c93a4d1d1b4c44d54",
+      "title": "無人機玩家爭取「空拍權」！從台灣禁航區到國安疑慮，各國規定大不同",
+      "url": "https://infosecu.technews.tw/2026/07/25/drones-laws/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-24T16:00:07Z",
+      "authors": [
+        "地球圖輯隊"
+      ],
+      "categories": [
+        "無人機",
+        "禁航區",
+        "科技政策",
+        "空拍",
+        "空拍權",
+        "航太科技",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1590990",
+      "summary": "近期台灣禁航區擴大，引發無人機玩家對「空拍權」的討論與抗議。對使用者而言，無人機空間受限制，影響的不只休閒飛行 […]",
+      "published_raw": "Fri, 24 Jul 2026 16:00:07 +0000",
+      "updated_at": "2026-07-24T16:00:07Z",
+      "updated_raw": "Fri, 24 Jul 2026 16:00:07 +0000",
+      "language": "zh-TW"
+    }
+  ]
 }
