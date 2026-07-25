@@ -17,22 +17,22 @@
       "id": "btyc",
       "title": "BTYC",
       "url": "https://btyc.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://btyc.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
       "id": "capital-cycle",
       "title": "Capital Cycle",
       "url": "https://capitalcycle.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://capitalcycle.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
@@ -50,11 +50,11 @@
       "id": "crypto-cycle-signal",
       "title": "Crypto Cycle Signal",
       "url": "https://cryptocyclesignal.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["cryptocurrency", "investment"],
       "homepage_url": "https://cryptocyclesignal.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
@@ -83,22 +83,22 @@
       "id": "having-chien",
       "title": "Having Chien",
       "url": "https://havingchien.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["knowledge"],
       "homepage_url": "https://havingchien.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
       "id": "henry-chu",
       "title": "Henry Chu",
       "url": "https://henrychu.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://henrychu.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
@@ -116,22 +116,22 @@
       "id": "obsidian-academic-notemaking",
       "title": "Obsidian Academic Note Making",
       "url": "https://obsidianacademicnotamaking.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["knowledge", "productivity"],
       "homepage_url": "https://obsidianacademicnotamaking.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
       "id": "samuel-6788",
       "title": "Samuel 6788",
       "url": "https://samuel6788.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://samuel6788.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
@@ -149,33 +149,33 @@
       "id": "uncle-stock-notes",
       "title": "Uncle Stock Notes",
       "url": "https://unclestocknotes.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://unclestocknotes.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
       "id": "vincent-cw-yu",
       "title": "Vincent C. W. Yu",
       "url": "https://vincentcwyu.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://vincentcwyu.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     },
     {
       "schema_version": "1.0.0",
       "id": "wing-lpl",
       "title": "Wing LPL",
       "url": "https://winglpl.substack.com/feed",
-      "enabled": true,
+      "enabled": false,
       "tags": ["investment"],
       "homepage_url": "https://winglpl.substack.com/",
       "language": "zh-TW",
-      "notes": null
+      "notes": "暫停：Substack 對 GitHub hosted runner 回傳 HTTP 403。"
     }
   ]
 }
