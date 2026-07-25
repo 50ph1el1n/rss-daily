@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "ab50e802-eea7-41c5-9556-58af5a671545",
+  "collection_date": "2026-07-25",
+  "feeds": [
+    {
+      "feed_id": "github-blog",
+      "status": "succeeded",
+      "started_at": "2026-07-25T04:15:52Z",
+      "completed_at": "2026-07-25T04:15:53Z",
+      "duration_ms": 572,
+      "attempts": 1,
+      "entries_seen": 10,
+      "entries_selected": 0,
+      "entries_exported": 0,
+      "entries_skipped": 10,
+      "warnings": [],
+      "http_status": 200,
+      "final_url": "https://github.blog/feed/",
+      "content_type": "application/rss+xml; charset=UTF-8",
+      "etag": "\"dd092253d3cf5fa5da4b549dd4d38a3e\"",
+      "last_modified": "Fri, 24 Jul 2026 17:11:48 GMT",
+      "error": null
+    }
+  ]
+}

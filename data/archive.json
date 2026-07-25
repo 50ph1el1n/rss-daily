@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "total_days": 1,
+  "total_articles": 0,
+  "years": [
+    {
+      "year": "2026",
+      "day_count": 1,
+      "article_count": 0,
+      "months": [
+        {
+          "month": "07",
+          "day_count": 1,
+          "article_count": 0,
+          "days": [
+            {
+              "collection_date": "2026-07-25",
+              "status": "success",
+              "article_count": 0,
+              "digest_path": "data/2026/07/25/articles.json",
+              "markdown_path": "data/2026/07/25/README.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

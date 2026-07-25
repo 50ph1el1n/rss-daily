@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-07-25",
+  "status": "success",
+  "article_count": 0,
+  "digest_path": "data/2026/07/25/articles.json",
+  "markdown_path": "data/2026/07/25/README.md",
+  "metadata_path": "data/2026/07/25/metadata.json",
+  "feed_health_path": "data/2026/07/25/feed_health.json"
+}
