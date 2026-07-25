@@ -240,7 +240,7 @@ data/
   - `schedule`：`30 23 * * *`（UTC，對應台北次日 07:30；台北無 DST）。
   - `workflow_dispatch`：`date`、`dry_run`、`overwrite`。
 - Concurrency：group `rss-daily-collector`，`cancel-in-progress: false`。
-- Runner：`ubuntu-latest`。
+- Runner：`macos-latest`；用於避開 Substack 對 GitHub Azure shared egress IP 的 HTTP 403。
 - Runtime：Python 3.11；以 lock/requirements 驗證後安裝。
 - Permissions：預設 `contents: read`，collect job 僅提升至 `contents: write`。
 - Steps：checkout → setup Python → install → validate config → test → collect → validate artifacts → render summary → detect diff → commit → pull/rebase safety check → push。

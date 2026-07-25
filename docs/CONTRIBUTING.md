@@ -5,7 +5,7 @@
 ## 1. Development Environment
 
 - Python：3.11（CI 與本機一致）。
-- Production target：GitHub-hosted Ubuntu Linux。
+- Production target：GitHub-hosted macOS runner。
 - Formatter：Black。
 - Linter：Ruff。
 - Tests：pytest。

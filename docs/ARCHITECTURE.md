@@ -219,7 +219,8 @@ Domain → Python standard library only
 Production deployment 是 repository default branch 上的 GitHub Actions workflow，不存在 server：
 
 - 依賴固定於 `pyproject.toml`/lock strategy。
-- GitHub-hosted Ubuntu runner 每次從乾淨環境執行。
+- GitHub-hosted macOS runner 每次從乾淨環境執行；此選擇用於避開 Substack 對
+  GitHub Azure shared egress IP 的 HTTP 403。
 - archive 與程式碼一起 version controlled。
 - workflow 只在 validated output 後 commit。
 - branch protection 與 PR review 保護程式碼/規格；bot 對 daily data commit 的權限應最小化。
