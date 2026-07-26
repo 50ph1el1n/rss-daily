@@ -1,0 +1,555 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-07-26",
+  "timezone": "Asia/Taipei",
+  "article_count": 25,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2175b969feafd64ea24a17902b377ee3057719e6ec353a341534359b16a03596",
+      "title": "4 年營收翻倍破 800 億日圓，解析 3COINS 靠「週週推百款新品」打造的圈粉商模",
+      "url": "https://finance.technews.tw/2026/07/26/3coins-debuts-taiwan-capture-market-share/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T01:00:19Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "3COINS",
+        "公司治理",
+        "台灣",
+        "國際貿易",
+        "旅遊",
+        "日本",
+        "生活雜貨",
+        "科技生活",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1592158",
+      "summary": "從 300 日圓均一商店起家，3COINS 靠著每週上架上百款新品，以及員工社群行銷，不僅吸引日本人常去嘗鮮， […]",
+      "published_raw": "Sun, 26 Jul 2026 01:00:19 +0000",
+      "updated_at": "2026-07-26T01:00:19Z",
+      "updated_raw": "Sun, 26 Jul 2026 01:00:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b26d233744dc575a34ff068ae5600572184a17c3f5d1faca265ae4d141ab3e3f",
+      "title": "AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
+      "url": "https://technews.tw/2026/07/26/ai-competition-personality-over-iq/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T00:30:30Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 助手",
+        "AI 開發商",
+        "ChatGPT",
+        "Claude",
+        "OpenAI",
+        "性格訓練",
+        "產品設計",
+        "科技生活",
+        "競爭"
+      ],
+      "guid": "https://technews.tw/?p=1587879",
+      "summary": "當前人工智慧（AI）的競爭焦點，正逐漸從單純比拚「誰最聰明」，延伸到「誰是最值得合作的對象」。 《Forbes […]",
+      "published_raw": "Sun, 26 Jul 2026 00:30:30 +0000",
+      "updated_at": "2026-07-26T00:30:30Z",
+      "updated_raw": "Sun, 26 Jul 2026 00:30:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e15ce64accdba24e7e1828c30d218c3e2dc10f0920cfe00d97e37016f0f41b51",
+      "title": "GNU Hurd gets 9pfs, OpenNTPD, dynamic /dev/ entries, and more",
+      "url": "https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T00:19:13Z",
+      "authors": [
+        "iamnothere"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49053255",
+      "summary": "Article URL: https://www.osnews.com/story/145603/the-hurd-gets-9pfs-openntpd-dynamic-dev-entries-and-more/ Comments URL: https://news.ycombinator.com/item?id=49053255 Points: 16 # Comments: 4",
+      "published_raw": "Sun, 26 Jul 2026 00:19:13 +0000",
+      "updated_at": "2026-07-26T00:19:13Z",
+      "updated_raw": "Sun, 26 Jul 2026 00:19:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:44ab32a83aa9e55a13e2a71f0a39494c612dd393189f3666fb51ccf7923f5280",
+      "title": "抗失智從 40 歲就該開始，掌握 14 項風險因子為大腦提前存好「認知儲備」",
+      "url": "https://technews.tw/2026/07/26/anti-dementia-efforts-start-40-master-14-risk-factors-build-brain-cognitive-reserve/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T00:00:56Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "台灣",
+        "國際觀察",
+        "大腦",
+        "失智症",
+        "生物科技",
+        "超高齡社會",
+        "醫療科技",
+        "阿茲海默症"
+      ],
+      "guid": "https://technews.tw/?p=1591473",
+      "summary": "失智症至今仍無法治癒，但這不代表人類對它束手無策。 當台灣邁入超高齡社會，失智人口持續攀升，這場戰爭其實早在症 […]",
+      "published_raw": "Sun, 26 Jul 2026 00:00:56 +0000",
+      "updated_at": "2026-07-26T00:00:56Z",
+      "updated_raw": "Sun, 26 Jul 2026 00:00:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8670bdb4cb2449a77804d4157baf332309fdd952a2924d0d290979692e992f27",
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T23:32:50Z",
+      "authors": [
+        "oliculipolicula"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49052912",
+      "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf Comments URL: https://news.ycombinator.com/item?id=49052912 Points: 25 # Comments: 13",
+      "published_raw": "Sat, 25 Jul 2026 23:32:50 +0000",
+      "updated_at": "2026-07-25T23:32:50Z",
+      "updated_raw": "Sat, 25 Jul 2026 23:32:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2d6283af5414f2940857b6cd7b467515fdf2e63468e21826b33ffcf01af8142e",
+      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T22:57:17Z",
+      "authors": [
+        "EA-3167"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49052628",
+      "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes Comments URL: https://news.ycombinator.com/item?id=49052628 Points: 27 # Comments: 16",
+      "published_raw": "Sat, 25 Jul 2026 22:57:17 +0000",
+      "updated_at": "2026-07-25T22:57:17Z",
+      "updated_raw": "Sat, 25 Jul 2026 22:57:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:320fbdcc08470cb5b248ffa5c0c32b53dcb6a11817fe7fd88876663e205968b8",
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T22:50:49Z",
+      "authors": [
+        "alphabetatango"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49052564",
+      "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/ Comments URL: https://news.ycombinator.com/item?id=49052564 Points: 11 # Comments: 4",
+      "published_raw": "Sat, 25 Jul 2026 22:50:49 +0000",
+      "updated_at": "2026-07-25T22:50:49Z",
+      "updated_raw": "Sat, 25 Jul 2026 22:50:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ffec4af40701e6e4f9c9874294ddf1d73913bf6efc3adc0184c4879f57e8643a",
+      "title": "Kimi K3 built a Windows XP in browser",
+      "url": "https://windows-xp.kimi.site/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T22:03:22Z",
+      "authors": [
+        "boveyking"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49052074",
+      "summary": "Article URL: https://windows-xp.kimi.site/ Comments URL: https://news.ycombinator.com/item?id=49052074 Points: 48 # Comments: 29",
+      "published_raw": "Sat, 25 Jul 2026 22:03:22 +0000",
+      "updated_at": "2026-07-25T22:03:22Z",
+      "updated_raw": "Sat, 25 Jul 2026 22:03:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5e0d67cbe669513e663a41a5d8da12b7c30d002f2d002426ca57fe8147643a0a",
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T21:48:22Z",
+      "authors": [
+        "rbanffy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051947",
+      "summary": "Article URL: https://spectrum.ieee.org/sodium-ion-battery-peak-energy Comments URL: https://news.ycombinator.com/item?id=49051947 Points: 109 # Comments: 35",
+      "published_raw": "Sat, 25 Jul 2026 21:48:22 +0000",
+      "updated_at": "2026-07-25T21:48:22Z",
+      "updated_raw": "Sat, 25 Jul 2026 21:48:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5a5814d9acb0132a869f8f569f8104e2b8fc9c441df8ea05b0acd28c50c3a606",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T21:19:42Z",
+      "authors": [
+        "felixdoerp"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051707",
+      "summary": "Article URL: https://www.maxmynter.com/pages/blog/jobhunt Comments URL: https://news.ycombinator.com/item?id=49051707 Points: 15 # Comments: 2",
+      "published_raw": "Sat, 25 Jul 2026 21:19:42 +0000",
+      "updated_at": "2026-07-25T21:19:42Z",
+      "updated_raw": "Sat, 25 Jul 2026 21:19:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0f1e8bdaf7126fd894d6a4c8300e596d315f3d9b3afbadb93480e82665fae189",
+      "title": "Who does Anubis actually stop?",
+      "url": "https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T20:59:24Z",
+      "authors": [
+        "type0"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051505",
+      "summary": "Article URL: https://fzakaria.com/2026/07/09/who-does-anubis-actually-stop Comments URL: https://news.ycombinator.com/item?id=49051505 Points: 40 # Comments: 55",
+      "published_raw": "Sat, 25 Jul 2026 20:59:24 +0000",
+      "updated_at": "2026-07-25T20:59:24Z",
+      "updated_raw": "Sat, 25 Jul 2026 20:59:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:059c199f9b408da45093f90dd4cfe3d6d88223c255685bd2a848e95f87af12ea",
+      "title": "Multicast TV Distribution on My Home Network",
+      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T20:55:12Z",
+      "authors": [
+        "mrngm"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051463",
+      "summary": "Article URL: https://www.apalrd.net/posts/2026/isp_mcast/ Comments URL: https://news.ycombinator.com/item?id=49051463 Points: 34 # Comments: 8",
+      "published_raw": "Sat, 25 Jul 2026 20:55:12 +0000",
+      "updated_at": "2026-07-25T20:55:12Z",
+      "updated_raw": "Sat, 25 Jul 2026 20:55:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7c67e98cdfa92a3bc94b6c4f6cca6f2724606fa197f9d5291fa3ed78c97036f3",
+      "title": "Turn And Face The Strange",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T20:43:11Z",
+      "authors": [
+        "subarctic"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051369",
+      "summary": "Article URL: https://fly.io/blog/kurt-scott-money-sprites/ Comments URL: https://news.ycombinator.com/item?id=49051369 Points: 131 # Comments: 97",
+      "published_raw": "Sat, 25 Jul 2026 20:43:11 +0000",
+      "updated_at": "2026-07-25T20:43:11Z",
+      "updated_raw": "Sat, 25 Jul 2026 20:43:11 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:38ac93815c5a484d5746f57ae535f946d46c50dc26a35080868badf01db61a75",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T20:42:35Z",
+      "authors": [
+        "mellosouls"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051361",
+      "summary": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models Comments URL: https://news.ycombinator.com/item?id=49051361 Points: 146 # Comments: 92",
+      "published_raw": "Sat, 25 Jul 2026 20:42:35 +0000",
+      "updated_at": "2026-07-25T20:42:35Z",
+      "updated_raw": "Sat, 25 Jul 2026 20:42:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e0bb9b0ad155bfad3bd9611204e3026c869617e212e68a9f0058cdbfa0e206f1",
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "url": "https://news.ycombinator.com/item?id=49051130",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T20:18:54Z",
+      "authors": [
+        "_boffin_"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051130",
+      "summary": "I like writing Markdown, but do not like writing it inside a plain textarea. I wanted something I could use anywhere by dropping in a single web component: ``` ``` That became Writemark. It renders Markdown while you write, but Markdown remains the value you read, store, and submit. It also has source, split, and preview modes, along with slash commands, tables, task lists, code blocks, native form support, and an API for adding your own controls. There are no runtime dependencies and no required framework or built in toolbar. It is fully vibecoded. The process was very iterative. I knocked something out, tried using it, found bugs, fixed them, and repeated that cycle until I had something I liked writing in and that performed reasonably well. It did not begin as an experiment about AI generated software -- just did not want to use textareas anymore. I like Markdown, and I wanted one component that I could use anywhere without bringing along an entire editor framework. It is still very young. The parser is handwritten, the component is essentially one large JavaScript file, and I am certain there are edge cases waiting to be found. If you find one, I am happy to fix it. I have tried to give it a decent safety net. It currently has 951 Playwright checks across Chromium, Firefox, and WebKit, along with hostile input cases, sanitizer fuzzing, and differential tests against CommonMark. I built this because I wanted it for myself, but I think it turned into something kind of cool. I hope some of you enjoy it. I would love hearing what you think, especially if you try it and manage to break something. - Github: https://github.com/Brostoffed/writemark - NPM: https://www.npmjs.com/package/writemark-editor Comments URL: https://news.ycombinator.com/item?id=49051130 Points: 28 # Comments: 11",
+      "published_raw": "Sat, 25 Jul 2026 20:18:54 +0000",
+      "updated_at": "2026-07-25T20:18:54Z",
+      "updated_raw": "Sat, 25 Jul 2026 20:18:54 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:32fba61f35b016528c2891c6a1d65906e5cf54340a8a0cec5daa672e7c850c52",
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T20:18:03Z",
+      "authors": [
+        "mooreds"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49051120",
+      "summary": "Article URL: https://didtheyghostyou.com/ Comments URL: https://news.ycombinator.com/item?id=49051120 Points: 281 # Comments: 116",
+      "published_raw": "Sat, 25 Jul 2026 20:18:03 +0000",
+      "updated_at": "2026-07-25T20:18:03Z",
+      "updated_raw": "Sat, 25 Jul 2026 20:18:03 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d468f0cc5d51ab5a8c586d613a754c3a86ae18e7308215288d3bce4673779362",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T19:44:39Z",
+      "authors": [
+        "zdw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49050859",
+      "summary": "Article URL: https://www.debian.org/vote/2026/vote_002 Comments URL: https://news.ycombinator.com/item?id=49050859 Points: 56 # Comments: 48",
+      "published_raw": "Sat, 25 Jul 2026 19:44:39 +0000",
+      "updated_at": "2026-07-25T19:44:39Z",
+      "updated_raw": "Sat, 25 Jul 2026 19:44:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d9dd6572e34970af839761b8fdec194575d425dd342b0e9b766b9d56b8db1665",
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T19:30:24Z",
+      "authors": [
+        "gritzko"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49050735",
+      "summary": "Article URL: https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/ Comments URL: https://news.ycombinator.com/item?id=49050735 Points: 86 # Comments: 59",
+      "published_raw": "Sat, 25 Jul 2026 19:30:24 +0000",
+      "updated_at": "2026-07-25T19:30:24Z",
+      "updated_raw": "Sat, 25 Jul 2026 19:30:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d6004c7b86bb666ce2cba2b31faa5d482dfedcfa32d5b9a45524c7a1ae302a92",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T18:59:50Z",
+      "authors": [
+        "boveyking"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49050512",
+      "summary": "Article URL: https://github.com/slvDev/esp32-ai Comments URL: https://news.ycombinator.com/item?id=49050512 Points: 58 # Comments: 7",
+      "published_raw": "Sat, 25 Jul 2026 18:59:50 +0000",
+      "updated_at": "2026-07-25T18:59:50Z",
+      "updated_raw": "Sat, 25 Jul 2026 18:59:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:763d2b57e76c50c45ecbe6ab2706ed717a9386ff80d9476ca9fb8e88b7d660c3",
+      "title": "Memory Safety Absolutists",
+      "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T18:08:52Z",
+      "authors": [
+        "drogus"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49050058",
+      "summary": "Article URL: https://itsallaboutthebit.com/memory-safety-absolutists/ Comments URL: https://news.ycombinator.com/item?id=49050058 Points: 49 # Comments: 52",
+      "published_raw": "Sat, 25 Jul 2026 18:08:52 +0000",
+      "updated_at": "2026-07-25T18:08:52Z",
+      "updated_raw": "Sat, 25 Jul 2026 18:08:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4b368ea06c73d8a800b4e79c7e4eaf6806acf93ac66e5abf0bd85d1f07254947",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T17:34:34Z",
+      "authors": [
+        "jsax"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49049693",
+      "summary": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. I made https://brolly.sh , a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler / hotter / wetter / drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU / UK; Location search and last 5 locations; Location specific units. I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage. You can check out the weather in York, UK at https://brolly.sh/forecast/RWFP2qW8 , or search for a location at https://brolly.sh The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there's just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you'll hopefully see that this site isn't a rip off, and has its own deliberate look and feel. Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count. It's also frustrating to have an interactive site, where you can't share a page with a friend and have them see what you're seeing. To solve this, all page state (i.e. location, selected day, expanded / collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you'll always be able to come back to it. The site uses PocketBase. It’s written in Go and plain HTML/JavaScript/CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next / previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API. Comments URL: https://news.ycombinator.com/item?id=49049693 Points: 122 # Comments: 40",
+      "published_raw": "Sat, 25 Jul 2026 17:34:34 +0000",
+      "updated_at": "2026-07-25T17:34:34Z",
+      "updated_raw": "Sat, 25 Jul 2026 17:34:34 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2e13e970022efed59598e641c3139cfc97099de2b9df1cded339101e30eb25b8",
+      "title": "Show HN: SpinWin – A macOS menu bar app to visually rotate or spin any window",
+      "url": "https://github.com/alokdhir/spinwin",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T17:29:55Z",
+      "authors": [
+        "dbm5"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49049638",
+      "summary": "SpinWin is an open source menu bar app to visually rotate any individual window. You can rotate / spin as many as you want one by one. I was scrolling reels when one came on where the content creator suggested \"turning the phone upside down\" for a portion. I was sitting at my mac, and decided to see if I could find something that did this. To my surprise, nothing exists, so I decided to build it. Turns out macOS doesn't provide any public API to do anything like this, so I wound up using the Accessibility API to move the target window offscreen, where it keeps rendering. Then we capture it's contents with ScreenCaptureKit, and display that on a transparent, borderless overlay window which has a CALayer to rotate it. It's written in Swift, open source, MIT license, and signed/notarized. Have fun - would love to hear your comments. Comments URL: https://news.ycombinator.com/item?id=49049638 Points: 13 # Comments: 5",
+      "published_raw": "Sat, 25 Jul 2026 17:29:55 +0000",
+      "updated_at": "2026-07-25T17:29:55Z",
+      "updated_raw": "Sat, 25 Jul 2026 17:29:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:697d08b3a9210899006360f37a563c6d5ae24bf8ae8345a8092b9a4b0e2bd949",
+      "title": "Rauno's Field Notes #2",
+      "url": "https://rauno.me/notes/2",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-25T16:39:55Z",
+      "authors": [
+        "acmnrs"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49049066",
+      "summary": "Article URL: https://rauno.me/notes/2 Comments URL: https://news.ycombinator.com/item?id=49049066 Points: 19 # Comments: 1",
+      "published_raw": "Sat, 25 Jul 2026 16:39:55 +0000",
+      "updated_at": "2026-07-25T16:39:55Z",
+      "updated_raw": "Sat, 25 Jul 2026 16:39:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9ff44e5bbde4893ae32d6230dbbade042903de8fafe4e5411162823ae7b4c61f",
+      "title": "能計步、當開關還能變形，哈佛最新「多穩態」智慧布料顛覆穿戴裝置想像",
+      "url": "https://technews.tw/2026/07/26/harvard-multistability-smart-knitted-fabric/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T16:00:34Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "LED",
+        "布料",
+        "材料、設備",
+        "機械超材料",
+        "科技生活",
+        "科技趣聞",
+        "穿戴式技術",
+        "穿戴式裝置"
+      ],
+      "guid": "https://technews.tw/?p=1589289",
+      "summary": "哈佛大學研究團隊成功將日常的針織布料轉化為可程式化材料。這種新型布料不僅能在多種穩定的形狀間自由切換，還能充當 […]",
+      "published_raw": "Sat, 25 Jul 2026 16:00:34 +0000",
+      "updated_at": "2026-07-25T16:00:34Z",
+      "updated_raw": "Sat, 25 Jul 2026 16:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fb60e663fa19dd16b47a1a8a9bbe80b39a2ef2585f48cbafe042abb61d1ab676",
+      "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病",
+      "url": "https://technews.tw/2026/07/26/ai-blood-test-detects-six-major-cardiovascular-diseases-15-years-early/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-25T16:00:12Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "心血管疾病",
+        "生物科技",
+        "血液檢測",
+        "醫療科技",
+        "預防",
+        "香港大學"
+      ],
+      "guid": "https://technews.tw/?p=1590210",
+      "summary": "香港大學李嘉誠醫學院（港大醫學院）研究團隊近期成功開發出一款名為 CardiOmicScore 的人工智慧（A […]",
+      "published_raw": "Sat, 25 Jul 2026 16:00:12 +0000",
+      "updated_at": "2026-07-25T16:00:12Z",
+      "updated_raw": "Sat, 25 Jul 2026 16:00:12 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
