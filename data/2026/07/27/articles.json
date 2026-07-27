@@ -1,0 +1,841 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-07-27",
+  "timezone": "Asia/Taipei",
+  "article_count": 34,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3510c51b439dd01bd56dbabfc36b4ecb1b1df6d4bb41effcc27f0578ce20c600",
+      "title": "怪物級野火引發「火積雲」，法國、西班牙已撤 32.5 萬人",
+      "url": "https://technews.tw/2026/07/27/france-spain-battle-monster-wildfires-with-more-heat-on-the-way/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T01:10:33Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "國際觀察",
+        "歐盟",
+        "法國",
+        "火積雲",
+        "環境科學",
+        "自然科學",
+        "西班牙",
+        "野火"
+      ],
+      "guid": "https://technews.tw/?p=1593059",
+      "summary": "野火今天持續肆虐法國和西班牙，森林化為灰燼、村落人去樓空，超過 32 萬 5,000 人被迫逃離，消防人員正奮 […]",
+      "published_raw": "Mon, 27 Jul 2026 01:10:33 +0000",
+      "updated_at": "2026-07-27T01:10:33Z",
+      "updated_raw": "Mon, 27 Jul 2026 01:10:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:365e8e7069c43c1817e4e44f9b6a321117b6b4eb79200e102aceb58bae694a34",
+      "title": "印尼首發熊貓債超額認購，籌資 10 億美元拓展融資管道",
+      "url": "https://finance.technews.tw/2026/07/27/purbaya-soal-peringkat-panda-bond/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T01:00:10Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國",
+        "人民幣",
+        "印尼",
+        "國際金融",
+        "熊貓債",
+        "融資",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1592482",
+      "summary": "印尼政府首次進入中國境內債券市場，發行人民幣計價熊貓債，共募集 70 億人民幣（約新台幣 336 億元），達到 […]",
+      "published_raw": "Mon, 27 Jul 2026 01:00:10 +0000",
+      "updated_at": "2026-07-27T01:00:10Z",
+      "updated_raw": "Mon, 27 Jul 2026 01:00:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c2ae370f2bf09f0126ed724e773c3be420876fca810889cefa2570a8d186cd7b",
+      "title": "歐美 AI 監管死線逼近：法規充滿灰色地帶，開發商深陷「各自表述」困境",
+      "url": "https://technews.tw/2026/07/27/ai-regulations-ambiguous/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:50:29Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "AI 法律",
+        "歐盟",
+        "科技政策",
+        "科技生活",
+        "美國",
+        "聊天機器人"
+      ],
+      "guid": "https://technews.tw/?p=1587608",
+      "summary": "各州與不同法域陸續祭出新人工智慧（AI）法規，AI 開發商面臨前所未有的挑戰。由於法規條文往往語意模糊且標準不 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:50:29 +0000",
+      "updated_at": "2026-07-27T00:50:29Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:50:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bfb10f84c15063d959b30cb3bab87563890dae3db4992591add3061372e4c39f",
+      "title": "自動化＋AI 日本機器人訂單、產額、出貨額創史高",
+      "url": "https://technews.tw/2026/07/27/automation-ai-japan-robot-orders-production-value-shipments-record-highs/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:40:06Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "出貨量",
+        "國際貿易",
+        "日本",
+        "機器人",
+        "機器人訂單",
+        "自動化"
+      ],
+      "guid": "https://technews.tw/?p=1593036",
+      "summary": "自動化需求、加上 AI 相關投資，帶動上季（2026 年 4-6 月）日本機器人訂單額、產額、出貨額續創歷史新 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:40:06 +0000",
+      "updated_at": "2026-07-27T00:40:06Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:40:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:54464d4433bfccef8d2ea0e7a8b73c921b7bada5341356f56ff9e3e4457a4084",
+      "title": "1.2 億勞工陷失業危機，學者示警：企業瘋搶 AI 恐引爆「裁員陷阱」",
+      "url": "https://technews.tw/2026/07/27/scholars-warn-ai-layoff-trap/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:30:05Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "人力資源",
+        "國際觀察",
+        "失業風險",
+        "市場策略",
+        "職場",
+        "自動化",
+        "裁員陷阱"
+      ],
+      "guid": "https://technews.tw/?p=1591222",
+      "summary": "經濟學家發出嚴厲警告，企業若在人工智慧（AI）的浪潮中過度裁撤人力，不僅會重創勞工生計，更可能反噬自身營收，使 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:30:05 +0000",
+      "updated_at": "2026-07-27T00:30:05Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:30:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1a44a4cde2b99b217e1d2d92a13baab13f9e1f14b37337d0f5108f8d1d3c73a5",
+      "title": "I Championed Prediction Markets. Look What They've Become",
+      "url": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T00:25:05Z",
+      "authors": [
+        "NomNew"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063789",
+      "summary": "Article URL: https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look Comments URL: https://news.ycombinator.com/item?id=49063789 Points: 5 # Comments: 3",
+      "published_raw": "Mon, 27 Jul 2026 00:25:05 +0000",
+      "updated_at": "2026-07-27T00:25:05Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:25:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e65b36beb90f5b8da29d702f57297de89c4aa654beaa3a47aa872da81a47f87d",
+      "title": "韓國研發「可程式化光子晶片」突破光運算瓶頸，隨需調控光速助攻 AI 發展",
+      "url": "https://technews.tw/2026/07/27/programmable-photonic-chip/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:20:31Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "光子電路",
+        "光通訊",
+        "光運算",
+        "光電科技",
+        "半導體",
+        "晶片",
+        "氮化矽",
+        "生成式 AI",
+        "矽光子",
+        "電子半導體"
+      ],
+      "guid": "https://technews.tw/?p=1591457",
+      "summary": "隨著生成式 AI 與大型語言模型的快速擴張，資料中心與伺服器對運算效率的需求直線攀升。面對傳統電子半導體在能耗 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:20:31 +0000",
+      "updated_at": "2026-07-27T00:20:31Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:20:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:993b4623f900cc75857a90dfe0ade2180ebc097b36fbe2203376d2c321739cf2",
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T00:19:04Z",
+      "authors": [
+        "jonbaer"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063754",
+      "summary": "Article URL: https://nikolays.github.io/PGSimCity/ Comments URL: https://news.ycombinator.com/item?id=49063754 Points: 4 # Comments: 0",
+      "published_raw": "Mon, 27 Jul 2026 00:19:04 +0000",
+      "updated_at": "2026-07-27T00:19:04Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:19:04 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b9e35403d95f5fdaee9d47aa91819e315817d57d3fbe35b443bcae54d733cad5",
+      "title": "美國強迫勞動 301 調查出爐，台灣優惠稅率為何勝中日韓？",
+      "url": "https://technews.tw/2026/07/27/why-taiwan-preferential-tariff-rate-beats-china-japan-and-south-korea/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:15:41Z",
+      "authors": [
+        "遠見雜誌"
+      ],
+      "categories": [
+        "台灣",
+        "國際觀察",
+        "國際貿易",
+        "強迫勞動 301 調查",
+        "美國",
+        "貿易協議",
+        "關稅"
+      ],
+      "guid": "https://technews.tw/?p=1592869",
+      "summary": "美國針對 60 個經濟體的「強迫勞動 301 調查」出爐，有哪些需要注意的重點？行政院表示，美國除給與台灣 1 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:15:41 +0000",
+      "updated_at": "2026-07-27T00:15:41Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:15:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:30524e486339e1a0f1e83721f6be59c4788e96306d1d0e6bf54047afd2c907e2",
+      "title": "三星拿下博通大單，合作規模五年上看 2,000 億美元",
+      "url": "https://technews.tw/2026/07/27/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:14:00Z",
+      "authors": [
+        "陳 冠榮"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "ASIC",
+        "HBM",
+        "Samsung",
+        "三星",
+        "半導體",
+        "博通",
+        "晶片",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1593041",
+      "summary": "三星已與博通達成一項協議，將擴大雙方在記憶體晶片、晶片代工及先進封裝等領域的合作。預計 2030 年前，合作價 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:14:00 +0000",
+      "updated_at": "2026-07-27T00:14:00Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:14:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8fd0bdeaaa5820c0f7fd45b8723d0e54ba7b845cf98e5ce6b10ef16a73ebcad5",
+      "title": "美國 FDA 核准賽諾菲穿戴式多發性骨髓瘤藥物注射器",
+      "url": "https://technews.tw/2026/07/27/fda-sanofi-wearable-injector-sarclisa/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:10:40Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "Sarclisa",
+        "多發性骨髓瘤",
+        "生物科技",
+        "賽諾菲",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1591839",
+      "summary": "多發性骨髓瘤在台灣是第三常見的血液腫瘤疾病，全球每年約有 50 萬人罹患，約 10 萬人死亡，2020 年時， […]",
+      "published_raw": "Mon, 27 Jul 2026 00:10:40 +0000",
+      "updated_at": "2026-07-27T00:10:40Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:10:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f44c7bec74f6ef585b3910458f384aa56147f14bf16887c6c19dda88a921ada1",
+      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+      "url": "https://portzero.net/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T00:03:48Z",
+      "authors": [
+        "octopoc"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063648",
+      "summary": "Hi HN, Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple numbers to describe which process to connect to? Why not use names instead? I thought of all the times a program wouldn't start because of port conflicts. The more I thought about it, the crazier it seemed. Modern operating systems already offer no-conflict ports: if you make your TCP server listen on port 0, the OS assigns you a random available port. But that only solves half the problem. I built the other half: PortZero. It's a GPLv3 program that watches for processes (and docker containers!) with a special PZ_TUNNEL environment variable: PZ_TUNNEL=myapp-{branch}.portzero.local:80 npm run dev When it sees such a process or container, PortZero does this: 1. Create a virtual NIC (if it hasn't already) 2. Create a new virtual IP address 3. Create a DNS record that substitutes things like {branch} based on the working directory of the process, and points at that virtual IP address 4. Start listening on that virtual IP address on the port of your choice (e.g. port 80 for http, port 443 for https, port 5432 for postgresql) 5. Forward any TCP connections to that virtual IP address / virtual port to the random, OS-assigned port that your process or container is actually listening on The result is you don't have to think about ports anymore, you just have to think about subdomains. You can have multiple services available on port 80 without conflicts, as long as they have different portzero.local subdomains. It does some other cool stuff like: - Enable HTTPS on local HTTP services by creating a local CA and registering it on your machine - Enable cloud tunnels so you can access your apps on other devices (paid feature) Links: https://portzero.net/docs/ https://github.com/PortZeroNetwork/portzero Comments URL: https://news.ycombinator.com/item?id=49063648 Points: 3 # Comments: 0",
+      "published_raw": "Mon, 27 Jul 2026 00:03:48 +0000",
+      "updated_at": "2026-07-27T00:03:48Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:03:48 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:141cbb9ed39419df3d4dfa3122387147d1bcb99e2e4cef816506002c03c8d36d",
+      "title": "淺談 Xbox 大裁員：Game Pass 內容也大裁員？",
+      "url": "https://finance.technews.tw/2026/07/27/xbox-mass-layoffs-game-pass-content-cut/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T00:00:01Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "Asha Sharma",
+        "Microsoft",
+        "XGP",
+        "Xbox",
+        "Xbox Game Pass",
+        "人力資源",
+        "公司治理",
+        "獨佔遊戲",
+        "組織重整",
+        "裁員",
+        "遊戲工作室",
+        "遊戲軟體",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1592097",
+      "summary": "原本外界以為 Xbox 會因作風明快的 Asha Sharma 上任後有番新氣象，沒想到近來再度傳出大裁員，且 […]",
+      "published_raw": "Mon, 27 Jul 2026 00:00:01 +0000",
+      "updated_at": "2026-07-27T00:00:01Z",
+      "updated_raw": "Mon, 27 Jul 2026 00:00:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5171cddaa24f95cb60f3ec14c64fac569864fc0cded217e6eccdd4dbcb7562cf",
+      "title": "Visualizing the Artemis II Mission",
+      "url": "https://foxglove.dev/blog/visualizing-the-artemis-ii-mission",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T23:50:25Z",
+      "authors": [
+        "intrepidsoldier"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063570",
+      "summary": "See also Artemis II Photo Timeline - https://news.ycombinator.com/item?id=47954394 - April 2026 (28 comments) Comments URL: https://news.ycombinator.com/item?id=49063570 Points: 4 # Comments: 0",
+      "published_raw": "Sun, 26 Jul 2026 23:50:25 +0000",
+      "updated_at": "2026-07-26T23:50:25Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:50:25 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3f1adb0821c0da32faff4279049f58c07af775c3f536bb62494feb6ea22a014d",
+      "title": "阿里巴巴一刀切斷 Claude Code，中國 AI 走向主權控制新階段",
+      "url": "https://technews.tw/2026/07/27/alibaba-to-ban-employees-from-using-anthropics-coding-tool/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T23:50:17Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "AI 工作流",
+        "Anthropic",
+        "Claude",
+        "Qoder",
+        "中國觀察",
+        "地緣政治",
+        "科技戰",
+        "科技政策",
+        "美中衝突",
+        "阿里巴巴"
+      ],
+      "guid": "https://technews.tw/?p=1591503",
+      "summary": "阿里巴巴近期傳出全面禁止員工公司電腦使用 Anthropic Claude Code，並改推自家工具 Qode […]",
+      "published_raw": "Sun, 26 Jul 2026 23:50:17 +0000",
+      "updated_at": "2026-07-26T23:50:17Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:50:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0264e67414bfccb366e80cf3f116f8991effdb3f62ff08289b6e4559f980cb74",
+      "title": "Fonts In Use – Find out where a font is used",
+      "url": "https://fontsinuse.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T23:45:09Z",
+      "authors": [
+        "open_"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063523",
+      "summary": "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 5 # Comments: 0",
+      "published_raw": "Sun, 26 Jul 2026 23:45:09 +0000",
+      "updated_at": "2026-07-26T23:45:09Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:45:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2946f61c24c0be9221e3d76cd64d5b7a64138915d6d00d028856cbb2ef09bf3c",
+      "title": "AI 衝擊白領入門職位，全球初階職缺兩年暴跌 29%",
+      "url": "https://technews.tw/2026/07/27/ai-major-workplace-reshuffle/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T23:40:07Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "LLM",
+        "Token 使用量",
+        "人力資源",
+        "入門職位",
+        "就業市場",
+        "白領階級",
+        "職場",
+        "自動化"
+      ],
+      "guid": "https://technews.tw/?p=1592018",
+      "summary": "人工智慧（AI）正以前所未有的速度改變職場生態。最新數據顯示，首波受到衝擊的多為重複性高且具規則性的白領階級， […]",
+      "published_raw": "Sun, 26 Jul 2026 23:40:07 +0000",
+      "updated_at": "2026-07-26T23:40:07Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:40:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8f2e0a95b5dd72d662315f6c09186c64ab06f6d515c25060098f4c3cda957b32",
+      "title": "台積電 2 兆軍備競賽開打！法說會全數創高背後，藏著魏哲家「一寸不讓」的反擊布局",
+      "url": "https://technews.tw/2026/07/27/tsmc-2-trillion-arms-race-record-earnings-cc-wei-not-an-inch-counter-strategy/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T23:30:26Z",
+      "authors": [
+        "商業周刊"
+      ],
+      "categories": [
+        "半導體",
+        "台積電",
+        "晶圓",
+        "晶圓代工",
+        "晶片",
+        "英特爾",
+        "資本支出",
+        "魏哲家"
+      ],
+      "guid": "https://technews.tw/?p=1592156",
+      "summary": "台積電法說會 16 日登場，除了揭曉第 2 季營收、毛利率、EPS 等全數創高的財務數字，更吸引外界的是，董事 […]",
+      "published_raw": "Sun, 26 Jul 2026 23:30:26 +0000",
+      "updated_at": "2026-07-26T23:30:26Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:30:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:23749d4cf272f5798d4e8b9e8e17daa555bc4b6ca68b04d1512611af0e9d075b",
+      "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+      "url": "https://github.com/faizannraza/wattage",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T23:27:35Z",
+      "authors": [
+        "faizanraza03"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063397",
+      "summary": "Article URL: https://github.com/faizannraza/wattage Comments URL: https://news.ycombinator.com/item?id=49063397 Points: 4 # Comments: 0",
+      "published_raw": "Sun, 26 Jul 2026 23:27:35 +0000",
+      "updated_at": "2026-07-26T23:27:35Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:27:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9941596d5911aea767c24e710d5336caf3fe992ce00a8b8a1eabab15d1c9d126",
+      "title": "特斯拉元老直言老東家走偏了，轉挺新創 TELO 打造「反 Cybertruck」迷你皮卡",
+      "url": "https://technews.tw/2026/07/27/tesla-exec-says-old-company-astray-backs-telo-anti-cybertruck-mini-pickup/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T23:20:06Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Cybertruck",
+        "MT1",
+        "TELO",
+        "汽車科技",
+        "特斯拉",
+        "迷你皮卡",
+        "零組件",
+        "電動車",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1592636",
+      "summary": "曾攜手創立特斯拉（Tesla）的兩位原始創辦人馬克·塔彭寧（Marc Tarpenning）與馬丁·艾伯哈德（ […]",
+      "published_raw": "Sun, 26 Jul 2026 23:20:06 +0000",
+      "updated_at": "2026-07-26T23:20:06Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:20:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9ca57e96e7919f75898ac98bad60c9bf9eeaa2d97363ff94661298e035a174df",
+      "title": "沒生醫背景門外漢，用半導體解決血液檢測癌症問題！醫華如何花逾十年獲認證",
+      "url": "https://technews.tw/2026/07/27/google-search-was-a-lifeline-for-publishers-now-theyre-thinking-of-cutting-it-off/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T23:10:31Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "半導體",
+        "晶片",
+        "泰國",
+        "生物科技",
+        "癌症篩檢",
+        "血液檢測",
+        "醫療科技",
+        "醫華生技",
+        "黃忠諤"
+      ],
+      "guid": "https://technews.tw/?p=1591460",
+      "summary": "鎖定生技領域，台灣起步的半導體新創，7 月初與泰國國家級癌症機構簽署合作協議。醫華生技董事長黃忠諤（首圖右）， […]",
+      "published_raw": "Sun, 26 Jul 2026 23:10:31 +0000",
+      "updated_at": "2026-07-26T23:10:31Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:10:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ecabb953ba87dcc13a9dfe33ff1fb515aac2051f92c3d767ce7828e0a7ac1e33",
+      "title": "全球儲能產業發展趨勢：政策、法規與標準化",
+      "url": "https://technews.tw/2026/07/27/global-energy-storage-industry-development-trends-policies-regulations-standardization/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-26T23:00:37Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "儲能系統",
+        "技術分析",
+        "會員專區",
+        "能源科技",
+        "補助",
+        "電力儲存"
+      ],
+      "guid": "https://technews.tw/?p=1589584",
+      "summary": "影響資金是否進場的因素，除了補助的絕對金額之外，還包括政策的可預期性，儲能專案的回收期長，規則是否穩定，包括抵 […]",
+      "published_raw": "Sun, 26 Jul 2026 23:00:37 +0000",
+      "updated_at": "2026-07-26T23:00:37Z",
+      "updated_raw": "Sun, 26 Jul 2026 23:00:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:79442c5e08c870162a5916126b3de827a1ea16e68b23619136ffa7c67de2d11c",
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T22:21:41Z",
+      "authors": [
+        "eecc"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49063022",
+      "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html Comments URL: https://news.ycombinator.com/item?id=49063022 Points: 83 # Comments: 31",
+      "published_raw": "Sun, 26 Jul 2026 22:21:41 +0000",
+      "updated_at": "2026-07-26T22:21:41Z",
+      "updated_raw": "Sun, 26 Jul 2026 22:21:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:846c87ed315c0c8da29d59084555635793f382c164f77db20ffce7396ba939ae",
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T21:39:17Z",
+      "authors": [
+        "rbanffy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49062700",
+      "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/ Comments URL: https://news.ycombinator.com/item?id=49062700 Points: 43 # Comments: 11",
+      "published_raw": "Sun, 26 Jul 2026 21:39:17 +0000",
+      "updated_at": "2026-07-26T21:39:17Z",
+      "updated_raw": "Sun, 26 Jul 2026 21:39:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bcaad60463c8f9cf0f04820b220c68460c002ececdf71ad021b9b47b71a2d827",
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T20:53:26Z",
+      "authors": [
+        "zdw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49062291",
+      "summary": "Article URL: https://www.imperialviolet.org/2026/07/26/zstd-lean.html Comments URL: https://news.ycombinator.com/item?id=49062291 Points: 58 # Comments: 6",
+      "published_raw": "Sun, 26 Jul 2026 20:53:26 +0000",
+      "updated_at": "2026-07-26T20:53:26Z",
+      "updated_raw": "Sun, 26 Jul 2026 20:53:26 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:68318da06549a665ba2acd1eb6fbe82eda17ab5214ae3b0958f5e46920ce6087",
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T20:49:43Z",
+      "authors": [
+        "marysminefnuf"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49062259",
+      "summary": "Article URL: https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/ Comments URL: https://news.ycombinator.com/item?id=49062259 Points: 18 # Comments: 3",
+      "published_raw": "Sun, 26 Jul 2026 20:49:43 +0000",
+      "updated_at": "2026-07-26T20:49:43Z",
+      "updated_raw": "Sun, 26 Jul 2026 20:49:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:32a88045106190fa581ab77491103e9e31452644f11e97364655c64e7126b011",
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T20:31:57Z",
+      "authors": [
+        "marc__1"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49062120",
+      "summary": "Article URL: https://spectrum.ieee.org/space-debris-atmosphere-burn-up Comments URL: https://news.ycombinator.com/item?id=49062120 Points: 38 # Comments: 19",
+      "published_raw": "Sun, 26 Jul 2026 20:31:57 +0000",
+      "updated_at": "2026-07-26T20:31:57Z",
+      "updated_raw": "Sun, 26 Jul 2026 20:31:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6e1bc7e7fba3ca1901f298bb4f53a8b9b34e1958b3f192218e50cdbbdde271c0",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T20:02:15Z",
+      "authors": [
+        "xterminal"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49061887",
+      "summary": "Article URL: https://github.com/AARomanov1985/Audio-Cassette-Simulation Comments URL: https://news.ycombinator.com/item?id=49061887 Points: 65 # Comments: 32",
+      "published_raw": "Sun, 26 Jul 2026 20:02:15 +0000",
+      "updated_at": "2026-07-26T20:02:15Z",
+      "updated_raw": "Sun, 26 Jul 2026 20:02:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5ecd30f3249a102b49cda3573eaa17bab8995881436eb55c5cce8a209c7fff52",
+      "title": "How to Block Some of the Bots",
+      "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T18:32:46Z",
+      "authors": [
+        "Bender"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49060945",
+      "summary": "Article URL: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/ Comments URL: https://news.ycombinator.com/item?id=49060945 Points: 73 # Comments: 84",
+      "published_raw": "Sun, 26 Jul 2026 18:32:46 +0000",
+      "updated_at": "2026-07-26T18:32:46Z",
+      "updated_raw": "Sun, 26 Jul 2026 18:32:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cf92c4c17fd8eff24281a5d1cbe85e3617b84bca8a6fba34e204c593518ee10a",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T18:23:06Z",
+      "authors": [
+        "tosh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49060856",
+      "summary": "Article URL: https://beyondloom.com/decker/ Comments URL: https://news.ycombinator.com/item?id=49060856 Points: 215 # Comments: 50",
+      "published_raw": "Sun, 26 Jul 2026 18:23:06 +0000",
+      "updated_at": "2026-07-26T18:23:06Z",
+      "updated_raw": "Sun, 26 Jul 2026 18:23:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1951e03bd71b6f6a1c018389ec62e9361e78e6728d00a2211cc7ba03f2be5cdc",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T18:11:16Z",
+      "authors": [
+        "tosh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49060724",
+      "summary": "Article URL: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf Comments URL: https://news.ycombinator.com/item?id=49060724 Points: 99 # Comments: 31",
+      "published_raw": "Sun, 26 Jul 2026 18:11:16 +0000",
+      "updated_at": "2026-07-26T18:11:16Z",
+      "updated_raw": "Sun, 26 Jul 2026 18:11:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:933ec867bfa27cbe774e0797b60925fce985a4277e62643d58b0a56a246f2ae3",
+      "title": "How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster",
+      "url": "https://astgrep.com/blog/tree-sitter-rust-rewrite",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T17:51:03Z",
+      "authors": [
+        "herrington_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49060509",
+      "summary": "Article URL: https://astgrep.com/blog/tree-sitter-rust-rewrite Comments URL: https://news.ycombinator.com/item?id=49060509 Points: 58 # Comments: 9",
+      "published_raw": "Sun, 26 Jul 2026 17:51:03 +0000",
+      "updated_at": "2026-07-26T17:51:03Z",
+      "updated_raw": "Sun, 26 Jul 2026 17:51:03 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:93bfec1e0dde904dd97fc970330290c2ec182fc65f6ab78270d7a87da69d416a",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T17:49:44Z",
+      "authors": [
+        "saaaaaam"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49060495",
+      "summary": "Article URL: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time Comments URL: https://news.ycombinator.com/item?id=49060495 Points: 161 # Comments: 74",
+      "published_raw": "Sun, 26 Jul 2026 17:49:44 +0000",
+      "updated_at": "2026-07-26T17:49:44Z",
+      "updated_raw": "Sun, 26 Jul 2026 17:49:44 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e511d9f83b0926f3b862a26571bf88d8181b2024c81e0c4f734f10626405be0b",
+      "title": "How to Write English Prose",
+      "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-26T17:29:35Z",
+      "authors": [
+        "geneticdrifts"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49060295",
+      "summary": "Article URL: https://thelampmagazine.com/blog/how-to-write-english-prose Comments URL: https://news.ycombinator.com/item?id=49060295 Points: 66 # Comments: 36",
+      "published_raw": "Sun, 26 Jul 2026 17:29:35 +0000",
+      "updated_at": "2026-07-26T17:29:35Z",
+      "updated_raw": "Sun, 26 Jul 2026 17:29:35 +0000",
+      "language": "en"
+    }
+  ]
+}
