@@ -1,0 +1,1061 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-07-28",
+  "timezone": "Asia/Taipei",
+  "article_count": 41,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8e02e448b7c51692b7a615acaf4f8cb24f685b0538e51979474c4258554aaf61",
+      "title": "全村的希望，中國長鑫存儲入列國產 DUV 首批採購名單企業",
+      "url": "https://technews.tw/2026/07/28/changxin-memory-technologies-co-ltd-of-china-has-been-included-in-the-first-batch-of-domestically-produced-duv-procurement-companies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:50:23Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "DUV",
+        "EUV",
+        "IC 設計",
+        "中國觀察",
+        "兆易創新",
+        "半導體",
+        "晶片",
+        "材料、設備",
+        "美光",
+        "記憶體",
+        "長村存儲",
+        "零組件",
+        "高通"
+      ],
+      "guid": "https://technews.tw/?p=1593695",
+      "summary": "在全球半導體技術封鎖的背景下，中國設備自製化邁出了關鍵的一步。根據外媒 The Information 報導， […]",
+      "published_raw": "Tue, 28 Jul 2026 00:50:23 +0000",
+      "updated_at": "2026-07-28T00:50:23Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:50:23 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7bbbe4e96b1dc06f5ebcfa6abff28120436fc885dec67f43222688ec306a99a3",
+      "title": "2026 上半年存股排行！0050 獨攬 120 萬大軍、玉山金穩定超越兆豐金",
+      "url": "https://finance.technews.tw/2026/07/28/stock-holding-ranking/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:35:56Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "0050",
+        "AI 人工智慧",
+        "兆豐金",
+        "半導體",
+        "台積電",
+        "定期定額",
+        "晶片",
+        "玉山金",
+        "證券",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1593657",
+      "summary": "台股高檔震盪之際，「定期定額」紀律扣款的資金穩定流入，根據 6 月定期定額交易戶數統計，元大台灣 50（005 […]",
+      "published_raw": "Tue, 28 Jul 2026 00:35:56 +0000",
+      "updated_at": "2026-07-28T00:35:56Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:35:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f912d29cf3ef32b9f14fe6a4edeac4289f0d23f0a652db82f790ae21327e61e0",
+      "title": "能源轉型成國安角力，美國關稅戰難擋中國紅色供應鏈擴張",
+      "url": "https://technews.tw/2026/07/28/energy-transition-national-security-battle/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:30:58Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "ESG",
+        "中國",
+        "國際觀察",
+        "國際貿易",
+        "本土產能",
+        "綠色技術",
+        "美國",
+        "能源科技",
+        "能源轉型",
+        "關稅",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1591636",
+      "summary": "全球能源轉型正面臨越來越明顯的現實：各國在談判桌的外交與地緣政治變化速度，已經遠遠快過潔淨能源供應鏈的實體建置 […]",
+      "published_raw": "Tue, 28 Jul 2026 00:30:58 +0000",
+      "updated_at": "2026-07-28T00:30:58Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:30:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:eb1adccf9a4bee2a95a24bba6b3ef5d626d3c0390e996f5f3e3f343df0d917ea",
+      "title": "中國將量產 DUV 消息被放大衝擊 ASML 股價，分析師對影響有其他解讀",
+      "url": "https://finance.technews.tw/2026/07/28/the-news-that-china-will-mass-produce-duvs-has-amplified-its-impact-on-asmls-stock-price/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:30:25Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "ASML",
+        "DUV",
+        "EUV",
+        "中國觀察",
+        "半導體",
+        "半導體設備",
+        "晶片",
+        "材料、設備",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1593687",
+      "summary": "荷蘭半導體設備大廠艾司摩爾 （ASML） 於 28 日在美股的股價遭遇重挫，盤中跌幅一度高達 8.2%。根據市 […]",
+      "published_raw": "Tue, 28 Jul 2026 00:30:25 +0000",
+      "updated_at": "2026-07-28T00:30:25Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:30:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e86b027e09e4b22a71e3badba919d02b64e9f5b831b0d9ca27b5a96bc71829a5",
+      "title": "印度核准諾和諾德「瘦瘦針」治療脂肪肝炎",
+      "url": "https://technews.tw/2026/07/28/india-approves-novo-nordisks-wegovy-for-steatohepatitis-treatment/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:20:05Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "Wegovy",
+        "生物科技",
+        "瘦瘦針",
+        "肝炎",
+        "脂肪肝",
+        "脂肪肝炎",
+        "諾和諾德",
+        "週纖達",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1591881",
+      "summary": "暱稱為「瘦瘦針」的升糖素類肽-1（GLP-1）受體促效劑，其實原本為第二型糖尿病用藥，同一主成分 Semagl […]",
+      "published_raw": "Tue, 28 Jul 2026 00:20:05 +0000",
+      "updated_at": "2026-07-28T00:20:05Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:20:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1ad6118ca6c353f98d701c2d4154244a818bf494f91c81442f5010734d360d2d",
+      "title": "「聰明人都很安靜」是迷思？200 萬人大型研究顛覆刻板印象",
+      "url": "https://technews.tw/2026/07/28/debunking-quiet-smart-myth/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:10:40Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "人力資源",
+        "人格特質",
+        "刻板印象",
+        "智力",
+        "科技趣聞",
+        "職場",
+        "認知能力",
+        "身心狀態"
+      ],
+      "guid": "https://technews.tw/?p=1591104",
+      "summary": "一項涵蓋超過 1,300 篇研究、逾 200 萬名受試者的超大型綜合分析，重新檢視了「人格特質」與「智力」之間 […]",
+      "published_raw": "Tue, 28 Jul 2026 00:10:40 +0000",
+      "updated_at": "2026-07-28T00:10:40Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:10:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2277d98a5a9d125d1453e5dcebeb3f4647f00756456071877b81a80aeceab202",
+      "title": "當供應鏈、資料中心同時停擺，企業準備好面對下次資安危機了嗎？",
+      "url": "https://finance.technews.tw/2026/07/28/what-happens-if-china-hacks-the-us-water-supply/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T00:00:12Z",
+      "authors": [
+        "Eason"
+      ],
+      "categories": [
+        "企業資安",
+        "公司治理",
+        "大規模網攻",
+        "營運韌性",
+        "系統性網攻",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1592867",
+      "summary": "數位經濟時代，網路攻擊不再是偶然發生的意外，而是企業每日必須面對的常態風險。多數企業為了防止駭客入侵，每年投入 […]",
+      "published_raw": "Tue, 28 Jul 2026 00:00:12 +0000",
+      "updated_at": "2026-07-28T00:00:12Z",
+      "updated_raw": "Tue, 28 Jul 2026 00:00:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f6538be0b39a73919fcbe5d96bcd5866312efe14ee95c52a3e92a983071d56ea",
+      "title": "AI 模型也需要接受安全檢查？歐盟打造全球 AI 資安治理新標準",
+      "url": "https://infosecu.technews.tw/2026/07/28/the-eu-adopts-a-plan-to-address-ai-risks-and-cyber-threats/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:50:08Z",
+      "authors": [
+        "JA"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 工廠",
+        "AI 與網路安全行動計畫",
+        "AI 資安",
+        "數位主權",
+        "歐盟",
+        "科技政策",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1592791",
+      "summary": "當大型語言模型與自主 AI 代理人呈指數級突破，網路安全攻防正經歷前所未有的劇烈競爭。AI 不僅能協助工程師防 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:50:08 +0000",
+      "updated_at": "2026-07-27T23:50:08Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:50:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:641f3137998a967daeb8cb5ebf5d4b6508b74c5497b718eb7714d000595efa74",
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T23:46:15Z",
+      "authors": [
+        "wglb"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49077209",
+      "summary": "Article URL: https://arxiv.org/abs/2607.05283 Comments URL: https://news.ycombinator.com/item?id=49077209 Points: 6 # Comments: 2",
+      "published_raw": "Mon, 27 Jul 2026 23:46:15 +0000",
+      "updated_at": "2026-07-27T23:46:15Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:46:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f3d59cb07a92b6c8cb746652fa8629c96218e12816824cdd308d0b24639daf52",
+      "title": "破解「量子專屬」神話，科學家僅用普通筆電成功挑戰高難度量子運算",
+      "url": "https://technews.tw/2026/07/28/laptops-solve-quantum-problems/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:40:20Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "3D 量子動力學",
+        "傳統電腦",
+        "尖端科技",
+        "張量網路",
+        "筆記型電腦",
+        "量子物理",
+        "量子糾纏",
+        "量子電腦",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1590689",
+      "summary": "美國西蒙斯基金會（Simons Foundation）轄下 Flatiron Institute 的計算量子物 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:40:20 +0000",
+      "updated_at": "2026-07-27T23:40:20Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:40:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d3147ad6bf6abfaa0f12c33ab07133cbec1e33a12168aeca96a5aea1cf5ea163",
+      "title": "GLP-1 減肥藥可望對抗主要物質成癮問題，科學家找到大腦關鍵機制",
+      "url": "https://technews.tw/2026/07/28/prenups-are-confronting-a-new-question-can-you-cheat-with-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:30:52Z",
+      "authors": [
+        "Fay Pu"
+      ],
+      "categories": [
+        "GLP-1 藥物",
+        "成癮症",
+        "毒癮",
+        "獎勵機制",
+        "生物科技",
+        "瘦瘦針",
+        "菸癮",
+        "酒癮",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1590289",
+      "summary": "以 Ozempic、Wegovy 為代表的 GLP-1 類藥物，原是治療第二型糖尿病與減重，如今研究顯示，可能 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:30:52 +0000",
+      "updated_at": "2026-07-27T23:30:52Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:30:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d8d6d7bee5ab70124ac24de8345f8527ee32e4c5d4f3feb2d74ce5c42cf0177a",
+      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
+      "url": "https://www.dowe.dev/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T23:26:05Z",
+      "authors": [
+        "victorriba"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076975",
+      "summary": "Article URL: https://www.dowe.dev Comments URL: https://news.ycombinator.com/item?id=49076975 Points: 16 # Comments: 19",
+      "published_raw": "Mon, 27 Jul 2026 23:26:05 +0000",
+      "updated_at": "2026-07-27T23:26:05Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:26:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:db59926cd49357144dd99d5d9f81e49accaf1f814837d0c0a9a248f464ef3045",
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T23:21:37Z",
+      "authors": [
+        "softwaredoug"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076923",
+      "summary": "Article URL: https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349 Comments URL: https://news.ycombinator.com/item?id=49076923 Points: 97 # Comments: 49",
+      "published_raw": "Mon, 27 Jul 2026 23:21:37 +0000",
+      "updated_at": "2026-07-27T23:21:37Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:21:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5269f247132376439de7cac454ebba3445e8957cebc7d1b57ad4f8ec2eb1310f",
+      "title": "英學者打造低成本 3D 列印「鐵基液流電池」，開源設計加速綠能普及",
+      "url": "https://technews.tw/2026/07/28/3d-printed-iron-based-battery/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:20:21Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "3D列印",
+        "DIY",
+        "再生能源",
+        "淨零減碳",
+        "釩",
+        "鐵",
+        "鐵基液流電池",
+        "零組件",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1590755",
+      "summary": "英國貝爾法斯特女王大學（Queen’s University Belfast，簡稱 QUB）的研究 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:20:21 +0000",
+      "updated_at": "2026-07-27T23:20:21Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:20:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:354dc2a2b859580c617ffedfa7a85f36a68379aa7d4f707493f68684d1964097",
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T23:19:19Z",
+      "authors": [
+        "zdw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076900",
+      "summary": "Article URL: https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/ Comments URL: https://news.ycombinator.com/item?id=49076900 Points: 8 # Comments: 1",
+      "published_raw": "Mon, 27 Jul 2026 23:19:19 +0000",
+      "updated_at": "2026-07-27T23:19:19Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:19:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8ae5972801b69f68f69e4c944d5bacd74e2130b2a1d99156e0a0321a4264e930",
+      "title": "長鑫存儲獲字節跳動逾 70 億美元五年期大單，為掛牌上市後營運添柴火",
+      "url": "https://finance.technews.tw/2026/07/28/changxin-memory-secures-a-five-year-contract-worth-over-7-billion-from-bytedance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:15:25Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "IC 設計",
+        "中國觀察",
+        "半導體",
+        "國際觀察",
+        "字節跳動",
+        "晶片",
+        "記憶體",
+        "財經",
+        "長鑫存儲"
+      ],
+      "guid": "https://technews.tw/?p=1593672",
+      "summary": "中國記憶體晶片大廠長鑫存儲（CXMT）於 27 日正式在上海證券交易所科創板掛牌上市，隨即為市場投下震撼彈。在 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:15:25 +0000",
+      "updated_at": "2026-07-27T23:15:25Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:15:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0d0b513a3b2a7f4ef3268830ce2fc7ce9309c4255e6ed3d35f4f735edfceae83",
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T23:14:19Z",
+      "authors": [
+        "teleforce"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076840",
+      "summary": "Article URL: https://dconf.org/2026/index.html Comments URL: https://news.ycombinator.com/item?id=49076840 Points: 38 # Comments: 9",
+      "published_raw": "Mon, 27 Jul 2026 23:14:19 +0000",
+      "updated_at": "2026-07-27T23:14:19Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:14:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e3974524d25b5d3ccf666ee9179fdc095972e607550a19014d289a745a825125",
+      "title": "Meta 退出清潔能源聯盟，因天然氣投資終結十年會籍",
+      "url": "https://technews.tw/2026/07/28/meta-ends-climate-group-membership-over-gas-investment/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:10:52Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "Google",
+        "Meta",
+        "RE100 倡議",
+        "天然氣發電",
+        "微軟",
+        "淨零減碳",
+        "能源科技",
+        "資料中心"
+      ],
+      "guid": "https://technews.tw/?p=1593122",
+      "summary": "Meta 近日確認退出加入近 10 年的全球企業可再生能源倡議 RE100，Climate Group 向能源 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:10:52 +0000",
+      "updated_at": "2026-07-27T23:10:52Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:10:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d547288590cf4f6fb5e6b69465cf021d4182a23c39210b8c806cf26925beeb2b",
+      "title": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T23:09:50Z",
+      "authors": [
+        "jcbhmr"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076791",
+      "summary": "Article URL: https://github.com/allyourcodebase Comments URL: https://news.ycombinator.com/item?id=49076791 Points: 20 # Comments: 7",
+      "published_raw": "Mon, 27 Jul 2026 23:09:50 +0000",
+      "updated_at": "2026-07-27T23:09:50Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:09:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f05dd51cca2142173d3ad782cfb6b22e563a873e9a601d3df39686151b5ee128",
+      "title": "FEV 與微軟部署車端小語言模型，確保離線語音服務與高效運用記憶體",
+      "url": "https://technews.tw/2026/07/28/fev-collaborates-with-microsoft-on-efficient-ai-model-approach-for-in-car-applications-built-on-nvidia/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:00:58Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "FEV",
+        "Microsoft",
+        "Nvidia",
+        "Phi-4-mini-instruct",
+        "小語言模型",
+        "微軟",
+        "技術分析",
+        "會員專區",
+        "汽車科技"
+      ],
+      "guid": "https://technews.tw/?p=1590369",
+      "summary": "歐洲工程整合服務商 FEV 宣布與微軟（Microsoft）合作，在 NVIDIA DRIVE AGX 運算平 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:00:58 +0000",
+      "updated_at": "2026-07-27T23:00:58Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:00:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f88d8db920f3c2c0c1b555f9c389d23cb6dc483277ab0fc4ac9208582adb5b7d",
+      "title": "輝達攜手業界成立聯盟，開發分享開放工具促進 AI 責任使用並建立信任",
+      "url": "https://infosecu.technews.tw/2026/07/28/nvidia-joins-forces-with-industry-partners-to-form-an-alliance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:00:52Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "GPU",
+        "IC 設計",
+        "Nvidia",
+        "SpaceX",
+        "人工智慧",
+        "半導體",
+        "國際觀察",
+        "微軟",
+        "晶片",
+        "網路",
+        "資訊安全",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1593668",
+      "summary": "在近期新創公司 Hugging Face 遭到失控的 OpenAI 模型發動網路攻擊事件之後，輝達 （Nvid […]",
+      "published_raw": "Mon, 27 Jul 2026 23:00:52 +0000",
+      "updated_at": "2026-07-27T23:00:52Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:00:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:475bf766822804674d669b70fe0ee2eabe76d7f54923ee25c6e866d22f2a8cf3",
+      "title": "中國長鑫存儲上市成功，衝擊全球記憶體類股股價下跌",
+      "url": "https://finance.technews.tw/2026/07/28/chinas-changxin-memory-technologies-co-ltd-changxin-memory-listing-will-impact-global-memory-chip-stocks/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:00:11Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "IC 設計",
+        "SK海力士",
+        "sandisk",
+        "中國觀察",
+        "半導體",
+        "國際觀察",
+        "威騰",
+        "晶片",
+        "美光",
+        "記憶體",
+        "財經",
+        "長鑫存儲"
+      ],
+      "guid": "https://technews.tw/?p=1593663",
+      "summary": "中國記憶體晶片製造商長鑫存儲（CXMT）在上海科創板首度公開發行（IPO）表現驚人，股價飆升超過 500%，市 […]",
+      "published_raw": "Mon, 27 Jul 2026 23:00:11 +0000",
+      "updated_at": "2026-07-27T23:00:11Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:00:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:70db5d00543a52abf7dc99d4ce34fbcfb3f97dd06c506a30376d598e7eb4ec8a",
+      "title": "高功率微波漸成顯學，洛馬公開全新 Morfius X-Rotor 反無人機系統",
+      "url": "https://technews.tw/2026/07/28/lockheed-martin-unveiled-new-morfius-x-rotor-c-uas/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-27T23:00:05Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "Morfius X-Rotor",
+        "反無人機系統",
+        "尖端科技",
+        "洛克希德馬丁",
+        "無人機",
+        "軍事科技",
+        "高功率微波武器"
+      ],
+      "guid": "https://technews.tw/?p=1593647",
+      "summary": "面對現代戰場上日益嚴重的敵方無人機蜂群威脅，洛克希德馬丁近日發表了一款全新的反無人機（Counter-UAS） […]",
+      "published_raw": "Mon, 27 Jul 2026 23:00:05 +0000",
+      "updated_at": "2026-07-27T23:00:05Z",
+      "updated_raw": "Mon, 27 Jul 2026 23:00:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:597c4b6c7092a8a46ec07a761f446a0a85dbe3430c463d0fa37c5e71ee2cb571",
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T22:37:52Z",
+      "authors": [
+        "dhorthy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076391",
+      "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md Comments URL: https://news.ycombinator.com/item?id=49076391 Points: 73 # Comments: 16",
+      "published_raw": "Mon, 27 Jul 2026 22:37:52 +0000",
+      "updated_at": "2026-07-27T22:37:52Z",
+      "updated_raw": "Mon, 27 Jul 2026 22:37:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:43e3f257f3b7c4713306af3ef6f287f063762018a451fc3d229521a5f60e0c93",
+      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
+      "url": "https://hardroad.xyz/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T22:36:55Z",
+      "authors": [
+        "getbutterfly"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076382",
+      "summary": "Article URL: https://hardroad.xyz/ Comments URL: https://news.ycombinator.com/item?id=49076382 Points: 26 # Comments: 7",
+      "published_raw": "Mon, 27 Jul 2026 22:36:55 +0000",
+      "updated_at": "2026-07-27T22:36:55Z",
+      "updated_raw": "Mon, 27 Jul 2026 22:36:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d390bfdf5b664937a713ed067341a3d5c6fe4089345a6f44db510428f76ab173",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T22:10:15Z",
+      "authors": [
+        "quantified"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076116",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/ Comments URL: https://news.ycombinator.com/item?id=49076116 Points: 102 # Comments: 63",
+      "published_raw": "Mon, 27 Jul 2026 22:10:15 +0000",
+      "updated_at": "2026-07-27T22:10:15Z",
+      "updated_raw": "Mon, 27 Jul 2026 22:10:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:92195b569a78f3fa217b5d54ab3c36f73ea1e4c27d8e12da6975448b9f23200f",
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T22:03:49Z",
+      "authors": [
+        "surprisetalk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49076057",
+      "summary": "Article URL: https://www.anthropic.com/news/position-open-weights-models Comments URL: https://news.ycombinator.com/item?id=49076057 Points: 383 # Comments: 491",
+      "published_raw": "Mon, 27 Jul 2026 22:03:49 +0000",
+      "updated_at": "2026-07-27T22:03:49Z",
+      "updated_raw": "Mon, 27 Jul 2026 22:03:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e44a832b419bffcf8076d65bea06d32aaca79fd82c7c6d696cf0eedd2c2647ba",
+      "title": "Forth",
+      "url": "https://xkcd.com/3277/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T20:15:50Z",
+      "authors": [
+        "beardyw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49074991",
+      "summary": "Article URL: https://xkcd.com/3277/ Comments URL: https://news.ycombinator.com/item?id=49074991 Points: 100 # Comments: 20",
+      "published_raw": "Mon, 27 Jul 2026 20:15:50 +0000",
+      "updated_at": "2026-07-27T20:15:50Z",
+      "updated_raw": "Mon, 27 Jul 2026 20:15:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f378b1f4f2dcd3237e7c4b0bb97e522697903bfe6fbb2364dfb331d048e55911",
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T19:58:22Z",
+      "authors": [
+        "george_rose25"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49074817",
+      "summary": "Hi HN! This is George, Lucas, and Jona from Rise Reforming ( https://www.rise-reforming.com/ ). We’re developing a process to convert gas produced at landfills, farms, and wastewater plants (“biogas”) into higher value chemicals. Our technology is modular, designed to be deployed and operated on-site. Think of us as a chemical project developer; we sit between biogas producers (suppliers) and chemical end users (customers). We pay biogas producers for their gas and we make money from selling our chemicals. We're starting with dimethyl ether (DME) as our beachhead chemical because of its high-margin use case in the cosmetics industry and ultimately targeting methanol – a versatile and widely used industrial chemical. Being in a two sided market allows us to target two large problems. (1) On the chemical side: The multi-trillion dollar U.S. chemical and fuel industries are vulnerable to geopolitical conflicts and climate-driven natural disasters. The Iran war has caused global methanol prices to skyrocket – even in the U.S., a net exporter of methanol. ( https://www.spglobal.com/energy/en/news-research/latest-news... the US). In 2021, Winter Storm Uri wiped out 60% of U.S. organic chemicals production for at least a month ( https://www.dallasfed.org/research/swe/2021/swe2102/swe2102c... ). The problem? Centralized production and fossil-fuel dependence. The solution isn't unknown; decentralized, fossil-free production could insulate supply chains from these shocks. But distributed green chemical production has yet to become cost-competitive with the status quo. Unlocking it requires the right feedstock paired with the right process and strategy. Also, the chemical industry’s reliance on fossil fuels makes it responsible for 5-6% of global greenhouse gas emissions. About 40% of the industry’s well-to-gate emissions come from just the extraction, processing, and transportation of these fossil fuels ( https://rmi.org/resources/chemistry-in-transition-charting-s... ). (2) Biogas is an ideal feedstock to address Problem 1. It is decentralized, plentiful, and a large part of it is not properly utilized. Biogas is a mixture of methane (CH4) and carbon dioxide (CO2), produced as a result of anaerobic digestion at landfills, farms, and wastewater plants, and can be used as a raw material in chemical manufacturing. The U.S. produces around 780 billion cubic feet of biogas a year – if we converted all that biogas into methanol, that’s about $20 billion a year. Currently, about 60% of this biogas is either burned for power/heat (low-margin and unreliable) or flared altogether. The rest is used in the highly subsidized renewable natural gas (RNG) market ( https://americanbiogascouncil.org/abcs-data-digest-lite-july... ). The result: many biogas producers leave substantial revenue on the table and experience huge operational headaches. Our modular technology takes in biogas, electricity, and water as inputs. Co-location with biogas producers allows us to tap into their existing infrastructure and speeds up permitting vs a greenfield project. Our 3 step process is outlined below: Step 1: We clean the biogas of contaminants. That means running the gas over specialized adsorbents that trap any nasty sulfur-containing and silicon-containing compounds we don’t want in our process. Step 2: We reform that biogas into an intermediate gas called syngas through the bi-reforming process, which combines the novel dry methane reforming reaction with the legacy steam methane reforming reaction. Syngas is a versatile combination of H2 and CO and is the building block for many chemicals, allowing us to be a platform company. Step 3: Lastly, we upgrade that syngas into our end chemicals. We do this step using conventional catalysts and operating conditions. The modular approach paired with our patent-pending integrated process makes our solution one of the cheapest ways of making green chemicals. Where are we today? We’ve completed our proof-of-concept in the lab and just broke ground on our pilot plant at a Chicagoland wastewater plant that currently flares all of its biogas. We will convert that wasted biogas into methanol. Estimated commissioning is Q1 2027. We all met at the University of Chicago studying Molecular Engineering and started the company back in June 2024. Rise Reforming’s first iteration came after attending a talk from an Argonne National Laboratory researcher on low-carbon fuels. In that seminar, we heard about a reaction called “dry reforming” wherein one can react CH4 with CO2, effectively eliminating both pollutants and making useful syngas (CO + H2). We realized that this reaction could enable cheaper decarbonization of chemicals than the legacy electrolysis pathway and started to build a technoeconomic analysis. George has a background in energy generation, storage, and carbon capture. He was an early employee at Highland Electric Fleets (now a unicorn) and later worked at Nexamp, GenH, and Mantel Capture – researching various battery chemistries, building a first-of-a-kind (FOAK) modular hydropower system, and helping prove a novel point-source capture prototype. He also conducted battery research at UChicago's Patel Lab and Rowan Group, co-authoring two papers. Lucas led the design, procurement, construction, and operation of Rise Reforming’s bench-scale reforming unit with controls that operated successfully for over 1800+ continuous hours. Prior to Rise, he worked at Avangrid (Iberdrola Group) with the offshore wind project services team and did transmutation research of spent nuclear fuel at Argonne National Laboratory. Jona also studied Molecular Engineering at the University of Chicago. He grew up around the marine industry and brings deep knowledge of the space to the team. While at UChicago, he conducted research in the Patel Lab on batteries and sustainable polymer applications and built novel equipment for the lab, including a high-throughput cyclic voltammetry battery performance testing device. Our advisory board has 220+ combined years in aerosols, permitting/safety, low-carbon fuels, catalysts, scale-up, automated modular chemical plants, and wastewater treatment. Here’s our launch video if you want to put faces to the names: https://youtu.be/Bx_ASPapxlQ?si=PAlqvd1eUhW8kjJm . We’d appreciate any feedback, questions, or advice. Thank you for reading! George, Lucas, and Jona Comments URL: https://news.ycombinator.com/item?id=49074817 Points: 57 # Comments: 21",
+      "published_raw": "Mon, 27 Jul 2026 19:58:22 +0000",
+      "updated_at": "2026-07-27T19:58:22Z",
+      "updated_raw": "Mon, 27 Jul 2026 19:58:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d60f26feb85943a6f9ae08166696a736918496a2a2ad643247f706f8c5ddba2",
+      "title": "川普再施壓 Fed 降息！高喊「美國借貸成本應全球最低」，華許必須配合",
+      "url": "https://www.blocktempo.com/trump-pushes-fed-cut-rates-kevin-warsh/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-27T18:58:34Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "FED",
+        "KevinWarsh",
+        "利率",
+        "川普",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "降息"
+      ],
+      "guid": "https://www.blocktempo.com/?p=514651",
+      "summary": "美國央行獨立性再度面臨政治考驗！據知名財經快訊帳號 Walter Bloomberg 於 X 平台發布的最新消 […] 〈 川普再施壓 Fed 降息！高喊「美國借貸成本應全球最低」，華許必須配合 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 27 Jul 2026 18:58:34 +0000",
+      "updated_at": "2026-07-27T18:58:34Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:58:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bc90a9b133a4c494a911d948ded53f351ceb5883006e82c1ee38db0100e148dd",
+      "title": "代幣化龍頭 Ondo Finance 推出全新執行層「Ondo Network」，首發應用 Ondo Perps 支援 RWA 抵押",
+      "url": "https://www.blocktempo.com/ondo-finance-launches-ondo-network-execution-layer/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-27T18:52:15Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Defi",
+        "ONDO",
+        "OndoChain",
+        "OndoFinance",
+        "OndoNetwork",
+        "OndoPerps",
+        "RWA",
+        "加密貨幣市場",
+        "執行層"
+      ],
+      "guid": "https://www.blocktempo.com/?p=514646",
+      "summary": "專注於真實世界資產（RWA）代幣化的 Ondo Finance 迎來技術大升級！據《The Block》報導， […] 〈 代幣化龍頭 Ondo Finance 推出全新執行層「Ondo Network」，首發應用 Ondo Perps 支援 RWA 抵押 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 27 Jul 2026 18:52:15 +0000",
+      "updated_at": "2026-07-27T18:52:15Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:52:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d15bf1e715d6070598538aaa08c71f2c532bc9ef7a832c5cb4fe3a6dec5062e",
+      "title": "AI 助攻量子運算！NVIDIA 開源 31B 視覺模型 Ising 1.5，全自動校準量子電腦",
+      "url": "https://www.blocktempo.com/nvidia-ising-calibration-1-5-quantum-computer-vlm/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-27T18:45:56Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Ising",
+        "Nvidia",
+        "VLM",
+        "輝達",
+        "量子運算",
+        "量子電腦",
+        "開源模型"
+      ],
+      "guid": "https://www.blocktempo.com/?p=514641",
+      "summary": "人工智慧助攻量子運算技術迎來重大突破！據 NVIDIA 技術部落格今（27）日發布的文章指出，輝達正式開源了專 […] 〈 AI 助攻量子運算！NVIDIA 開源 31B 視覺模型 Ising 1.5，全自動校準量子電腦 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 27 Jul 2026 18:45:56 +0000",
+      "updated_at": "2026-07-27T18:45:56Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:45:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b883a7b25d79e835cd3fe179e956f83a8a766d2792eb8ba6e33f1c997885b251",
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T18:43:31Z",
+      "authors": [
+        "jcbhmr"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49073942",
+      "summary": "Article URL: https://gregoryszorc.com/docs/python-build-standalone/main/ Comments URL: https://news.ycombinator.com/item?id=49073942 Points: 108 # Comments: 21",
+      "published_raw": "Mon, 27 Jul 2026 18:43:31 +0000",
+      "updated_at": "2026-07-27T18:43:31Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:43:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:27a95921377b5e701903602d8fe3b8b6ef19caeaf803cbdb998766f7358d9dc0",
+      "title": "月之暗面正式開源「Kimi K3」！超強編程能力半小時登上 Hugging Face 第一",
+      "url": "https://www.blocktempo.com/moonshot-ai-kimi-k3-open-source-hugging-face/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-27T18:38:11Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "HuggingFace",
+        "KimiK3",
+        "MoonshotAI",
+        "多模態",
+        "大語言模型",
+        "月之暗面",
+        "開源模型"
+      ],
+      "guid": "https://www.blocktempo.com/?p=514636",
+      "summary": "中國 AI 新創月之暗面（Moonshot AI）再度震撼全球開源社群！據 Hugging Face 執行長 […] 〈 月之暗面正式開源「Kimi K3」！超強編程能力半小時登上 Hugging Face 第一 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 27 Jul 2026 18:38:11 +0000",
+      "updated_at": "2026-07-27T18:38:11Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:38:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7efaf631b0cdbf1d9421b34203a1eb7c54e9174f9e17f7dd65bd310373f0a757",
+      "title": "「川普帳戶」註冊突破 700 萬兒童，麥肯錫估資產上看 9,000 億鎂",
+      "url": "https://www.blocktempo.com/trump-accounts-reach-7-million-signups-bessent/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-27T18:30:22Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "530A帳戶",
+        "S&P500",
+        "個人理財",
+        "川普帳戶",
+        "總體經濟",
+        "美國",
+        "美國財政部",
+        "貝森特"
+      ],
+      "guid": "https://www.blocktempo.com/?p=514631",
+      "summary": "據《CNBC》報導，美國財政部長斯科特·貝森特（Scott Bessent）於今日預備發表的演講中透露，專為未 […] 〈 「川普帳戶」註冊突破 700 萬兒童，麥肯錫估資產上看 9,000 億鎂 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 27 Jul 2026 18:30:22 +0000",
+      "updated_at": "2026-07-27T18:30:22Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:30:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:913501263b3de700c6977570f97c17b9fd6ff2c8ba77a14a251f62ec5c907df9",
+      "title": "Bytecode-to-Source Mapping",
+      "url": "https://tidefield.dev/bytecode-to-source-mapping/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T18:25:21Z",
+      "authors": [
+        "evakhoury"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49073665",
+      "summary": "Article URL: https://tidefield.dev/bytecode-to-source-mapping/ Comments URL: https://news.ycombinator.com/item?id=49073665 Points: 37 # Comments: 2",
+      "published_raw": "Mon, 27 Jul 2026 18:25:21 +0000",
+      "updated_at": "2026-07-27T18:25:21Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:25:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:28c683aead04f84c2d4883e69285a08342a0772e1375e26bd748d7ef6c4f9bc3",
+      "title": "砸 5000 億鎂！NVIDIA 攜手 OpenAI 擬建「全球最大」AI 資料中心，日本砸重金入局",
+      "url": "https://www.blocktempo.com/nvidia-openai-500b-data-center-ohio-10gw/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-27T18:23:54Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Nvidia",
+        "OpenAI",
+        "人工智慧",
+        "微軟",
+        "算力",
+        "資料中心",
+        "輝達"
+      ],
+      "guid": "https://www.blocktempo.com/?p=514627",
+      "summary": "據 Forbes 報導，輝達（NVIDIA）與 OpenAI 正密集討論一項高達 5,000 億美元的超級資料 […] 〈 砸 5000 億鎂！NVIDIA 攜手 OpenAI 擬建「全球最大」AI 資料中心，日本砸重金入局 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 27 Jul 2026 18:23:54 +0000",
+      "updated_at": "2026-07-27T18:23:54Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:23:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e5530df4ea19bb8ced010f52d0bfcf42e7a3869806c5653e8f0500316c71a3eb",
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T18:15:35Z",
+      "authors": [
+        "cdrnsf"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49073513",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/ Comments URL: https://news.ycombinator.com/item?id=49073513 Points: 248 # Comments: 95",
+      "published_raw": "Mon, 27 Jul 2026 18:15:35 +0000",
+      "updated_at": "2026-07-27T18:15:35Z",
+      "updated_raw": "Mon, 27 Jul 2026 18:15:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d7e44af3ea34a9d6009b2b8aa0f9b620d1c6686d9e4fbaf00bc5b6828ce7b3e6",
+      "title": "UpCodes (YC S17) is hiring remote AE's to help make buildings cheaper",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T17:02:41Z",
+      "authors": [
+        "Old_Thrashbarg"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49072523",
+      "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=49072523 Points: 0 # Comments: 0",
+      "published_raw": "Mon, 27 Jul 2026 17:02:41 +0000",
+      "updated_at": "2026-07-27T17:02:41Z",
+      "updated_raw": "Mon, 27 Jul 2026 17:02:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:13df6bfc0fdef38e3dae79869b0a10d6fe543ce87687f1b1c6a1bf2ce0eb6757",
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T16:59:08Z",
+      "authors": [
+        "snyy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49072462",
+      "summary": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data. Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we're open-sourcing NoBg, the Python library we built to train and run it. Try the model here: https://huggingface.co/spaces/feyninc/feynobg . Check out the library here: https://github.com/feyninc/nobg Some sample outputs: (1) Soccer Freekick: https://drive.google.com/file/d/1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q... (2) Hair in wind: https://drive.google.com/file/d/1Odc2m0XMVH9uZtvI_KjaRbXzhLL... (3) Bicycle with visible spokes: https://drive.google.com/file/d/1h99ahjfrtS1MFQJJgiKE2fuM3HZ... (4) Live Demo video: https://youtu.be/b1heHPvY8BM Background removal separates an image's subject from its surrounding. We've all tried it at some point. Often it is to reuse the subject in a different artifact. Nowadays, it is common to make chat stickers out of it. It is one of the most common but under-appreciated uses of AI. It is also surprisingly complex. Models can be easily confused by camouflage, motion blur, or fine structures like hair. The task requires two skills. First, a model has to identify the foreground. Second, it has to trace the foreground’s boundary and estimate an opacity value for each pixel. Generally, these skills are taught with different datasets. That creates a failure point. A poor training mix can improve one skill at the expense of the other. We saw this in our controlled evaluation. A training run with just the MaskFactory dataset improved on the CAMO benchmark but regressed on DIS5K. For FeyNoBg, we took an interpretability-first approach to training. We first studied how BiRefNet’s stages contribute to finding the foreground and reconstructing its boundary. We discovered that the third stage of it's feature extractor holds a lot of information. Both localization and boundary reconstruction depend heavily on the feature map produced here. This led us to expand this stage from 18 to 24 blocks while preserving the pre-trained weights. We then trained FeyNoBg on 26.1K diverse examples assembled from 10 datasets. The goal was to improve foreground identification and boundary precision without sacrificing either one. Across eight benchmarks, FeyNoBg achieves the best published score on four and comes within 2% of the leader on the rest. Building FeyNoBg also exposed a tooling problem. Image matting models are usually released as isolated repositories with incompatible preprocessing, training, and evaluation code. We built NoBg to solve this. NoBg puts these workflows behind one Python interface. It supports BiRefNet today, with more architectures coming. We hope you build something exciting with it! Happy to answer any questions! Comments URL: https://news.ycombinator.com/item?id=49072462 Points: 87 # Comments: 21",
+      "published_raw": "Mon, 27 Jul 2026 16:59:08 +0000",
+      "updated_at": "2026-07-27T16:59:08Z",
+      "updated_raw": "Mon, 27 Jul 2026 16:59:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c18bc4e616c99391cb575f32c3769d27637f08a9160a8dd9253643cde9e195ed",
+      "title": "MAI-Cyber-1-Flash inside MDASH",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-27T16:52:22Z",
+      "authors": [
+        "migmartri"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49072361",
+      "summary": "Article URL: https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/ Comments URL: https://news.ycombinator.com/item?id=49072361 Points: 215 # Comments: 108",
+      "published_raw": "Mon, 27 Jul 2026 16:52:22 +0000",
+      "updated_at": "2026-07-27T16:52:22Z",
+      "updated_raw": "Mon, 27 Jul 2026 16:52:22 +0000",
+      "language": "en"
+    }
+  ]
+}
