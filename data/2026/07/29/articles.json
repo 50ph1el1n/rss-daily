@@ -1,0 +1,1022 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-07-29",
+  "timezone": "Asia/Taipei",
+  "article_count": 40,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1c9c65a9ac6ab49c5919ace75e34565af3cb6e689ce01d02a49a7ef884a8a25e",
+      "title": "傳月之暗面尋求增購輝達晶片，訓練下一代模型 K4",
+      "url": "https://technews.tw/2026/07/29/chinese-ai-startup-moonshot-seeks-more-nvidia-blackwell-chips-for-next-model/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T01:00:27Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Blackwell",
+        "GB300",
+        "Kimi K4",
+        "Moonshot",
+        "Nvidia",
+        "晶片",
+        "月之暗面",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1594369",
+      "summary": "綜合港媒引用 The Information 報導，據消息人士指出，中國 AI 大模型新創公司月之暗面（Moo […]",
+      "published_raw": "Wed, 29 Jul 2026 01:00:27 +0000",
+      "updated_at": "2026-07-29T01:00:27Z",
+      "updated_raw": "Wed, 29 Jul 2026 01:00:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fe20af21a3f659f3ce4b714377177cae66d958ab01cf86f2d35208b280f7fb15",
+      "title": "康寧財測未驚豔、股價崩 12% 光通訊股全倒",
+      "url": "https://finance.technews.tw/2026/07/29/cornings-strong-second-quarter-2026-financial-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:50:10Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 資料中心",
+        "光纖",
+        "光通訊",
+        "康寧",
+        "材料",
+        "矽光子",
+        "財報"
+      ],
+      "guid": "https://technews.tw/?p=1594359",
+      "summary": "全球特殊玻璃、陶瓷材料兼光纖製造巨擘康寧（Corning Inc.）公布的第二季（4-6 月）財報雖優於預期， […]",
+      "published_raw": "Wed, 29 Jul 2026 00:50:10 +0000",
+      "updated_at": "2026-07-29T00:50:10Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:50:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:584453ca2e8ca97b1316b6dfa8247de31051bc1ea2bf64be8b331456c9283745",
+      "title": "熊本地震 晶片設備商 TEL 2 座廠停工、Sony 確認狀況",
+      "url": "https://technews.tw/2026/07/29/kumamoto-earthquake-chip-equipment-maker-tel-halts-2-plants-sony-confirms-situation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:40:18Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "SONY",
+        "停工",
+        "半導體",
+        "台積電",
+        "國際觀察",
+        "國際貿易",
+        "地震",
+        "日本",
+        "東京威力科創",
+        "熊本"
+      ],
+      "guid": "https://technews.tw/?p=1594324",
+      "summary": "日本熊本縣 28 日下午發生規模 7.1 強震，而在當地設有工廠的企業紛紛忙於確認員工安全及掌握災情。由於熊本 […]",
+      "published_raw": "Wed, 29 Jul 2026 00:40:18 +0000",
+      "updated_at": "2026-07-29T00:40:18Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:40:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:432b908d73292a290187add758dae1f0d5987e808c4ea6d4d957b0777f51cac9",
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T00:32:08Z",
+      "authors": [
+        "ejboy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49091895",
+      "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html Comments URL: https://news.ycombinator.com/item?id=49091895 Points: 3 # Comments: 0",
+      "published_raw": "Wed, 29 Jul 2026 00:32:08 +0000",
+      "updated_at": "2026-07-29T00:32:08Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:32:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:64a21fbd6e0b0be6d39cc34666ac858a96ac9792d79a04c38a715fa7ad0dbeae",
+      "title": "MIT 研發無機械零件「光達晶片」：大幅降低雜訊、拓寬自駕車感測視野",
+      "url": "https://technews.tw/2026/07/29/mit-new-lidar-chip/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:30:09Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "LIDAR",
+        "光達晶片",
+        "半導體",
+        "晶片",
+        "矽光子",
+        "矽光子晶片",
+        "紅外線脈衝",
+        "自駕車",
+        "自駕車導航"
+      ],
+      "guid": "https://technews.tw/?p=1591871",
+      "summary": "麻省理工學院（MIT）研究團隊近期成功開發出一款新型光達（LiDAR）晶片。該晶片採用創新的天線設計，在完全不 […]",
+      "published_raw": "Wed, 29 Jul 2026 00:30:09 +0000",
+      "updated_at": "2026-07-29T00:30:09Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:30:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ca8815e62e74595d03c9a38dd776f5afe5fb29394363eb0a0c4382b7f9386d0e",
+      "title": "經部：熊本地震未衝擊台廠，研華台達電營運正常",
+      "url": "https://technews.tw/2026/07/29/kumamoto-earthquake-no-impact-taiwan-firms-advantech-delta-electronics-operations-normal/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:20:17Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "JASM",
+        "台積電",
+        "國際觀察",
+        "國際貿易",
+        "地震",
+        "日本",
+        "熊本"
+      ],
+      "guid": "https://technews.tw/?p=1594356",
+      "summary": "日本熊本 28 日下午發生規模 7.1 強震，外界關注台灣企業在當地投資是否受到衝擊。經濟部 28 日晚間表示 […]",
+      "published_raw": "Wed, 29 Jul 2026 00:20:17 +0000",
+      "updated_at": "2026-07-29T00:20:17Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:20:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b47f4f0d7d7cc5df5672863d3e75694121b0d35da21c7d7f338cc593ab2a74a3",
+      "title": "The Difference Between a Button and a Link",
+      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T00:12:14Z",
+      "authors": [
+        "alexpetros"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49091738",
+      "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/ Comments URL: https://news.ycombinator.com/item?id=49091738 Points: 12 # Comments: 1",
+      "published_raw": "Wed, 29 Jul 2026 00:12:14 +0000",
+      "updated_at": "2026-07-29T00:12:14Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:12:14 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:269b383b10eb2f00393019ca66d20dfb3055c4362258dbe2c53f4ae4a7db4926",
+      "title": "Hubbele: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T00:11:23Z",
+      "authors": [
+        "handfuloflight"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49091730",
+      "summary": "Article URL: https://www.hubble.md/ Comments URL: https://news.ycombinator.com/item?id=49091730 Points: 8 # Comments: 0",
+      "published_raw": "Wed, 29 Jul 2026 00:11:23 +0000",
+      "updated_at": "2026-07-29T00:11:23Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:11:23 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:52a3bba00b2a0211915337521c2cae06fae30aa6067e07ca1e46f20824015e9c",
+      "title": "太陽能與雷射效能迎來大躍進，「質子接力」新機制實現客製化能量調控",
+      "url": "https://technews.tw/2026/07/29/proton-shuttle-assisted-triplet-energy-transfer/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:10:41Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "三重態",
+        "太陽能",
+        "太陽能電池",
+        "能源科技",
+        "能量轉移",
+        "自然科學",
+        "質子",
+        "雷射"
+      ],
+      "guid": "https://technews.tw/?p=1591831",
+      "summary": "中國科學院大連化學物理研究所團隊近期在頂尖學術期刊《Nature Materials》發表最新研究，首度揭開一 […]",
+      "published_raw": "Wed, 29 Jul 2026 00:10:41 +0000",
+      "updated_at": "2026-07-29T00:10:41Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:10:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:48e478335c5fbd843108a0aabd4a990d132913786412e52473dc1ff9d222093b",
+      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "url": "https://studio.academa.ai/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T00:07:43Z",
+      "authors": [
+        "sinaatalay"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49091703",
+      "summary": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos. We reimplemented Manim with the same Python API, but the implementation underneath is Rust, connected to Python through PyO3. The Rust code uses wgpu, so rendering happens on the GPU. To run it in the browser, we compiled the Rust parts to WebAssembly so the PyO3 extension loads in Pyodide. In the browser, wgpu targets the WebGPU API, so animations render in real time on your GPU through the browser. The editor is Monaco (the editor that powers VS Code) with a live preview: write your Manim code on one side, watch the animation update on the other. There's also a built-in AI agent if you'd rather vibe-code your animations. Comments URL: https://news.ycombinator.com/item?id=49091703 Points: 12 # Comments: 1",
+      "published_raw": "Wed, 29 Jul 2026 00:07:43 +0000",
+      "updated_at": "2026-07-29T00:07:43Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:07:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f2577fe09c6d846a7ed0715b3e270bfb66136942eaf70f40a948b7dc3070ec9e",
+      "title": "電動車競賽進入下半場，日產為何選擇按下暫停鍵？",
+      "url": "https://technews.tw/2026/07/29/nissan-kills-cash-cow/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:00:16Z",
+      "authors": [
+        "古川"
+      ],
+      "categories": [
+        "中國電動車",
+        "企業轉型",
+        "國際貿易",
+        "國際金融",
+        "日產汽車",
+        "歐洲",
+        "汽車科技",
+        "電動車",
+        "電氣化"
+      ],
+      "guid": "https://technews.tw/?p=1593952",
+      "summary": "全球汽車產業持續投資電動車競賽，日本汽車大廠日產（Nissan Motor）卻選擇踩煞車。為了保留現金並改善財 […]",
+      "published_raw": "Wed, 29 Jul 2026 00:00:16 +0000",
+      "updated_at": "2026-07-29T00:00:16Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:00:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fecbb2781b9c7de133046ec708feb6f67ab059d2b8f64d906b45f02fd3b67fd1",
+      "title": "SK 海力士藉記憶體技術優勢，展開對中國長鑫存儲的逆襲",
+      "url": "https://finance.technews.tw/2026/07/29/sk-hynix-launches-a-counterattack-against-changxin-memory-technologies-in-china/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T00:00:11Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "LDDR6",
+        "OPPO",
+        "SK Hynix",
+        "Vivo",
+        "中國觀察",
+        "半導體",
+        "國際觀察",
+        "小米",
+        "手機",
+        "晶片",
+        "華為",
+        "記憶體",
+        "財經",
+        "長鑫存儲"
+      ],
+      "guid": "https://technews.tw/?p=1594337",
+      "summary": "韓國記憶體大廠 SK 海力士 （SK hynix） 正積極推進次世代記憶體標準 LPDDR6 的生產計畫，預期 […]",
+      "published_raw": "Wed, 29 Jul 2026 00:00:11 +0000",
+      "updated_at": "2026-07-29T00:00:11Z",
+      "updated_raw": "Wed, 29 Jul 2026 00:00:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:78d5b26fc44d9a58eb43778a9487a7b16ab128462be8f2374bf843fbdcb8f13a",
+      "title": "不只是贊助商，Google Cloud 如何用 Formula E 給自己的 AI 做壓力測試",
+      "url": "https://technews.tw/2026/07/29/formula-e-google-cloud/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:50:32Z",
+      "authors": [
+        "品玩"
+      ],
+      "categories": [
+        "Formula E",
+        "Gemini",
+        "Google",
+        "Google Cloud",
+        "汽車科技",
+        "賽車"
+      ],
+      "guid": "https://technews.tw/?p=1593995",
+      "summary": "7 月 5 日下午的上海國際賽車場，是那種賽車迷會記很多年的下午。 雨下下停停，賽道半乾半濕。Formula […]",
+      "published_raw": "Tue, 28 Jul 2026 23:50:32 +0000",
+      "updated_at": "2026-07-28T23:50:32Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:50:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:28c07fc50a97ba398c7498bd12d9025788ee32d0afd5d94805a9d9595a617974",
+      "title": "砸百萬美元買公司當白老鼠，微軟前團隊實測「AI 執行長」挑戰營收半年翻倍",
+      "url": "https://technews.tw/2026/07/29/skyfall-ai-ai-ceo/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:40:03Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI CEO",
+        "AI 人工智慧",
+        "LLM",
+        "Microsoft",
+        "SaaS",
+        "Skyfall AI",
+        "人力資源",
+        "新創",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1591752",
+      "summary": "Skyfall AI 宣布正式結束低調營運（Stealth mode），並投下一顆市場震撼彈：他們準備將自家技 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:40:03 +0000",
+      "updated_at": "2026-07-28T23:40:03Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:40:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5b8e15e62e15768dc40993b580074d7f839330eb648038e93a485163f0e1a061",
+      "title": "對付登革熱，斯里蘭卡動用無人機",
+      "url": "https://technews.tw/2026/07/29/sri-lanka-uses-air-force-drones-to-tackle-spreading-dengue-outbreak/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:30:55Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "斯里蘭卡",
+        "無人機",
+        "環境科學",
+        "登革熱",
+        "蚊子"
+      ],
+      "guid": "https://technews.tw/?p=1593229",
+      "summary": "無人機成為未來戰爭的主流，斯里蘭卡軍方也大舉動用無人機，但是並不是為了與人類打仗，而是與蚊子和病毒之間的防疫戰 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:30:55 +0000",
+      "updated_at": "2026-07-28T23:30:55Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:30:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:36b86c0da96fff0ef3df0222a706919f690e3ca9c29585c2e50b9c63082728fa",
+      "title": "難怪魏哲家羨慕！SK 海力士第二季營收獲利再創新高，淨利率達驚人 118%",
+      "url": "https://finance.technews.tw/2026/07/29/sk-hynixs-revenue-and-profit-hit-new-highs-in-the-second-quarter/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:30:01Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "HBM",
+        "IC 設計",
+        "NAND Flash",
+        "SK海力士",
+        "dram",
+        "人工智慧",
+        "半導體",
+        "國際觀察",
+        "晶片",
+        "記憶體",
+        "財報",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1594328",
+      "summary": "韓國記憶體大廠 SK 海力士（SK Hynix）公布 2026 年第二季財務報告。受惠於全球人工智慧（AI）需 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:30:01 +0000",
+      "updated_at": "2026-07-28T23:30:01Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:30:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b2eb183722680d72d9c55a062360a9b608e2f7eb5fab6f3177e4299192ea1e92",
+      "title": "ReFrame – The EPaper Camera",
+      "url": "https://reframe.camera/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T23:27:09Z",
+      "authors": [
+        "phil294"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49091379",
+      "summary": "Article URL: https://reframe.camera/ Comments URL: https://news.ycombinator.com/item?id=49091379 Points: 9 # Comments: 2",
+      "published_raw": "Tue, 28 Jul 2026 23:27:09 +0000",
+      "updated_at": "2026-07-28T23:27:09Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:27:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0d79359f91af6618cc2c2a5701bb44565f63d82a7238d9e6509e1af69d9b0562",
+      "title": "你沒說的它都知道，四句提示詞測出 AI 已能從零星對話精準推斷使用者隱私",
+      "url": "https://infosecu.technews.tw/2026/07/29/4-prompts-chatgpt-gemini-see-through-privacy/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:20:46Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 聊天機器人",
+        "提示詞",
+        "敏感資訊",
+        "科技趣聞",
+        "資訊安全",
+        "隱私"
+      ],
+      "guid": "https://technews.tw/?p=1592672",
+      "summary": "人工智慧（AI）聊天機器人到底能「讀懂」你多少？《紐約時報》專欄作家 Brian X. Chen 23 日撰文 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:20:46 +0000",
+      "updated_at": "2026-07-28T23:20:46Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:20:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bd9ea5ebaa43d3e59a2740c8e4ba935825dc0b6e3d4a5070a88ee5266b9cefca",
+      "title": "50% 成本實現超越業界防護效能，微軟推出全新網安 AI 模型與代理式平台",
+      "url": "https://infosecu.technews.tw/2026/07/29/microsoft-touts-cost-saving-ai-model-for-cybersecurity/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:20:36Z",
+      "authors": [
+        "Evan"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "GitHub Copilot",
+        "Google",
+        "Hugging Face",
+        "MAI-Cyber-1-Flash",
+        "MDASH",
+        "Microsoft",
+        "OpenAI",
+        "Project Perception",
+        "Z.ai",
+        "網路",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1593748",
+      "summary": "就在 Google 高階主管 Hayete Gallot 回鍋掌管微軟資安業務最高主管 5 個月後，微軟於週一 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:20:36 +0000",
+      "updated_at": "2026-07-28T23:20:36Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:20:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:00a24cf25d4c9554dc7f453fab6ee38f070606ec476ffa646cd1509c10710755",
+      "title": "全球首個 3D 熱隱形斗篷問世，紅外線相機也偵測不到",
+      "url": "https://technews.tw/2026/07/29/us-researchers-develop-first-any-direction-thermal-cloak/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:10:34Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "3D列印",
+        "材料",
+        "熱像儀",
+        "熱成像",
+        "熱隱形技術",
+        "科技趣聞",
+        "隱形斗篷"
+      ],
+      "guid": "https://technews.tw/?p=1593150",
+      "summary": "美國伊利諾大學厄巴納-香檳分校（University of Illinois Urbana-Champaign […]",
+      "published_raw": "Tue, 28 Jul 2026 23:10:34 +0000",
+      "updated_at": "2026-07-28T23:10:34Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:10:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3dca41b440e261251c6d284cd96bc753b5052275257161b0deab3692ff40315c",
+      "title": "恩智浦第二季財報優於市場預期，營收數字連續第三季成長",
+      "url": "https://finance.technews.tw/2026/07/29/nxps-second-quarter-earnings-exceeded-market-expectations/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:10:27Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "IC 設計",
+        "半導體",
+        "恩智浦",
+        "晶片",
+        "機器人",
+        "汽車科技",
+        "處理器",
+        "財報",
+        "財經",
+        "車用電子",
+        "邊緣運算"
+      ],
+      "guid": "https://technews.tw/?p=1594322",
+      "summary": "車用晶片大廠恩智浦半導體（NXP Semiconductors）公布截至 6 月 28 日的第二季財務報告。受 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:10:27 +0000",
+      "updated_at": "2026-07-28T23:10:27Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:10:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:153feff4d3ed55fdfd3c0fdc0bd13862813ad6c2457293489dcac073c743748e",
+      "title": "從馬路到水路，小米申請新能源車水下推進器專利",
+      "url": "https://technews.tw/2026/07/29/xiaomi-new-energy-vehicle-underwater-thruster-patent-road-to-water/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T23:00:44Z",
+      "authors": [
+        "TrendForce 集邦科技"
+      ],
+      "categories": [
+        "專利",
+        "小米",
+        "尖端科技",
+        "技術分析",
+        "會員專區",
+        "水下推進器",
+        "水陸兩棲車",
+        "汽車科技"
+      ],
+      "guid": "https://technews.tw/?p=1590938",
+      "summary": "2026 年 7 月小米汽車獲准水下推進器專利，代表水陸兩棲車已非紙上談兵。該專利揭露的導流結構創新，結合比亞 […]",
+      "published_raw": "Tue, 28 Jul 2026 23:00:44 +0000",
+      "updated_at": "2026-07-28T23:00:44Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:00:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:79f0ec8c5aba537a1b46bd0d818e18e8a96d41863110a6d60da4416f99668328",
+      "title": "Schools are adding pepper-spraying drones to help combat active shooters",
+      "url": "https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T23:00:02Z",
+      "authors": [
+        "zdw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49091153",
+      "summary": "Article URL: https://www.washingtonpost.com/nation/2026/07/28/schools-are-adding-pepper-spraying-drones-help-combat-active-shooters/ Comments URL: https://news.ycombinator.com/item?id=49091153 Points: 14 # Comments: 15",
+      "published_raw": "Tue, 28 Jul 2026 23:00:02 +0000",
+      "updated_at": "2026-07-28T23:00:02Z",
+      "updated_raw": "Tue, 28 Jul 2026 23:00:02 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:288e68d992e13d17b2ed6d2fcc2c62e4d63b41321c2b0f40c3f8cf3076d0872d",
+      "title": "Underwater oxygen loss threatens earth's stability, researchers warn",
+      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T22:31:14Z",
+      "authors": [
+        "littlexsparkee"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49090867",
+      "summary": "Article URL: https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn Comments URL: https://news.ycombinator.com/item?id=49090867 Points: 108 # Comments: 55",
+      "published_raw": "Tue, 28 Jul 2026 22:31:14 +0000",
+      "updated_at": "2026-07-28T22:31:14Z",
+      "updated_raw": "Tue, 28 Jul 2026 22:31:14 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cf57eb51bca30e9e0eecd2a23c43c6d34d7c483180de01e08c1d0127ec569142",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T22:09:06Z",
+      "authors": [
+        "twalichiewicz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49090607",
+      "summary": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in another, constantly switching back and forth. I figured there was probably a simpler way, so I threw together this userscript to merge the two. 1. Clicking a link from Hacker News opens the article with a side panel containing the discussion. It doesn't require your credentials, is resizable, and is easy to tweak if you want to customize it. 2. If you land on an article that has previously been shared on HN, the script finds the existing discussion and adds a button in the top-right to open the panel. Feedback welcome. Comments URL: https://news.ycombinator.com/item?id=49090607 Points: 90 # Comments: 31",
+      "published_raw": "Tue, 28 Jul 2026 22:09:06 +0000",
+      "updated_at": "2026-07-28T22:09:06Z",
+      "updated_raw": "Tue, 28 Jul 2026 22:09:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5f2337efd7a209a1510fb57b66d5b10bdc78ebfec9c737919fada55c53478896",
+      "title": "Bloom Energy 第二季營收首破 10 億美元，客戶包含所有美國大型雲端業者",
+      "url": "https://finance.technews.tw/2026/07/29/bloom-energy-q2-revenue-exceeds-1-billion-ai-data-center-demand-boosts-full-year-outlook/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-28T21:36:17Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "Bloom Energy",
+        "SOFC",
+        "氫能",
+        "燃料電池",
+        "能源科技",
+        "財報",
+        "零組件",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1594318",
+      "summary": "Bloom Energy 公布 2026 年第二季財報，在 AI 資料中心電力需求持續成長帶動下，營收首度突破 […]",
+      "published_raw": "Tue, 28 Jul 2026 21:36:17 +0000",
+      "updated_at": "2026-07-28T21:36:17Z",
+      "updated_raw": "Tue, 28 Jul 2026 21:36:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c2a47abb5e765e893534f3867614fe5386b34f903cd8518e28210a8fbfa5cd3f",
+      "title": "Running Kimi K3 on a M1 Max",
+      "url": "https://github.com/gavamedia/deltafin",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T21:35:19Z",
+      "authors": [
+        "tito"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49090233",
+      "summary": "Article URL: https://github.com/gavamedia/deltafin Comments URL: https://news.ycombinator.com/item?id=49090233 Points: 86 # Comments: 64",
+      "published_raw": "Tue, 28 Jul 2026 21:35:19 +0000",
+      "updated_at": "2026-07-28T21:35:19Z",
+      "updated_raw": "Tue, 28 Jul 2026 21:35:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dfa784cb8b20a11983b2fc06495b39c75d4337f30c13b59e4974f9b597fdc97b",
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T20:58:39Z",
+      "authors": [
+        "freediver"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49089814",
+      "summary": "Article URL: https://mac-classic.com/news/half-life-ported-to-mac-os-9/ Comments URL: https://news.ycombinator.com/item?id=49089814 Points: 126 # Comments: 51",
+      "published_raw": "Tue, 28 Jul 2026 20:58:39 +0000",
+      "updated_at": "2026-07-28T20:58:39Z",
+      "updated_raw": "Tue, 28 Jul 2026 20:58:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1a463aa76591435914e6c6c3969012ef747e6f45f09ad4a075f8c8b890d88253",
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T20:52:55Z",
+      "authors": [
+        "bakigul"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49089755",
+      "summary": "Article URL: https://github.com/openai/codex-security Comments URL: https://news.ycombinator.com/item?id=49089755 Points: 315 # Comments: 83",
+      "published_raw": "Tue, 28 Jul 2026 20:52:55 +0000",
+      "updated_at": "2026-07-28T20:52:55Z",
+      "updated_raw": "Tue, 28 Jul 2026 20:52:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bbeb946535ca568d2d944147952d809a84fb7fd9460267e2b89ed0fb8e70a3d9",
+      "title": "Pacing the frontier",
+      "url": "https://www.pacingthefrontier.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T20:09:09Z",
+      "authors": [
+        "reducesuffering"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49089240",
+      "summary": "Article URL: https://www.pacingthefrontier.com/ Comments URL: https://news.ycombinator.com/item?id=49089240 Points: 67 # Comments: 56",
+      "published_raw": "Tue, 28 Jul 2026 20:09:09 +0000",
+      "updated_at": "2026-07-28T20:09:09Z",
+      "updated_raw": "Tue, 28 Jul 2026 20:09:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0ca81db19720e18a1ef11f54624212be7928a9b8e7890ec41355a34a7a2e8b7c",
+      "title": "Hulios: An eBPF-powered, transparent Tor gateway for Linux",
+      "url": "https://github.com/ghaziwali/Hulios",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T19:54:38Z",
+      "authors": [
+        "ghaziwali"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49089045",
+      "summary": "Article URL: https://github.com/ghaziwali/Hulios Comments URL: https://news.ycombinator.com/item?id=49089045 Points: 27 # Comments: 3",
+      "published_raw": "Tue, 28 Jul 2026 19:54:38 +0000",
+      "updated_at": "2026-07-28T19:54:38Z",
+      "updated_raw": "Tue, 28 Jul 2026 19:54:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:772bbeb96f7418a259d0e685bafa63d42e2fc261054bcd02d9f635f2252878ff",
+      "title": "聯準會 FOMC 決議前夕市場共識崩塌！Kobeissi Letter：3 大理由 Fed 將不會升息",
+      "url": "https://www.blocktempo.com/kobeissi-letter-predicts-fed-rate-pause-july-2026/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-28T18:35:39Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "FED",
+        "KobeissiLetter",
+        "利率",
+        "升息",
+        "川普",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "通膨"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515134",
+      "summary": "聯準會（Fed）即將於明（29）日公布最新利率決議，市場預期出現近年來最嚴重的分歧。知名財經分析帳號 The […] 〈 聯準會 FOMC 決議前夕市場共識崩塌！Kobeissi Letter：3 大理由 Fed 將不會升息 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 28 Jul 2026 18:35:39 +0000",
+      "updated_at": "2026-07-28T18:35:39Z",
+      "updated_raw": "Tue, 28 Jul 2026 18:35:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:017b9922c53f4d5156fe3472140e04d95cb40b8618133404b62e77822ffb88c9",
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T18:35:11Z",
+      "authors": [
+        "Eldodi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49088058",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/2026-07-28/ Comments URL: https://news.ycombinator.com/item?id=49088058 Points: 96 # Comments: 32",
+      "published_raw": "Tue, 28 Jul 2026 18:35:11 +0000",
+      "updated_at": "2026-07-28T18:35:11Z",
+      "updated_raw": "Tue, 28 Jul 2026 18:35:11 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d3a64253dd824f6e186760442ab7bb69bbfdd93a8bf8a5aa34143c68f1c6686c",
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T17:37:12Z",
+      "authors": [
+        "lkurtz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49087306",
+      "summary": "https://www.apple.com/shop/apple-upgrade Comments URL: https://news.ycombinator.com/item?id=49087306 Points: 135 # Comments: 230",
+      "published_raw": "Tue, 28 Jul 2026 17:37:12 +0000",
+      "updated_at": "2026-07-28T17:37:12Z",
+      "updated_raw": "Tue, 28 Jul 2026 17:37:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2b06ee3cdde2b8ba77ca741bade3e27a81a5bc3e717653598321d42aeb5d2dd0",
+      "title": "Vitalik 解析密碼學聖杯 Diamond iO：讓智能合約「完全隱身」的行星級協議",
+      "url": "https://www.blocktempo.com/vitalik-buterin-diamond-io-cryptography-obfuscation/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-28T17:34:48Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "DiamondiO",
+        "FHE",
+        "Uncategorized",
+        "Vitalik",
+        "全同態加密",
+        "區塊鏈隱私",
+        "密碼學",
+        "混淆協議"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515128",
+      "summary": "密碼學領域的「聖杯」技術迎來重要理論進展！據 Vitalik Buterin 官方部落格於今（28）日發布的最 […] 〈 Vitalik 解析密碼學聖杯 Diamond iO：讓智能合約「完全隱身」的行星級協議 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 28 Jul 2026 17:34:48 +0000",
+      "updated_at": "2026-07-28T17:34:48Z",
+      "updated_raw": "Tue, 28 Jul 2026 17:34:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6535213c3e4fe2f0e38a5fe9220cac12b02d9a0a0e3782fb27acff9f30adc89c",
+      "title": "微策略 Michael Saylor 警告：「內部腐敗」是比特幣最大威脅！點名反對 BIP-110 審查",
+      "url": "https://www.blocktempo.com/michael-saylor-warns-bitcoin-internal-corruption-consensus/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-28T17:27:30Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "BIP110",
+        "BTC",
+        "MichaelSaylor",
+        "共識規則",
+        "微策略",
+        "擴容",
+        "比特幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515118",
+      "summary": "微策略（MicroStrategy）創辦人 Michael Saylor 於今（28）日發布長文警告，比特幣雖 […] 〈 微策略 Michael Saylor 警告：「內部腐敗」是比特幣最大威脅！點名反對 BIP-110 審查 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 28 Jul 2026 17:27:30 +0000",
+      "updated_at": "2026-07-28T17:27:30Z",
+      "updated_raw": "Tue, 28 Jul 2026 17:27:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fe9f5edb12c4d74a4db779784cfce631ff60a064f64bcaf13b6fdd403f3dda1a",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T17:22:16Z",
+      "authors": [
+        "gslin"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49087091",
+      "summary": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091 Points: 172 # Comments: 115",
+      "published_raw": "Tue, 28 Jul 2026 17:22:16 +0000",
+      "updated_at": "2026-07-28T17:22:16Z",
+      "updated_raw": "Tue, 28 Jul 2026 17:22:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ed1680af6609e388560b8c3021c05d49cbbcf2f752722e98465f98c19118b94b",
+      "title": "SpaceX 股價較 IPO 時暴跌 20%！市值蒸發逾 1.2 兆美元，空頭獲利近 80 億",
+      "url": "https://www.blocktempo.com/spacex-stock-plunges-1-trillion-market-cap-wiped-out/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-28T17:20:18Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "ElonMusk",
+        "IPO",
+        "SpaceX",
+        "starship",
+        "即時新聞",
+        "摩根士丹利",
+        "總體經濟",
+        "馬斯克"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515112",
+      "summary": "據《Bloomberg》報導，馬斯克旗下的太空探索科技公司 SpaceX 自上個月創紀錄的首次公開發行（IPO […] 〈 SpaceX 股價較 IPO 時暴跌 20%！市值蒸發逾 1.2 兆美元，空頭獲利近 80 億 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 28 Jul 2026 17:20:18 +0000",
+      "updated_at": "2026-07-28T17:20:18Z",
+      "updated_raw": "Tue, 28 Jul 2026 17:20:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f4aaa7c20fb26384d23dbc4d08d0993aadda80635081a948ed0c0a0c2dcdeba8",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T17:11:54Z",
+      "authors": [
+        "tmtvl"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49086971",
+      "summary": "Article URL: https://sbcl.org/all-news.html?2.6.7 Comments URL: https://news.ycombinator.com/item?id=49086971 Points: 194 # Comments: 80",
+      "published_raw": "Tue, 28 Jul 2026 17:11:54 +0000",
+      "updated_at": "2026-07-28T17:11:54Z",
+      "updated_raw": "Tue, 28 Jul 2026 17:11:54 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f11c95cdc0b8eee5faf3dcb33312b9bace0e3b18d5519b602f0f2ad2794c3284",
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-28T16:58:31Z",
+      "authors": [
+        "speckx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49086788",
+      "summary": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/ Comments URL: https://news.ycombinator.com/item?id=49086788 Points: 395 # Comments: 206",
+      "published_raw": "Tue, 28 Jul 2026 16:58:31 +0000",
+      "updated_at": "2026-07-28T16:58:31Z",
+      "updated_raw": "Tue, 28 Jul 2026 16:58:31 +0000",
+      "language": "en"
+    }
+  ]
+}
