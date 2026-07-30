@@ -1,0 +1,1242 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-07-30",
+  "timezone": "Asia/Taipei",
+  "article_count": 48,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1ec98284389e6961a9591d821ac37070ce6589ec7275b655b6dcc1b0a5cf28e5",
+      "title": "AI 失控網攻引憂，川普：評估管制措施但不想限制",
+      "url": "https://technews.tw/2026/07/30/ai-cyberattacks-concerns-trump-considers-regulations-opposes-restrictions/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:50:30Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "Hugging Face",
+        "Kimi K3",
+        "Modal Labs",
+        "OpenAI",
+        "國際觀察",
+        "川普"
+      ],
+      "guid": "https://technews.tw/?p=1595021",
+      "summary": "AI 巨頭 OpenAI 日前披露，旗下系統於測試期間失控發動網攻，引發外界擔憂人工智慧（AI）模型帶來的風險 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:50:30 +0000",
+      "updated_at": "2026-07-30T00:50:30Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:50:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:029f5e9f87d1fe3e24cba0919d20b42e36cc92dc995b21ad1cf9f78684dd059a",
+      "title": "地震影響擴大 豐田 3 座廠、三菱功率半導體廠停工",
+      "url": "https://technews.tw/2026/07/30/earthquake-impact-expands-toyota-suspends-3-plants-mitsubishi-halts-power-semiconductor-plant/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:40:55Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "三菱電機",
+        "停工",
+        "半導體",
+        "國際貿易",
+        "地震",
+        "日本",
+        "汽車科技",
+        "熊本",
+        "瑞薩電子",
+        "豐田汽車",
+        "車用晶片"
+      ],
+      "guid": "https://technews.tw/?p=1595008",
+      "summary": "日本熊本縣 28 日下午發生的規模 7.1 強震對日本企業的生產影響擴大，除 Sony、瑞薩電子（Renesa […]",
+      "published_raw": "Thu, 30 Jul 2026 00:40:55 +0000",
+      "updated_at": "2026-07-30T00:40:55Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:40:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b62fb772596b246ca642699ffeac77e1a519f1284e7909a1f222c1684999c182",
+      "title": "熊本地震後台積電 JASM 仍在校正調整，公司最新說明在這裡",
+      "url": "https://technews.tw/2026/07/30/recovery-status-of-tsmc-jasm-after-the-kumamoto-earthquake/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:30:33Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "JASM",
+        "半導體",
+        "原料",
+        "台積電",
+        "地震",
+        "晶圓",
+        "晶片",
+        "熊本"
+      ],
+      "guid": "https://technews.tw/?p=1595012",
+      "summary": "針對令和 8 年熊本地震對當地半導體產業的衝擊，尤其是針對台積電在當地營運子公司 JASM 的目前狀況，產業界 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:30:33 +0000",
+      "updated_at": "2026-07-30T00:30:33Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:30:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0f7d9e13fff24c30d61458c2282de20a5ba2cf98c36850261fb81eaf8200b0b2",
+      "title": "首個美國腦植入裝置獲歐盟核准，Science Corp 視網膜晶片助失明者恢復視力",
+      "url": "https://technews.tw/2026/07/30/retina-chip-designed-to-restore-sight-to-go-on-sale-in-europe/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:30:00Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "PRIMA",
+        "Science Corporation",
+        "晶片",
+        "植入式晶片",
+        "生物科技",
+        "視障者",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1591969",
+      "summary": "美國神經工程與腦機介面公司 Science Corporation 22 日宣布，旗下視網膜植入裝置 PRIM […]",
+      "published_raw": "Thu, 30 Jul 2026 00:30:00 +0000",
+      "updated_at": "2026-07-30T00:30:00Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:30:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dde96242a68c4153b578680899c202d0d167bacbfd32d1ae37fa3cca41d3e953",
+      "title": "Lumentum 豪砸 8,700 萬美元，提前卡位磷化銦晶圓供應鏈",
+      "url": "https://technews.tw/2026/07/30/lumentum-87m-indium-phosphide-wafer-supply-chain-preemptive-positioning/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:23:26Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AXT",
+        "CPO",
+        "Lumentum",
+        "光通訊",
+        "半導體",
+        "矽光子",
+        "磷化銦"
+      ],
+      "guid": "https://technews.tw/?p=1594996",
+      "summary": "化合物半導體基板廠 AXT 宣布，已與光通訊元件大廠 Lumentum 簽署磷化銦晶圓基板供應與產能保留協議。 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:23:26 +0000",
+      "updated_at": "2026-07-30T00:23:26Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:23:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f08878bdba529f927984a343cf23f0daf65f7bdf98970fb4b4dfffb25574e576",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-30T00:20:16Z",
+      "authors": [
+        "funador"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49104747",
+      "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day. So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback. Comments URL: https://news.ycombinator.com/item?id=49104747 Points: 6 # Comments: 1",
+      "published_raw": "Thu, 30 Jul 2026 00:20:16 +0000",
+      "updated_at": "2026-07-30T00:20:16Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:20:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f2b7458d36569b8c24d108e3b2b48f3c1c2a36a1a4a1910bab3b22e53e031935",
+      "title": "心臟衰竭治療的新整合策略，一顆複方藥丸造成的改變",
+      "url": "https://technews.tw/2026/07/30/polypill-for-heart-failure-with-reduced-ejection-fraction/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:20:16Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "心臟",
+        "心臟衰竭",
+        "生物科技",
+        "複方藥丸",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1585322",
+      "summary": "近年心臟衰竭治療已有長足進步，但許多患者常因藥物種類繁多而沒有確實服藥。最近，美國德州西南醫學中心（Unive […]",
+      "published_raw": "Thu, 30 Jul 2026 00:20:16 +0000",
+      "updated_at": "2026-07-30T00:20:16Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:20:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:16f3fc2004d539bf3d51ce5278e3fd43968ca713833adeda0d8074e8a3951adb",
+      "title": "AI 軍備競賽開銷驚人，Meta 第二季現金流大減 91%",
+      "url": "https://finance.technews.tw/2026/07/30/meta-reports-second-quarter-2026-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:15:17Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 基礎建設",
+        "Alphabet",
+        "Facebook",
+        "Meta",
+        "智慧眼鏡",
+        "現金流",
+        "財報"
+      ],
+      "guid": "https://technews.tw/?p=1595004",
+      "summary": "Facebook 母公司 Meta 今天公布財報，獲利未達市場預期。為在人工智慧（AI）競賽保持競爭力所投入的 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:15:17 +0000",
+      "updated_at": "2026-07-30T00:15:17Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:15:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:542749174b2a33f124be57b95ddd9c54e4a0aff7051013e557424b7933d54d4b",
+      "title": "OpenAI、Anthropic 掀 IPO 造富潮，員工先收到的可能是天價稅單",
+      "url": "https://finance.technews.tw/2026/07/30/openai-anthropic-ipos-imminent-ai-millionaires-face-unexpected-tax-bills/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:10:39Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Anthropic",
+        "IPO",
+        "OpenAI",
+        "人力資源",
+        "加州",
+        "稅務",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1592527",
+      "summary": "OpenAI 與 Anthropic 傳出將在今年底或明年初進行首次公開發行（IPO），外界原本將目光聚焦於這 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:10:39 +0000",
+      "updated_at": "2026-07-30T00:10:39Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:10:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ef45f03d1bbfb629d62beaf9d36020b6b331e53104e6a825512df78e95fcf38f",
+      "title": "特斯拉財報轉弱，市場開始重新定價「未來故事」",
+      "url": "https://finance.technews.tw/2026/07/30/tesla-earnings-weaken-market-reprices-future-story/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:00:45Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "伊隆·馬斯克",
+        "估值",
+        "公司治理",
+        "機器人",
+        "汽車科技",
+        "特斯拉",
+        "股價",
+        "自駕車",
+        "證券",
+        "變現",
+        "財經",
+        "電動車",
+        "願景"
+      ],
+      "guid": "https://technews.tw/?p=1594135",
+      "summary": "特斯拉最新財報仍有營收成長，但也將市場最在意的問題攤在檯面。第二季營收年增 26% 至 282.4 億美元，看 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:00:45 +0000",
+      "updated_at": "2026-07-30T00:00:45Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:00:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:57d99128753864173efac4f6a7b8e36e14b95ecbd0aaecde70a01a3013928d17",
+      "title": "令和 8 年熊本地震衝擊半導體企業，多家企業持續停工引發供應鏈危機",
+      "url": "https://technews.tw/2026/07/30/the-kumamoto-earthquake-of-1959-impacted-local-semiconductor-companies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-30T00:00:15Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "JASM",
+        "SONY",
+        "三菱電機",
+        "半導體",
+        "台積電",
+        "國際觀察",
+        "地震",
+        "熊本",
+        "瑞薩"
+      ],
+      "guid": "https://technews.tw/?p=1594984",
+      "summary": "根據熊本當地媒體熊本日日新聞的報導，截至 29 日「令和 8 年熊本地震」發生的第二天為止，九州熊本縣內的半導 […]",
+      "published_raw": "Thu, 30 Jul 2026 00:00:15 +0000",
+      "updated_at": "2026-07-30T00:00:15Z",
+      "updated_raw": "Thu, 30 Jul 2026 00:00:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c104a3da5d159dd1b18faede35296de2bbd2bc5c184cfd9ea9531aa6e51921fa",
+      "title": "AI 不是來取代員工，而是放大人才！全球企業重新發現「人機協作」才是真正的競爭力",
+      "url": "https://finance.technews.tw/2026/07/30/survey-shows-more-than-half-of-companies-regret-laying-off-employees-due-to-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:50:28Z",
+      "authors": [
+        "JA"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 培訓",
+        "AI 失業",
+        "IBM",
+        "人力資源",
+        "公司治理",
+        "福特汽車",
+        "職場",
+        "裁員"
+      ],
+      "guid": "https://technews.tw/?p=1592802",
+      "summary": "當生成式 AI 迅速席捲全球企業時，許多高階主管曾用 AI 取代人力，視為提升效率與降低成本的契機，甚至引發激 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:50:28 +0000",
+      "updated_at": "2026-07-29T23:50:28Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:50:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d3e922b5a1d5500f5792c8cc7a6efebc759588c959899af99d2fb8cd67ea2536",
+      "title": "Azure 年營收首度突破千億美元，微軟 AI 業務再寫新里程碑",
+      "url": "https://finance.technews.tw/2026/07/30/azure-revenue-100-billion-microsoft-ai-milestone/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:44:28Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Azure",
+        "Copilot",
+        "Microsoft",
+        "財報",
+        "資本支出",
+        "雲端"
+      ],
+      "guid": "https://technews.tw/?p=1594981",
+      "summary": "微軟公布 2026 會計年度第四季（截至 6 月 30 日）財報，受惠於 AI 與雲端業務持續成長，第四季營收 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:44:28 +0000",
+      "updated_at": "2026-07-29T23:44:28Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:44:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c7022fef6e2d175f35e16f1e5f14ed8b6f6d6a9e35b215c9cf87a9b1af8c05da",
+      "title": "Z 世代女性就業成長落後男性，史丹佛研究：主因是「職業分流」而非 AI",
+      "url": "https://technews.tw/2026/07/30/gen-z-women-entry-level-jobs-lag-men-not-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:40:22Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Z 世代",
+        "人力資源",
+        "初階職位",
+        "國際觀察",
+        "工作",
+        "性別",
+        "職場",
+        "職業"
+      ],
+      "guid": "https://technews.tw/?p=1591912",
+      "summary": "史丹佛大學數位經濟實驗室與 ADP Research 最新公布的薪資資料指出，在入門職場中，Z 世代年輕女性的 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:40:22 +0000",
+      "updated_at": "2026-07-29T23:40:22Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:40:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:243c0461cf14108625d8e9b1568c918c13cf4c658a11774b6ca421113df533be",
+      "title": "數發部將公布 AI 模型評測結果，助企業、用戶避風險",
+      "url": "https://technews.tw/2026/07/30/moda-to-release-ai-model-evaluation-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:30:49Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 評測中心",
+        "AI 風險",
+        "主權 AI",
+        "數發部",
+        "科技政策"
+      ],
+      "guid": "https://technews.tw/?p=1594718",
+      "summary": "數發部指出，AI 評測中心針對 163 款大型語言模型進行評測，涵蓋美國、中國及法國等國，評估模型繁體中文能力 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:30:49 +0000",
+      "updated_at": "2026-07-29T23:30:49Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:30:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:33f16b370d3eb6c70bdeed6f922e7c7410c22cb881740f93661cfabbb31b7496",
+      "title": "美學者籲重塑教育現場：把防弊心力轉向打造「受控 AI 課堂」",
+      "url": "https://technews.tw/2026/07/30/how-ai-can-be-designed-into-the-classroom/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:20:27Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "學習環境",
+        "對話紀錄",
+        "校園",
+        "生成式 AI",
+        "科技教育"
+      ],
+      "guid": "https://technews.tw/?p=1591914",
+      "summary": "美國教育科技與 AI 設計議題近日再度升溫。富比士（Forbes）專欄作者、萊特州立大學（Wright Sta […]",
+      "published_raw": "Wed, 29 Jul 2026 23:20:27 +0000",
+      "updated_at": "2026-07-29T23:20:27Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:20:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4a93d99a030c706dcd6c951bbf1d1a10786bbec8409c5f83992e4197b1db719c",
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T23:18:11Z",
+      "authors": [
+        "msephton"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49104335",
+      "summary": "Article URL: https://frantic.im/mirage/ Comments URL: https://news.ycombinator.com/item?id=49104335 Points: 26 # Comments: 1",
+      "published_raw": "Wed, 29 Jul 2026 23:18:11 +0000",
+      "updated_at": "2026-07-29T23:18:11Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:18:11 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:deae0d2f60b40e3314582056063c8c911d3ff4e90f633b94877d40c2cc94c573",
+      "title": "PS 前總裁揭開 3A 遊戲金錢陷阱，稱中型 AA 遊戲才是打破「續作迷思」的解藥",
+      "url": "https://ccc.technews.tw/2026/07/30/shawn-layden-urges-industry-to-revive-aa-games/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:10:51Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "3A 遊戲",
+        "AA 遊戲",
+        "PlayStation",
+        "Shawn Layden",
+        "遊戲軟體",
+        "遊戲開發",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1594535",
+      "summary": "PlayStation Studios 前總裁肖恩·雷頓（Shawn Layden）近日接受歐洲媒體《Euro […]",
+      "published_raw": "Wed, 29 Jul 2026 23:10:51 +0000",
+      "updated_at": "2026-07-29T23:10:51Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:10:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:03a6b9a83db9644a11fbbcaa150a53919d74984c8b93c64599147b4741da09ea",
+      "title": "別再關心記憶體了！硬碟大廠希捷第四季財報亮眼帶動股價上揚 3%",
+      "url": "https://finance.technews.tw/2026/07/30/seagate-a-major-hard-drive-manufacturer-reported-impressive-fourth-quarter-earnings/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:00:55Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "儲存設備",
+        "希捷",
+        "硬碟",
+        "財報",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1594974",
+      "summary": "面對再好財報表現股價也不漲的記憶體類股，傳統硬碟大廠希捷科技（Seagate Technology）則是另一種 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:00:55 +0000",
+      "updated_at": "2026-07-29T23:00:55Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:00:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9dd1cd958259c7b68a073c9750c23e973871af19206f7bde6e3d7b0faf44f2d1",
+      "title": "戰事調度緊繃加上升級計劃延宕，美軍考慮從飛機墳場啟封舊 B-52 應急",
+      "url": "https://technews.tw/2026/07/30/usaf-is-considering-regenerate-sealed-b-52s-in-the-boneyard/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:00:30Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "B-52J",
+        "戴維斯蒙森空軍基地",
+        "科技政策",
+        "美伊衝突",
+        "美國空軍",
+        "軍事科技",
+        "飛機墳場"
+      ],
+      "guid": "https://technews.tw/?p=1594967",
+      "summary": "隨著中東地區作戰任務的需求日益吃緊，美國空軍目前正在評估，是否要將過去已經報廢封存的 B-52 轟炸機從「飛機 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:00:30 +0000",
+      "updated_at": "2026-07-29T23:00:30Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:00:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e4065d10812085c248245a4ab3c574be59f4684265ffcf6a2679fdd588ef727e",
+      "title": "本田續約廣汽十年：從技術輸出到技術汲取的合資 2.0 模式",
+      "url": "https://technews.tw/2026/07/30/honda-gac-10-year-renewal-jv-2-0-tech-export-to-acquisition/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T23:00:14Z",
+      "authors": [
+        "TrendForce 集邦科技"
+      ],
+      "categories": [
+        "Honda",
+        "中國觀察",
+        "中國電動車",
+        "廣汽集團",
+        "技術分析",
+        "會員專區",
+        "本田汽車",
+        "汽車科技",
+        "電動車",
+        "電動車供應鏈"
+      ],
+      "guid": "https://technews.tw/?p=1594154",
+      "summary": "20 日本田汽車（Honda）與廣汽集團提前兩年將合資協議延長至 2038 年，並維持 50:50 股份比例。 […]",
+      "published_raw": "Wed, 29 Jul 2026 23:00:14 +0000",
+      "updated_at": "2026-07-29T23:00:14Z",
+      "updated_raw": "Wed, 29 Jul 2026 23:00:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ee3860a54f0b37b7f22b58a148af346a20508f41b257c6e9f3b61e0b2af0b863",
+      "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+      "url": "https://archive.org/details/mancomputerbyjoh0000john",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T22:53:44Z",
+      "authors": [
+        "MilnerRoute"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49104140",
+      "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john Comments URL: https://news.ycombinator.com/item?id=49104140 Points: 16 # Comments: 4",
+      "published_raw": "Wed, 29 Jul 2026 22:53:44 +0000",
+      "updated_at": "2026-07-29T22:53:44Z",
+      "updated_raw": "Wed, 29 Jul 2026 22:53:44 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:38ba316bfdecab1f364ee8b47380b017e9047bfc592c4c9d3714c4e465da693a",
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T22:51:03Z",
+      "authors": [
+        "8thom"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49104117",
+      "summary": "Article URL: https://llm2human.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=49104117 Points: 24 # Comments: 12",
+      "published_raw": "Wed, 29 Jul 2026 22:51:03 +0000",
+      "updated_at": "2026-07-29T22:51:03Z",
+      "updated_raw": "Wed, 29 Jul 2026 22:51:03 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a1babb5ee60b727829cad406f69386105fdca5975a5aa6551491e7ae0b5972bc",
+      "title": "聯準會決議維持利率不變，但會議中罕見有支持升息的聲音",
+      "url": "https://finance.technews.tw/2026/07/30/the-federal-reserve-decided-to-keep-interest-rates-unchanged/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-29T22:40:51Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "利率",
+        "國債",
+        "國際觀察",
+        "國際貿易",
+        "聯準會",
+        "財經",
+        "通膨"
+      ],
+      "guid": "https://technews.tw/?p=1594970",
+      "summary": "美國聯邦準備理事會（Fed）於 30 日清晨如外界預期的宣布維持利率不變，聯準會主席 Kevin Warsh […]",
+      "published_raw": "Wed, 29 Jul 2026 22:40:51 +0000",
+      "updated_at": "2026-07-29T22:40:51Z",
+      "updated_raw": "Wed, 29 Jul 2026 22:40:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2c75f5d556835c269a208380d0b6515201d2618be9611d6f61720b49fd64a052",
+      "title": "GitHub is the wrong shape for this new world",
+      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T22:27:09Z",
+      "authors": [
+        "emschwartz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49103910",
+      "summary": "Article URL: https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world Comments URL: https://news.ycombinator.com/item?id=49103910 Points: 35 # Comments: 21",
+      "published_raw": "Wed, 29 Jul 2026 22:27:09 +0000",
+      "updated_at": "2026-07-29T22:27:09Z",
+      "updated_raw": "Wed, 29 Jul 2026 22:27:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c3762624d199b8faef36ee02fd64ac9176a778b6ad0faf41bfba174b4b1b9708",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T21:25:40Z",
+      "authors": [
+        "YeGoblynQueenne"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49103285",
+      "summary": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research Comments URL: https://news.ycombinator.com/item?id=49103285 Points: 156 # Comments: 94",
+      "published_raw": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "updated_at": "2026-07-29T21:25:40Z",
+      "updated_raw": "Wed, 29 Jul 2026 21:25:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:add84c1c21244db88706ea749113708865097b07da01413176219a8cc39cc5a9",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T21:06:42Z",
+      "authors": [
+        "holman"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49103089",
+      "summary": "Article URL: https://zachholman.com/posts/cold-email Comments URL: https://news.ycombinator.com/item?id=49103089 Points: 68 # Comments: 33",
+      "published_raw": "Wed, 29 Jul 2026 21:06:42 +0000",
+      "updated_at": "2026-07-29T21:06:42Z",
+      "updated_raw": "Wed, 29 Jul 2026 21:06:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6afb11fd9317489fb488a89fb734a3dee42d0a534f2089995b56b7d991687d1f",
+      "title": "SalesPatriot (YC W25) Is Hiring FDEs",
+      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T21:01:01Z",
+      "authors": [
+        "maciejSz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49103026",
+      "summary": "Article URL: https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer Comments URL: https://news.ycombinator.com/item?id=49103026 Points: 0 # Comments: 0",
+      "published_raw": "Wed, 29 Jul 2026 21:01:01 +0000",
+      "updated_at": "2026-07-29T21:01:01Z",
+      "updated_raw": "Wed, 29 Jul 2026 21:01:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:71232b081b51226f5bf6f0ea7ca052f902b3b8020037ef17fc13d7ae17e84288",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T20:39:40Z",
+      "authors": [
+        "robbiet480"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49102774",
+      "summary": "Article URL: https://christianselig.com/2026/07/vision-pro-house/ Comments URL: https://news.ycombinator.com/item?id=49102774 Points: 355 # Comments: 162",
+      "published_raw": "Wed, 29 Jul 2026 20:39:40 +0000",
+      "updated_at": "2026-07-29T20:39:40Z",
+      "updated_raw": "Wed, 29 Jul 2026 20:39:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7764dd01afcb49a3e384be2b3f5d8ff7b0bc201cbacc66f9054eebd82063df7f",
+      "title": "A Trampoline",
+      "url": "https://dogdogfish.com/blog/2026/07/29/a-trampoline/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T20:14:36Z",
+      "authors": [
+        "matthewsharpe3"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49102425",
+      "summary": "Article URL: https://dogdogfish.com/blog/2026/07/29/a-trampoline/ Comments URL: https://news.ycombinator.com/item?id=49102425 Points: 64 # Comments: 37",
+      "published_raw": "Wed, 29 Jul 2026 20:14:36 +0000",
+      "updated_at": "2026-07-29T20:14:36Z",
+      "updated_raw": "Wed, 29 Jul 2026 20:14:36 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a9ecd4caa88cc3e9763cdf20161fdf006d8e97c67c1749f9107be83589ed9947",
+      "title": "聯準會主席華許：將堅定實現 2% 通膨目標，AI 驅動美國經濟成長",
+      "url": "https://www.blocktempo.com/fed-fomc-rate-decision-warsh-no-forward-guidance/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T19:37:36Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "FED",
+        "FOMC",
+        "KevinWarsh",
+        "利率",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "華許",
+        "通膨"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515700",
+      "summary": "美國聯準會（Fed）於當地時間 29 日結束 FOMC 會議，連續第五次將基準利率維持在 3.50%–3.75 […] 〈 聯準會主席華許：將堅定實現 2% 通膨目標，AI 驅動美國經濟成長 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 19:37:36 +0000",
+      "updated_at": "2026-07-29T19:37:36Z",
+      "updated_raw": "Wed, 29 Jul 2026 19:37:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6b6ba7d7f0db63cf644b4b129fb5e3188a8971aaecb4b7ddbec38314471aff77",
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T19:25:33Z",
+      "authors": [
+        "monneyboi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49101852",
+      "summary": "Article URL: https://www.kimi.com/code/docs/en/kimi-code/models Comments URL: https://news.ycombinator.com/item?id=49101852 Points: 329 # Comments: 93",
+      "published_raw": "Wed, 29 Jul 2026 19:25:33 +0000",
+      "updated_at": "2026-07-29T19:25:33Z",
+      "updated_raw": "Wed, 29 Jul 2026 19:25:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4cd11676c689c6da597cd0d7d4dc5972938f012115af263f85cc7f55fcd26d6b",
+      "title": "紐約一學區引進 AI 助教惹怒家長：製造商也賣「成人性愛機器人」",
+      "url": "https://www.blocktempo.com/new-york-school-suspends-realbotix-ai-robot-sally/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T18:58:08Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Realbotix",
+        "人工智慧",
+        "教育",
+        "機器人",
+        "科技倫理",
+        "隱私"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515689",
+      "summary": "人工智慧（AI）進入校園的理想，在現實中踢到了鐵板。據外媒《Dexerto》報導，美國紐約州一個學區原先計畫引 […] 〈 紐約一學區引進 AI 助教惹怒家長：製造商也賣「成人性愛機器人」 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 18:58:08 +0000",
+      "updated_at": "2026-07-29T18:58:08Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:58:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:849078307df32349783c3999e4785bb39f46ed6f12b85c31e8d74e9b586ef9c0",
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T18:57:10Z",
+      "authors": [
+        "cl42"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49101529",
+      "summary": "Article URL: https://www.emergingtrajectories.com/lh/commodification-and-circularity/ Comments URL: https://news.ycombinator.com/item?id=49101529 Points: 52 # Comments: 28",
+      "published_raw": "Wed, 29 Jul 2026 18:57:10 +0000",
+      "updated_at": "2026-07-29T18:57:10Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:57:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8d641d7fe3d54fcc8279dfca1fb7e22c3dc3030813c4b358c141d6cd1f209d08",
+      "title": "How to think about software quality (2022)",
+      "url": "https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T18:42:10Z",
+      "authors": [
+        "adityaathalye"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49101351",
+      "summary": "Article URL: https://www.evalapply.org/posts/how-to-not-die-by-a-thousand-cuts/index.html Comments URL: https://news.ycombinator.com/item?id=49101351 Points: 47 # Comments: 27",
+      "published_raw": "Wed, 29 Jul 2026 18:42:10 +0000",
+      "updated_at": "2026-07-29T18:42:10Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:42:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e131c0e6b1cd6308df14d4a421c292a2da3ccf0c4668a14a426843d464271a2c",
+      "title": "Turning a dumb AC unit smart (without losing my security deposit)",
+      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T18:28:51Z",
+      "authors": [
+        "austinallegro"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49101198",
+      "summary": "Article URL: https://prilik.com/blog/post/automating-ac-nyc/ Comments URL: https://news.ycombinator.com/item?id=49101198 Points: 100 # Comments: 84",
+      "published_raw": "Wed, 29 Jul 2026 18:28:51 +0000",
+      "updated_at": "2026-07-29T18:28:51Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:28:51 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d89c372c4381a0d5dabd903784e0898257b6c223304c7aba292acc53dec6faf4",
+      "title": "比特幣衝破 6.4 萬鎂、以太坊站上 $1900！Fed 按兵不動引爆加密買盤",
+      "url": "https://www.blocktempo.com/fed-holds-rates-bitcoin-breaks-64k-crypto-liquidations/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T18:20:39Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "BTC",
+        "CoinGlass",
+        "ETH",
+        "FED",
+        "以太坊",
+        "加密貨幣",
+        "加密貨幣市場",
+        "比特幣",
+        "爆倉",
+        "聯準會"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515682",
+      "summary": "美國聯準會（Fed）最新利率決議宣布按兵不動，為風險資產注入強心針。隨後加密貨幣市場短線回暖，比特幣（BTC） […] 〈 比特幣衝破 6.4 萬鎂、以太坊站上 $1900！Fed 按兵不動引爆加密買盤 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 18:20:39 +0000",
+      "updated_at": "2026-07-29T18:20:39Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:20:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:92b9603d561013ea7c272409047fc0db0ef5417a637bd970e26fd6c41866bcd8",
+      "title": "美國聯準會維持利率 3.5%-3.75% 不變！但罕見 3 票反對並「要求升息 1 碼」",
+      "url": "https://www.blocktempo.com/fed-fomc-rate-decision-hold-july-2026/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T18:13:20Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "FED",
+        "FOMC",
+        "KevinWarsh",
+        "中東衝突",
+        "利率",
+        "升息",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "通膨"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515679",
+      "summary": "美國聯準會（Fed）於台灣時間今（30）日凌晨發布最新 FOMC 利率決議，宣布維持聯邦基金利率目標區間在 3 […] 〈 美國聯準會維持利率 3.5%-3.75% 不變！但罕見 3 票反對並「要求升息 1 碼」 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 18:13:20 +0000",
+      "updated_at": "2026-07-29T18:13:20Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:13:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0a508500907f25b69312e866c4092b1c8ffbad0bda65b48df6d91a4ea59fc9e6",
+      "title": "比特幣長線投資人抄底放緩！Bitfinex 鏈上數據：市場進入「穩定階段」而非復甦",
+      "url": "https://www.blocktempo.com/bitfinex-bitcoin-hodler-accumulation-slows-market-stabilization/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T18:08:24Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "BTC",
+        "Bitfinex",
+        "Hodler",
+        "加密貨幣",
+        "加密貨幣市場",
+        "抄底",
+        "比特幣",
+        "鏈上數據",
+        "長期持有者"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515674",
+      "summary": "比特幣（BTC）近幾個月經歷了劇烈震盪，但最堅定的信仰者似乎並未動搖。據知名加密貨幣交易所 Bitfinex […] 〈 比特幣長線投資人抄底放緩！Bitfinex 鏈上數據：市場進入「穩定階段」而非復甦 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 18:08:24 +0000",
+      "updated_at": "2026-07-29T18:08:24Z",
+      "updated_raw": "Wed, 29 Jul 2026 18:08:24 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d28b8dc8adc854b65da528f54ce76d49856e6047d0f852c80334bc846c9a8c81",
+      "title": "Google DeepMind 發布 Lyria 3.5 音樂模型！全面升級人聲與歌詞，支援生成 3 分鐘神曲",
+      "url": "https://www.blocktempo.com/google-deepmind-lyria-3-5-flow-music-launch/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T17:59:30Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI音樂",
+        "DeepMind",
+        "FlowMusic",
+        "Google",
+        "Lyria",
+        "人工智慧",
+        "生成式AI"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515670",
+      "summary": "AI 音樂生成賽道再度迎來重量級升級！據 Google 官方部落格於今（29）日發布的最新公告指出，DeepM […] 〈 Google DeepMind 發布 Lyria 3.5 音樂模型！全面升級人聲與歌詞，支援生成 3 分鐘神曲 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 17:59:30 +0000",
+      "updated_at": "2026-07-29T17:59:30Z",
+      "updated_raw": "Wed, 29 Jul 2026 17:59:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:724a4ce3766590ccc7f1c2cb3195ac496dce5725e8bd1847704d9bf18f061114",
+      "title": "籌資狂買比特幣！日本微策略 Metaplanet 發行首批 4% 低利率「Bitbonds」",
+      "url": "https://www.blocktempo.com/metaplanet-issues-bitbonds-4-percent-buy-bitcoin/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T17:49:18Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "BTC",
+        "BitBonds",
+        "Metaplanet",
+        "企業持倉",
+        "加密貨幣",
+        "加密貨幣市場",
+        "微策略",
+        "日本",
+        "比特幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515660",
+      "summary": "被譽為「日本版微策略」的上市公司 Metaplanet 再度出手增持比特幣！據專注於比特幣資本市場數據的機構 […] 〈 籌資狂買比特幣！日本微策略 Metaplanet 發行首批 4% 低利率「Bitbonds」 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 17:49:18 +0000",
+      "updated_at": "2026-07-29T17:49:18Z",
+      "updated_raw": "Wed, 29 Jul 2026 17:49:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d7dce425ffff4ac9442b5b4f471b1799cc481c2a33b8b75236ecca9649ab5d5f",
+      "title": "PgDog (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T17:01:10Z",
+      "authors": [
+        "levkk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49100056",
+      "summary": "Article URL: https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer Comments URL: https://news.ycombinator.com/item?id=49100056 Points: 0 # Comments: 0",
+      "published_raw": "Wed, 29 Jul 2026 17:01:10 +0000",
+      "updated_at": "2026-07-29T17:01:10Z",
+      "updated_raw": "Wed, 29 Jul 2026 17:01:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d82f172f1b9fe3acb65259f6b10a209132719a3372a3d867455681d755adfa09",
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "url": "https://cheapfoodmap.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T16:59:52Z",
+      "authors": [
+        "jaep1"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49100043",
+      "summary": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only. It's inspried by 거지맵 (Begger's Map) a Korean crowdsourced map students use to find cheap eats. Ocverage is heaviest in Texas, since I live in Dallas, but have 1200 meals across 15 US cities. Seed data came from Google Review, 4.2 star or higher with at least 500 reviews, and verified price under $10 per menu item. Things I would love feedback on : whether the price-freshness model makes sense, and what would make you trust the price on a site like this. How to encourage people to update prices, since inflation is making food price very frequent. https://cheapfoodmap.com Any and all suggestion will be super helpful. Thank you! Comments URL: https://news.ycombinator.com/item?id=49100043 Points: 118 # Comments: 143",
+      "published_raw": "Wed, 29 Jul 2026 16:59:52 +0000",
+      "updated_at": "2026-07-29T16:59:52Z",
+      "updated_raw": "Wed, 29 Jul 2026 16:59:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:978df0eae7976dead6cee9e62bacf0775e156dc3e4ec49bdaea1d37abc61a391",
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T16:42:20Z",
+      "authors": [
+        "supermatou"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49099804",
+      "summary": "Article URL: https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/ Comments URL: https://news.ycombinator.com/item?id=49099804 Points: 100 # Comments: 52",
+      "published_raw": "Wed, 29 Jul 2026 16:42:20 +0000",
+      "updated_at": "2026-07-29T16:42:20Z",
+      "updated_raw": "Wed, 29 Jul 2026 16:42:20 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:576d6de281adf24e457fefef50425d2b44b7574e5851cf0d7db5bc3aaa5e2555",
+      "title": "業餘工程師靠 AI 破譯千年古語？專家釐清：模型懂統計規律，但不懂「意義」",
+      "url": "https://www.blocktempo.com/ai-deciphering-lost-languages-linear-a-etruscan/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T16:39:04Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "LinearA",
+        "人工智慧",
+        "機器學習",
+        "總體經濟",
+        "考古學",
+        "語言模型"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515655",
+      "summary": "人工智慧（AI）強大的模式識別能力，是否能解開千年未解的語言謎團？據《Ars Technica》近期刊登的專文 […] 〈 業餘工程師靠 AI 破譯千年古語？專家釐清：模型懂統計規律，但不懂「意義」 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 16:39:04 +0000",
+      "updated_at": "2026-07-29T16:39:04Z",
+      "updated_raw": "Wed, 29 Jul 2026 16:39:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:30693c374f18d30f60edbc44673c09f12341479a30f55b7cb5f4f92a47638eba",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-29T16:36:59Z",
+      "authors": [
+        "JLO64"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49099715",
+      "summary": "Article URL: https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice Comments URL: https://news.ycombinator.com/item?id=49099715 Points: 276 # Comments: 102",
+      "published_raw": "Wed, 29 Jul 2026 16:36:59 +0000",
+      "updated_at": "2026-07-29T16:36:59Z",
+      "updated_raw": "Wed, 29 Jul 2026 16:36:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9779f64b0ad04e71cbe6c53fed90f993c5915c6b311a7328ea35c2cd7ae081d1",
+      "title": "Bernstein 下調 Circle 目標價至 140 鎂，但仍維持「優於大盤」評級：Open USD 威脅被高估",
+      "url": "https://www.blocktempo.com/bernstein-cuts-circle-price-target-140-open-usd-fades/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T16:24:19Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Bernstein",
+        "CIRCLE",
+        "Hyperliquid",
+        "OUSD",
+        "OpenUSD",
+        "USDC",
+        "加密貨幣",
+        "穩定幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515650",
+      "summary": "穩定幣發行商 Circle 雖面臨新興聯盟的競爭壓力，但華爾街機構仍堅定看好其長線潛力。據《The Block […] 〈 Bernstein 下調 Circle 目標價至 140 鎂，但仍維持「優於大盤」評級：Open USD 威脅被高估 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 16:24:19 +0000",
+      "updated_at": "2026-07-29T16:24:19Z",
+      "updated_raw": "Wed, 29 Jul 2026 16:24:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d5b0db92c7ec56d4f1a50b3b65549dc31bb6a9d99b31108b220c16e25d75ff79",
+      "title": "比特幣底部現黃金交叉？交易員 Killa 曬 15 年圖表喊盤：積極做多！",
+      "url": "https://www.blocktempo.com/bitcoin-golden-cross-killa-bullish-signal/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-29T16:11:27Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "200MA",
+        "50MA",
+        "BTC",
+        "Killa",
+        "加密貨幣市場",
+        "技術分析",
+        "比特幣",
+        "移動平均線",
+        "黃金交叉"
+      ],
+      "guid": "https://www.blocktempo.com/?p=515645",
+      "summary": "加密貨幣市場經歷劇烈波動後，是否即將迎來絕佳的抄底時機？據知名量化交易員 Killa（@KillaXBT）於 […] 〈 比特幣底部現黃金交叉？交易員 Killa 曬 15 年圖表喊盤：積極做多！ 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 29 Jul 2026 16:11:27 +0000",
+      "updated_at": "2026-07-29T16:11:27Z",
+      "updated_raw": "Wed, 29 Jul 2026 16:11:27 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
