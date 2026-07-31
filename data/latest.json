@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "collection_date": "2026-07-30",
+  "collection_date": "2026-07-31",
   "status": "success",
-  "article_count": 48,
-  "digest_path": "data/2026/07/30/articles.json",
-  "markdown_path": "data/2026/07/30/README.md",
-  "metadata_path": "data/2026/07/30/metadata.json",
-  "feed_health_path": "data/2026/07/30/feed_health.json"
+  "article_count": 33,
+  "digest_path": "data/2026/07/31/articles.json",
+  "markdown_path": "data/2026/07/31/README.md",
+  "metadata_path": "data/2026/07/31/metadata.json",
+  "feed_health_path": "data/2026/07/31/feed_health.json"
 }
