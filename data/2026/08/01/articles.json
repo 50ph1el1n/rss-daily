@@ -1,0 +1,724 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-01",
+  "timezone": "Asia/Taipei",
+  "article_count": 29,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:08a44c2a5ffda600340d8506252b041b239041f998db9e09fa0c3d1211c3a044",
+      "title": "「買了國巨人生悲劇」惡夢重演？50 萬散戶慘套山頂，苦等陳泰銘四個解答",
+      "url": "https://finance.technews.tw/2026/08/01/yageo-stock-price-halved-500k-shareholders-await-4-answers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-01T01:00:16Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "國巨",
+        "散戶",
+        "材料、設備",
+        "股價",
+        "被動元件",
+        "證券",
+        "財經",
+        "賣壓",
+        "違約交割",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1595922",
+      "summary": "國巨在 7 月 1 日盤中站上 1,220 元歷史新高後，28 日直接打到跌停 563 元；這讓市場近 50 […]",
+      "published_raw": "Sat, 01 Aug 2026 01:00:16 +0000",
+      "updated_at": "2026-08-01T01:00:16Z",
+      "updated_raw": "Sat, 01 Aug 2026 01:00:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:536696a211a188e29830e984a2772e099c933f2bbe5d9cf301ece3ac227eb74e",
+      "title": "尋找外星生命恐反被 AI 誤導，研究揭「自信誤判」恐成 NASA 太空任務隱憂",
+      "url": "https://technews.tw/2026/08/01/alien-life-search-ai-misguidance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-01T00:30:02Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Avida",
+        "NASA",
+        "外星生命",
+        "天文",
+        "太空任務",
+        "生命特徵"
+      ],
+      "guid": "https://technews.tw/?p=1593152",
+      "summary": "密西根州立大學（MSU）研究團隊近日提出警告，人工智慧（AI）在協助探測外星生命時，可能會出現「自信地判錯」的 […]",
+      "published_raw": "Sat, 01 Aug 2026 00:30:02 +0000",
+      "updated_at": "2026-08-01T00:30:02Z",
+      "updated_raw": "Sat, 01 Aug 2026 00:30:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:709dc430fb97754dc9bf6a4c617c66447d29de4211795ebc37b0fdd6824cfc3f",
+      "title": "中聯毒油報告揭密：原料降規 10 倍、製程檢驗全失守，30 年老廠如何一步步釀食安風暴？",
+      "url": "https://technews.tw/2026/08/01/chung-lien-tainted-oil-report/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-01T00:00:35Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "中聯油脂",
+        "巴西黃豆",
+        "檢驗",
+        "生物科技",
+        "科技生活",
+        "致癌物",
+        "苯駢芘",
+        "陳時中",
+        "食品科技",
+        "食安風暴"
+      ],
+      "guid": "https://technews.tw/?p=1594687",
+      "summary": "中聯毒油調查結果出爐，直指中聯管理三大缺失，但本刊調查發現，中聯油脂為降低成本改用中國設備，去年 4 月突然將 […]",
+      "published_raw": "Sat, 01 Aug 2026 00:00:35 +0000",
+      "updated_at": "2026-08-01T00:00:35Z",
+      "updated_raw": "Sat, 01 Aug 2026 00:00:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8f75077de456146163622dc70f059490201b525c7ed02b01540e2d52b76a446e",
+      "title": "蘋果 15 年來最重要交棒，特納斯能否找回賈伯斯時期的產品魔力",
+      "url": "https://finance.technews.tw/2026/08/01/apple-ternus-confronts-dual-challenges-innovation-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-31T23:30:10Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Apple",
+        "John Ternus",
+        "Steve Jobs",
+        "Tim Cook",
+        "iOS",
+        "iPhone",
+        "人才流失",
+        "公司治理",
+        "蘋果",
+        "設計"
+      ],
+      "guid": "https://technews.tw/?p=1593080",
+      "summary": "蘋果即將迎來自 2011 年以來最重要的權力交接。外界正高度關注，這家科技巨頭能否藉此機會找回賈伯斯（Stev […]",
+      "published_raw": "Fri, 31 Jul 2026 23:30:10 +0000",
+      "updated_at": "2026-07-31T23:30:10Z",
+      "updated_raw": "Fri, 31 Jul 2026 23:30:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cde12bc212849c60f0838a1e0f5843824dcb82d4d7be62ddfd7d7521754c4c79",
+      "title": "實測體驗：DJI Pocket 4P 是全能口袋相機嗎？",
+      "url": "https://ccc.technews.tw/2026/08/01/dji-pocket-4p/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-31T23:00:52Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "3C周邊",
+        "DJI Pocket 4P",
+        "手持口袋攝影機",
+        "科技生活"
+      ],
+      "guid": "https://technews.tw/?p=1596204",
+      "summary": "手持口袋攝影機可能是許多人評估是否該入手的產品，畢竟現在智慧型手機相機系統已經相當強大，因此往往都會落入「是否 […]",
+      "published_raw": "Fri, 31 Jul 2026 23:00:52 +0000",
+      "updated_at": "2026-07-31T23:00:52Z",
+      "updated_raw": "Fri, 31 Jul 2026 23:00:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0ae5ec32119149f54010d99563a58b89fdfc0a74f53104bc1ef742749ecc39e0",
+      "title": "射程破一千公里，日本空自測試空射版 25 式地對艦飛彈",
+      "url": "https://technews.tw/2026/08/01/jasdfs-f2-is-testing-new-air-launche-version-type-25/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-31T23:00:46Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "25 式地對艦飛彈",
+        "ASM-4",
+        "F-2",
+        "國際觀察",
+        "日本航空自衛隊",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1596360",
+      "summary": "日本航空自衛隊近期在岐阜基地進行了一次受到國際關注的試飛。 岐阜基地 飛行開発実験団 F-2B 101 F-2 […]",
+      "published_raw": "Fri, 31 Jul 2026 23:00:46 +0000",
+      "updated_at": "2026-07-31T23:00:46Z",
+      "updated_raw": "Fri, 31 Jul 2026 23:00:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d04f46a9c146f08573efa3cb5a6241029312c2d2cc5a135d6595a27e0940007e",
+      "title": "Loops (YC W22) Is Hiring a Product Educator",
+      "url": "https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T21:00:40Z",
+      "authors": [
+        "chrisfrantz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49128462",
+      "summary": "Article URL: https://www.ycombinator.com/companies/loops/jobs/zqUnwqB-product-educator-technical-content-creator Comments URL: https://news.ycombinator.com/item?id=49128462 Points: 0 # Comments: 0",
+      "published_raw": "Fri, 31 Jul 2026 21:00:40 +0000",
+      "updated_at": "2026-07-31T21:00:40Z",
+      "updated_raw": "Fri, 31 Jul 2026 21:00:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c97454c3c3947dc0335850a9ae30d212b35d4d571fe48b1fe725dcbfd33ad1bf",
+      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
+      "url": "https://arxiv.org/abs/2607.28233",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T20:44:29Z",
+      "authors": [
+        "Jimmc414"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49128323",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28233 Comments URL: https://news.ycombinator.com/item?id=49128323 Points: 27 # Comments: 16",
+      "published_raw": "Fri, 31 Jul 2026 20:44:29 +0000",
+      "updated_at": "2026-07-31T20:44:29Z",
+      "updated_raw": "Fri, 31 Jul 2026 20:44:29 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:88609694da1aab9df457e1d386552560442b967586a2a11c73dda5715cd086c9",
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T19:55:41Z",
+      "authors": [
+        "shreybirmiwal"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49127874",
+      "summary": "https://github.com/jwlaboratory/bite-the-bullet Comments URL: https://news.ycombinator.com/item?id=49127874 Points: 22 # Comments: 2",
+      "published_raw": "Fri, 31 Jul 2026 19:55:41 +0000",
+      "updated_at": "2026-07-31T19:55:41Z",
+      "updated_raw": "Fri, 31 Jul 2026 19:55:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:25e29245965195ce4547507569bcb4d99dc7d2c51d2eb71d6054ed7ea633f601",
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T19:03:45Z",
+      "authors": [
+        "bluehatbrit"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49127306",
+      "summary": "Article URL: https://tailscale.com/blog/hugging-face-intrusion Comments URL: https://news.ycombinator.com/item?id=49127306 Points: 414 # Comments: 163",
+      "published_raw": "Fri, 31 Jul 2026 19:03:45 +0000",
+      "updated_at": "2026-07-31T19:03:45Z",
+      "updated_raw": "Fri, 31 Jul 2026 19:03:45 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:25ff48c486111df94b6f94098f13d2e7ca1c1fd49aa4bc9e870f8a797331aac8",
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T18:39:47Z",
+      "authors": [
+        "jabits"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49127031",
+      "summary": "Article URL: https://github.com/golang/go/issues/80590 Comments URL: https://news.ycombinator.com/item?id=49127031 Points: 118 # Comments: 72",
+      "published_raw": "Fri, 31 Jul 2026 18:39:47 +0000",
+      "updated_at": "2026-07-31T18:39:47Z",
+      "updated_raw": "Fri, 31 Jul 2026 18:39:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0d1ac8140fe9efd0154211c96c21e3294cf2a93191d7228ca8a6db7f4ba03ad9",
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T18:30:44Z",
+      "authors": [
+        "Jimmc414"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49126919",
+      "summary": "Article URL: https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner Comments URL: https://news.ycombinator.com/item?id=49126919 Points: 48 # Comments: 24",
+      "published_raw": "Fri, 31 Jul 2026 18:30:44 +0000",
+      "updated_at": "2026-07-31T18:30:44Z",
+      "updated_raw": "Fri, 31 Jul 2026 18:30:44 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2c292d4893907b1af51ecc66276045177d49c0597332736d2da1c7ab38057b2a",
+      "title": "Termixer (TUI DJ Mixer)",
+      "url": "https://github.com/l00sed/termixer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T18:28:08Z",
+      "authors": [
+        "l00sed"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49126883",
+      "summary": "Article URL: https://github.com/l00sed/termixer Comments URL: https://news.ycombinator.com/item?id=49126883 Points: 49 # Comments: 34",
+      "published_raw": "Fri, 31 Jul 2026 18:28:08 +0000",
+      "updated_at": "2026-07-31T18:28:08Z",
+      "updated_raw": "Fri, 31 Jul 2026 18:28:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e5004fdbbd9def4a1e229dc76fd949d06fd10d06291284a5711e697554c57c35",
+      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
+      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T18:17:52Z",
+      "authors": [
+        "iamnothere"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49126765",
+      "summary": "Article URL: https://servo.org/blog/2026/07/31/june-in-servo/ Comments URL: https://news.ycombinator.com/item?id=49126765 Points: 97 # Comments: 30",
+      "published_raw": "Fri, 31 Jul 2026 18:17:52 +0000",
+      "updated_at": "2026-07-31T18:17:52Z",
+      "updated_raw": "Fri, 31 Jul 2026 18:17:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:44d9381d4145636234e8ed336ab526835ccb71545b865d7bed8201ac87289d07",
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T18:06:39Z",
+      "authors": [
+        "brunaxLorax"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49126630",
+      "summary": "Article URL: https://manifest.build/blog/why-we-deprecated-our-llm-router/ Comments URL: https://news.ycombinator.com/item?id=49126630 Points: 85 # Comments: 44",
+      "published_raw": "Fri, 31 Jul 2026 18:06:39 +0000",
+      "updated_at": "2026-07-31T18:06:39Z",
+      "updated_raw": "Fri, 31 Jul 2026 18:06:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b22f81fa9de2bee7247adc2652098e3880a78af839bb95d5538d9067805f36f8",
+      "title": "qm",
+      "url": "https://github.com/yc-software/qm",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T18:04:58Z",
+      "authors": [
+        "tosh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49126604",
+      "summary": "Article URL: https://github.com/yc-software/qm Comments URL: https://news.ycombinator.com/item?id=49126604 Points: 426 # Comments: 92",
+      "published_raw": "Fri, 31 Jul 2026 18:04:58 +0000",
+      "updated_at": "2026-07-31T18:04:58Z",
+      "updated_raw": "Fri, 31 Jul 2026 18:04:58 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0356483024d175cfcf075f9eb96ababd72626b4634d003cc942740731c41691b",
+      "title": "巨鯨異動！富達 Fidelity 相關錢包轉移 26 萬枚 ETH，價值逼近 5 億美元",
+      "url": "https://www.blocktempo.com/fidelity-linked-wallets-move-260k-eth-500m/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-31T17:43:24Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Arkham",
+        "ETH",
+        "Fidelity",
+        "以太坊",
+        "加密貨幣市場",
+        "大額轉帳",
+        "富達",
+        "巨鯨",
+        "鏈上數據"
+      ],
+      "guid": "https://www.blocktempo.com/?p=516625",
+      "summary": "以太坊（ETH）鏈上出現巨額資金轉移！據鏈上分析帳號 @OnchainLens 最新披露，與資管巨頭富達（Fi […] 〈 巨鯨異動！富達 Fidelity 相關錢包轉移 26 萬枚 ETH，價值逼近 5 億美元 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 31 Jul 2026 17:43:24 +0000",
+      "updated_at": "2026-07-31T17:43:24Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:43:24 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:00a006180849b373c58eb6bbdec907ad0d246736217396b72029a0ea33bff18f",
+      "title": "Tom Lee：AI「下游」軟體股正超越半導體，韓國市場醞釀築底",
+      "url": "https://www.blocktempo.com/tom-lee-fundstrat-ai-downstream-stocks-outperforming/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-31T17:37:16Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Fundstrat",
+        "IGV",
+        "Mags",
+        "TomLee",
+        "人工智慧",
+        "半導體",
+        "市場分析",
+        "獨立觀點",
+        "總體經濟"
+      ],
+      "guid": "https://www.blocktempo.com/?p=516619",
+      "summary": "知名研究機構 Fundstrat 創辦人 Tom Lee 最新發文指出，市場資金正在發生輪動，AI 產業的「下 […] 〈 Tom Lee：AI「下游」軟體股正超越半導體，韓國市場醞釀築底 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 31 Jul 2026 17:37:16 +0000",
+      "updated_at": "2026-07-31T17:37:16Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:37:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0a764266a6e365a22c72f01a2c56671fe4e383aa85092c59dd1eaf65cd20d2a9",
+      "title": "瑞士數位資產銀行 Sygnum：以太坊 43 天質押排隊非純需求，退場數掛零才是真信仰",
+      "url": "https://www.blocktempo.com/ethereum-staking-queue-mechanical-backlog-sygnum/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-31T17:31:33Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "ETH",
+        "Pectra升級",
+        "Sygnum",
+        "TheBlock",
+        "staking",
+        "以太坊",
+        "機構投資者",
+        "獨立觀點",
+        "質押"
+      ],
+      "guid": "https://www.blocktempo.com/?p=516614",
+      "summary": "以太坊（Ethereum）質押市場需求火熱，但數據背後可能藏有盲點。據《The Block》報導，瑞士數位資產 […] 〈 瑞士數位資產銀行 Sygnum：以太坊 43 天質押排隊非純需求，退場數掛零才是真信仰 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 31 Jul 2026 17:31:33 +0000",
+      "updated_at": "2026-07-31T17:31:33Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:31:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d984344938fe19e7c9e44d51a509199a08556cd30d0dd3dee9e1ab03d8beeabb",
+      "title": "Uniswap 正式推出 Earn 收益功能！支援 ETH、USDC 一鍵賺息，主打無鎖倉與自託管",
+      "url": "https://www.blocktempo.com/uniswap-launches-earn-yield-feature-eth-usdc/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-31T17:18:48Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Defi",
+        "ETH",
+        "Earn",
+        "USDC",
+        "USDT",
+        "Uniswap",
+        "defi",
+        "以太坊",
+        "去中心化金融",
+        "收益"
+      ],
+      "guid": "https://www.blocktempo.com/?p=516609",
+      "summary": "去中心化金融（DeFi）巨頭拓展新版圖！據 Uniswap 於今（30）日發布的最新官方公告，其已正式上線全新 […] 〈 Uniswap 正式推出 Earn 收益功能！支援 ETH、USDC 一鍵賺息，主打無鎖倉與自託管 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 31 Jul 2026 17:18:48 +0000",
+      "updated_at": "2026-07-31T17:18:48Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:18:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c39a2972bd0c04db1ed2e5ab6d16e217e31bdcd1f1bef608b83a6f73b292f3d7",
+      "title": "Severance",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T17:15:09Z",
+      "authors": [
+        "surprisetalk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49125971",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/severance Comments URL: https://news.ycombinator.com/item?id=49125971 Points: 198 # Comments: 60",
+      "published_raw": "Fri, 31 Jul 2026 17:15:09 +0000",
+      "updated_at": "2026-07-31T17:15:09Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:15:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ba88069144498b7cc478303c7ee7fe4476cad87162aa230559415c23d4174a5d",
+      "title": "Tether Q2 財報超亮眼！淨利 15 億鎂、超額儲備達 41 億，大買 14 噸實體黃金",
+      "url": "https://www.blocktempo.com/tether-q2-2026-financial-report-usdt-profit/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-31T17:10:55Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "PaoloArdoino",
+        "Tether",
+        "USDT",
+        "穩定幣",
+        "美國公債",
+        "財報",
+        "黃金"
+      ],
+      "guid": "https://www.blocktempo.com/?p=516604",
+      "summary": "據穩定幣龍頭 Tether 於今（31）日最新發布的 2026 年 Q2 財報與儲備證明，該公司本季實現約 1 […] 〈 Tether Q2 財報超亮眼！淨利 15 億鎂、超額儲備達 41 億，大買 14 噸實體黃金 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 31 Jul 2026 17:10:55 +0000",
+      "updated_at": "2026-07-31T17:10:55Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:10:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fd870ef6b7597b886cdd360015f4aa435bafe2ef94e301bf90562d18e1f519d4",
+      "title": "黃仁勳 YC 演講開示：現在是「創業最佳時機」，別想太多做就對了！",
+      "url": "https://www.blocktempo.com/jensen-huang-yc-startup-advice-how-hard-can-it-be/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-07-31T17:03:44Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Nvidia",
+        "YCombinator",
+        "人工智慧",
+        "創業",
+        "獨立觀點",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://www.blocktempo.com/?p=516205",
+      "summary": "AI 浪潮席捲全球，現在是創業的好時機嗎？輝達（Nvidia）執行長黃仁勳給出了極度肯定的答案。據《Fortu […] 〈 黃仁勳 YC 演講開示：現在是「創業最佳時機」，別想太多做就對了！ 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 31 Jul 2026 17:03:44 +0000",
+      "updated_at": "2026-07-31T17:03:44Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:03:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fd3de9be4719d2e7058fc0a175c2ed9e00284ab23b094ce1f070e29af03d0f0e",
+      "title": "Miso (YC S16) is hiring for U.S. expansion",
+      "url": "https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T17:01:08Z",
+      "authors": [
+        "victorology"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49125785",
+      "summary": "Article URL: https://www.ycombinator.com/companies/miso/jobs/g2uAlMG-founding-business-lead-u-s-expansion Comments URL: https://news.ycombinator.com/item?id=49125785 Points: 0 # Comments: 0",
+      "published_raw": "Fri, 31 Jul 2026 17:01:08 +0000",
+      "updated_at": "2026-07-31T17:01:08Z",
+      "updated_raw": "Fri, 31 Jul 2026 17:01:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2b845bc282fdf90df81be3424ae415b5d0b3950d983ead55fefdde0e659ac800",
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T16:15:31Z",
+      "authors": [
+        "speckx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49125034",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/ Comments URL: https://news.ycombinator.com/item?id=49125034 Points: 126 # Comments: 76",
+      "published_raw": "Fri, 31 Jul 2026 16:15:31 +0000",
+      "updated_at": "2026-07-31T16:15:31Z",
+      "updated_raw": "Fri, 31 Jul 2026 16:15:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:66ea7da45d46b5a70917a1b0bc66c2c4ad4eaafcf0e20d6ef707eca86421aa34",
+      "title": "Big Food vs. the People",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-07-31T16:04:32Z",
+      "authors": [
+        "jruohonen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49124858",
+      "summary": "Article URL: https://www.lighthousereports.com/investigation/big-food-vs-the-people/ Comments URL: https://news.ycombinator.com/item?id=49124858 Points: 188 # Comments: 123",
+      "published_raw": "Fri, 31 Jul 2026 16:04:32 +0000",
+      "updated_at": "2026-07-31T16:04:32Z",
+      "updated_raw": "Fri, 31 Jul 2026 16:04:32 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6d20ba4778ac77857fea73f99128475f7951451943add08bf26b8f3c2616c2e3",
+      "title": "以 Siri AI 為核心的蘋果全新智慧家庭產品組合就緒，最快 10 月推出",
+      "url": "https://technews.tw/2026/08/01/apples-smart-home-hardware-refresh-draws-closer-with-siri-ai-smarts/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-31T16:00:35Z",
+      "authors": [
+        "Evan"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Apple",
+        "Apple TV",
+        "Home Hub",
+        "HomePod mini",
+        "IoT 物聯網",
+        "Siri AI",
+        "智慧家庭"
+      ],
+      "guid": "https://technews.tw/?p=1594469",
+      "summary": "據報導，Apple 將以 Siri AI 做為下一波智慧家庭產品的核心，預計包括 HomePod mini、新 […]",
+      "published_raw": "Fri, 31 Jul 2026 16:00:35 +0000",
+      "updated_at": "2026-07-31T16:00:35Z",
+      "updated_raw": "Fri, 31 Jul 2026 16:00:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d345a2d78996486e6aac1236e3460b74b0465a95efc3adef82b59b475efb8037",
+      "title": "NASA 雨燕天文台捕捉「孤兒黑洞」撕裂恆星，瞬間爆發百億顆太陽光輝",
+      "url": "https://technews.tw/2026/08/01/observatory-captures-orphan-black-hole-tearing-apart-a-star/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-31T16:00:34Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "NASA",
+        "天文",
+        "恆星",
+        "自然科學",
+        "雨燕天文台",
+        "黑洞"
+      ],
+      "guid": "https://technews.tw/?p=1594570",
+      "summary": "美國太空總署（NASA）的雨燕天文台（Neil Gehrels Swift Observatory）近日捕捉到 […]",
+      "published_raw": "Fri, 31 Jul 2026 16:00:34 +0000",
+      "updated_at": "2026-07-31T16:00:34Z",
+      "updated_raw": "Fri, 31 Jul 2026 16:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:09b381fb1aae20991dcdb42a3c3bd7c30e4bdb5f912c6a25e872ab1bb09e2911",
+      "title": "6 億觀看量能換成多少張電影票？人氣 YouTuber 攜手 AI 打造科幻長片進軍大銀幕",
+      "url": "https://technews.tw/2026/08/01/ai-assisted-feature-film-gods-dont-give-gifts-us/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-07-31T16:00:06Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 電影",
+        "Gods Don’t Give Gifts",
+        "Gossip Goblin",
+        "數位內容",
+        "網路 IP",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1591787",
+      "summary": "知名 YouTube 創作者 Gossip Goblin（本名 Zack London）所打造的 AI 輔助科 […]",
+      "published_raw": "Fri, 31 Jul 2026 16:00:06 +0000",
+      "updated_at": "2026-07-31T16:00:06Z",
+      "updated_raw": "Fri, 31 Jul 2026 16:00:06 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
