@@ -1,0 +1,1074 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-05",
+  "timezone": "Asia/Taipei",
+  "article_count": 42,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1d9865d42065098aec49c535037bb77bf05f664178ef37e0b9e123c88fef5961",
+      "title": "SpaceX 首份財報營收優於預期，受惠星鏈 AI 事業成長",
+      "url": "https://finance.technews.tw/2026/08/05/spacex-reports-second-quarter-2026-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:50:19Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "IPO",
+        "SpaceX",
+        "尖端科技",
+        "星艦",
+        "星鏈",
+        "航太科技",
+        "衛星通訊",
+        "財報",
+        "資料中心",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1597610",
+      "summary": "美國太空探索科技公司（SpaceX）今天公布上市後首份財報，4 月到 6 月第 2 季營收較去年同期成長 92 […]",
+      "published_raw": "Wed, 05 Aug 2026 00:50:19 +0000",
+      "updated_at": "2026-08-05T00:50:19Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:50:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fd3de79a4f2b9e78b124989573dc2e456670424ca47378d6376cb4580e2597b6",
+      "title": "瑞薩車用晶片工廠提前恢復生產",
+      "url": "https://technews.tw/2026/08/05/renesas-automotive-chip-plant-resumes-production-early/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:40:43Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "國際貿易",
+        "地震",
+        "日本",
+        "晶片",
+        "熊本",
+        "瑞薩電子",
+        "車用晶片",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1597570",
+      "summary": "日本熊本縣聚集眾多半導體相關工廠，而受 7 月 28 日發生的規模 7.1 強震影響，多家企業廠房一度進行停工 […]",
+      "published_raw": "Wed, 05 Aug 2026 00:40:43 +0000",
+      "updated_at": "2026-08-05T00:40:43Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:40:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d9588c3fe15f81dae7005200ec876a309790bf9280697f874e8a3cbff44b0c14",
+      "title": "戰爭不代表一定有傷亡，Shield AI 創辦人堅定保護生命的 AI 與機器人系統之路",
+      "url": "https://technews.tw/2026/08/05/from-drones-to-nuclear-reactors-to-robots-an-engineers-journey/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:30:50Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Andrew Reiter",
+        "Shield AI",
+        "人型機器人",
+        "機器人",
+        "無人機",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1596602",
+      "summary": "Shield AI 創辦人 Andrew Reiter 近期 TED 座談會分享他從自動無人機、戰機系統，一路 […]",
+      "published_raw": "Wed, 05 Aug 2026 00:30:50 +0000",
+      "updated_at": "2026-08-05T00:30:50Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:30:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:928df7fb8eabc45443e125175831f8f03197f5da8ba1c6e9581ac47fe92caca4",
+      "title": "「維護東亞經濟利益」才是美日聯手買進日圓的主要目的",
+      "url": "https://finance.technews.tw/2026/08/05/safeguarding-east-asian-economic-interests-us-japan-joint-buying-japanese-yen-true-purpose/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:20:21Z",
+      "authors": [
+        "蔡 明芳"
+      ],
+      "categories": [
+        "國際貿易",
+        "國際金融",
+        "日圓",
+        "日本",
+        "東亞",
+        "美國",
+        "財經",
+        "金融政策"
+      ],
+      "guid": "https://technews.tw/?p=1597315",
+      "summary": "面對日圓持續貶值，7 月貶至 163.24 日圓兌換 1 美元，為 1986 年以來最低水準後，美國與日本政府 […]",
+      "published_raw": "Wed, 05 Aug 2026 00:20:21 +0000",
+      "updated_at": "2026-08-05T00:20:21Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:20:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b89f85fc7297182e2c8757b51dd8f9623b8fc7607ba8d03d1177cd97e3814d56",
+      "title": "路透：川普政府起草禁令，禁止中國製資料中心設備",
+      "url": "https://technews.tw/2026/08/05/trump-administration-drafts-ban-china-made-data-center-equipment/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:15:35Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國",
+        "光收發器",
+        "國際觀察",
+        "國際貿易",
+        "川普",
+        "資料中心",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1597590",
+      "summary": "4 位知情人士向路透社透露，美國總統川普政府正在草擬一項禁令，禁止進口中國製造的新型資料中心零組件，以保護支撐 […]",
+      "published_raw": "Wed, 05 Aug 2026 00:15:35 +0000",
+      "updated_at": "2026-08-05T00:15:35Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:15:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:701eb844a39a8eba27109361fbd5611b5b94945b7878f75ea2429e16b871ca79",
+      "title": "Perplexity 前工程師仍看好 AI Browser 市場，瀏覽器代理「Polar」獲 570 萬美元融資",
+      "url": "https://finance.technews.tw/2026/08/05/polar-the-ai-browser-that-does-real-work-raises-5-7m/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:10:53Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI Browser",
+        "AI 人工智慧",
+        "AI 瀏覽器",
+        "Polar",
+        "瀏覽器代理",
+        "財經",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1595192",
+      "summary": "AI 瀏覽器新創 Polar 近日宣布完成 570 萬美元種子輪融資，由 Madrona 領投，獲 GitHu […]",
+      "published_raw": "Wed, 05 Aug 2026 00:10:53 +0000",
+      "updated_at": "2026-08-05T00:10:53Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:10:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:923b35d2d4e8246cbffe547174f99076ca734dd036b5933ef3807536b3169961",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-05T00:10:37Z",
+      "authors": [
+        "teleforce"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176983",
+      "summary": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 5 # Comments: 1",
+      "published_raw": "Wed, 05 Aug 2026 00:10:37 +0000",
+      "updated_at": "2026-08-05T00:10:37Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:10:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cb1bd2c2ed0bd791c86ee322ce68855141e60757c3d410f157a5d727d279c8a1",
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-05T00:05:49Z",
+      "authors": [
+        "bashtoni"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176947",
+      "summary": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 4 # Comments: 1",
+      "published_raw": "Wed, 05 Aug 2026 00:05:49 +0000",
+      "updated_at": "2026-08-05T00:05:49Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:05:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0690cc3c7429234c26643c1ef6852ed9c6a2f98dc48d07ea74372c72d6114dbc",
+      "title": "Flowise Is Shutting Down",
+      "url": "https://flowiseai.com/sunset",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-05T00:02:40Z",
+      "authors": [
+        "llmgraph"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176920",
+      "summary": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 4 # Comments: 1",
+      "published_raw": "Wed, 05 Aug 2026 00:02:40 +0000",
+      "updated_at": "2026-08-05T00:02:40Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:02:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f4078c7e1a81c665f6729f99a307b210b6d7ee6408d0a8cac1e4812533775efc",
+      "title": "日本七大車廠推動零組件標準化：從各自開發走向產業協作的新時代",
+      "url": "https://technews.tw/2026/08/05/toyota-exec-says-japanese-automakers-need-to-increase-cooperation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-05T00:00:45Z",
+      "authors": [
+        "古川"
+      ],
+      "categories": [
+        "JAMA",
+        "Subaru",
+        "三菱汽車",
+        "國際貿易",
+        "日本車廠",
+        "日產汽車",
+        "本田汽車",
+        "汽車科技",
+        "豐田汽車",
+        "鈴木汽車",
+        "零件標準化",
+        "零組件",
+        "馬自達"
+      ],
+      "guid": "https://technews.tw/?p=1595314",
+      "summary": "面對電動化、智慧化與軟體定義汽車加速發展，日本汽車產業正重新檢視長年由各品牌獨立開發零組件的傳統模式。日本汽車 […]",
+      "published_raw": "Wed, 05 Aug 2026 00:00:45 +0000",
+      "updated_at": "2026-08-05T00:00:45Z",
+      "updated_raw": "Wed, 05 Aug 2026 00:00:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0d15d8e540f8b1a9e8b0d438228384ad21f8d53b8076bfec7bae8cc7dbde25e9",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T23:50:52Z",
+      "authors": [
+        "tchalla"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176830",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 16 # Comments: 2",
+      "published_raw": "Tue, 04 Aug 2026 23:50:52 +0000",
+      "updated_at": "2026-08-04T23:50:52Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:50:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f6b779efa305dc3958d016c84cb582a020dcbb69fc6b55ba012d5474f40cc3ec",
+      "title": "顯卡掌聲再起，今年 PC 市況持續下探？",
+      "url": "https://technews.tw/2026/08/05/graphics-cards-resurgence-will-pc-market-continue-to-decline-this-year/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:50:39Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "GPU",
+        "pc",
+        "半導體",
+        "微星",
+        "桌上型電腦",
+        "筆記型電腦",
+        "記憶體漲價",
+        "輝達",
+        "電腦",
+        "顯卡"
+      ],
+      "guid": "https://technews.tw/?p=1595381",
+      "summary": "如果有稍微關注零組件市場最近的新聞，會發現顯示卡價格也扛不住記憶體上漲壓力，且還是以相當凶猛的姿勢在調整，是否 […]",
+      "published_raw": "Tue, 04 Aug 2026 23:50:39 +0000",
+      "updated_at": "2026-08-04T23:50:39Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:50:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:71090a96bea75a4cbc80823662f8070b1afb42ec7dfaced9003bc79f974e6c02",
+      "title": "飛機更節能、氣象更精準，南加大領軍 AI 預測「湍流」顛覆傳統物理運算",
+      "url": "https://technews.tw/2026/08/05/usc-genesis-mission-ai-turbulence/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:40:06Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Genesis Mission",
+        "南加州大學",
+        "湍流",
+        "物理定律",
+        "科技教育",
+        "能源部",
+        "自然科學",
+        "航太科技",
+        "電腦模擬"
+      ],
+      "guid": "https://technews.tw/?p=1594421",
+      "summary": "美國南加州大學（USC）7 月 28 日宣布入選美國能源部「Genesis Mission」首批協作大學名單， […]",
+      "published_raw": "Tue, 04 Aug 2026 23:40:06 +0000",
+      "updated_at": "2026-08-04T23:40:06Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:40:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3f75e1285cd912f60d46816742f3dc95b16b2f3d0bbe7dea5acd3117cd35f0df",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T23:31:46Z",
+      "authors": [
+        "lapcat"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176697",
+      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 21 # Comments: 2",
+      "published_raw": "Tue, 04 Aug 2026 23:31:46 +0000",
+      "updated_at": "2026-08-04T23:31:46Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:31:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9aa9c7168f90229113dd103e5f60b26a87f80967e0cea711cdf76fbb80c06c4a",
+      "title": "Coldcard 韌體漏洞災情擴大！4,585 個比特幣錢包遭洗劫，損失飆破 8,660 萬美元",
+      "url": "https://infosecu.technews.tw/2026/08/05/coldcard-wallet-theft-losses-rise-to-86600000/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:30:00Z",
+      "authors": [
+        "動區動趨"
+      ],
+      "categories": [
+        "Coldcard",
+        "Coldcard Mk3",
+        "Fintech",
+        "冷錢包",
+        "加密貨幣",
+        "比特幣",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1596848",
+      "summary": "因為 Coldcard 冷錢包韌體漏洞遭攻擊的比特幣持有者，損失災情仍在加劇。根據 Galaxy Resear […]",
+      "published_raw": "Tue, 04 Aug 2026 23:30:00 +0000",
+      "updated_at": "2026-08-04T23:30:00Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:30:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d6d49160663b4386ff353c936157c604a7b155e78c5bb5f313fdb70eb58a0de2",
+      "title": "美伊交戰逾五個月，美軍這兩款飛彈庫存已經見底",
+      "url": "https://technews.tw/2026/08/05/2-of-us-armys-precision-missile-stockpile-has-almost-depleted/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:24:22Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "ATACMS",
+        "PrSM",
+        "彈藥庫存",
+        "美伊戰爭",
+        "美國陸軍",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1597580",
+      "summary": "美軍在與伊朗交戰 5 個月後，全球高精準度長程飛彈庫存大幅縮減。《路透社》獨家引述內部知情人士透露，陸軍主力防 […]",
+      "published_raw": "Tue, 04 Aug 2026 23:24:22 +0000",
+      "updated_at": "2026-08-04T23:24:22Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:24:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:353217a9e085e8c6011f7865cddba1918979d8f54b6178dcce38b635247c802d",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T23:22:37Z",
+      "authors": [
+        "jchanimal"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176644",
+      "summary": "Article URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/ Comments URL: https://news.ycombinator.com/item?id=49176644 Points: 26 # Comments: 16",
+      "published_raw": "Tue, 04 Aug 2026 23:22:37 +0000",
+      "updated_at": "2026-08-04T23:22:37Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:22:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cccfb77f1c6df24e68fb727e996c8fde9172aea6398f8812013ecdda0bde9b47",
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T23:21:33Z",
+      "authors": [
+        "meehow"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176634",
+      "summary": "Article URL: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/ Comments URL: https://news.ycombinator.com/item?id=49176634 Points: 16 # Comments: 6",
+      "published_raw": "Tue, 04 Aug 2026 23:21:33 +0000",
+      "updated_at": "2026-08-04T23:21:33Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:21:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:aaf44901b379036c2ab8813e1e904f83b13964742a6f54ee3b66056a193652c9",
+      "title": "AI 發威省下 3.5 年苦力，普林斯頓團隊從 8,000 萬筆數據中尋獲逾萬顆系外行星候選體",
+      "url": "https://technews.tw/2026/08/05/ai-powers-astronomical-breakthrough/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:20:14Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "NASA",
+        "TESS",
+        "天文",
+        "母恆星",
+        "環境科學",
+        "系外行星",
+        "自然科學",
+        "超級地球"
+      ],
+      "guid": "https://technews.tw/?p=1593573",
+      "summary": "美國普林斯頓大學領銜的天文團隊，近期藉助多項先進的人工智慧（AI）工具，成功從美國太空總署（NASA）的「凌日 […]",
+      "published_raw": "Tue, 04 Aug 2026 23:20:14 +0000",
+      "updated_at": "2026-08-04T23:20:14Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:20:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3832a93e28a9148cb60a660c7c77a49bef5f6ae82f7954c7e4b7983b299ceb85",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T23:18:12Z",
+      "authors": [
+        "spyc"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176606",
+      "summary": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 80 # Comments: 3",
+      "published_raw": "Tue, 04 Aug 2026 23:18:12 +0000",
+      "updated_at": "2026-08-04T23:18:12Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:18:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d4f566ec46bdef6b2a90feafa62c4eec7afe00e5559eaa7952ad663457a41532",
+      "title": "讓 AI「代勞親子互動」？奧特曼曬 ChatGPT Work 用法，遭酸「不如直接聊天」",
+      "url": "https://technews.tw/2026/08/05/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:10:16Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "ChatGPT",
+        "ChatGPT Work",
+        "OpenAI",
+        "Podcast",
+        "Sam Altman"
+      ],
+      "guid": "https://technews.tw/?p=1596612",
+      "summary": "OpenAI 執行長山姆·奧特曼（Sam Altman）7 月 31 日在 X 平台分享 ChatGPT Wo […]",
+      "published_raw": "Tue, 04 Aug 2026 23:10:16 +0000",
+      "updated_at": "2026-08-04T23:10:16Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:10:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:da2f8209f5502be795be07181d5eb8993e436f65433d1f46a46c20044a1007be",
+      "title": "三星加速布局 AI 穿戴，智慧眼鏡成下階段競爭焦點",
+      "url": "https://ccc.technews.tw/2026/08/05/samsung-accelerates-ai-wearable-deployment-smart-glasses-next-competition-focus/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:00:46Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "3C周邊",
+        "AI 人工智慧",
+        "Galaxy AI",
+        "Galaxy Unpacked",
+        "Gentle Monster",
+        "Samsung",
+        "三星",
+        "技術分析",
+        "智慧戒指",
+        "智慧眼鏡",
+        "會員專區",
+        "穿戴式裝置"
+      ],
+      "guid": "https://technews.tw/?p=1596879",
+      "summary": "三星 7 月底 Galaxy Unpacked 產品發表會推出多項穿戴設備，智慧眼鏡正式進入產品化階段，成為布 […]",
+      "published_raw": "Tue, 04 Aug 2026 23:00:46 +0000",
+      "updated_at": "2026-08-04T23:00:46Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:00:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d68c2f7377d5f5b74cc222bc6f508df2d688dc0440c06b7cba4f1b518c0f2b25",
+      "title": "【獨家】高通 9 月調漲晶片價格幅度出爐，終端產品價格規格都將受到影響",
+      "url": "https://ccc.technews.tw/2026/08/05/qualcomm-announces-september-chip-price-increase/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T23:00:10Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "3C",
+        "Android 手機",
+        "IC 設計",
+        "IC設計",
+        "半導體",
+        "平板",
+        "手機",
+        "晶片",
+        "處理器",
+        "財經",
+        "零組件",
+        "高通"
+      ],
+      "guid": "https://technews.tw/?p=1597571",
+      "summary": "晶片大廠高通（Qualcomm）日前向客戶發出價格調整通知信，宣布自 2026 年 9 月 1 日起，將針對當 […]",
+      "published_raw": "Tue, 04 Aug 2026 23:00:10 +0000",
+      "updated_at": "2026-08-04T23:00:10Z",
+      "updated_raw": "Tue, 04 Aug 2026 23:00:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2b65e7f55572a09c582b57578067a6ee201ffb84e63e99103c12027349e0d6a8",
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "url": "https://github.com/brian-armstrong/fec",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T22:37:05Z",
+      "authors": [
+        "brian-armstrong"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176212",
+      "summary": "I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust's std::simd work for me. I ended up with a templated, generic Viterbi decoder for convolutional codes that dispatches the decode at runtime depending on which instruction sets are available. For small rates and orders, the entire decode lives in registers. Larger codes work through memory but take advantage of some acceleration structures. I also spent some time building a tool to find optimal (max d_free) conv codes for a given rate and order. Of course, there are better mechanisms available today, but I'm happy to talk through anything I learned in the process. Comments URL: https://news.ycombinator.com/item?id=49176212 Points: 10 # Comments: 0",
+      "published_raw": "Tue, 04 Aug 2026 22:37:05 +0000",
+      "updated_at": "2026-08-04T22:37:05Z",
+      "updated_raw": "Tue, 04 Aug 2026 22:37:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3cf0af17895e59c23f9071bea66623947dbe9c367ae1b9b802b3c47399151d19",
+      "title": "AMD 第二季財報資料中心營收翻倍成長，財測未達市場最高預期盤後股價下跌",
+      "url": "https://finance.technews.tw/2026/08/05/amds-second-quarter-revenue-more-than-doubled/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-04T22:30:31Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "AMD",
+        "EPYC",
+        "GPU",
+        "HELIOS",
+        "IC 設計",
+        "IC設計",
+        "Instinct",
+        "cpu",
+        "晶片",
+        "蘇姿丰",
+        "處理器",
+        "財報",
+        "財經",
+        "資料中心",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1597559",
+      "summary": "半導體大廠超微（AMD）公布了其 2026 會計年度第二季財務報告。儘管營收與獲利雙雙超越華爾街預期，且資料中 […]",
+      "published_raw": "Tue, 04 Aug 2026 22:30:31 +0000",
+      "updated_at": "2026-08-04T22:30:31Z",
+      "updated_raw": "Tue, 04 Aug 2026 22:30:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:da650faa4191c4e3bb2c4e47692b05345f99bb3d68162c8a103ed97caf7aa19d",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T22:24:00Z",
+      "authors": [
+        "seg6"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176055",
+      "summary": "Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 41 # Comments: 28",
+      "published_raw": "Tue, 04 Aug 2026 22:24:00 +0000",
+      "updated_at": "2026-08-04T22:24:00Z",
+      "updated_raw": "Tue, 04 Aug 2026 22:24:00 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3c0ed06623df3f4b0c6dece19fa2de97d60877d6fb69504e23edcc43a874fedc",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T22:22:12Z",
+      "authors": [
+        "luispa"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49176038",
+      "summary": "Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 53 # Comments: 11",
+      "published_raw": "Tue, 04 Aug 2026 22:22:12 +0000",
+      "updated_at": "2026-08-04T22:22:12Z",
+      "updated_raw": "Tue, 04 Aug 2026 22:22:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2af57072eead681fcfe4d84608d76ad1a4def1c61fb117d3b4c738670b900d4d",
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T22:09:43Z",
+      "authors": [
+        "sourdecor"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49175924",
+      "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 41 # Comments: 3",
+      "published_raw": "Tue, 04 Aug 2026 22:09:43 +0000",
+      "updated_at": "2026-08-04T22:09:43Z",
+      "updated_raw": "Tue, 04 Aug 2026 22:09:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c8053a1a92552fea299eac07f27ebb3c78cd8a6c51a2e66f75bd3e149cda14fe",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T22:01:41Z",
+      "authors": [
+        "bookofjoe"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49175826",
+      "summary": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 120 # Comments: 72",
+      "published_raw": "Tue, 04 Aug 2026 22:01:41 +0000",
+      "updated_at": "2026-08-04T22:01:41Z",
+      "updated_raw": "Tue, 04 Aug 2026 22:01:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e187d4546661ba74ba158adc4432d2e30b2104c923d83734733e816fcb883852",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T21:14:19Z",
+      "authors": [
+        "glub"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49175248",
+      "summary": "Article URL: https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/ Comments URL: https://news.ycombinator.com/item?id=49175248 Points: 36 # Comments: 4",
+      "published_raw": "Tue, 04 Aug 2026 21:14:19 +0000",
+      "updated_at": "2026-08-04T21:14:19Z",
+      "updated_raw": "Tue, 04 Aug 2026 21:14:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:df6bd1b928e0e57fd355bd1bf8b44bcdb148485e4c19dbba7a4e214d92cdea3b",
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T21:09:39Z",
+      "authors": [
+        "stymaar"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49175192",
+      "summary": "Article URL: https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/ Comments URL: https://news.ycombinator.com/item?id=49175192 Points: 210 # Comments: 58",
+      "published_raw": "Tue, 04 Aug 2026 21:09:39 +0000",
+      "updated_at": "2026-08-04T21:09:39Z",
+      "updated_raw": "Tue, 04 Aug 2026 21:09:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5fc00d285e1e45068a466c3569913750af40b4bff7ec495c5f5c63510699b0e8",
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T20:48:17Z",
+      "authors": [
+        "mattsterett"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49174900",
+      "summary": "https://twitter.com/willdepue/status/2084750925013434768 , https://xcancel.com/willdepue/status/2084750925013434768 https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=49174900 Points: 127 # Comments: 56",
+      "published_raw": "Tue, 04 Aug 2026 20:48:17 +0000",
+      "updated_at": "2026-08-04T20:48:17Z",
+      "updated_raw": "Tue, 04 Aug 2026 20:48:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f5ad8df4904aad4364cdb21d72af5f01fd189196aa9d085c39d3081ca641a26b",
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T20:13:40Z",
+      "authors": [
+        "depr"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49174407",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml Comments URL: https://news.ycombinator.com/item?id=49174407 Points: 173 # Comments: 75",
+      "published_raw": "Tue, 04 Aug 2026 20:13:40 +0000",
+      "updated_at": "2026-08-04T20:13:40Z",
+      "updated_raw": "Tue, 04 Aug 2026 20:13:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cb2cc9a7ec1ad24e94a2323b4899c5c1ec3d896324aff0fc65817970f397ece5",
+      "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+      "url": "https://deepgrove.ai/maple-preview",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T19:44:55Z",
+      "authors": [
+        "edwardbzhang"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49173984",
+      "summary": "Article URL: https://deepgrove.ai/maple-preview Comments URL: https://news.ycombinator.com/item?id=49173984 Points: 38 # Comments: 12",
+      "published_raw": "Tue, 04 Aug 2026 19:44:55 +0000",
+      "updated_at": "2026-08-04T19:44:55Z",
+      "updated_raw": "Tue, 04 Aug 2026 19:44:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5b997e6e8967b7fe75af2ddf578c4528728ada9a47526b36789ca4bd6be804e2",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T18:51:38Z",
+      "authors": [
+        "jdcampolargo"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49173165",
+      "summary": "Article URL: https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/ Comments URL: https://news.ycombinator.com/item?id=49173165 Points: 845 # Comments: 45",
+      "published_raw": "Tue, 04 Aug 2026 18:51:38 +0000",
+      "updated_at": "2026-08-04T18:51:38Z",
+      "updated_raw": "Tue, 04 Aug 2026 18:51:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6158d982e4e9cd7cc4afe183b6af391ad0b179293bea14e668c1171f6ffb5d89",
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-04T18:36:02Z",
+      "authors": [
+        "Mzzzzz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49172936",
+      "summary": "We are Rui and Michael and we’re building EdotEnv ( https://edotenv.com ): self-improving RL environments from Quant Trading workflows. With all the benchmaxxing around, evals saturate and become meaningless for model comparison. Useful benchmarks should increase in difficulty as models advance. Back in our Quant jobs, Michael and I saw that the market has exactly this property: markets became more efficient as people profited from trading inefficiencies, making new profitable strategies harder to find and old ones decay over time. This makes markets an ideal, continuously evolving benchmark for LLM training. The hard part is to turn professional quant workflows into reliable training envs, as this is a very niche expertise. In our environments, we give LLMs a quant trading workflow and evaluate their performance on out-of-sample data: build predictive features/ models, design a portfolio, backtest strategies, adapt continuously to market regimes. Each step is a task with different self-built tools. For example, a predictive feature building task gives the agent cleaned market data of time period [0,T] to research ideas, a backtesting tool to test created features at time t on [0, t], an execution tool to trade strategies with the new features on [t+1, T] and a final evaluation. Our reward isolates the agent's feature building skills and yet benefits from market properties. From running SOTA models in our environments, we see that i) they seem to struggle with iterating deeply on research ideas, preferring broad shallow searches; ii) higher reasoning does not seem to increase performance and iii) agents do not understand trading, e.g. when losing money they stop trading instead of trading smarter. Check out our blogs for more details! https://edotenv.com/?tab=blog Quant workflows are essentially applied ML research, long-horizon planning and continual learning. Through our envs, we teach these transferable research skills, rather than task specific answers. Our environments are closer to a realistic research workflow: we use real-world data instead of synthetic ones; our envs naturally contain noise and real trade-offs; our rewards are verifiable and immediate, with no need for an additional LLM judge or human expert. We open sourced a sample task repository: https://github.com/MMcollab-dotcom/feature-engineering . We plan to sell continuously improving envs to AI labs/researchers/enterprises training their own agents, who are interested in ML modelling capabilities, continual learning, long horizon planning or Quant Research in general. We'd love feedback from anyone trying out their own agents in our envs, for either eval or post training. And of course, we are always happy to discuss the future of trading with LLMs (and no, it should not be asking the LLM to read tea leaves and give you the stock to buy tomorrow). Looking forward to your comments! Comments URL: https://news.ycombinator.com/item?id=49172936 Points: 29 # Comments: 22",
+      "published_raw": "Tue, 04 Aug 2026 18:36:02 +0000",
+      "updated_at": "2026-08-04T18:36:02Z",
+      "updated_raw": "Tue, 04 Aug 2026 18:36:02 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:18d5133547c060c27766474138197d7ddbdd1785220b74de38990b684ad8a8e5",
+      "title": "施壓聯準會救日圓？美財長籲擴大 FIMA 回購上限，聯準會傳聲筒：搞錯工具用途",
+      "url": "https://www.blocktempo.com/us-treasury-bessent-fed-fima-repo-japan-yen/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-04T17:05:27Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "FED",
+        "FIMA",
+        "ScottBessent",
+        "匯率干預",
+        "日圓",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "貨幣政策"
+      ],
+      "guid": "https://www.blocktempo.com/?p=517847",
+      "summary": "美國財政部與聯準會（Fed）在貨幣政策上的潛在分歧再度浮上檯面！據《華爾街日報》首席經濟記者 Nick Tim […] 〈 施壓聯準會救日圓？美財長籲擴大 FIMA 回購上限，聯準會傳聲筒：搞錯工具用途 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 04 Aug 2026 17:05:27 +0000",
+      "updated_at": "2026-08-04T17:05:27Z",
+      "updated_raw": "Tue, 04 Aug 2026 17:05:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:727eca4a856fb2b6b4c182833361ea24735fc4914290f71ef4bb7b5be8fe0baa",
+      "title": "SBF 翻案失敗！聯邦上訴法院駁回 FTX 詐欺案上訴，維持 25 年有期徒刑原判",
+      "url": "https://www.blocktempo.com/sbf-ftx-fraud-appeal-denied-by-federal-court/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-04T16:52:55Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AlamedaResearch",
+        "FTX",
+        "SBF",
+        "SamBankmanFried",
+        "上訴",
+        "加密貨幣",
+        "加密貨幣市場",
+        "美國法院",
+        "詐欺"
+      ],
+      "guid": "https://www.blocktempo.com/?p=517838",
+      "summary": "據《ABC News》報導，紐約聯邦上訴法院已駁回 FTX 創辦人 Sam Bankman-Fried（SBF […] 〈 SBF 翻案失敗！聯邦上訴法院駁回 FTX 詐欺案上訴，維持 25 年有期徒刑原判 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 04 Aug 2026 16:52:55 +0000",
+      "updated_at": "2026-08-04T16:52:55Z",
+      "updated_raw": "Tue, 04 Aug 2026 16:52:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:16d811bff1b37ac3918e4e4f8beff3afb2961916eb07b9bf3b25d1544ce38d2a",
+      "title": "荷姆茲海峽有望重開！傳伊朗軟化立場擬開放「歐洲排雷」，美財長：停戰協議最快明日出爐",
+      "url": "https://www.blocktempo.com/iran-considers-allowing-european-demining-hormuz-strait/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-04T16:43:17Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "伊朗",
+        "即時新聞",
+        "原油",
+        "地緣政治",
+        "川普",
+        "排雷",
+        "總體經濟",
+        "美伊衝突",
+        "荷姆茲海峽"
+      ],
+      "guid": "https://www.blocktempo.com/?p=517832",
+      "summary": "牽動全球能源命脈的中東地緣政治危機，似乎迎來了重大轉機！據知名財經帳號 The Kobeissi Letter […] 〈 荷姆茲海峽有望重開！傳伊朗軟化立場擬開放「歐洲排雷」，美財長：停戰協議最快明日出爐 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 04 Aug 2026 16:43:17 +0000",
+      "updated_at": "2026-08-04T16:43:17Z",
+      "updated_raw": "Tue, 04 Aug 2026 16:43:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:de82f9bed3d0eb151b5549dc9dd0c68ce16fa7d90a71918c45099699b38ab41a",
+      "title": "Pavel Durov 澄清 Telegram 遭蘋果無預警下架原因：遭惡意植入色情內容，Apple 過度反應",
+      "url": "https://www.blocktempo.com/telegram-briefly-removed-apple-app-store-extortion/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-04T16:33:39Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AppStore",
+        "Apple",
+        "PavelDurov",
+        "Telegram",
+        "內容審查",
+        "勒索",
+        "即時新聞",
+        "社群媒體",
+        "蘋果"
+      ],
+      "guid": "https://www.blocktempo.com/?p=517827",
+      "summary": "通訊軟體巨頭 Telegram 昨夜突遭蘋果（Apple）App Store 短暫下架，引發社群高度關注！創辦 […] 〈 Pavel Durov 澄清 Telegram 遭蘋果無預警下架原因：遭惡意植入色情內容，Apple 過度反應 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 04 Aug 2026 16:33:39 +0000",
+      "updated_at": "2026-08-04T16:33:39Z",
+      "updated_raw": "Tue, 04 Aug 2026 16:33:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ab1699cbd262eafc0d61d03725d395a5013826a06388e6cd191653c3e96098ee",
+      "title": "紐約梅隆銀行 BNY 攜手 Galaxy Digital 升級數位資產託管平台，華爾街巨頭進軍質押領域",
+      "url": "https://www.blocktempo.com/bny-galaxy-digital-asset-staking-partnership/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-04T16:26:40Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "BNY",
+        "Galaxydigital",
+        "staking",
+        "傳統金融",
+        "加密貨幣市場",
+        "數位資產",
+        "機構投資者",
+        "託管",
+        "質押"
+      ],
+      "guid": "https://www.blocktempo.com/?p=517822",
+      "summary": "傳統金融巨頭進一步擁抱加密市場基礎設施！據官方新聞稿指出，全球頂尖金融服務公司 BNY 於 8 月 4 日宣布 […] 〈 紐約梅隆銀行 BNY 攜手 Galaxy Digital 升級數位資產託管平台，華爾街巨頭進軍質押領域 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 04 Aug 2026 16:26:40 +0000",
+      "updated_at": "2026-08-04T16:26:40Z",
+      "updated_raw": "Tue, 04 Aug 2026 16:26:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9a9412734a6a2f610f1ed4128d19a3d3f17f93eaa85806d7793f263ee0320ae5",
+      "title": "Cloudflare 推出「AI 代理專用錢包」！支援穩定幣微支付、自訂預算防超支",
+      "url": "https://www.blocktempo.com/cloudflare-wallets-agentic-internet-stablecoin/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-04T16:15:48Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "AI代理",
+        "API",
+        "Agent",
+        "Cloudflare",
+        "X402",
+        "人工智慧",
+        "加密錢包",
+        "微支付",
+        "穩定幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=517812",
+      "summary": "AI 代理經濟迎來關鍵基礎設施！據科技巨頭 Cloudflare 於 8 月 4 日發布的官方公告，該公司正式 […] 〈 Cloudflare 推出「AI 代理專用錢包」！支援穩定幣微支付、自訂預算防超支 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 04 Aug 2026 16:15:48 +0000",
+      "updated_at": "2026-08-04T16:15:48Z",
+      "updated_raw": "Tue, 04 Aug 2026 16:15:48 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
