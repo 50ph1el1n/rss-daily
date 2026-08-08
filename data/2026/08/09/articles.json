@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-09",
+  "timezone": "Asia/Taipei",
+  "article_count": 13,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f1dee87fc703db42c6ead08cac59d723d00b04633b56335d81f39e40ed2f085f",
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T22:49:23Z",
+      "authors": [
+        "seg6"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49226636",
+      "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 12 # Comments: 1",
+      "published_raw": "Sat, 08 Aug 2026 22:49:23 +0000",
+      "updated_at": "2026-08-08T22:49:23Z",
+      "updated_raw": "Sat, 08 Aug 2026 22:49:23 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1170c9abf2fc70b28688b6aec407b43859138addf7951efc72322affcaa8530a",
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T21:07:10Z",
+      "authors": [
+        "bookofjoe"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49225918",
+      "summary": "Article URL: https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/ Comments URL: https://news.ycombinator.com/item?id=49225918 Points: 65 # Comments: 30",
+      "published_raw": "Sat, 08 Aug 2026 21:07:10 +0000",
+      "updated_at": "2026-08-08T21:07:10Z",
+      "updated_raw": "Sat, 08 Aug 2026 21:07:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:68c301bfc11951615c7b51f81609a36eed2d532194f586c01325ee1c6b965bf3",
+      "title": "The Unreasonable Effectiveness of Mathematics in the Natural Sciences [pdf]",
+      "url": "https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T20:37:24Z",
+      "authors": [
+        "pseudolus"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49225676",
+      "summary": "Article URL: https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf Comments URL: https://news.ycombinator.com/item?id=49225676 Points: 14 # Comments: 4",
+      "published_raw": "Sat, 08 Aug 2026 20:37:24 +0000",
+      "updated_at": "2026-08-08T20:37:24Z",
+      "updated_raw": "Sat, 08 Aug 2026 20:37:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1ce6dd8c5090441a6a317c25fb9a252f31f3989d183546f7301abeaebbe8e83b",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T19:38:08Z",
+      "authors": [
+        "MarcoDewey"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49225139",
+      "summary": "Article URL: https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute Comments URL: https://news.ycombinator.com/item?id=49225139 Points: 69 # Comments: 15",
+      "published_raw": "Sat, 08 Aug 2026 19:38:08 +0000",
+      "updated_at": "2026-08-08T19:38:08Z",
+      "updated_raw": "Sat, 08 Aug 2026 19:38:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:abf90bee622705bc988142f68dc25d0aedb4b5736bb0d2efc596627ce6b68dee",
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T18:09:31Z",
+      "authors": [
+        "theanonymousone"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49224294",
+      "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 471 # Comments: 223",
+      "published_raw": "Sat, 08 Aug 2026 18:09:31 +0000",
+      "updated_at": "2026-08-08T18:09:31Z",
+      "updated_raw": "Sat, 08 Aug 2026 18:09:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7c1ab0ef28bbc4e2162edf276026865af5b5d21d8e13ff9af1591dfc2f187de6",
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T17:42:40Z",
+      "authors": [
+        "skibz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49224020",
+      "summary": "Article URL: https://classicbits.net/coding-and-software/my-software/monosol/ Comments URL: https://news.ycombinator.com/item?id=49224020 Points: 41 # Comments: 11",
+      "published_raw": "Sat, 08 Aug 2026 17:42:40 +0000",
+      "updated_at": "2026-08-08T17:42:40Z",
+      "updated_raw": "Sat, 08 Aug 2026 17:42:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a54f154ee5a77307aefde7376b44914d3c96e98cfadf189c3622d416342fd119",
+      "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+      "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T17:27:52Z",
+      "authors": [
+        "geox"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49223845",
+      "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 192 # Comments: 93",
+      "published_raw": "Sat, 08 Aug 2026 17:27:52 +0000",
+      "updated_at": "2026-08-08T17:27:52Z",
+      "updated_raw": "Sat, 08 Aug 2026 17:27:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:13b5f70adee3ae6f3d0de5380d269174b55299900411c5372acdf85577253478",
+      "title": "LinkedIn Feed Blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T16:49:07Z",
+      "authors": [
+        "andrewpollack"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49223475",
+      "summary": "Article URL: https://github.com/andrewpollack/linkedin-feed-blocker Comments URL: https://news.ycombinator.com/item?id=49223475 Points: 158 # Comments: 94",
+      "published_raw": "Sat, 08 Aug 2026 16:49:07 +0000",
+      "updated_at": "2026-08-08T16:49:07Z",
+      "updated_raw": "Sat, 08 Aug 2026 16:49:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:266314d4d4a2065ae0ae86ecf188b6c8d96f45001534144a4e292609bc4cf5c8",
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T16:04:51Z",
+      "authors": [
+        "groomlake"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49223082",
+      "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 295 # Comments: 134",
+      "published_raw": "Sat, 08 Aug 2026 16:04:51 +0000",
+      "updated_at": "2026-08-08T16:04:51Z",
+      "updated_raw": "Sat, 08 Aug 2026 16:04:51 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0db993c6e5877f03e4b16089b305014fe90905667cd122791e4bf764b0d88eab",
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-08T16:04:36Z",
+      "authors": [
+        "gumby"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49223079",
+      "summary": "Article URL: https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/ Comments URL: https://news.ycombinator.com/item?id=49223079 Points: 142 # Comments: 69",
+      "published_raw": "Sat, 08 Aug 2026 16:04:36 +0000",
+      "updated_at": "2026-08-08T16:04:36Z",
+      "updated_raw": "Sat, 08 Aug 2026 16:04:36 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:47f70a4f0b3a20394ba7f636bc8c7eba880b1835fd80cf947fd73707c7343c13",
+      "title": "不是全新星系，「小紅點」真面目是星系中央超大質量黑洞活動的短暫印記",
+      "url": "https://technews.tw/2026/08/09/evolutionary-mystery-cosmic-little-red-dots/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-08T16:00:21Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "NASA",
+        "X 射線輻射",
+        "天文",
+        "小紅點",
+        "環境科學",
+        "自然科學",
+        "薩瓜羅星系",
+        "螺旋星系",
+        "韋伯太空望遠鏡"
+      ],
+      "guid": "https://technews.tw/?p=1598596",
+      "summary": "詹姆斯‧韋伯太空望遠鏡於 2022 年發現「小紅點」以來，這些遙遠、緻密且呈現紅色的天體便成為天文學家高度關注 […]",
+      "published_raw": "Sat, 08 Aug 2026 16:00:21 +0000",
+      "updated_at": "2026-08-08T16:00:21Z",
+      "updated_raw": "Sat, 08 Aug 2026 16:00:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e14a1ec669efcd59b3ebe3c394a11300dce72717c9128186179cbe4ecf5608a5",
+      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路",
+      "url": "https://technews.tw/2026/08/09/exercise-does-not-just-strengthen-the-heart/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-08T16:00:06Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "心臟",
+        "心血管健康",
+        "心跳",
+        "生物科技",
+        "運動",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1590355",
+      "summary": "運動對心血管健康的好處不少，除了能降低血壓、改善血脂，還可讓心臟肌肉變得更有力。然而，心臟要正常運作，靠的不只 […]",
+      "published_raw": "Sat, 08 Aug 2026 16:00:06 +0000",
+      "updated_at": "2026-08-08T16:00:06Z",
+      "updated_raw": "Sat, 08 Aug 2026 16:00:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e4a33df562f4c6be93076bb7cbcaf4977d1c7baf90852f75a85299b4c586b7fb",
+      "title": "NASA 攜手跨國團隊升空追擊日全食，揭開太陽日冕與大氣之謎",
+      "url": "https://technews.tw/2026/08/09/nasa-chase-total-solar-eclipse/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-08T16:00:04Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "NASA",
+        "冰島",
+        "地球",
+        "天文",
+        "太陽磁場",
+        "日全食",
+        "月球",
+        "環境科學",
+        "自然科學",
+        "航太科技"
+      ],
+      "guid": "https://technews.tw/?p=1596606",
+      "summary": "2026 年 8 月 12 日，一場備受矚目的日全食即將登場。屆時，月球本影將以高達每小時 5,000 英里的 […]",
+      "published_raw": "Sat, 08 Aug 2026 16:00:04 +0000",
+      "updated_at": "2026-08-08T16:00:04Z",
+      "updated_raw": "Sat, 08 Aug 2026 16:00:04 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
