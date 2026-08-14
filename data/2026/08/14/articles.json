@@ -1,0 +1,705 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-14",
+  "timezone": "Asia/Taipei",
+  "article_count": 29,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:581735cc19b33635b1c77ae86c5cf482a68a8108e4b342f351e0a2df4ffb95aa",
+      "title": "中國房市還有「定時炸彈」！土地使用權倒數，近 5 兆商用不動產陷到期危機",
+      "url": "https://finance.technews.tw/2026/08/14/china-races-to-solve-148-billion-property-threat-as-leases-end/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:50:01Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "中國房地產",
+        "中國觀察",
+        "土地",
+        "土地使用權",
+        "房地產",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1602283",
+      "summary": "中國房地產市場低迷之際，土地使用權到期問題正成為另一顆「定時炸彈」。《彭博新聞》報導，中國部分辦公大樓、購物中 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:50:01 +0000",
+      "updated_at": "2026-08-13T23:50:01Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:50:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:84679ab982ed14ffadb8c10281cbead1542ca0da065e3792d59bccfbe9742d96",
+      "title": "西班牙新創 Kreios Space 打造「吸氣式」衛星推進系統，實現無燃料低空飛行",
+      "url": "https://technews.tw/2026/08/14/kreios-space-air-breathing-satellite/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:40:13Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Kreios Space",
+        "低軌衛星",
+        "天文",
+        "推進系統",
+        "新創",
+        "航太科技",
+        "衛星通訊",
+        "西班牙"
+      ],
+      "guid": "https://technews.tw/?p=1601743",
+      "summary": "西班牙航太新創公司 Kreios Space 宣布，將於 2028 年首度將其研發的「空氣呼吸式電動推進系統」 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:40:13 +0000",
+      "updated_at": "2026-08-13T23:40:13Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:40:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a97ce21678cae1ec66834a7d0e05907cb87dd822752dd93739a737363cef80fa",
+      "title": "美國無人機關稅上路，台灣適用 15%、敏感產品最高 100%",
+      "url": "https://technews.tw/2026/08/14/us-drone-tariffs-15-taiwan-100-sensitive-products/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:34:05Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "光達",
+        "國際觀察",
+        "川普政府",
+        "無人機",
+        "熱成像",
+        "關稅",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1602760",
+      "summary": "美國總統川普 13 日簽署公告，針對進口無人機及零組件祭出新一波關稅措施，以降低美國對海外無人機供應鏈的依賴。 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:34:05 +0000",
+      "updated_at": "2026-08-13T23:34:05Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:34:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fb28241efdafb45d36c37a2e409b9cbc4bd5f33d7ff348994ebb3c24631bfa0e",
+      "title": "NAND 漲價有感，華強北 microSD 卡不標價成新常態",
+      "url": "https://technews.tw/2026/08/14/huaqiangbei-microsd/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:31:27Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "microSD 卡",
+        "中國觀察",
+        "科技生活",
+        "華強北",
+        "記憶卡",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1602757",
+      "summary": "全球 NAND Flash 市場持續升溫，價格上漲的影響也逐漸反映到終端產品。《科技新報》記者實際走訪中國深圳 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:31:27 +0000",
+      "updated_at": "2026-08-13T23:31:27Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:31:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:418b0a23e60c7bf5c2b18c1dc48757d8241c8ebd859a29ba38b0af9582588ab6",
+      "title": "永遠比客戶要求多做 20%，大銀微靠「奈米級定位平台」躍升晶圓代工龍頭神隊友",
+      "url": "https://finance.technews.tw/2026/08/14/hiwin-microsystem-silicon-cowos/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:30:29Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "CoWoS",
+        "傳動元件",
+        "公司治理",
+        "半導體",
+        "大銀微",
+        "奈米級製程",
+        "封裝測試",
+        "晶圓代工",
+        "材料、設備",
+        "矽光子",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1601846",
+      "summary": "一場「意外」，讓晶圓代工龍頭重新認識它；一套「自提二成」哲學，讓它站上矽光子、CoWoS浪潮。 大銀微系統，外 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:30:29 +0000",
+      "updated_at": "2026-08-13T23:30:29Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:30:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b967c1a7f60d658658f8e3ab50b32df3a1afc9461828bfaab1705cc20d3ed598",
+      "title": "從概念走向產品，榮耀：Robot Phone 不只拍得穩還要拍得像電影",
+      "url": "https://technews.tw/2026/08/14/honor-robot-phone-film/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:30:28Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Robot Phone",
+        "手機",
+        "榮耀",
+        "機器人手機",
+        "科技生活"
+      ],
+      "guid": "https://technews.tw/?p=1602755",
+      "summary": "榮耀在中國市場正式推出了「看似很概念機」的產品 Robot Phone，除了可動式雲台設計成為市場焦點，官方也 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:30:28 +0000",
+      "updated_at": "2026-08-13T23:30:28Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:30:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d3fa7263e2fc0eb54d2c10485ef7a72e69fc08593753b0a6ed23bfd9e210550e",
+      "title": "史上最完整思覺失調症基因圖譜問世，AI 發威助解全球 2,300 萬人病理謎團",
+      "url": "https://technews.tw/2026/08/14/ai-genetic-schizophrenia/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:20:52Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 分析",
+        "基因",
+        "大腦",
+        "思覺失調",
+        "生物科技",
+        "精神醫學",
+        "遺傳學",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1601979",
+      "summary": "一項刊登於權威期刊《Nature Genetics》的最新研究，利用人工智慧（AI）與大規模基因資料，成功繪製 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:20:52 +0000",
+      "updated_at": "2026-08-13T23:20:52Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:20:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fa7bf0e6c1fe324358d69f82a314ce50cea2e92547061d26270aed848c6563c3",
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T23:16:55Z",
+      "authors": [
+        "padolsey"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49292932",
+      "summary": "Article URL: https://declaude.org/watermarking/ Comments URL: https://news.ycombinator.com/item?id=49292932 Points: 4 # Comments: 0",
+      "published_raw": "Thu, 13 Aug 2026 23:16:55 +0000",
+      "updated_at": "2026-08-13T23:16:55Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:16:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:85cb427bd941a2ab9cad3202ae7ce1bd49f9fa8f98b0bbf270f2d639ffec9579",
+      "title": "七成太空人視力受損，ESA 攜手英國新創研發迷你眼底掃描器",
+      "url": "https://technews.tw/2026/08/14/space-agencies-are-trying-to-keep-astronauts-from-losing-their-sight/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:10:14Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "ESA",
+        "SANS",
+        "Siloton",
+        "太空飛行相關神經眼科症候群",
+        "晶片",
+        "深空任務",
+        "無重力",
+        "生物科技",
+        "醫療科技",
+        "量子電腦"
+      ],
+      "guid": "https://technews.tw/?p=1601087",
+      "summary": "歐洲太空總署（European Space Agency，ESA）積極研究太空人視力受損成因，期望將來阿提米絲 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:10:14 +0000",
+      "updated_at": "2026-08-13T23:10:14Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:10:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cbda68c2c1ac3162d4ea2a62cedd1a360e4370f7f9556a5adc5602a9bda5d9e2",
+      "title": "PBS loses 70 years of TV history after cloud storage vendor goes defunct",
+      "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T23:05:38Z",
+      "authors": [
+        "doener"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49292843",
+      "summary": "Article URL: https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation Comments URL: https://news.ycombinator.com/item?id=49292843 Points: 29 # Comments: 7",
+      "published_raw": "Thu, 13 Aug 2026 23:05:38 +0000",
+      "updated_at": "2026-08-13T23:05:38Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:05:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f7ea043527a28bdd98acd6f092abc7f99cf32306de7aff221c92c43ac4bd3b1a",
+      "title": "英特爾推首款太空級 AI 運算晶片，供應全球航太與國防大廠",
+      "url": "https://technews.tw/2026/08/14/intel-starfire/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:00:13Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "IC 設計",
+        "Intel 18A",
+        "Starfire",
+        "太空 AI 晶片",
+        "技術分析",
+        "晶片",
+        "會員專區",
+        "航太科技",
+        "英特爾"
+      ],
+      "guid": "https://technews.tw/?p=1600691",
+      "summary": "7 月英特爾發表全新太空規格 AI 運算 SoC 晶片 Starfire，首次將英特爾 18A 先進製程用於 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:00:13 +0000",
+      "updated_at": "2026-08-13T23:00:13Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:00:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dd3bb435397661098d31e2f6fa7604e7dcd1e2f0c0fc72d61c586ca7a8304559",
+      "title": "前美軍將領爆料，伊朗 F-5 戰機一度成功突襲科威特美軍基地",
+      "url": "https://technews.tw/2026/08/14/former-norad-commander-unveiled-iranian-f5s-had-successfully-ambush-us-camp-in-kuwait/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-13T23:00:09Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "F-5",
+        "反無人機",
+        "美伊衝突",
+        "美軍基地",
+        "考薩爾",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1602749",
+      "summary": "近年來無人機與各類低空巡弋飛彈成為戰場顯學，但傳統有人戰機「低空突襲」的威脅是否已經過時？ 伊朗老 F-5 成 […]",
+      "published_raw": "Thu, 13 Aug 2026 23:00:09 +0000",
+      "updated_at": "2026-08-13T23:00:09Z",
+      "updated_raw": "Thu, 13 Aug 2026 23:00:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:859d1993b7ef8b8310379b1cfb1155cc7c8cb64d330c8e666e621f82a1d834dd",
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T20:14:17Z",
+      "authors": [
+        "theanonymousone"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49291268",
+      "summary": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 109 # Comments: 57",
+      "published_raw": "Thu, 13 Aug 2026 20:14:17 +0000",
+      "updated_at": "2026-08-13T20:14:17Z",
+      "updated_raw": "Thu, 13 Aug 2026 20:14:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f85e6d694fd57360afe0c262c7a44d3b453d31535a5d8fd5153b5959eb0a34d9",
+      "title": "How Gödel's Proof Works (2020)",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T19:44:46Z",
+      "authors": [
+        "tzury"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49290969",
+      "summary": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 54 # Comments: 32",
+      "published_raw": "Thu, 13 Aug 2026 19:44:46 +0000",
+      "updated_at": "2026-08-13T19:44:46Z",
+      "updated_raw": "Thu, 13 Aug 2026 19:44:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8f6e41036556e71be2723d3986df99027c96f34063c86df49001550f58dae24a",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T19:25:38Z",
+      "authors": [
+        "malshe"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49290768",
+      "summary": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 53 # Comments: 32",
+      "published_raw": "Thu, 13 Aug 2026 19:25:38 +0000",
+      "updated_at": "2026-08-13T19:25:38Z",
+      "updated_raw": "Thu, 13 Aug 2026 19:25:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:289a686f9f229edd6c65a0585b24a79aa96ec7fd9ad46698b06f19c1f7f1565e",
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T18:47:19Z",
+      "authors": [
+        "sebg"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49290299",
+      "summary": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 153 # Comments: 82",
+      "published_raw": "Thu, 13 Aug 2026 18:47:19 +0000",
+      "updated_at": "2026-08-13T18:47:19Z",
+      "updated_raw": "Thu, 13 Aug 2026 18:47:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d968493019aaf7ad572e4d93a747755c1849c6fcc41c458842e38315f37a2f95",
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T18:41:01Z",
+      "authors": [
+        "ValdikSS"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49290215",
+      "summary": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 131 # Comments: 82",
+      "published_raw": "Thu, 13 Aug 2026 18:41:01 +0000",
+      "updated_at": "2026-08-13T18:41:01Z",
+      "updated_raw": "Thu, 13 Aug 2026 18:41:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8babb141b151e31ce1063b49b65beab272a9f3c809140d1d5e23d50fa4aa8f9d",
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T18:10:02Z",
+      "authors": [
+        "pr337h4m"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289844",
+      "summary": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai Comments URL: https://news.ycombinator.com/item?id=49289844 Points: 383 # Comments: 152",
+      "published_raw": "Thu, 13 Aug 2026 18:10:02 +0000",
+      "updated_at": "2026-08-13T18:10:02Z",
+      "updated_raw": "Thu, 13 Aug 2026 18:10:02 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8ac336f243e7702ffd2927ee47a0d5f68a82a491646502efa41d3301ba528e49",
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:57:50Z",
+      "authors": [
+        "tosh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289654",
+      "summary": "Article URL: https://earendil.com/posts/compaction-in-pi/ Comments URL: https://news.ycombinator.com/item?id=49289654 Points: 86 # Comments: 30",
+      "published_raw": "Thu, 13 Aug 2026 17:57:50 +0000",
+      "updated_at": "2026-08-13T17:57:50Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:57:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0c9d0287da55a6b13c2538d937cfd798e1b0ca28f18ad55379d509b480c0d12c",
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:49:18Z",
+      "authors": [
+        "tdx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289532",
+      "summary": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 114 # Comments: 80",
+      "published_raw": "Thu, 13 Aug 2026 17:49:18 +0000",
+      "updated_at": "2026-08-13T17:49:18Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:49:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4fb5058bcef8fee905475934ba736592694f1b4b889c9a559b64871ec72265d4",
+      "title": "Choose Boring Technology (2015)",
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:48:13Z",
+      "authors": [
+        "tosh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289512",
+      "summary": "Article URL: https://mcfunley.com/choose-boring-technology Comments URL: https://news.ycombinator.com/item?id=49289512 Points: 219 # Comments: 117",
+      "published_raw": "Thu, 13 Aug 2026 17:48:13 +0000",
+      "updated_at": "2026-08-13T17:48:13Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:48:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b045fc0dd4f6cceeca3249fcffd7e802c5ad4d4dc29f94df30d1caa776c15608",
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "url": "https://donkeybas.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:45:50Z",
+      "authors": [
+        "jkrauska"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289465",
+      "summary": "Article URL: https://donkeybas.com/ Comments URL: https://news.ycombinator.com/item?id=49289465 Points: 173 # Comments: 72",
+      "published_raw": "Thu, 13 Aug 2026 17:45:50 +0000",
+      "updated_at": "2026-08-13T17:45:50Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:45:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d55ada48bf3c963a4bc127bd20bb2a411b0627f43abb17ab2f5f0e5126dd6af",
+      "title": "Google 正式發布 Gemini 3.7 Flash！主打超強寫碼與 AI 代理，年底前祭「半價」流血戰",
+      "url": "https://www.blocktempo.com/google-gemini-3-7-flash-release-coding-ai-agent/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-13T17:37:09Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "AIAgent",
+        "Gemini",
+        "Gemini3.7Flash",
+        "Google",
+        "人工智慧",
+        "大語言模型",
+        "程式開發"
+      ],
+      "guid": "https://www.blocktempo.com/?p=521398",
+      "summary": "據 Google 官方部落格 於 13 日發布的最新公告指出，距離前代版本僅短短三週，Google 正式推出了 […] 〈 Google 正式發布 Gemini 3.7 Flash！主打超強寫碼與 AI 代理，年底前祭「半價」流血戰 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 13 Aug 2026 17:37:09 +0000",
+      "updated_at": "2026-08-13T17:37:09Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:37:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f3bc5a054283cf7f5c1efda9f3197a41ae53002a28c3f7d735d599ed069aaa2d",
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:23:22Z",
+      "authors": [
+        "thisisauserid"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289112",
+      "summary": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas... Comments URL: https://news.ycombinator.com/item?id=49289112 Points: 558 # Comments: 322",
+      "published_raw": "Thu, 13 Aug 2026 17:23:22 +0000",
+      "updated_at": "2026-08-13T17:23:22Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:23:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:370c1610ed60b8311ec170828e594a206c6f64516e523cbae0493b5f8a7f7d59",
+      "title": "Tocharian Online",
+      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:15:46Z",
+      "authors": [
+        "Bluestein"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49289026",
+      "summary": "Article URL: https://lrc.la.utexas.edu/eieol/tokol/0 Comments URL: https://news.ycombinator.com/item?id=49289026 Points: 55 # Comments: 11",
+      "published_raw": "Thu, 13 Aug 2026 17:15:46 +0000",
+      "updated_at": "2026-08-13T17:15:46Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:15:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:58b6c9df2684e5fc203a632aafd0f243af24a70eeedc9509ff8a37219e26303e",
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T17:05:12Z",
+      "authors": [
+        "spelk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49288889",
+      "summary": "Article URL: https://docs.mistral.ai/models/ocr-4-1 Comments URL: https://news.ycombinator.com/item?id=49288889 Points: 233 # Comments: 91",
+      "published_raw": "Thu, 13 Aug 2026 17:05:12 +0000",
+      "updated_at": "2026-08-13T17:05:12Z",
+      "updated_raw": "Thu, 13 Aug 2026 17:05:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e1f413d5f7360fc58e2db908404484c68c21aa8f4dcdec03b14379ee42f561f3",
+      "title": "以太坊 L1 捨棄 Poseidon！轉向傳統雜湊函數 SHA/BLAKE，解鎖後量子終極安全",
+      "url": "https://www.blocktempo.com/ethereum-foundation-pivots-to-sha-blake-post-quantum-cryptography/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-13T16:57:45Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "JustinDrake",
+        "Poseidon",
+        "SNARK",
+        "ethereum",
+        "以太坊",
+        "密碼學",
+        "後量子密碼學",
+        "零知識證明"
+      ],
+      "guid": "https://www.blocktempo.com/?p=521393",
+      "summary": "據以太坊安全研究員 Justin Drake 於 13 日發布的最新貼文，以太坊基金會將放棄在 L1 使用曾主 […] 〈 以太坊 L1 捨棄 Poseidon！轉向傳統雜湊函數 SHA/BLAKE，解鎖後量子終極安全 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 13 Aug 2026 16:57:45 +0000",
+      "updated_at": "2026-08-13T16:57:45Z",
+      "updated_raw": "Thu, 13 Aug 2026 16:57:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:21170c1c372e6f16a2a101ccc81649953e9ae986a76d4de5af6ed8c44f083962",
+      "title": "渣打銀行喊 $UNI 100 美元目標價太低！Uniswap 協議收入暴增，年化通縮率達 4%",
+      "url": "https://www.blocktempo.com/standard-chartered-geoff-kendrick-uniswap-uni-price-target/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-13T16:46:34Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "DEX",
+        "Defi",
+        "GeoffKendrick",
+        "RobinhoodChain",
+        "UNI",
+        "Uniswap",
+        "代幣銷毀",
+        "加密貨幣市場",
+        "渣打銀行"
+      ],
+      "guid": "https://www.blocktempo.com/?p=521388",
+      "summary": "去中心化交易所（DEX）龍頭 Uniswap 的代幣銷毀通縮效應正展現驚人威力！據外媒 The Defiant […] 〈 渣打銀行喊 $UNI 100 美元目標價太低！Uniswap 協議收入暴增，年化通縮率達 4% 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 13 Aug 2026 16:46:34 +0000",
+      "updated_at": "2026-08-13T16:46:34Z",
+      "updated_raw": "Thu, 13 Aug 2026 16:46:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:90950336eaf62e23380e917277e4b271fda7ab19af9a45b01eaf06ac687cfe46",
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-13T16:22:05Z",
+      "authors": [
+        "timmmmmmay"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49288293",
+      "summary": "Article URL: https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html Comments URL: https://news.ycombinator.com/item?id=49288293 Points: 80 # Comments: 43",
+      "published_raw": "Thu, 13 Aug 2026 16:22:05 +0000",
+      "updated_at": "2026-08-13T16:22:05Z",
+      "updated_raw": "Thu, 13 Aug 2026 16:22:05 +0000",
+      "language": "en"
+    }
+  ]
+}
