@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-16",
+  "timezone": "Asia/Taipei",
+  "article_count": 19,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:36e551e309494d19fc8fd5473eed7a06761f180c36b9f69902491c730742e070",
+      "title": "The Government Is Monitoring Anti-Flock TikTok and Instagram Accounts",
+      "url": "https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T22:40:20Z",
+      "authors": [
+        "Jimmc414"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314962",
+      "summary": "Article URL: https://www.404media.co/the-government-is-monitoring-anti-flock-tiktok-and-instagram-accounts/ Comments URL: https://news.ycombinator.com/item?id=49314962 Points: 42 # Comments: 20",
+      "published_raw": "Sat, 15 Aug 2026 22:40:20 +0000",
+      "updated_at": "2026-08-15T22:40:20Z",
+      "updated_raw": "Sat, 15 Aug 2026 22:40:20 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c8cef99d8659a494f75b154438a3e5ae1989689d6b8971dcf34c1bfbc0c968a1",
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "url": "https://sugartrack-beta.vercel.app/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T22:28:14Z",
+      "authors": [
+        "hunzaboy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314884",
+      "summary": "Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 7 # Comments: 1",
+      "published_raw": "Sat, 15 Aug 2026 22:28:14 +0000",
+      "updated_at": "2026-08-15T22:28:14Z",
+      "updated_raw": "Sat, 15 Aug 2026 22:28:14 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:532d1f87612c6daf051aa9cf77e3c89d068619a931e951f9906684531665cdae",
+      "title": "Engineers will do anything to avoid learning from history",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T22:08:22Z",
+      "authors": [
+        "madrox"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314744",
+      "summary": "Article URL: https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/ Comments URL: https://news.ycombinator.com/item?id=49314744 Points: 93 # Comments: 46",
+      "published_raw": "Sat, 15 Aug 2026 22:08:22 +0000",
+      "updated_at": "2026-08-15T22:08:22Z",
+      "updated_raw": "Sat, 15 Aug 2026 22:08:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:db851a488f71729904c8752249f5f9d739680236ad86b13538f78d6b7482f781",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "url": "https://xescu.re/keeta-consensus.pdf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T21:49:45Z",
+      "authors": [
+        "xescure"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314642",
+      "summary": "Article URL: https://xescu.re/keeta-consensus.pdf Comments URL: https://news.ycombinator.com/item?id=49314642 Points: 10 # Comments: 1",
+      "published_raw": "Sat, 15 Aug 2026 21:49:45 +0000",
+      "updated_at": "2026-08-15T21:49:45Z",
+      "updated_raw": "Sat, 15 Aug 2026 21:49:45 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c0b71447b29ed9be7a0144a113ffee7778526cdff1ff258d3951f50cfa385d7a",
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T21:45:54Z",
+      "authors": [
+        "Jimmc414"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314615",
+      "summary": "Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 34 # Comments: 1",
+      "published_raw": "Sat, 15 Aug 2026 21:45:54 +0000",
+      "updated_at": "2026-08-15T21:45:54Z",
+      "updated_raw": "Sat, 15 Aug 2026 21:45:54 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6b2032eaee313efc16e66381555f4abacb657fbd7d41a9389419d5363657ec63",
+      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T21:42:47Z",
+      "authors": [
+        "firefax"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314596",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 44 # Comments: 6",
+      "published_raw": "Sat, 15 Aug 2026 21:42:47 +0000",
+      "updated_at": "2026-08-15T21:42:47Z",
+      "updated_raw": "Sat, 15 Aug 2026 21:42:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d11526f6f6c2b5570f21c94e3b20002e578a1c56b6db09a35a63f38c42f0fae7",
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T21:39:09Z",
+      "authors": [
+        "ingve"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314579",
+      "summary": "Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 20 # Comments: 2",
+      "published_raw": "Sat, 15 Aug 2026 21:39:09 +0000",
+      "updated_at": "2026-08-15T21:39:09Z",
+      "updated_raw": "Sat, 15 Aug 2026 21:39:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:da53e9d59a0f02df828a3d541664f15ec054e0961dfce099df52ab7246120f60",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T21:14:34Z",
+      "authors": [
+        "theanonymousone"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314403",
+      "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item?id=49314403 Points: 89 # Comments: 58",
+      "published_raw": "Sat, 15 Aug 2026 21:14:34 +0000",
+      "updated_at": "2026-08-15T21:14:34Z",
+      "updated_raw": "Sat, 15 Aug 2026 21:14:34 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d9b0cdb2c40843582f7a4eadc1068a184500972b82871292824d583be54f8da",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T20:54:11Z",
+      "authors": [
+        "felixbraun"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49314235",
+      "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 53 # Comments: 17",
+      "published_raw": "Sat, 15 Aug 2026 20:54:11 +0000",
+      "updated_at": "2026-08-15T20:54:11Z",
+      "updated_raw": "Sat, 15 Aug 2026 20:54:11 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:50bfc862097636df189bfb7609cca5f32110a9f030f3426587786881b6604734",
+      "title": "Humazon",
+      "url": "https://hughhowey.com/humazon/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T20:18:37Z",
+      "authors": [
+        "herbertl"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49313941",
+      "summary": "Article URL: https://hughhowey.com/humazon/ Comments URL: https://news.ycombinator.com/item?id=49313941 Points: 14 # Comments: 6",
+      "published_raw": "Sat, 15 Aug 2026 20:18:37 +0000",
+      "updated_at": "2026-08-15T20:18:37Z",
+      "updated_raw": "Sat, 15 Aug 2026 20:18:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e12ff1c990076e300c2a4364d0ff4d183af4f4d968d0714c07e2997050c86466",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T19:20:51Z",
+      "authors": [
+        "dgellow"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49313428",
+      "summary": "Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ Comments URL: https://news.ycombinator.com/item?id=49313428 Points: 27 # Comments: 3",
+      "published_raw": "Sat, 15 Aug 2026 19:20:51 +0000",
+      "updated_at": "2026-08-15T19:20:51Z",
+      "updated_raw": "Sat, 15 Aug 2026 19:20:51 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fb8143767ea4867ab284527976cba37730eb86a56693aac94724506ee10ebdc9",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T19:12:53Z",
+      "authors": [
+        "AnodicElegy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49313367",
+      "summary": "https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 65 # Comments: 34",
+      "published_raw": "Sat, 15 Aug 2026 19:12:53 +0000",
+      "updated_at": "2026-08-15T19:12:53Z",
+      "updated_raw": "Sat, 15 Aug 2026 19:12:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:abf81f5672a1e7f49fe9a3e8eeed1ffc639373be7bc6a5f9793bfc12eea624df",
+      "title": "Tess's Android Wayland Compositor",
+      "url": "https://github.com/wmww/tawc",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T18:34:26Z",
+      "authors": [
+        "schmorptron"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49313068",
+      "summary": "Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 32 # Comments: 2",
+      "published_raw": "Sat, 15 Aug 2026 18:34:26 +0000",
+      "updated_at": "2026-08-15T18:34:26Z",
+      "updated_raw": "Sat, 15 Aug 2026 18:34:26 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b78a3e501de0edd4b1a68148e33ae6211011bd58397a65ba7085d546c042b643",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T18:33:25Z",
+      "authors": [
+        "wweissbluth"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49313047",
+      "summary": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
+      "published_raw": "Sat, 15 Aug 2026 18:33:25 +0000",
+      "updated_at": "2026-08-15T18:33:25Z",
+      "updated_raw": "Sat, 15 Aug 2026 18:33:25 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3b6bef07d6af6d0fe89ca97a95438db2a507147583cdf239f116ad7c75f68b34",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T18:13:02Z",
+      "authors": [
+        "rzk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49312845",
+      "summary": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 368 # Comments: 328",
+      "published_raw": "Sat, 15 Aug 2026 18:13:02 +0000",
+      "updated_at": "2026-08-15T18:13:02Z",
+      "updated_raw": "Sat, 15 Aug 2026 18:13:02 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c544316436a5a5bfc4ad11013d6ec51ac3bc5223071d129c85e56f0976736b1e",
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-15T16:38:34Z",
+      "authors": [
+        "jeffreyrogers"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49312008",
+      "summary": "Article URL: https://www.nature.com/articles/d41586-026-02448-x Comments URL: https://news.ycombinator.com/item?id=49312008 Points: 150 # Comments: 68",
+      "published_raw": "Sat, 15 Aug 2026 16:38:34 +0000",
+      "updated_at": "2026-08-15T16:38:34Z",
+      "updated_raw": "Sat, 15 Aug 2026 16:38:34 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e59c8f130d2bcc99d8c6e62a26f46e9762eec9001410bd4f012371833ec16bfa",
+      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望",
+      "url": "https://technews.tw/2026/08/16/how-these-twins-rare-growth-disorder-could-provide-the-key-to-preventing-cancer/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-15T16:00:51Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "基因",
+        "生物科技",
+        "癌症",
+        "細胞",
+        "罕見疾病",
+        "萊倫氏症候群",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1591227",
+      "summary": "癌症是人類面臨的重大健康威脅之一，但有些罕見疾病患者，似乎天生就較不易罹癌。最近，BBC 報導一對患有萊倫氏症 […]",
+      "published_raw": "Sat, 15 Aug 2026 16:00:51 +0000",
+      "updated_at": "2026-08-15T16:00:51Z",
+      "updated_raw": "Sat, 15 Aug 2026 16:00:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8a36b265583467c2bde73cfed6b3fa8a4912fbac6eeb2f780d7340dd9b89e65e",
+      "title": "韋伯太空望遠鏡揭密「珠寶箱」星雲，70 顆年輕恆星藏身其中",
+      "url": "https://technews.tw/2026/08/16/jwst_ngc-3372_treasure-chest/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-15T16:00:29Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "塵埃雲",
+        "天文",
+        "彗星狀球狀體",
+        "恆星",
+        "海山二",
+        "珠寶箱",
+        "自然科學",
+        "船底座星雲",
+        "韋伯太空望遠鏡"
+      ],
+      "guid": "https://technews.tw/?p=1601185",
+      "summary": "詹姆斯·韋伯太空望遠鏡（James Webb Space Telescope，簡稱 JWST）最新影像揭開船底 […]",
+      "published_raw": "Sat, 15 Aug 2026 16:00:29 +0000",
+      "updated_at": "2026-08-15T16:00:29Z",
+      "updated_raw": "Sat, 15 Aug 2026 16:00:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:01e4cf4b8b09fe8ced7698d16d4f61a909e16a7a17c83969f28483882cc0166f",
+      "title": "常見塑膠製品恐傷肝，研究：若搭配高脂高糖飲食，脂肪肝風險更高",
+      "url": "https://technews.tw/2026/08/16/this-widely-used-plastic-could-be-harming-your-liver/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-15T16:00:18Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "塑膠污染",
+        "微塑膠",
+        "環境科學",
+        "生物科技",
+        "聚乙烯",
+        "肝病",
+        "肝臟",
+        "脂肪肝",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1599265",
+      "summary": "美國德州農工大學獸醫與生物醫學學院研究指出，全球產量最高，用途廣泛的食品包裝、保鮮膜、儲存容器與飲料杯內襯的聚 […]",
+      "published_raw": "Sat, 15 Aug 2026 16:00:18 +0000",
+      "updated_at": "2026-08-15T16:00:18Z",
+      "updated_raw": "Sat, 15 Aug 2026 16:00:18 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
