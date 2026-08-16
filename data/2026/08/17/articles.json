@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-17",
+  "timezone": "Asia/Taipei",
+  "article_count": 16,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:caa8ffcb5a6675345007de37c2447bb90ec60801ae56141902a664a7c222ab38",
+      "title": "隱身鐵皮屋卻掌握晶片命脈，2026 台灣未上市 100 強：揭密默默暴賺的 AI 供應鏈黑馬",
+      "url": "https://finance.technews.tw/2026/08/17/2026-top-100-unlisted-companies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-16T23:30:44Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 供應鏈",
+        "AI 資料中心",
+        "供電",
+        "傑智環境",
+        "先進製程",
+        "公司治理",
+        "半導體",
+        "台積電",
+        "晶圓",
+        "晶片",
+        "未上市公司 100 強",
+        "矽品",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1601831",
+      "summary": "隱身在桃園龍潭重劃區一條不起眼的巷弄裡，緊鄰半導體封測巨擘美商艾克爾（Amkor）、綠色美妝大廠歐萊德，在兩大 […]",
+      "published_raw": "Sun, 16 Aug 2026 23:30:44 +0000",
+      "updated_at": "2026-08-16T23:30:44Z",
+      "updated_raw": "Sun, 16 Aug 2026 23:30:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4f4a46414a0226ad1e33d0a858a17672d9581c1c575e90ba1601acbbbe918e85",
+      "title": "打破時間與空間限制，人資專家看好 AI 面試成為「包容性招募」最佳推手",
+      "url": "https://technews.tw/2026/08/17/ai-is-changing-job-interviews-by-letting-candidates-interview-around-the-clock/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-16T23:20:48Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 面試",
+        "人力資源",
+        "履歷",
+        "求職",
+        "職場",
+        "面試"
+      ],
+      "guid": "https://technews.tw/?p=1601319",
+      "summary": "根據語音AI 招募平台 向《Business Insider》提供的資料，AI 招募工具正將面試時間推向深夜。 […]",
+      "published_raw": "Sun, 16 Aug 2026 23:20:48 +0000",
+      "updated_at": "2026-08-16T23:20:48Z",
+      "updated_raw": "Sun, 16 Aug 2026 23:20:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:863ed02c0841ab6731ba1901565aa655db41317e6d1645d83fdb8a7dd546543d",
+      "title": "上班族不續攤、食材成本飆，日本居酒屋上半年倒閉創近 40 年新高",
+      "url": "https://technews.tw/2026/08/17/japan-faces-record-izakaya-bankruptcies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-16T23:10:04Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "下班文化",
+        "國際觀察",
+        "居酒屋",
+        "旅遊",
+        "日本",
+        "續攤",
+        "食品消費稅",
+        "餐飲業"
+      ],
+      "guid": "https://technews.tw/?p=1602352",
+      "summary": "日本夜間最美的風景居酒屋，現正面臨食材與營運成本飆升、傳統下班文化改變及大型連鎖業者競爭等多重壓力的衝擊而陷入 […]",
+      "published_raw": "Sun, 16 Aug 2026 23:10:04 +0000",
+      "updated_at": "2026-08-16T23:10:04Z",
+      "updated_raw": "Sun, 16 Aug 2026 23:10:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:543cec097fabecb1c30dfe0f0f78fece7b0e22066c7f49060552235b69950ac2",
+      "title": "AI 全面最佳化水下無線通訊，解決深海數據傳輸難題",
+      "url": "https://technews.tw/2026/08/17/ai-transforms-underwater-wireless-communications/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-16T23:00:08Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "UOWC",
+        "光通訊",
+        "感測器",
+        "技術分析",
+        "數位通訊",
+        "會員專區",
+        "水下無線通訊",
+        "水下通訊",
+        "網通設備"
+      ],
+      "guid": "https://technews.tw/?p=1601317",
+      "summary": "2026 年人工智慧（AI）技術以創新方式變革水下無線通訊。AI 加速器提升系統能效，促進特定應用語意傳輸，並 […]",
+      "published_raw": "Sun, 16 Aug 2026 23:00:08 +0000",
+      "updated_at": "2026-08-16T23:00:08Z",
+      "updated_raw": "Sun, 16 Aug 2026 23:00:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b980ffe7b29625ab1e389b9136e9b5943cf43f876960dcc0d592f74f98da6009",
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T21:53:43Z",
+      "authors": [
+        "ropbear"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49324087",
+      "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 92 # Comments: 74",
+      "published_raw": "Sun, 16 Aug 2026 21:53:43 +0000",
+      "updated_at": "2026-08-16T21:53:43Z",
+      "updated_raw": "Sun, 16 Aug 2026 21:53:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cf6f0a515032de4b6e2a05729d5ed7ef375e71207fab2a0123fb117c53ca56ff",
+      "title": "Stop Turning every purchase into a tip request",
+      "url": "https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T21:28:59Z",
+      "authors": [
+        "gist"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49323874",
+      "summary": "Article URL: https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request Comments URL: https://news.ycombinator.com/item?id=49323874 Points: 41 # Comments: 36",
+      "published_raw": "Sun, 16 Aug 2026 21:28:59 +0000",
+      "updated_at": "2026-08-16T21:28:59Z",
+      "updated_raw": "Sun, 16 Aug 2026 21:28:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:218d14324810623d38f90903882ae389f1eaf2dd6d76ceb5043fc08cc990cc95",
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T21:07:10Z",
+      "authors": [
+        "root-parent"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49323686",
+      "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49323686 Points: 63 # Comments: 7",
+      "published_raw": "Sun, 16 Aug 2026 21:07:10 +0000",
+      "updated_at": "2026-08-16T21:07:10Z",
+      "updated_raw": "Sun, 16 Aug 2026 21:07:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b418ec3c47b4e1f67732e80630e2c2facce3d8f1ead93798d71d53836e5c81bf",
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T20:38:58Z",
+      "authors": [
+        "ghuntley"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49323459",
+      "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper Comments URL: https://news.ycombinator.com/item?id=49323459 Points: 69 # Comments: 60",
+      "published_raw": "Sun, 16 Aug 2026 20:38:58 +0000",
+      "updated_at": "2026-08-16T20:38:58Z",
+      "updated_raw": "Sun, 16 Aug 2026 20:38:58 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:587984c680e4d4d4da970d11406177fce642fcd4926a0bf9675480eaf0233271",
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T20:31:16Z",
+      "authors": [
+        "zacharyozer"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49323381",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion Comments URL: https://news.ycombinator.com/item?id=49323381 Points: 113 # Comments: 83",
+      "published_raw": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "updated_at": "2026-08-16T20:31:16Z",
+      "updated_raw": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0eef05ab98b60de9cda69374dc38725a1efb1955dc1cbe79f7570c154db431bf",
+      "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T20:16:30Z",
+      "authors": [
+        "alekshenderson"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49323256",
+      "summary": "Article URL: https://github.com/aleks-ent/pump-dump-crypto-screener Comments URL: https://news.ycombinator.com/item?id=49323256 Points: 3 # Comments: 0",
+      "published_raw": "Sun, 16 Aug 2026 20:16:30 +0000",
+      "updated_at": "2026-08-16T20:16:30Z",
+      "updated_raw": "Sun, 16 Aug 2026 20:16:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:03eff23b65f5519f8d0671e208eb6f64cc285470a05633e23af3a813b5cef36d",
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T19:04:26Z",
+      "authors": [
+        "hruvhwe"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49322695",
+      "summary": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 221 # Comments: 132",
+      "published_raw": "Sun, 16 Aug 2026 19:04:26 +0000",
+      "updated_at": "2026-08-16T19:04:26Z",
+      "updated_raw": "Sun, 16 Aug 2026 19:04:26 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9bbbb14955e04988e82e7cf337e020f6de43ab3a4e51a8ac33b4117a2912d259",
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T18:48:27Z",
+      "authors": [
+        "theanonymousone"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49322573",
+      "summary": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 94 # Comments: 65",
+      "published_raw": "Sun, 16 Aug 2026 18:48:27 +0000",
+      "updated_at": "2026-08-16T18:48:27Z",
+      "updated_raw": "Sun, 16 Aug 2026 18:48:27 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bda13621ec6916837f16b9d7679ebcd33e5147615469ff9963acd2d1c0453918",
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T18:17:10Z",
+      "authors": [
+        "homarp"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49322330",
+      "summary": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 49 # Comments: 14",
+      "published_raw": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "updated_at": "2026-08-16T18:17:10Z",
+      "updated_raw": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d1318d91931571bc452e98a67f8d654b5a55f807f54a71e6aae742e4b9b6d7ce",
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T17:49:46Z",
+      "authors": [
+        "stagas"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49322107",
+      "summary": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this. Comments URL: https://news.ycombinator.com/item?id=49322107 Points: 231 # Comments: 57",
+      "published_raw": "Sun, 16 Aug 2026 17:49:46 +0000",
+      "updated_at": "2026-08-16T17:49:46Z",
+      "updated_raw": "Sun, 16 Aug 2026 17:49:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:05182aad850caf88c4e9ae97f8936ce326bddffa0b7f4e2cbe8802bee997d705",
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T17:01:07Z",
+      "authors": [
+        "Narishma"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49321717",
+      "summary": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 315 # Comments: 166",
+      "published_raw": "Sun, 16 Aug 2026 17:01:07 +0000",
+      "updated_at": "2026-08-16T17:01:07Z",
+      "updated_raw": "Sun, 16 Aug 2026 17:01:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5d4245e4d108757d86043e9f8b525b74db14f2d3c2ef9f63b56178add486b3e3",
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-16T16:14:55Z",
+      "authors": [
+        "brandonb"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49321353",
+      "summary": "Article URL: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers Comments URL: https://news.ycombinator.com/item?id=49321353 Points: 128 # Comments: 65",
+      "published_raw": "Sun, 16 Aug 2026 16:14:55 +0000",
+      "updated_at": "2026-08-16T16:14:55Z",
+      "updated_raw": "Sun, 16 Aug 2026 16:14:55 +0000",
+      "language": "en"
+    }
+  ]
+}
