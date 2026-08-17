@@ -1,0 +1,507 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-18",
+  "timezone": "Asia/Taipei",
+  "article_count": 22,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c317be32b6b8af7e8056186916beaa77d7685a96b5ff23fc493a1776a5c28e23",
+      "title": "黃仁勳神預言成真！聯想單季淨利首破 10 億美元，AI 全面重塑 PC 巨頭",
+      "url": "https://technews.tw/2026/08/18/lenovo-three-core-businesses-set-to-bloom/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-17T23:40:11Z",
+      "authors": [
+        "品玩"
+      ],
+      "categories": [
+        "AI PC",
+        "AI 人工智慧",
+        "lenovo",
+        "伺服器",
+        "楊元慶",
+        "聯想",
+        "雲端",
+        "電腦",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1603547",
+      "summary": "2026 年 3 月的 GTC 大會上，黃仁勳走到聯想展台，對楊元慶說了一句話：「This is going […]",
+      "published_raw": "Mon, 17 Aug 2026 23:40:11 +0000",
+      "updated_at": "2026-08-17T23:40:11Z",
+      "updated_raw": "Mon, 17 Aug 2026 23:40:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9a40cb63946d2f4601635b9db3e8836ce7c47ce20ee9b5f78b691d94c3780c63",
+      "title": "美大學發現飛安最新物理攻擊手法，硬幣大小裝置就可駭入波音 737",
+      "url": "https://infosecu.technews.tw/2026/08/18/this-coin-sized-device-can-hack-a-boeing-737/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-17T23:30:18Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "波音 737",
+        "航太科技",
+        "資訊安全",
+        "飛安",
+        "駭客"
+      ],
+      "guid": "https://technews.tw/?p=1603002",
+      "summary": "美國加州大學聖地牙哥分校（UCSD）與奧柏林學院近日揭露，一款大小僅如硬幣、且可經 Wi-Fi 連線的裝置，能 […]",
+      "published_raw": "Mon, 17 Aug 2026 23:30:18 +0000",
+      "updated_at": "2026-08-17T23:30:18Z",
+      "updated_raw": "Mon, 17 Aug 2026 23:30:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3e8384d6f7837cc246761d5645d127b105e21043e4b436ba7d305656cb80ddbb",
+      "title": "地震不是最大風險，日本供應鏈真正考驗的是韌性",
+      "url": "https://finance.technews.tw/2026/08/18/japan-quake-halts-auto-and-chip-plants-testing-supply-chain-resilience/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-17T23:20:22Z",
+      "authors": [
+        "古川"
+      ],
+      "categories": [
+        "Sony 半導體",
+        "供應鏈韌性",
+        "公司治理",
+        "半導體",
+        "台積電",
+        "地震",
+        "熊本縣",
+        "環境科學",
+        "自然科學"
+      ],
+      "guid": "https://technews.tw/?p=1603366",
+      "summary": "熊本地震時，汽車零組件巨頭愛信（Aisin）位於震央附近的工廠遭受重創，導致豐田汽車（Toyota）全日本多座 […]",
+      "published_raw": "Mon, 17 Aug 2026 23:20:22 +0000",
+      "updated_at": "2026-08-17T23:20:22Z",
+      "updated_raw": "Mon, 17 Aug 2026 23:20:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e66e5df52a729d61c5b4c4e35dac959e4375bee6ec63e9b8087aa4b2bf460df2",
+      "title": "東京熱浪讓獅子也撐不住，大型動物的散熱極限",
+      "url": "https://technews.tw/2026/08/18/tokyo-heatwave-takes-toll-on-even-the-lions/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-17T23:10:31Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "動物園",
+        "日本",
+        "東京",
+        "氣候變遷",
+        "熱浪",
+        "獅子",
+        "生態保育",
+        "生物科技",
+        "自然科學"
+      ],
+      "guid": "https://technews.tw/?p=1601832",
+      "summary": "近年極端熱浪頻繁席捲世界各地，不只造成破紀錄的高溫，也讓人類面臨中暑、心血管疾病惡化，甚至死亡的風險。高溫衝擊 […]",
+      "published_raw": "Mon, 17 Aug 2026 23:10:31 +0000",
+      "updated_at": "2026-08-17T23:10:31Z",
+      "updated_raw": "Mon, 17 Aug 2026 23:10:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1b13093a28bcdfbc6c94f08f0e4acf13efd0c6325237978cdcbef2ba784baf78",
+      "title": "當 LFP 不再便宜：磷酸鐵漲價如何撼動新能源車產業鏈",
+      "url": "https://finance.technews.tw/2026/08/18/lfp-no-longer-cheap-rising-lithium-iron-phosphate-prices-shake-up-nev-industry-chain/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-17T23:00:00Z",
+      "authors": [
+        "TrendForce 集邦科技"
+      ],
+      "categories": [
+        "LFP",
+        "三元電池",
+        "技術分析",
+        "會員專區",
+        "材料、設備",
+        "湖南裕能",
+        "磷酸鐵",
+        "磷酸鐵鋰電池",
+        "財經",
+        "鈉離子電池",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1601996",
+      "summary": "磷酸鐵鋰電池（簡稱 LFP）正極材料大廠湖南裕能宣布，8 月 1 日起調漲磷酸鐵鋰，每噸調漲約 2,000 人 […]",
+      "published_raw": "Mon, 17 Aug 2026 23:00:00 +0000",
+      "updated_at": "2026-08-17T23:00:00Z",
+      "updated_raw": "Mon, 17 Aug 2026 23:00:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7cff287bbcbf1e3c702c20f88dcfbd019a064a25edcdd466b5ac6be10423821f",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T22:20:40Z",
+      "authors": [
+        "gavide"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49338459",
+      "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/ Comments URL: https://news.ycombinator.com/item?id=49338459 Points: 97 # Comments: 76",
+      "published_raw": "Mon, 17 Aug 2026 22:20:40 +0000",
+      "updated_at": "2026-08-17T22:20:40Z",
+      "updated_raw": "Mon, 17 Aug 2026 22:20:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9dd468253833b6b6299108a3f711d61e08dbe4defd35a2d86afef48804c0a2e5",
+      "title": "scScript for Linux",
+      "url": "https://scapplications.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T22:18:05Z",
+      "authors": [
+        "OptionOfT"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49338428",
+      "summary": "Article URL: https://scapplications.com/ Comments URL: https://news.ycombinator.com/item?id=49338428 Points: 5 # Comments: 1",
+      "published_raw": "Mon, 17 Aug 2026 22:18:05 +0000",
+      "updated_at": "2026-08-17T22:18:05Z",
+      "updated_raw": "Mon, 17 Aug 2026 22:18:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d2e8cd966223346c5d08685aaa4a32c3a3143e949fd1016f821857fbf08dfad6",
+      "title": "Colorado River plummets as lakes Powell and Mead drop to record lows",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T22:15:38Z",
+      "authors": [
+        "johntfella"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49338404",
+      "summary": "https://archive.ph/cD5hF Comments URL: https://news.ycombinator.com/item?id=49338404 Points: 31 # Comments: 38",
+      "published_raw": "Mon, 17 Aug 2026 22:15:38 +0000",
+      "updated_at": "2026-08-17T22:15:38Z",
+      "updated_raw": "Mon, 17 Aug 2026 22:15:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:af80648a3467fd6aa24808c3841e2cc436b9866aa653fc4662b210a63c7bd8b4",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T22:06:14Z",
+      "authors": [
+        "shdon"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49338328",
+      "summary": "Article URL: https://fabiensanglard.net/quake_shareware_cd/index.html Comments URL: https://news.ycombinator.com/item?id=49338328 Points: 72 # Comments: 22",
+      "published_raw": "Mon, 17 Aug 2026 22:06:14 +0000",
+      "updated_at": "2026-08-17T22:06:14Z",
+      "updated_raw": "Mon, 17 Aug 2026 22:06:14 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e2b19a24825c0baa21db074878c25c2c2a058dba3b9ca7b3f3fa6de3bda2b3f9",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T22:01:17Z",
+      "authors": [
+        "pizzaiolo"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49338285",
+      "summary": "Article URL: https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera Comments URL: https://news.ycombinator.com/item?id=49338285 Points: 41 # Comments: 7",
+      "published_raw": "Mon, 17 Aug 2026 22:01:17 +0000",
+      "updated_at": "2026-08-17T22:01:17Z",
+      "updated_raw": "Mon, 17 Aug 2026 22:01:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:814535a51bfae23f97e0193820441b0e06da21cc10396edf69f671b716c34061",
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T21:47:30Z",
+      "authors": [
+        "eamag"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49338139",
+      "summary": "Article URL: https://www.fast.ai/posts/2026-08-18-returning-to-AI/ Comments URL: https://news.ycombinator.com/item?id=49338139 Points: 13 # Comments: 10",
+      "published_raw": "Mon, 17 Aug 2026 21:47:30 +0000",
+      "updated_at": "2026-08-17T21:47:30Z",
+      "updated_raw": "Mon, 17 Aug 2026 21:47:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b27ea16f006fe11f26213c906374322f2264bad25ad9ecac3dfea0d65c446441",
+      "title": "How do functions like alloca allocate memory from the stack?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T21:06:10Z",
+      "authors": [
+        "ingve"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49337630",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617 Comments URL: https://news.ycombinator.com/item?id=49337630 Points: 10 # Comments: 0",
+      "published_raw": "Mon, 17 Aug 2026 21:06:10 +0000",
+      "updated_at": "2026-08-17T21:06:10Z",
+      "updated_raw": "Mon, 17 Aug 2026 21:06:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:290d36ffe80325318f1add855439428f58c048a6918956006b82bc94ed8b5ea9",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T21:03:18Z",
+      "authors": [
+        "Topfi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49337602",
+      "summary": "Article URL: https://openrouter.ai/openai/gpt-5.6-sol Comments URL: https://news.ycombinator.com/item?id=49337602 Points: 12 # Comments: 2",
+      "published_raw": "Mon, 17 Aug 2026 21:03:18 +0000",
+      "updated_at": "2026-08-17T21:03:18Z",
+      "updated_raw": "Mon, 17 Aug 2026 21:03:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:36cfcbbc343e02fe1c64a236f2e3545532b6a24abaf91657ba30fed0cbe3f398",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T19:47:15Z",
+      "authors": [
+        "mooreds"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49336573",
+      "summary": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 507 # Comments: 311",
+      "published_raw": "Mon, 17 Aug 2026 19:47:15 +0000",
+      "updated_at": "2026-08-17T19:47:15Z",
+      "updated_raw": "Mon, 17 Aug 2026 19:47:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9d748bd44c2564c05aba4061e74577d929af19388b3f01701800dc90151acc02",
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T18:28:07Z",
+      "authors": [
+        "Bluestein"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49335517",
+      "summary": "Article URL: https://blog.roboflow.com/roboflow-playground/ Comments URL: https://news.ycombinator.com/item?id=49335517 Points: 38 # Comments: 3",
+      "published_raw": "Mon, 17 Aug 2026 18:28:07 +0000",
+      "updated_at": "2026-08-17T18:28:07Z",
+      "updated_raw": "Mon, 17 Aug 2026 18:28:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ca5c13ed2af058a3e76c242fbd84588979783e5502083577f16469075e3c4f07",
+      "title": "We Are Forking dotenvy into dotenv-ng",
+      "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T17:55:24Z",
+      "authors": [
+        "linggen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49335001",
+      "summary": "Article URL: https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/ Comments URL: https://news.ycombinator.com/item?id=49335001 Points: 35 # Comments: 39",
+      "published_raw": "Mon, 17 Aug 2026 17:55:24 +0000",
+      "updated_at": "2026-08-17T17:55:24Z",
+      "updated_raw": "Mon, 17 Aug 2026 17:55:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:35f4ed49c31d8637987831351d5543c0d8210ce75126e52ba89d7fe058193893",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T17:54:59Z",
+      "authors": [
+        "linggen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49334991",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13759 Comments URL: https://news.ycombinator.com/item?id=49334991 Points: 143 # Comments: 30",
+      "published_raw": "Mon, 17 Aug 2026 17:54:59 +0000",
+      "updated_at": "2026-08-17T17:54:59Z",
+      "updated_raw": "Mon, 17 Aug 2026 17:54:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a2b37772a5c3d816cf2b56949fe9543364028ac173f59a15295f566a7e8057fa",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T17:25:17Z",
+      "authors": [
+        "anana_"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49334544",
+      "summary": "Article URL: https://artificialanalysis.ai/models/qwen3-8-27b Comments URL: https://news.ycombinator.com/item?id=49334544 Points: 278 # Comments: 123",
+      "published_raw": "Mon, 17 Aug 2026 17:25:17 +0000",
+      "updated_at": "2026-08-17T17:25:17Z",
+      "updated_raw": "Mon, 17 Aug 2026 17:25:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b7e3f292845eb93d26cfeadc2d800b17a22f8da87fa729bfb6e150d936fd54d3",
+      "title": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T17:15:20Z",
+      "authors": [
+        "neogodless"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49334409",
+      "summary": "Article URL: https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/ Comments URL: https://news.ycombinator.com/item?id=49334409 Points: 90 # Comments: 76",
+      "published_raw": "Mon, 17 Aug 2026 17:15:20 +0000",
+      "updated_at": "2026-08-17T17:15:20Z",
+      "updated_raw": "Mon, 17 Aug 2026 17:15:20 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d3eb3220d87280f9e3e2e2da5f8c5c103d53a202d82e526661e03de5b1108a14",
+      "title": "Sun Clock",
+      "url": "https://sunclock.net/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T16:37:54Z",
+      "authors": [
+        "Gecko4072"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49333824",
+      "summary": "Article URL: https://sunclock.net/ Comments URL: https://news.ycombinator.com/item?id=49333824 Points: 154 # Comments: 50",
+      "published_raw": "Mon, 17 Aug 2026 16:37:54 +0000",
+      "updated_at": "2026-08-17T16:37:54Z",
+      "updated_raw": "Mon, 17 Aug 2026 16:37:54 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b311f6669f7dbc1b05c7494d8982e3fc31240ae8ab0a2a839d66ae85c3bb4e07",
+      "title": "Judge sets framework for Nine PBS to retrieve archival data",
+      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-17T16:11:37Z",
+      "authors": [
+        "qingcharles"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49333344",
+      "summary": "Article URL: https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/ Comments URL: https://news.ycombinator.com/item?id=49333344 Points: 123 # Comments: 47",
+      "published_raw": "Mon, 17 Aug 2026 16:11:37 +0000",
+      "updated_at": "2026-08-17T16:11:37Z",
+      "updated_raw": "Mon, 17 Aug 2026 16:11:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f9a77a154adb3d4b8bf55b1273c7a70fa44ade0d0a21e5513d8c134d675e1c5b",
+      "title": "硬體錢包 SafePal 近 4 萬客戶「地址電話外洩」！暗網已有駭客兜售",
+      "url": "https://www.blocktempo.com/safepal-data-breach-customer-addresses-leaked-dark-web/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-08-17T16:05:53Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "SFP",
+        "SafePal",
+        "冷錢包",
+        "安全",
+        "硬體錢包",
+        "資安",
+        "資料外洩",
+        "釣魚攻擊",
+        "錢包",
+        "駭客"
+      ],
+      "guid": "https://www.blocktempo.com/?p=522767",
+      "summary": "據外媒 The Defiant 報導，由幣安（Binance）支持的硬體錢包製造商 SafePal 爆出資料外 […] 〈 硬體錢包 SafePal 近 4 萬客戶「地址電話外洩」！暗網已有駭客兜售 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 17 Aug 2026 16:05:53 +0000",
+      "updated_at": "2026-08-17T16:05:53Z",
+      "updated_raw": "Mon, 17 Aug 2026 16:05:53 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
