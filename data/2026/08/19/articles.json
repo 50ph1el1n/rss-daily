@@ -1,0 +1,520 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-08-19",
+  "timezone": "Asia/Taipei",
+  "article_count": 23,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:794976c51933e55c8b831e13a601407dd4e12fc7544c7cdf458d2a4a58ba8d83",
+      "title": "又一州對 AI 資料中心踩煞車，賓州提高開發門檻",
+      "url": "https://technews.tw/2026/08/19/state-brakes-ai-data-centers-pennsylvania-tightens-development-rules/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-18T23:45:58Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "國際觀察",
+        "能源科技",
+        "資料中心",
+        "賓州",
+        "電力"
+      ],
+      "guid": "https://technews.tw/?p=1604599",
+      "summary": "美國又一州收緊資料中心開發規定。綜合外電報導，賓州州長 Josh Shapiro 最新簽署行政命令，要求 AI […]",
+      "published_raw": "Tue, 18 Aug 2026 23:45:58 +0000",
+      "updated_at": "2026-08-18T23:45:58Z",
+      "updated_raw": "Tue, 18 Aug 2026 23:45:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:46427d426c520b671bdeddc08a3a7defd0d80ad9b4794391f5fcbb69039c41e1",
+      "title": "黑洞周圍並非寸草不生，韋伯太空望遠鏡在銀河系中心恆星 IRS 3 找到塵埃與水分子",
+      "url": "https://technews.tw/2026/08/19/dust-and-water-spotted-close-to-giant-black-hole/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-18T23:40:34Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "IRS 3",
+        "人馬座 A *",
+        "天文",
+        "宇宙塵埃",
+        "富氧 AGB 星",
+        "水",
+        "詹姆斯·韋伯太空望遠鏡",
+        "黑洞"
+      ],
+      "guid": "https://technews.tw/?p=1602553",
+      "summary": "位於銀河系中心的超大質量黑洞人馬座 A*（Sgr A*）周圍，有極端強烈的輻射與複雜的星際環境，不利塵埃與分子 […]",
+      "published_raw": "Tue, 18 Aug 2026 23:40:34 +0000",
+      "updated_at": "2026-08-18T23:40:34Z",
+      "updated_raw": "Tue, 18 Aug 2026 23:40:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:be79e6f6b480f7b1c9d5c1c34fa8f2e2d62c921b2991c0283e49000f9958879d",
+      "title": "先修流程再談自動化，揭密企業 AI 轉型最常踩到的四大隱形地雷",
+      "url": "https://technews.tw/2026/08/19/truth-behind-enterprise-ai-implementation-failures/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-18T23:30:52Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "AI 專案",
+        "AI 自動化",
+        "人力資源",
+        "投資回報",
+        "營運流程",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1601021",
+      "summary": "美國《富比士》專欄作者、KeyDelta 執行長 Russell P. Reeder 近期撰文點出企業導入人工 […]",
+      "published_raw": "Tue, 18 Aug 2026 23:30:52 +0000",
+      "updated_at": "2026-08-18T23:30:52Z",
+      "updated_raw": "Tue, 18 Aug 2026 23:30:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1b9afa82b7ac0d70137539f547226682de0b8d80c1dcc07e26530f5ad71bf8d4",
+      "title": "AI 真的聽得懂台灣人嗎？從主權語料庫看見下回合資料戰",
+      "url": "https://technews.tw/2026/08/19/ai-understand-taiwanese-sovereign-language-corpora-next-data-war/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-18T23:20:57Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 話語權",
+        "Big Data",
+        "主權語料庫",
+        "數發部",
+        "科技政策",
+        "科技生活",
+        "臺灣主權 AI 訓練語料庫"
+      ],
+      "guid": "https://technews.tw/?p=1601353",
+      "summary": "數位發展部去年底正式上線「臺灣主權 AI 訓練語料庫」，首波就集結超過 200 個政府機關、逾 2,000 筆 […]",
+      "published_raw": "Tue, 18 Aug 2026 23:20:57 +0000",
+      "updated_at": "2026-08-18T23:20:57Z",
+      "updated_raw": "Tue, 18 Aug 2026 23:20:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7e16e56286266a9423081ba545b8f989bec334080e5443be43612430a5c2dd95",
+      "title": "微波也能炸薯條？新技術有望讓美味與健康兼得",
+      "url": "https://technews.tw/2026/08/19/new-microwave-technique-could-deliver-crispy-fries-with-less-oil/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-18T23:10:02Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "微波",
+        "油炸",
+        "科技生活",
+        "薯條",
+        "食品科技"
+      ],
+      "guid": "https://technews.tw/?p=1596684",
+      "summary": "薯條外酥內嫩的口感，是令許多人難以抗拒的誘惑。不過，油炸食品通常含有較多的油脂與熱量，攝取過量容易導致肥胖、高 […]",
+      "published_raw": "Tue, 18 Aug 2026 23:10:02 +0000",
+      "updated_at": "2026-08-18T23:10:02Z",
+      "updated_raw": "Tue, 18 Aug 2026 23:10:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:140b5aeb4c9b01f5179931fb1a13f6f3d061f0608b477475305523895b528d84",
+      "title": "科技戰延伸：FCC 將無人機 LiDAR 定為軍用技術，防堵外國製產品滲透",
+      "url": "https://technews.tw/2026/08/19/tech-war-expands-fcc-classifies-drone-lidar-military-technology-block-foreign-product-penetration/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-08-18T23:00:18Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "FCC",
+        "LIDAR",
+        "光達",
+        "光電科技",
+        "國際貿易",
+        "大疆",
+        "技術分析",
+        "會員專區",
+        "無人機",
+        "無人機禁令",
+        "美國",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1602640",
+      "summary": "美國聯邦通訊委員會（FCC）正計劃禁止配備光達（LiDAR）避障功能的無人機，此舉將導致多款熱門消費級無人機從 […]",
+      "published_raw": "Tue, 18 Aug 2026 23:00:18 +0000",
+      "updated_at": "2026-08-18T23:00:18Z",
+      "updated_raw": "Tue, 18 Aug 2026 23:00:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0fe9d46b978a8b565006aefca10fd82b0b18d016fef95205d403dcd9f8dbbb28",
+      "title": "Programmable Property-Based Testing",
+      "url": "https://dl.acm.org/doi/10.1145/3828685",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T22:22:41Z",
+      "authors": [
+        "matt_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49353618",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3828685 Comments URL: https://news.ycombinator.com/item?id=49353618 Points: 5 # Comments: 0",
+      "published_raw": "Tue, 18 Aug 2026 22:22:41 +0000",
+      "updated_at": "2026-08-18T22:22:41Z",
+      "updated_raw": "Tue, 18 Aug 2026 22:22:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7e1c99bdd63018acd49341b2adc18942a406570e3ef68cc1e67011d43aabe715",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T22:08:07Z",
+      "authors": [
+        "giuliomagnifico"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49353432",
+      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 8 # Comments: 0",
+      "published_raw": "Tue, 18 Aug 2026 22:08:07 +0000",
+      "updated_at": "2026-08-18T22:08:07Z",
+      "updated_raw": "Tue, 18 Aug 2026 22:08:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0d487099cf02e495482ac8a3fdc4fee5ddce9f2b76126f3f34cd948f88f296ab",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T22:06:10Z",
+      "authors": [
+        "apitman"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49353407",
+      "summary": "Article URL: https://artificialanalysis.ai/models/glm-5-3 Comments URL: https://news.ycombinator.com/item?id=49353407 Points: 47 # Comments: 15",
+      "published_raw": "Tue, 18 Aug 2026 22:06:10 +0000",
+      "updated_at": "2026-08-18T22:06:10Z",
+      "updated_raw": "Tue, 18 Aug 2026 22:06:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a0e17ecb991c4c890691ff6c16802be7afeaedfaf10e0e4e5952026d48dbdca0",
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T22:00:21Z",
+      "authors": [
+        "handfuloflight"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49353339",
+      "summary": "Article URL: https://fx.sh Comments URL: https://news.ycombinator.com/item?id=49353339 Points: 42 # Comments: 22",
+      "published_raw": "Tue, 18 Aug 2026 22:00:21 +0000",
+      "updated_at": "2026-08-18T22:00:21Z",
+      "updated_raw": "Tue, 18 Aug 2026 22:00:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4affe6565720233985bf2af311e9c162fbd0579973229d0c2e11e74819d4515b",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T21:50:33Z",
+      "authors": [
+        "phoenix120"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49353221",
+      "summary": "Article URL: https://github.com/DenisSergeevitch/desktop-fly Comments URL: https://news.ycombinator.com/item?id=49353221 Points: 60 # Comments: 12",
+      "published_raw": "Tue, 18 Aug 2026 21:50:33 +0000",
+      "updated_at": "2026-08-18T21:50:33Z",
+      "updated_raw": "Tue, 18 Aug 2026 21:50:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5aaa9dcb8465221e9de328fe67aa018edd7aeba7abcc5e7a5d851c9f13da1857",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T21:14:21Z",
+      "authors": [
+        "amrrs"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49352806",
+      "summary": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver Comments URL: https://news.ycombinator.com/item?id=49352806 Points: 85 # Comments: 55",
+      "published_raw": "Tue, 18 Aug 2026 21:14:21 +0000",
+      "updated_at": "2026-08-18T21:14:21Z",
+      "updated_raw": "Tue, 18 Aug 2026 21:14:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:aafbad4b2e5ba8a9e2fe02964e20f6767ca668f00f4b58c24e91e607ae1fc49d",
+      "title": "Companies promote incompetent employees to management to limit damage they do",
+      "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T21:13:30Z",
+      "authors": [
+        "behnamoh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49352794",
+      "summary": "Article URL: https://lawsofsoftwareengineering.com/laws/dilbert-principle/ Comments URL: https://news.ycombinator.com/item?id=49352794 Points: 53 # Comments: 49",
+      "published_raw": "Tue, 18 Aug 2026 21:13:30 +0000",
+      "updated_at": "2026-08-18T21:13:30Z",
+      "updated_raw": "Tue, 18 Aug 2026 21:13:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0a1c57fcc61f39917b9452c230c94c750d59e35e71ecf116dc50d814c513a5e0",
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T19:30:29Z",
+      "authors": [
+        "alexeigannon"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49351330",
+      "summary": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai Comments URL: https://news.ycombinator.com/item?id=49351330 Points: 188 # Comments: 211",
+      "published_raw": "Tue, 18 Aug 2026 19:30:29 +0000",
+      "updated_at": "2026-08-18T19:30:29Z",
+      "updated_raw": "Tue, 18 Aug 2026 19:30:29 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:90d7fa8ae1464af94fe9164449f6ed62996068c2db21cef53ef52d9f3bbbce4b",
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T19:29:51Z",
+      "authors": [
+        "KolmogorovComp"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49351324",
+      "summary": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/ Comments URL: https://news.ycombinator.com/item?id=49351324 Points: 414 # Comments: 107",
+      "published_raw": "Tue, 18 Aug 2026 19:29:51 +0000",
+      "updated_at": "2026-08-18T19:29:51Z",
+      "updated_raw": "Tue, 18 Aug 2026 19:29:51 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5f454c475b7611be12bd43a9e00a19734dbeb1e11189af7ad26f6899888cb208",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T18:14:59Z",
+      "authors": [
+        "j4mie"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49350031",
+      "summary": "Article URL: https://openai.com/index/pacing-model-development-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49350031 Points: 62 # Comments: 34",
+      "published_raw": "Tue, 18 Aug 2026 18:14:59 +0000",
+      "updated_at": "2026-08-18T18:14:59Z",
+      "updated_raw": "Tue, 18 Aug 2026 18:14:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a081d1b940b09d886f4e4e3c9b8d052dde71df71430c6c45d1d9fbcd44f5c236",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T18:11:53Z",
+      "authors": [
+        "NaOH"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49349984",
+      "summary": "Article URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html Comments URL: https://news.ycombinator.com/item?id=49349984 Points: 196 # Comments: 125",
+      "published_raw": "Tue, 18 Aug 2026 18:11:53 +0000",
+      "updated_at": "2026-08-18T18:11:53Z",
+      "updated_raw": "Tue, 18 Aug 2026 18:11:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8b7405fa2b396928af63b509e362c3104d4125425cbd4e77df2840a5a4b1dad2",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T18:07:21Z",
+      "authors": [
+        "fittingopposite"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49349898",
+      "summary": "Article URL: https://github.com/RyanCodrai/turbovec Comments URL: https://news.ycombinator.com/item?id=49349898 Points: 189 # Comments: 23",
+      "published_raw": "Tue, 18 Aug 2026 18:07:21 +0000",
+      "updated_at": "2026-08-18T18:07:21Z",
+      "updated_raw": "Tue, 18 Aug 2026 18:07:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c6b4acfd12bf81c3743cae17cbc06fa84b6a03e27b30d227f1e4d8c1de3dd752",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T17:24:53Z",
+      "authors": [
+        "cwwc"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49349147",
+      "summary": "Article URL: https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban Comments URL: https://news.ycombinator.com/item?id=49349147 Points: 278 # Comments: 408",
+      "published_raw": "Tue, 18 Aug 2026 17:24:53 +0000",
+      "updated_at": "2026-08-18T17:24:53Z",
+      "updated_raw": "Tue, 18 Aug 2026 17:24:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ee634a6cea75eeccef5a3510a014aa3a021db785ce622aabbd64985f81bcb3ca",
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T17:11:28Z",
+      "authors": [
+        "_djo_"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49348912",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49348912 Points: 111 # Comments: 57",
+      "published_raw": "Tue, 18 Aug 2026 17:11:28 +0000",
+      "updated_at": "2026-08-18T17:11:28Z",
+      "updated_raw": "Tue, 18 Aug 2026 17:11:28 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dc5a235b23dd65290c93c6da685fb9a4203a6f0687f65a39a0352ece94eab484",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T17:02:15Z",
+      "authors": [
+        "tyre"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49348751",
+      "summary": "Article URL: https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion Comments URL: https://news.ycombinator.com/item?id=49348751 Points: 249 # Comments: 213",
+      "published_raw": "Tue, 18 Aug 2026 17:02:15 +0000",
+      "updated_at": "2026-08-18T17:02:15Z",
+      "updated_raw": "Tue, 18 Aug 2026 17:02:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c043b2e1b9134a259f8a0236a6415e1d987d98dcc88ffe4489931b45af56c1a1",
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T16:26:42Z",
+      "authors": [
+        "bwm"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49348136",
+      "summary": "Hi HN! I’m Barnaby, founder of machine0 ( https://machine0.io ). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP. Demo: https://www.youtube.com/watch?v=gyllkZ0M04E Agent workloads are moving from ephemeral to always-on. A coding agent working on a complex feature runs 6-8 hours. Agent orchestrated training & RL runs take days. OpenClaw & Hermes run 24/7. As you run more in parallel: - Resources: a few agents on a large codebase saturate RAM and CPU. Model training and RL needs GPUs you don't have. - Security: `--yolo` on your personal machine is one prompt injection away from exfiltrated credentials. - Availability: close your laptop and the agent dies mid-task. - Isolation: there's no clean line between you and the minimum your agent actually needs. machine0 gives every agent its own computer. It's a CLI simple enough that both humans and agents use it without reading docs: `machine0 new mybox` creates an SSH-ready VM with a static IP and HTTPS endpoint. Always on (with 99.99% VM level uptime) until you switch it off. - Billed by the minute. 1 vCPU / 1 GB at $0.013/hr up to 60 vCPU / 240 GB, plus GPUs from RTX 4000 Ada to 8×H200. - Suspend, snapshot and resume. Making it easy to pause your work, and come back to it later. Or to make a golden master image to stamp out clones for a fleet. - Block storage. Persistent volumes (from 10 GB to 16 TB) that you can manage with intuitive grammar: `--yolo` and attach to your VMs. - Profiles. Bundles of credentials, MCP connections, prompts, and env vars, injected at VM creation. So each agent gets exactly the capabilities you choose, and nothing else. - Agents self-serve. Hand the CLI or MCP server to Claude, Codex, or OpenCode and it manages its own fleet: spin up a box for a build, snapshot it, tear it down. - Reproducible Builds. Using NixOS flakes or Ansible playbooks with Ubuntu. How do people use it today? - Agent fleets. People run a pilot agent that scopes work and delegates it to sub-agents, each on its own VM: shape a project with the pilot, and the workers implement it and open PRs. One customer runs hundreds of machines at once, spun up and torn down from the CLI. - Model optimization & RL environments. ML teams use machine0 for agent-orchestrated RL environments and model optimization work. One customer runs RL environments on 60 vCPU machines that stay up for days at a time; another keeps a suspended H100 around and points an agent at it overnight to grind on inference-speed optimizations. - Product infrastructure. One customer builds their product on top of machine0 rather than using it themselves: every user session gets a fresh XL machine from a versioned image of their own agent runtime. They've shipped hundreds of versions of that image and launched thousands of machines, most alive for two minutes. What’s under the hood? Every machine is a full KVM virtual machine, not a container or sandbox. You get the real GPU exposed to the guest with its actual driver, kernel-level access (load any module or driver you want), and no syscall-interception layer between you and the hardware. The stack itself is deliberately dull: TypeScript, Postgres, Redis. We weigh heavily towards security, reliability and performance making machine0 ideal for sustained compute intensive workloads. About me I've been building cloud infrastructure for about 15 years. I dropped out of a PhD at Imperial College London on cloud resource allocation, later spent six years as co-founder and CTO of Upflow (YC W20), owning DevOps, infra and security personally the whole way to 7-figures in ARR because it was too high-stakes to delegate. machine0 started as a tool for me, I’m my own first user :) Asks Would love you to try it out and give us your feedback (see below). Or if you’re a company looking for compute for software factories, model training or RL environments, feel free to reach out at barnaby@machine0.io # install machine0 $ curl -LsSf https://machine0.io/install.sh | sh # create a machine and ssh in $ machine0 new myvm $ machine0 ssh myvm Comments URL: https://news.ycombinator.com/item?id=49348136 Points: 55 # Comments: 35",
+      "published_raw": "Tue, 18 Aug 2026 16:26:42 +0000",
+      "updated_at": "2026-08-18T16:26:42Z",
+      "updated_raw": "Tue, 18 Aug 2026 16:26:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e2c509c3d1d91484e2791a88a7221d65ee032bf463e63704f2f5c758c3a593b5",
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-08-18T16:21:34Z",
+      "authors": [
+        "newusertoday"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49348055",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/ Comments URL: https://news.ycombinator.com/item?id=49348055 Points: 89 # Comments: 144",
+      "published_raw": "Tue, 18 Aug 2026 16:21:34 +0000",
+      "updated_at": "2026-08-18T16:21:34Z",
+      "updated_raw": "Tue, 18 Aug 2026 16:21:34 +0000",
+      "language": "en"
+    }
+  ]
+}
