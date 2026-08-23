@@ -1,0 +1,57 @@
+# RSS Daily — 2026-08-24
+
+共 6 篇文章。
+
+## [美陸軍砸 5,000 萬美元研發「空氣製水」技術，降低前線補給風險](https://technews.tw/2026/08/24/us-army-wants-machines-that-pull-drinking-water-from-the-air/)
+
+- Article ID：`sha256:1d89f275b8cd6f490df16ad77a71d611dce6299c26193b665e76c1593f79a70d`
+- Source：technews
+- Published：2026-08-23T23:40:31Z
+- Authors：TechNews 編輯台
+
+美國陸軍開始納入「從空氣取水」的未來戰場補給構想。五角大廈網站本月消息，陸軍已將總額最高近 5,000 萬美元 […]
+
+## [成年大腦具備隱藏修復機制，星形膠質細胞的「滑行」奇蹟](https://technews.tw/2026/08/24/brain-hidden-repair-mechanisms/)
+
+- Article ID：`sha256:6f7396180a8e45586f7f741d28a35d583e2c559cee2225bee9deea7a6da5b37f`
+- Source：technews
+- Published：2026-08-23T23:30:30Z
+- Authors：Peggy Tseng
+
+過去科學界普遍認為，成年大腦一旦受損，便缺乏替換神經細胞的自我修復能力。然而，蘇黎世大學（University […]
+
+## [恆星死亡圖鑑再更新，SN 2026gzf 罕見爆炸顛覆傳統天文認知](https://technews.tw/2026/08/24/rare-explosion-massive-star-death/)
+
+- Article ID：`sha256:79e9b8ac51861dd2b35ac156897b7e06bc13611533241f385f370b88f3f2d719`
+- Source：technews
+- Published：2026-08-23T23:20:51Z
+- Authors：台北 天文館
+
+天文學家捕捉到一顆大質量恆星爆炸的最初時刻，並持續追蹤數個月，取得這類事件迄今最完整的觀測資料之一。這是繼 2 […]
+
+## [免費開放 AI 課程 Claude Academy 上線，新手到進階教學一應俱全](https://www.inside.com.tw/article/42155-claude-academy-free-ai-courses)
+
+- Article ID：`sha256:b841649a488f43f41dfa3b3df0c6066787e34001f54095a8eb8af63a05c4da96`
+- Source：inside
+- Published：2026-08-23T23:13:00Z
+- Authors：INSIDE 硬塞的網路趨勢觀察
+
+Anthropic 推出免費學習平台 Claude Academy，網址為 academy.claude.com，內容涵蓋 AI 入門知識到進階代理協作技巧，不論是還在摸索 AI 是什麼，還是每天都在用 Claude 的人，都能找到對應的學習路徑。
+
+## [新生兒需要癌症篩檢嗎？及早知道，真的能改變一生](https://technews.tw/2026/08/24/newborn-screening-for-cancer-risk-could-save-lives-should-it-be-done/)
+
+- Article ID：`sha256:8fd7cdad8b2601c087d4703843eefe2ccc71cfb1d9f60f18b15e6d7b6992bb3c`
+- Source：technews
+- Published：2026-08-23T23:10:10Z
+- Authors：YAP KUO
+
+新生兒出生後，醫護人員會從腳跟採取血液，篩檢先天代謝疾病。基因定序技術愈趨成熟，科學家開始探索，能不能利用出生 […]
+
+## [AMD 收購 Taalas，AI 推論放眼異質運算與模型專用晶片時代](https://finance.technews.tw/2026/08/24/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market/)
+
+- Article ID：`sha256:b4ed9d4480f941d06fe2cef174128fab206946ea98a1b6f5ae0fd162c82fd2a1`
+- Source：technews
+- Published：2026-08-23T23:00:41Z
+- Authors：拓墣產研
+
+AMD 6 日宣布收購加拿大 AI 晶片新創 Taalas，補強專用模型推論。生成式 AI、AI 代理與即時 […]
