@@ -1,0 +1,827 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-03",
+  "timezone": "Asia/Taipei",
+  "article_count": 32,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:969ed9cd88aa0584375298aeb4b1e19d8ae0a73a5c645b5e28e0204a93b509ef",
+      "title": "G20 財長及央行總裁會議落幕，重點一次看",
+      "url": "https://technews.tw/2026/09/03/g20-finance-ministers-central-bank-governors-meeting-concludes-key-takeaways-glance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T01:20:52Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "G20",
+        "中國",
+        "伊朗",
+        "國際觀察",
+        "國際貿易",
+        "國際金融"
+      ],
+      "guid": "https://technews.tw/?p=1611034",
+      "summary": "G20 輪值主席國美國本週積極推動對伊朗制裁及縮減貿易失衡。因中國反對批評其出口戰略等表述，G20 未能發表聯 […]",
+      "published_raw": "Thu, 03 Sep 2026 01:20:52 +0000",
+      "updated_at": "2026-09-03T01:20:52Z",
+      "updated_raw": "Thu, 03 Sep 2026 01:20:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f290e9de32f15fd1dee16647482ca54d7194fad29da465fc7a5e52fea209602f",
+      "title": "打造半導體級 AI 細胞工廠！博訊延攬楊泮池任總顧問加速量產化",
+      "url": "https://finance.technews.tw/2026/09/03/ai-cell-factory/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T01:14:38Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "中研院院士",
+        "半導體",
+        "博訊生物科技",
+        "楊泮池",
+        "生物科技",
+        "財經",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1611050",
+      "summary": "博訊生物科技近日宣布，中央研究院院士、前國立台灣大學校長楊泮池出任博訊生技技術總顧問，未來將以其長期深耕醫學研 […]",
+      "published_raw": "Thu, 03 Sep 2026 01:14:38 +0000",
+      "updated_at": "2026-09-03T01:14:38Z",
+      "updated_raw": "Thu, 03 Sep 2026 01:14:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:de79cd9a1a56a1842b2bb1fa4922cba3b9f16ba3d412a567163e718ddcc1a713",
+      "title": "油價上漲通膨升溫，加劇全球債券拋售潮",
+      "url": "https://finance.technews.tw/2026/09/03/bond-selloff-deepens-as-oil-prices-and-public-debt-fears-jolt-markets/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T01:10:59Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Fed",
+        "債券",
+        "國際觀察",
+        "國際金融",
+        "油價",
+        "美國公債",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1611037",
+      "summary": "全球債券 2 日遭遇猛烈拋售，延續近期的跌勢，使借貸成本升至數十年來的高點。中東戰爭推升能源價格，加劇投資人對 […]",
+      "published_raw": "Thu, 03 Sep 2026 01:10:59 +0000",
+      "updated_at": "2026-09-03T01:10:59Z",
+      "updated_raw": "Thu, 03 Sep 2026 01:10:59 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4592c70c4810bcf13e71f8b02f2373c5a876162d141756ded0122c775982e7e5",
+      "title": "博通 AI 大爆發 陳福陽拚營收連 2 年翻倍 TPU 需求夯",
+      "url": "https://finance.technews.tw/2026/09/03/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T01:00:26Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Jalapeño",
+        "TPU",
+        "半導體",
+        "博通",
+        "晶片",
+        "財報",
+        "陳福陽"
+      ],
+      "guid": "https://technews.tw/?p=1611038",
+      "summary": "網通晶片大廠博通（Broadcom Inc.）對本季（8-10 月）的營收展望略偏保守，令部分投資人失望，一度 […]",
+      "published_raw": "Thu, 03 Sep 2026 01:00:26 +0000",
+      "updated_at": "2026-09-03T01:00:26Z",
+      "updated_raw": "Thu, 03 Sep 2026 01:00:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7276389ff4b0bc192005aa32c2abd59cd9a6b0c4e0c5e44109c465384e2f76b2",
+      "title": "WIMP 粒子現蹤？LZ 暗物質搜索實驗取得驚人結果",
+      "url": "https://technews.tw/2026/09/03/lux-zeplin-dark-matter-particle-experiment-wimp/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:48:52Z",
+      "authors": [
+        "Emma stein"
+      ],
+      "categories": [
+        "LZ 實驗",
+        "WIMP",
+        "勒克斯-澤普林實驗",
+        "天文",
+        "尖端科技",
+        "暗物質粒子",
+        "自然科學"
+      ],
+      "guid": "https://technews.tw/?p=1610979",
+      "summary": "近一個世紀以來，研究人員一直試圖理解暗物質，但所有實驗皆未直接偵測到，我們始終困在迷霧中。直到現在，勒克斯-澤 […]",
+      "published_raw": "Thu, 03 Sep 2026 00:48:52 +0000",
+      "updated_at": "2026-09-03T00:48:52Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:48:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:13593acf9a7ba7b7eef5117b8ae584b9fe10154b103143c47b96ba112765db3c",
+      "title": "「洗產地」傷害的不只有投資人利益，也傷害美國對台灣的「信賴」",
+      "url": "https://finance.technews.tw/2026/09/03/origin-fraud-harms-investor-interests-us-trust-taiwan/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:40:27Z",
+      "authors": [
+        "蔡 明芳"
+      ],
+      "categories": [
+        "中國觀察",
+        "國際貿易",
+        "欣興電",
+        "洗產地",
+        "科技戰",
+        "美中衝突",
+        "財經",
+        "貿易戰",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1610155",
+      "summary": "台灣上市公司欣興電子近期因產品有洗產地疑慮而遭檢調單位調查，公司市值短時間大幅滑落，造成投資人損失龐大。洗產地 […]",
+      "published_raw": "Thu, 03 Sep 2026 00:40:27 +0000",
+      "updated_at": "2026-09-03T00:40:27Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:40:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:80898e6a7ca060fd0909061080492758961c0b19508a38953cf52b715aca2361",
+      "title": "研究：美職場對 AI 觀感普遍轉負，X 世代出乎意料竟最「無所謂」",
+      "url": "https://technews.tw/2026/09/03/more-evidence-emerges-that-gen-xers-feel-the-most-whatever-about-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:30:35Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 失業",
+        "Whatever",
+        "X 世代",
+        "Z 世代",
+        "人力資源",
+        "白領",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1609997",
+      "summary": "職場對人工智慧（AI）的態度出現明顯分歧。職場評論平台 Glassdoor 最新研究，員工對 AI 的整體情緒 […]",
+      "published_raw": "Thu, 03 Sep 2026 00:30:35 +0000",
+      "updated_at": "2026-09-03T00:30:35Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:30:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b6ce7b5fd5bc9dd7e9fd203ad1d512981f7e350e9e8c21af3ada6940b445843b",
+      "title": "AI 產業鏈上下游誰賺最大，中國上市公司半年報揭密",
+      "url": "https://technews.tw/2026/09/03/ai-industry-chain-upstream-downstream-profits-china-listed-companies-half-year-reports/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:25:02Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 產業鏈",
+        "中國",
+        "中國觀察",
+        "半導體",
+        "晶片",
+        "長鑫科技"
+      ],
+      "guid": "https://technews.tw/?p=1611032",
+      "summary": "中國上市公司半年報出爐，意外揭露熱門的人工智慧（AI）產業鏈在上、中、下游階段誰的利潤率最高。以單一企業為例， […]",
+      "published_raw": "Thu, 03 Sep 2026 00:25:02 +0000",
+      "updated_at": "2026-09-03T00:25:02Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:25:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d842385a8bd796d8303e6c282cef275f104b0da94e306dac4f2bee7749628cdb",
+      "title": "澳洲科學家打造「生化蟑螂」，偵查送藥成為救災小幫手",
+      "url": "https://technews.tw/2026/09/03/australian-scientists-develop-cyborg-cockroaches-for-medical-missions/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:20:13Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "尖端科技",
+        "救災",
+        "澳洲",
+        "生化蟑螂",
+        "科技趣聞",
+        "蟑螂"
+      ],
+      "guid": "https://technews.tw/?p=1609865",
+      "summary": "蟑螂雖然並非如瘧蚊般是有重大危害的致病昆蟲，但就心理層面來說或許更讓人「聞之色變」，至少在大多數國家的家庭中， […]",
+      "published_raw": "Thu, 03 Sep 2026 00:20:13 +0000",
+      "updated_at": "2026-09-03T00:20:13Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:20:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b93a532cf51217d10c9188f4968068c35560fc47ba588840c5be6e1708485fd5",
+      "title": "Uber 預告將裁員 10% 精簡組織、因應競爭",
+      "url": "https://finance.technews.tw/2026/09/03/uber-to-lay-off-10-percent-of-staff-in-biggest-cuts-since-covid/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:15:36Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Uber",
+        "共享經濟",
+        "叫車",
+        "自駕計程車",
+        "自駕車",
+        "裁員",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1611026",
+      "summary": "叫車巨頭 Uber 預告將裁員 10%，以提升組織和資金效率、因應自駕計程車對其叫車業務的衝擊。 綜合外媒報導 […]",
+      "published_raw": "Thu, 03 Sep 2026 00:15:36 +0000",
+      "updated_at": "2026-09-03T00:15:36Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:15:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:927f67d0e90981acafb98f0bb550dcceab4c3948c3686eb9eb3e63dee546f2a7",
+      "title": "不只看高薪，科技新貴選邊站：Anthropic 拚價值、輝達靠底氣贏得青睞",
+      "url": "https://technews.tw/2026/09/03/ai-talent-war-heats-up/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:10:37Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 人才",
+        "AI 實驗室",
+        "Anthropic",
+        "Google",
+        "OpenAI",
+        "人力資源",
+        "國際觀察",
+        "微軟",
+        "職場",
+        "蘋果",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1609302",
+      "summary": "隨著科技圈持續重金押注人工智慧，AI 人才的爭奪戰正全面升溫。根據 8 位科技從業人員的最新訪談，OpenAI […]",
+      "published_raw": "Thu, 03 Sep 2026 00:10:37 +0000",
+      "updated_at": "2026-09-03T00:10:37Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:10:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9fd2d468a09cfd2585d8d3622e7541097b76e0bc434fcc45008ca3053cf0ee97",
+      "title": "AI 不只搶電，現在也開始搶錢：日本企業融資成本恐被 AI 推高",
+      "url": "https://finance.technews.tw/2026/09/03/global-bond-markets-put-governments-on-notice-over-fiscal-inflation-risks/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T00:00:02Z",
+      "authors": [
+        "古川"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 基建",
+        "AI 投資",
+        "公司債",
+        "利率",
+        "日企",
+        "日本",
+        "科技政策",
+        "金融政策"
+      ],
+      "guid": "https://technews.tw/?p=1608903",
+      "summary": "人工智慧帶動的算力競賽，競爭焦點正從爭奪晶片，與搶奪電力，進一步延燒至全球資本市場。為了興建超大型資料中心、採 […]",
+      "published_raw": "Thu, 03 Sep 2026 00:00:02 +0000",
+      "updated_at": "2026-09-03T00:00:02Z",
+      "updated_raw": "Thu, 03 Sep 2026 00:00:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dbbdab1b57236bfc2cae7e61286c95bea0d0bb1a9d71d9bef4d4d650f2926ef6",
+      "title": "從能讀到能改：ChatGPT 寫入權進入企業工作流",
+      "url": "https://finance.technews.tw/2026/09/03/chatgpt-write-access-enters-enterprise-workflows/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:50:10Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 權限",
+        "Adobe",
+        "ChatGPT",
+        "Google 雲端硬碟",
+        "OpenAI",
+        "公司治理",
+        "工作管理"
+      ],
+      "guid": "https://technews.tw/?p=1607175",
+      "summary": "過去，ChatGPT 讀錯一份文件，使用者大不了忽略答案；如今，若人工智慧取得授權後能建立、編輯或更新雲端內容 […]",
+      "published_raw": "Wed, 02 Sep 2026 23:50:10 +0000",
+      "updated_at": "2026-09-02T23:50:10Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:50:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f1f41030ee42ebafe3c608c74ae3bec1a28887297ce0b20024c0d7d8d0396bce",
+      "title": "老闆不只盯進度還把你賣了？調查揭九款職場監控軟體暗中外洩員工個資",
+      "url": "https://infosecu.technews.tw/2026/09/03/workplace-monitoring-software-privacy-vulnerability/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:40:58Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "人力資源",
+        "員工",
+        "定位監控",
+        "監控工具",
+        "職場",
+        "資料外洩",
+        "資訊安全",
+        "隱私",
+        "雇主"
+      ],
+      "guid": "https://technews.tw/?p=1606441",
+      "summary": "一項最新研究顯示，企業常用的員工監控工具，不僅用於記錄工作進度，更可能在暗中將員工的個人資料與上網活動，偷偷傳 […]",
+      "published_raw": "Wed, 02 Sep 2026 23:40:58 +0000",
+      "updated_at": "2026-09-02T23:40:58Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:40:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c96b2a74a408291409b55b075c863c00f6c6c69230e06aced70909525dae395f",
+      "title": "無限廢片！AI 影片生的比人類看得快，Infinite Slop AI 直播台，37,000 人線上決定下一幕演什麼",
+      "url": "https://www.inside.com.tw/article/42266-2026-09-01-infinite-slop-pieter-levels-ai-livestream",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-02T23:34:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "串流&影音",
+        "人工智慧",
+        "影音",
+        "直播"
+      ],
+      "guid": "https://www.inside.com.tw/article/42266-2026-09-01-infinite-slop-pieter-levels-ai-livestream",
+      "summary": "獨立開發者 Pieter Levels 推出 Infinite Slop，一個由觀眾在聊天室輸入文字驅動、AI 即時生成的無限互動直播台，上線第一天吸引 37,000 名觀眾。",
+      "published_raw": "2026-09-03T07:34:00+08:00",
+      "updated_at": "2026-09-02T23:34:00Z",
+      "updated_raw": "2026-09-03T07:34:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2c39a511a0322efdaece132f831a97d8f568dc95a241fc1516a9f5e235cfb3dc",
+      "title": "日本放寬部分企業加班限制，勞團憂重返過勞文化",
+      "url": "https://technews.tw/2026/09/03/japan-eases-overtime-restrictions-for-some-companies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:30:30Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "人力資源",
+        "加班",
+        "加班工時",
+        "國際觀察",
+        "日本",
+        "日本企業",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1610531",
+      "summary": "日本將從 9 月 1 日起針對部分企業放寬加班時數限制，以刺激經濟成長。當局強調，這項政策轉變並不適用於所有企 […]",
+      "published_raw": "Wed, 02 Sep 2026 23:30:30 +0000",
+      "updated_at": "2026-09-02T23:30:30Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:30:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1195993472433e3ce32aa3af6af99796b19e99cfcb24e58424a401b71aaa8256",
+      "title": "AI 同時衝擊人類四大驅動力，專家：轉型成敗關鍵還是「人」",
+      "url": "https://technews.tw/2026/09/03/earn-learn-bond-defend-ai-threatens-all-four-human-drives-and-your-transformation-depends-on-them/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:20:55Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 失業",
+        "AI 管理",
+        "AI 轉型",
+        "人力資源",
+        "四大驅動力",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1608257",
+      "summary": "企業推動 AI 轉型時，多數領導者聚焦模型、供應商與應用場景，導入後卻發現採用率停滯、優秀人才悄悄抵抗。《富比 […]",
+      "published_raw": "Wed, 02 Sep 2026 23:20:55 +0000",
+      "updated_at": "2026-09-02T23:20:55Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:20:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:09c4467277dc593ed6c4bd29c80374df776ce8f7ce95d44a7c24dfe83869a9a7",
+      "title": "YouTube Premium 訂閱價差高達 1,885%，比價網站 OpenTheRank 揭密全球數位服務底價",
+      "url": "https://technews.tw/2026/09/03/youtube-netflix-global-subscription-price-comparison/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:10:39Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "OpenTheRank",
+        "YouTube Premium",
+        "Youtube",
+        "netflix",
+        "影音串流",
+        "數位內容",
+        "比價網站",
+        "網路",
+        "訂閱服務",
+        "跨區訂閱"
+      ],
+      "guid": "https://technews.tw/?p=1610475",
+      "summary": "網上近日流傳名為「OpenTheRank」的比價網站，收錄 AI、串流媒體及遊戲等服務在全球各地區的官方定價， […]",
+      "published_raw": "Wed, 02 Sep 2026 23:10:39 +0000",
+      "updated_at": "2026-09-02T23:10:39Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:10:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b2db1a10332f409a8dea3e0c5deab8d8d2154e0b1a403e642fc75149ef82328e",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T23:08:47Z",
+      "authors": [
+        "stikit"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49543841",
+      "summary": "Article URL: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident Comments URL: https://news.ycombinator.com/item?id=49543841 Points: 77 # Comments: 63",
+      "published_raw": "Wed, 02 Sep 2026 23:08:47 +0000",
+      "updated_at": "2026-09-02T23:08:47Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:08:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:271cd9b9e8a3140f83b1556570cf05eed8dae42e028d4b1edb3ffa8093205e85",
+      "title": "TIER IV 跨足硬體戰略！雙軌布局開源自駕晶片與瑞薩量產方案",
+      "url": "https://technews.tw/2026/09/03/tier-iv-and-renesas-develop-mass-production-solution/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:00:34Z",
+      "authors": [
+        "TrendForce 集邦科技"
+      ],
+      "categories": [
+        "Tier IV",
+        "技術分析",
+        "晶片",
+        "會員專區",
+        "瑞薩電子",
+        "自動駕駛",
+        "自駕車",
+        "車用晶片"
+      ],
+      "guid": "https://technews.tw/?p=1609569",
+      "summary": "自駕軟體開源廠商 TIER IV 宣布兩大硬體重要合作，除了加入日本 JST 計畫，開發並開源專為端到端（E2 […]",
+      "published_raw": "Wed, 02 Sep 2026 23:00:34 +0000",
+      "updated_at": "2026-09-02T23:00:34Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d55dceef7de9840bf73dfe2ffb1ec84301f02869d4a782280181a993dcd2015",
+      "title": "牧德 8 月營收 3.61 億元創高，高階產品訂單延伸至未來數季",
+      "url": "https://finance.technews.tw/2026/09/03/mutek-record-high-august-revenue-nt361-million-high-end-product-orders-extend-several-quarters/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T23:00:05Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AOI 檢測",
+        "材料、設備",
+        "牧德",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1611012",
+      "summary": "牧德科技 2 日公布 8 月合併營收約 3.61 億元，月增 0.42%、年增 35.68%，單月營收再創歷史 […]",
+      "published_raw": "Wed, 02 Sep 2026 23:00:05 +0000",
+      "updated_at": "2026-09-02T23:00:05Z",
+      "updated_raw": "Wed, 02 Sep 2026 23:00:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d075f34a42be315162aba581957dd7502e7279209a37415e1ea8ee84ef6f0398",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "url": "https://ronanrx.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T22:36:04Z",
+      "authors": [
+        "lloydarmbrust"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49543530",
+      "summary": "Hi HN, I’m Lloyd, one of two founders of RonanRx. We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides. The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We could make a million masks in a day. We converted raw polypropylene pellets into finished pallets of masks. I had a background in software from my YC W10 company, so we took a software approach to building our factory. We used machine learning and computer vision to optimize production. We also vertically integrated almost everything. It worked. We built an efficient manufacturing operation and grew the business to 50 million dollars in revenue. Then people actually stopped caring about masks. Fair enough. Around the same time, I decided to try and lose the weight I had gained while building the factory. I ate nothing but chicken for six months. While this diet got some results, I plateaued. My doctor suggested tirzepatide, a GLP-1 medication. For me, losing weight was only the beginning. \"Food noise\" was gone. I showed less interest in other compulsive behavior. I stopped scrolling Instagram and quit biting my nails. But that was just the beginning. I was born with a congenital heart defect called aortic stenosis. My whole life doctors told me I'd need open heart surgery in my 40s (I am 45 now). After just 18 months using tirzepatide, my cardiologist’s began to think (and still thinks) my surgery could be pushed back until I am 70 or 80. This was all happening when I was deciding what to work on next. I wanted to keep working on manufacturing. I didn't want to build another product that could be replicated by a frontier model. Pharmaceutical manufacturing was the best combination of digital, physical, biological, and regulatory infrastructure I could find. The thing that bothered me was how disconnected all of the pieces were: telehealth, EHR, prescriptions, dispensing software, production, shipping. No one company has it all. GLP-1s come in a handful of predefined doses, but patients obviously aren't standardized: they respond differently, lose weight at different rates, experience different side effects, and may need very different doses. Compounding pharmacies can fill customized prescriptions, but they are not built like software companies. Workflows are manual, fragmented, and disconnected from the patient’s data. It's our goal to connect those pieces with RonanRx. Patients either come to us directly or are referred by a physician. Once a patient is in our system, we collect medical records, current meds, labs, and data from wearables. Our software follows the prescription through drug formulation, compounding, quality testing, and drug dispensing and distribution. The most interesting feature is the feedback loop. As the patient is undergoing treatment, their response becomes data that can be used by their doctor to modify the treatment. We keep the doctor in the feedback loop. We make money by selling drugs we manufacture. Because people can buy directly from us, their price is usually 3x-10x more affordable. We can do this because we start at the molecule and own the entire stack from manufacturing through prescribing, dispensing, and delivery, instead of paying a chain of middlemen at every step. We are beginning with GLP-1s and peptides since this was where I personally experienced the issue; however, we are more interested in the potential of patient-specific pharmaceutical manufacturing. We would love your feedback, especially if you have built pharmacy, manufacturing, clinical infrastructure, EHRs, or any other regulated software. There are a lot of assumptions in this model that should be tested. Comments URL: https://news.ycombinator.com/item?id=49543530 Points: 21 # Comments: 22",
+      "published_raw": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "updated_at": "2026-09-02T22:36:04Z",
+      "updated_raw": "Wed, 02 Sep 2026 22:36:04 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f82c607f0009a13c9d673d736fccc65da375ccd29b979e30554dfc2801d52e1a",
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T22:02:30Z",
+      "authors": [
+        "ddp26"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49543191",
+      "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 27 # Comments: 5",
+      "published_raw": "Wed, 02 Sep 2026 22:02:30 +0000",
+      "updated_at": "2026-09-02T22:02:30Z",
+      "updated_raw": "Wed, 02 Sep 2026 22:02:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:332ea5be37e90fac40a41c9c47f05db155dc1c50880559d99dd74fb9ca2312aa",
+      "title": "信邦 8 月營收 32.81 億元創高，苗栗新廠 2027 年第二季投產",
+      "url": "https://finance.technews.tw/2026/09/03/sinbon-august-revenue-record-miaoli-plant-q2-2027-production/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-02T22:00:38Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "人形機器人",
+        "信邦",
+        "材料、設備",
+        "機器人",
+        "財經",
+        "連接束",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1611009",
+      "summary": "信邦 8 月自結合併營收達 32.81 億元，月增 3.58%、年增 32.47%，連續 5 個月改寫單月歷史 […]",
+      "published_raw": "Wed, 02 Sep 2026 22:00:38 +0000",
+      "updated_at": "2026-09-02T22:00:38Z",
+      "updated_raw": "Wed, 02 Sep 2026 22:00:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1bc662f427fb30a19240d25b63b333137d9d0f66df897950b46b8706c21853d0",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T21:46:33Z",
+      "authors": [
+        "yakkomajuri"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49543007",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 89 # Comments: 43",
+      "published_raw": "Wed, 02 Sep 2026 21:46:33 +0000",
+      "updated_at": "2026-09-02T21:46:33Z",
+      "updated_raw": "Wed, 02 Sep 2026 21:46:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:734e52052578e1801d9356f1c835c7a274b67a5da6acef3f8124eab45ef6f06b",
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "url": "https://nango.dev/careers",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T21:00:04Z",
+      "authors": [
+        "bastienbeurier"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49542486",
+      "summary": "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=49542486 Points: 0 # Comments: 0",
+      "published_raw": "Wed, 02 Sep 2026 21:00:04 +0000",
+      "updated_at": "2026-09-02T21:00:04Z",
+      "updated_raw": "Wed, 02 Sep 2026 21:00:04 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3e70ab28923547d4bc4d89b4da82c96a1667bcd5d1cafb7811bfea4495422ad5",
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T20:08:22Z",
+      "authors": [
+        "Eridanus2"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49541754",
+      "summary": "Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.ycombinator.com/item?id=49541754 Points: 39 # Comments: 15",
+      "published_raw": "Wed, 02 Sep 2026 20:08:22 +0000",
+      "updated_at": "2026-09-02T20:08:22Z",
+      "updated_raw": "Wed, 02 Sep 2026 20:08:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6e7ea2af1e6a6ed3284ab9edc59d5938ed873b0aa5307cba636d16c847439152",
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T19:52:53Z",
+      "authors": [
+        "conferza"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49541519",
+      "summary": "Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 178 # Comments: 174",
+      "published_raw": "Wed, 02 Sep 2026 19:52:53 +0000",
+      "updated_at": "2026-09-02T19:52:53Z",
+      "updated_raw": "Wed, 02 Sep 2026 19:52:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9793e37ee53e4fd2d86f98c225e10a63e7fdbad21a44bbc22d0a7736a032fc2a",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T19:49:01Z",
+      "authors": [
+        "surreal_"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49541458",
+      "summary": "Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 137 # Comments: 45",
+      "published_raw": "Wed, 02 Sep 2026 19:49:01 +0000",
+      "updated_at": "2026-09-02T19:49:01Z",
+      "updated_raw": "Wed, 02 Sep 2026 19:49:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2186260616e4454b4fd6a845d9ee0a2f66ea0a23b7d72d8e6a1f5f89ba008bf4",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T19:35:04Z",
+      "authors": [
+        "bvaldivielso"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49541256",
+      "summary": "https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 374 # Comments: 247",
+      "published_raw": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "updated_at": "2026-09-02T19:35:04Z",
+      "updated_raw": "Wed, 02 Sep 2026 19:35:04 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:90712b9377361fdf73e8f34ab572bfe0a3a9aad127a120efea359b579ecabcd5",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T18:42:41Z",
+      "authors": [
+        "gumby"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49540565",
+      "summary": "Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Points: 76 # Comments: 43",
+      "published_raw": "Wed, 02 Sep 2026 18:42:41 +0000",
+      "updated_at": "2026-09-02T18:42:41Z",
+      "updated_raw": "Wed, 02 Sep 2026 18:42:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c19cc6cdc843b94e769223f852833bf3e95ad215738d656d78a162b3af9fa80b",
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-02T18:32:24Z",
+      "authors": [
+        "kooi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49540415",
+      "summary": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 54 # Comments: 24",
+      "published_raw": "Wed, 02 Sep 2026 18:32:24 +0000",
+      "updated_at": "2026-09-02T18:32:24Z",
+      "updated_raw": "Wed, 02 Sep 2026 18:32:24 +0000",
+      "language": "en"
+    }
+  ]
+}
