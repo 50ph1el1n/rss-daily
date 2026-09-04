@@ -1,0 +1,810 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-04",
+  "timezone": "Asia/Taipei",
+  "article_count": 32,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6f970b66ae8343569a5c5298f879ac695fd1eea966e71784ecbd5a08bcabeeff",
+      "title": "撐了 13 年決定放手！遊戲資料庫 SteamDB 宣布賣給 Nexus Mods： 精力耗盡",
+      "url": "https://www.inside.com.tw/article/42294-steamdb-nexus-mods-acquisition",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-04T01:04:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "遊戲",
+        "開發者"
+      ],
+      "guid": "https://www.inside.com.tw/article/42294-steamdb-nexus-mods-acquisition",
+      "summary": "SteamDB 創辦人 xPaw（Pavel Djundik）宣布因為倦怠，將獨立維運 13 年的 Steam 資料庫工具站出售給遊戲 Mod 大平台 Nexus Mods。網站保持免費、維持原有域名，用戶幾乎無感，但背後是一位獨立開發者的長期疲憊與新東家的野心布局。",
+      "published_raw": "2026-09-04T09:04:00+08:00",
+      "updated_at": "2026-09-04T01:04:00Z",
+      "updated_raw": "2026-09-04T09:04:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:680b43674961327cb04ddc42cab16f8c182ad5a390f928e27667070ad6e4d441",
+      "title": "首批輝達 RTX Spark 電腦，聯想宏碁 10 月率先開賣",
+      "url": "https://technews.tw/2026/09/04/nvidia-sets-october-launch-for-rtx-spark-ai-pcs/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T01:00:59Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Nvidia",
+        "RTX Spark",
+        "宏碁",
+        "晶片",
+        "桌上型電腦",
+        "筆記型電腦",
+        "聯想",
+        "輝達",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1611651",
+      "summary": "晶片巨擘輝達今天表示，聯想與宏碁 10 月將推出首批搭載自家 RTX Spark 晶片的 Windows 個人 […]",
+      "published_raw": "Fri, 04 Sep 2026 01:00:59 +0000",
+      "updated_at": "2026-09-04T01:00:59Z",
+      "updated_raw": "Fri, 04 Sep 2026 01:00:59 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2c057e674b4a64017d88b60944d693163455e7b68fc4baae46591a31e674d1fd",
+      "title": "中國競爭及美關稅夾擊，德國福斯汽車預告 10 年內裁 10 萬員工",
+      "url": "https://technews.tw/2026/09/04/volkswagen-says-cutting-100000-jobs-by-end-of-decade/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:55:02Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國",
+        "人力資源",
+        "汽車科技",
+        "福斯",
+        "裁員",
+        "關稅"
+      ],
+      "guid": "https://technews.tw/?p=1611624",
+      "summary": "面對中國車企競爭、美國關稅與電動車需求疲弱等壓力，德國福斯汽車集團（Volkswagen）管理階層與工會達成協 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:55:02 +0000",
+      "updated_at": "2026-09-04T00:55:02Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:55:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b4a57cadf48fae19c00563043ebf431be6a1bd86f55e0652eaeae194df48fcb9",
+      "title": "Cybercab 風暴來襲 特斯拉飆 5%、SpaceX 市值返 2 兆",
+      "url": "https://finance.technews.tw/2026/09/04/tesla-investors-await-updates-on-cybercab-robotaxi-touted-as-the-future-of-transport/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:50:39Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Cybercab",
+        "SpaceX",
+        "汽車科技",
+        "特斯拉",
+        "自駕車",
+        "財經",
+        "電動車"
+      ],
+      "guid": "https://technews.tw/?p=1611643",
+      "summary": "特斯拉（Tesla Inc.）預計數小時後於德州奧斯汀舉行活動，迎接首批搭乘 Cybercab 的一般民眾，其 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:50:39 +0000",
+      "updated_at": "2026-09-04T00:50:39Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:50:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e1fff27eb4f88bc3a0f242eadac9d1435b6686f5acb3d8dc1a33d8bfcd0d14af",
+      "title": "NVIDIA 129 億美元確認收購 Hugging Face，黃仁勳：開源路線不受影響",
+      "url": "https://www.inside.com.tw/article/42292-nvidia-acquires-hugging-face",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-04T00:48:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "Hugging Face",
+        "NVIDIA",
+        "人工智慧"
+      ],
+      "guid": "https://www.inside.com.tw/article/42292-nvidia-acquires-hugging-face",
+      "summary": "晶片巨頭 NVIDIA 正式確認以約 129.3 億美元收購開源 AI 平台 Hugging Face，交易預計 2027 年上半完成。黃仁勳強調開源路線不變，但外界對 AI 生態系中立性仍有疑慮。",
+      "published_raw": "2026-09-04T08:48:00+08:00",
+      "updated_at": "2026-09-04T00:48:00Z",
+      "updated_raw": "2026-09-04T08:48:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d93213f3a809f7837e25d1bc9cb5748a1bc461154b59100ebc2c89fb51f4a522",
+      "title": "量子糾纏進入自動化時代，科學家首創「量子浴」證實 20 年前理論預測",
+      "url": "https://technews.tw/2026/09/04/quantum-bath-automation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:45:00Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "尖端科技",
+        "斷層掃描",
+        "自動化",
+        "量子位元",
+        "量子浴",
+        "量子科技",
+        "量子糾纏",
+        "量子電腦"
+      ],
+      "guid": "https://technews.tw/?p=1609936",
+      "summary": "奧地利科學技術研究所（ISTA）的研究團隊近日取得重大突破，展示了一種能自動生成並維持量子糾纏的新方法。透過打 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:45:00 +0000",
+      "updated_at": "2026-09-04T00:45:00Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:45:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9527d2c1a2a06cc7bf17772ffb5de98a571b8c23f78e1888d308ac2d8743e064",
+      "title": "美財長施壓日相財政、金融政策，憂日本利率上升波及美國",
+      "url": "https://finance.technews.tw/2026/09/04/us-treasury-secretary-pressures-japan-pm-fiscal-financial-policy-rising-japan-interest-rates-us-impact/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:40:13Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "G20",
+        "國際貿易",
+        "國際金融",
+        "日圓",
+        "日本",
+        "美國",
+        "財經",
+        "通膨",
+        "高市早苗"
+      ],
+      "guid": "https://technews.tw/?p=1611638",
+      "summary": "美國財長貝森特在 9 月 1 日 G20 會議閉幕後，表示「日本在財政、金融政策方面可以退一步」。外界認為，這 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:40:13 +0000",
+      "updated_at": "2026-09-04T00:40:13Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:40:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:89f5fb8d2c83a5fa613d6b8667a06a934809c97dd52bf8d280940ae1796495f2",
+      "title": "AI 苦等不到「iPhone 時刻」，奧特曼點出痛點：FDE 成落地解方",
+      "url": "https://technews.tw/2026/09/04/altman-point-fde-solution/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:30:40Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理人",
+        "AI 模型",
+        "FDE",
+        "Meta",
+        "OpenAI",
+        "Sam Altman",
+        "iPhone 時刻",
+        "人力資源"
+      ],
+      "guid": "https://technews.tw/?p=1609263",
+      "summary": "OpenAI 執行長奧特曼（Sam Altman）近期直言，AI 的普及速度不如預期，產業至今尚未迎來真正的「 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:30:40 +0000",
+      "updated_at": "2026-09-04T00:30:40Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:30:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:39405619b37d72bc9bf72c4af94d852f318a1803d94fb6acb1323d5552e3a602",
+      "title": "中東動盪考驗能源韌性，政府追加 4,217 億元預算穩油氣價格",
+      "url": "https://technews.tw/2026/09/04/middle-east-turmoil-tests-energy-resilience-government-adds-421-7-billion-budget-stabilize-oil-gas-prices/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:21:29Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "中油",
+        "台電",
+        "天然氣",
+        "能源科技"
+      ],
+      "guid": "https://technews.tw/?p=1611627",
+      "summary": "受中東局勢動盪影響，今年國際原油及天然氣價格震盪走高，能源成本高於政府去年編列 2026 年度預算時的估計。行 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:21:29 +0000",
+      "updated_at": "2026-09-04T00:21:29Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:21:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f0d9da6a5a4ea14442c975b3faff3d089f307d939573e439943b96619e006fd5",
+      "title": "乳癌竟能利用免疫細胞招來神經，幫助腫瘤生長",
+      "url": "https://technews.tw/2026/09/04/study-finds-breast-cancer-can-recruit-nerves-to-promote-tumor-growth/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:20:43Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "三陰性乳癌",
+        "乳癌",
+        "巨噬細胞",
+        "生物科技",
+        "癌細胞",
+        "神經",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1606097",
+      "summary": "癌細胞最難以對付的，不只是能夠快速分裂增生，也在於它們具有改造周遭環境的能力，讓原本對其不利的細胞反過來幫助自 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:20:43 +0000",
+      "updated_at": "2026-09-04T00:20:43Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:20:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:53df0697fb94eb0e1ceed11d6b99c75838e0702db235330b7371a4362f5541db",
+      "title": "AI 時代拚職涯，你的「可讀性」比技能更關鍵",
+      "url": "https://technews.tw/2026/09/04/the-new-career-currency-is-legibility/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:10:25Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 工具",
+        "人力資源",
+        "工作",
+        "科技業",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1608662",
+      "summary": "在科技業與 AI 工具快速滲透工作流程的背景下，職涯競爭的重心正悄悄改變。最新觀點指出，真正拉開差距的，不再只 […]",
+      "published_raw": "Fri, 04 Sep 2026 00:10:25 +0000",
+      "updated_at": "2026-09-04T00:10:25Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:10:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:91fe6b9ae5fd051db9db5f6cba9a39c7c209e6624ee5b451549b18e3d19673ae",
+      "title": "漏洞早就修好了，企業為何還會中招？「更新速度」正在成為新的資安考題",
+      "url": "https://finance.technews.tw/2026/09/04/enterprise-update-delays-become-security-vulnerabilities/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-04T00:00:38Z",
+      "authors": [
+        "Eason"
+      ],
+      "categories": [
+        "公司治理",
+        "勒索軟體",
+        "網路",
+        "資安",
+        "資訊安全",
+        "零日漏洞",
+        "駭客"
+      ],
+      "guid": "https://technews.tw/?p=1607192",
+      "summary": "在許多企業高層的認知裡，資安防禦最可怕的威脅是未知的「零日漏洞」（Zero-day vulnerability […]",
+      "published_raw": "Fri, 04 Sep 2026 00:00:38 +0000",
+      "updated_at": "2026-09-04T00:00:38Z",
+      "updated_raw": "Fri, 04 Sep 2026 00:00:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b17e8312b59759e4ef4e5bf8e77d2e4355d70971354191dab4f19bb771d30b4b",
+      "title": "淺談 DGX Spark vs. RTX Spark：不同 OS 就等於不同產品嗎？",
+      "url": "https://technews.tw/2026/09/04/dgx-spark-vs-rtx-spark/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:50:07Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "AI 代理",
+        "DGX Spark",
+        "Linux",
+        "Nvidia",
+        "RTX Spark",
+        "Windows",
+        "軟體、系統",
+        "輝達",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1608483",
+      "summary": "NVIDIA 近年積極把 AI 算力從資料中心往桌面與個人裝置推進，而 DGX Spark 與 RTX Spa […]",
+      "published_raw": "Thu, 03 Sep 2026 23:50:07 +0000",
+      "updated_at": "2026-09-03T23:50:07Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:50:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:233e62fa797b750ba153086f1d36fdd9c8922f4ad53bf2581927e3d337e1f746",
+      "title": "NASA 的 Starling 任務開啟深空任務新領域，不必靠 GPS 也能導航",
+      "url": "https://technews.tw/2026/09/04/nasa-just-used-satellites-and-debris-to-navigate-without-gps/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:40:16Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Falcon",
+        "NASA",
+        "Starling",
+        "航太科技"
+      ],
+      "guid": "https://technews.tw/?p=1608704",
+      "summary": "NASA 近日 Starling 任務完成自動太空飛行的重要測試，展示衛星可不靠 GPS，而是利用周遭可觀測到 […]",
+      "published_raw": "Thu, 03 Sep 2026 23:40:16 +0000",
+      "updated_at": "2026-09-03T23:40:16Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:40:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:146ba98a2fea0e5a7853eff69a7264394df4908e664f75cc2ec1f04974919413",
+      "title": "核三再運轉將完成審查，台電預估今、明年設備可恢復至可運轉狀態",
+      "url": "https://technews.tw/2026/09/04/nuclear-plant-three-restart-review-nears-completion/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:30:07Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "台電",
+        "核三廠",
+        "核安會",
+        "核能",
+        "能源科技"
+      ],
+      "guid": "https://technews.tw/?p=1611201",
+      "summary": "針對核三廠再運轉進度，核安會 9 月 2 日表示，台電今年 3 月提出的核三廠再運轉計畫，目前技術審查已接近尾 […]",
+      "published_raw": "Thu, 03 Sep 2026 23:30:07 +0000",
+      "updated_at": "2026-09-03T23:30:07Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:30:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6077d78fe64c800edd170c5a9a42576f0a227f66cdb7c54b7e4d77edc5b4d82b",
+      "title": "企業導入 AI 的三大隱形地雷，破解基礎架構瓶頸、影子 AI 與僵化治理",
+      "url": "https://finance.technews.tw/2026/09/04/hidden-dangers-enterprise-ai-adoption/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:20:13Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "人力資源",
+        "企業",
+        "公司治理",
+        "員工",
+        "影子 AI",
+        "職場",
+        "資安風險",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1608127",
+      "summary": "企業在加速將人工智慧（AI）導入日常營運的同時，全新的風險也隨之浮現。近期多篇科技分析指出，企業 AI 面臨的 […]",
+      "published_raw": "Thu, 03 Sep 2026 23:20:13 +0000",
+      "updated_at": "2026-09-03T23:20:13Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:20:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f0e37855e82275311d8eea14b5822d6298246c2f02040f98ac21162f38b9bb44",
+      "title": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
+      "url": "https://technews.tw/2026/09/04/sam-altman-publicly-says-he-dislikes-smart-glasses/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:10:29Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "Meta",
+        "OpenAI",
+        "Ray-Ban Meta",
+        "Sam Altman",
+        "智慧眼鏡",
+        "智慧音箱",
+        "穿戴式裝置"
+      ],
+      "guid": "https://technews.tw/?p=1611171",
+      "summary": "OpenAI 執行長山姆·奧特曼（Sam Altman）近日公開表示不喜歡智慧眼鏡，他形容與戴著鏡頭及燈光裝置 […]",
+      "published_raw": "Thu, 03 Sep 2026 23:10:29 +0000",
+      "updated_at": "2026-09-03T23:10:29Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:10:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:90cee9067a41f0fb5b4ac2f39e146aaf79e032e63ac20215077d3f1d556e2fcf",
+      "title": "AI 頻寬瓶頸內移記憶體：SK 海力士與三星雙路線改寫 HBM 角色",
+      "url": "https://technews.tw/2026/09/04/ai-bandwidth-bottleneck-memory-integration-sk-hynix-samsung-dual-strategies-redefine-hbm-role/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:00:50Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "CPO",
+        "HBM",
+        "IC 設計",
+        "SK 海力士",
+        "XPU",
+        "zHBM",
+        "三星",
+        "半導體",
+        "技術分析",
+        "會員專區",
+        "記憶體",
+        "頻寬牆"
+      ],
+      "guid": "https://technews.tw/?p=1610215",
+      "summary": "SK 海力士與全球研究團隊 8 月 19 日在《Nature Electronics》發表「高效能運算與 AI […]",
+      "published_raw": "Thu, 03 Sep 2026 23:00:50 +0000",
+      "updated_at": "2026-09-03T23:00:50Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:00:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1d4b276e90ff47a4fb7279fd6dac39174daefe864ce349ffeb65c4f352761f00",
+      "title": "美國陸軍耗資 1.92 億美元量產 TITAN，Palantir、Anduril 打造新一代機動情報系統",
+      "url": "https://technews.tw/2026/09/04/us-army-signed-192-million-contract-with-palantir-and-anduril-to-push-the-titan-int0-production-phase/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T23:00:16Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "Anduril Industries",
+        "Palantir",
+        "Titan",
+        "美國陸軍",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1611561",
+      "summary": "美國陸軍近日宣布頒發總價值 1.92 億美元合約給 Palantir 與 Anduril ，將美軍下一代行動情 […]",
+      "published_raw": "Thu, 03 Sep 2026 23:00:16 +0000",
+      "updated_at": "2026-09-03T23:00:16Z",
+      "updated_raw": "Thu, 03 Sep 2026 23:00:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7df84d472fe5f22575b8799523916a0d27ad38809b22d8c223a01e8b2798de56",
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
+      "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T22:37:31Z",
+      "authors": [
+        "gumby"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49558086",
+      "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c... Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 48 # Comments: 31",
+      "published_raw": "Thu, 03 Sep 2026 22:37:31 +0000",
+      "updated_at": "2026-09-03T22:37:31Z",
+      "updated_raw": "Thu, 03 Sep 2026 22:37:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3b6c62922cbaa71a84ec23f175b4f830539b559a8223e2a41fb4d35069e30566",
+      "title": "數值怪 GPT-6 Astra 發布：跑分驚人 OpenAI 喊 AGI 時刻來了（附實測效果）",
+      "url": "https://www.blocktempo.com/openai-gpt6-astra-agi-claim-arc-benchmark-harness-cyber-threshold/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-03T22:00:39Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "AGI",
+        "AI",
+        "Anthropic",
+        "Astra",
+        "GPT-6",
+        "OpenAI",
+        "技術"
+      ],
+      "guid": "https://www.blocktempo.com/?p=529720",
+      "summary": "OpenAI 稍早發布 GPT-6 Astra，官方給出的成績單近乎滿分，但 ARC Prize 與 Arti […] 〈 數值怪 GPT-6 Astra 發布：跑分驚人 OpenAI 喊 AGI 時刻來了（附實測效果） 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 03 Sep 2026 22:00:39 +0000",
+      "updated_at": "2026-09-03T22:00:39Z",
+      "updated_raw": "Thu, 03 Sep 2026 22:00:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:922bf6f9cd01dd2630f7d3e17af3c24a946434b59381a7a36ccc0ed0442669a6",
+      "title": "台普威儲能版圖瞄準歐洲，波蘭有望成下一站",
+      "url": "https://technews.tw/2026/09/04/taiwanese-propower-energy-storage-europe-poland-expansion/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-03T22:00:20Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "儲能",
+        "台普威",
+        "能源科技",
+        "雲豹能源",
+        "電力儲存"
+      ],
+      "guid": "https://technews.tw/?p=1611593",
+      "summary": "雲豹能源旗下儲能子公司台普威能源海外布局再往歐洲延伸。波蘭卡托維茲經濟特區（Katowice Special […]",
+      "published_raw": "Thu, 03 Sep 2026 22:00:20 +0000",
+      "updated_at": "2026-09-03T22:00:20Z",
+      "updated_raw": "Thu, 03 Sep 2026 22:00:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:35fdc9cc9d3e665dcb3281a409859961fd0f9ab0644171e32dcc5129b182592d",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T21:20:34Z",
+      "authors": [
+        "screm"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49557206",
+      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 83 # Comments: 23",
+      "published_raw": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "updated_at": "2026-09-03T21:20:34Z",
+      "updated_raw": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f5f379e244dd2ae15d8d522eacde62093aa6073723a6aa28d36cc5cf3e9da95e",
+      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+      "url": "https://tasklet.ai/careers/customer-success-engineer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T21:01:10Z",
+      "authors": [
+        "mayop100"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49556922",
+      "summary": "Article URL: https://tasklet.ai/careers/customer-success-engineer Comments URL: https://news.ycombinator.com/item?id=49556922 Points: 0 # Comments: 0",
+      "published_raw": "Thu, 03 Sep 2026 21:01:10 +0000",
+      "updated_at": "2026-09-03T21:01:10Z",
+      "updated_raw": "Thu, 03 Sep 2026 21:01:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e47c42332b0b34d04775214aec84b0aa78f0dd9686ba9ff55ecc285fc2c94d96",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T19:45:00Z",
+      "authors": [
+        "vignesh_warar"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49555691",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 160 # Comments: 92",
+      "published_raw": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "updated_at": "2026-09-03T19:45:00Z",
+      "updated_raw": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f4273b9eeeb686553464e3fb784cbcb76ee1b627745ea9f860ea87b887056fd4",
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "url": "https://news.ycombinator.com/item?id=49555592",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T19:38:46Z",
+      "authors": [
+        "Animats"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49555592",
+      "summary": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in \"strict\" mode. Disabled Privacy Badger for that site, and it didn't help. Tried private browsing, and it didn't help. Is this part of Google's war against ad-blocking and non-Chrome browsers? Comments URL: https://news.ycombinator.com/item?id=49555592 Points: 22 # Comments: 7",
+      "published_raw": "Thu, 03 Sep 2026 19:38:46 +0000",
+      "updated_at": "2026-09-03T19:38:46Z",
+      "updated_raw": "Thu, 03 Sep 2026 19:38:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:045f26cce03c7594fc9fd7d90b2bb58c091ee8245ed42cbc6911557e2262dd6c",
+      "title": "The asteroid currently hitting front end web development",
+      "url": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T19:17:24Z",
+      "authors": [
+        "codechicago277"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49555233",
+      "summary": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/item?id=49555233 Points: 72 # Comments: 74",
+      "published_raw": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "updated_at": "2026-09-03T19:17:24Z",
+      "updated_raw": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fe7bfb0c75ee06a17bcbd73c100738fe99fcb1ac9f82532ac2c7bf2555f4109d",
+      "title": "首批輝達RTX Spark電腦 聯想宏碁10月率先開賣",
+      "url": "https://www.cna.com.tw/news/ait/202609040004.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-09-03T18:57:50Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-09-04/202609040004",
+      "summary": "（中央社舊金山3日綜合外電報導）晶片巨擘輝達今天表示，聯想與宏碁10月將推出首批搭載自家RTX Spark晶片的Windows個人電腦。輝達目前正致力將AI運算能力直接導入筆記型電腦與桌上型電腦。",
+      "published_raw": "Fri, 04 Sep 2026 02:57:50 +0800",
+      "updated_at": "2026-09-03T18:57:50Z",
+      "updated_raw": "Fri, 04 Sep 2026 02:57:50 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a47a58e0ce7be1bcaebdc0b714488c9be2eaec35b6fce9045aa8b56b9150977c",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T18:41:05Z",
+      "authors": [
+        "kibae"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49554643",
+      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index - https://news.ycombinator.com/item?id=49556147 Comments URL: https://news.ycombinator.com/item?id=49554643 Points: 1275 # Comments: 998",
+      "published_raw": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "updated_at": "2026-09-03T18:41:05Z",
+      "updated_raw": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f809b9f769af3ea1c4e2524eec0c62ad9998f45b3370417ff587d295d1f42536",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T18:32:13Z",
+      "authors": [
+        "altertable"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49554520",
+      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 442 # Comments: 128",
+      "published_raw": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "updated_at": "2026-09-03T18:32:13Z",
+      "updated_raw": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bb8f2d4e426991148bcadd92b6c1f5764e31b195784fb6880fb0d82022ae2b9e",
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T17:10:06Z",
+      "authors": [
+        "yurivish"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49553321",
+      "summary": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent Comments URL: https://news.ycombinator.com/item?id=49553321 Points: 85 # Comments: 45",
+      "published_raw": "Thu, 03 Sep 2026 17:10:06 +0000",
+      "updated_at": "2026-09-03T17:10:06Z",
+      "updated_raw": "Thu, 03 Sep 2026 17:10:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8be90da6ef5524c271bc2d8c8118cf6b126784705903ab07673ae73d1a05820f",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-03T16:21:33Z",
+      "authors": [
+        "speckx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49552572",
+      "summary": "Article URL: https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california Comments URL: https://news.ycombinator.com/item?id=49552572 Points: 144 # Comments: 46",
+      "published_raw": "Thu, 03 Sep 2026 16:21:33 +0000",
+      "updated_at": "2026-09-03T16:21:33Z",
+      "updated_raw": "Thu, 03 Sep 2026 16:21:33 +0000",
+      "language": "en"
+    }
+  ]
+}
