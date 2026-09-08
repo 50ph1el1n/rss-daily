@@ -1,0 +1,762 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-08",
+  "timezone": "Asia/Taipei",
+  "article_count": 29,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a1895d8e17e240cf9c4a182856285b3ba90a972ea439d838b46e96de9750467d",
+      "title": "韓國擬赴美興建 8 座大型核電，投資規模上看 1,200 億美元",
+      "url": "https://technews.tw/2026/09/08/south-korea-to-build-8-large-us-nuclear-plants-120-billion-investment/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T01:15:59Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AP1000",
+        "國際觀察",
+        "對美投資",
+        "核能",
+        "能源科技",
+        "韓國"
+      ],
+      "guid": "https://technews.tw/?p=1613086",
+      "summary": "根據韓媒報導，韓國與美國最快將於 18 日簽署對美投資協議，雙方正規畫共同推動在美國興建最多 8 座大型核電機 […]",
+      "published_raw": "Tue, 08 Sep 2026 01:15:59 +0000",
+      "updated_at": "2026-09-08T01:15:59Z",
+      "updated_raw": "Tue, 08 Sep 2026 01:15:59 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:87ac7d2712fdf7cc69d60d6f176cfe373978f56e62a299bc7abbd3e03a166b20",
+      "title": "穎崴亮眼財報花旗按讚，目標價給予 11,500 元",
+      "url": "https://finance.technews.tw/2026/09/08/yingweis-impressive-financial-report-earns-praise-from-citigroup/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T01:15:42Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "半導體",
+        "半導體測試介面",
+        "國際觀察",
+        "穎崴",
+        "花旗",
+        "證券",
+        "財報",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1613099",
+      "summary": "隨著人工智慧（AI）與高效能運算（HPC）市場持續蓬勃發展，台灣關鍵測試介面供應鏈迎接強勁成長動能。半導體測試 […]",
+      "published_raw": "Tue, 08 Sep 2026 01:15:42 +0000",
+      "updated_at": "2026-09-08T01:15:42Z",
+      "updated_raw": "Tue, 08 Sep 2026 01:15:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5b53fde88ce9604d9fa577ea09b3c178c79305e5726a886304255e4cc8dbb4ed",
+      "title": "華為 Mate XT 2 首發麒麟 9050 Pro，售價近 2 萬人幣起",
+      "url": "https://technews.tw/2026/09/08/mate-xt-2-9050-pro/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T01:10:06Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "9050 Pro",
+        "Android 手機",
+        "Mate XT 2",
+        "手機",
+        "摺疊手機",
+        "晶片",
+        "智慧手機",
+        "華為",
+        "處理器"
+      ],
+      "guid": "https://technews.tw/?p=1613002",
+      "summary": "綜合中媒報導，華為 7 日舉行 Harmony OS 7、Mate XT 2 及全場景新品發表會，華為常務董事 […]",
+      "published_raw": "Tue, 08 Sep 2026 01:10:06 +0000",
+      "updated_at": "2026-09-08T01:10:06Z",
+      "updated_raw": "Tue, 08 Sep 2026 01:10:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:218461068418eed10f5601aaa6a21ad45bc9526ba9b1d93415d3663484281a9e",
+      "title": "大型資料中心覓址難，科技公司看上阿根廷巴塔哥尼亞",
+      "url": "https://technews.tw/2026/09/08/tech-explores-argentinas-patagonia-for-mega-data-centers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T01:00:49Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "hyperscaler",
+        "國際觀察",
+        "巴塔哥尼亞",
+        "資料中心",
+        "阿根廷"
+      ],
+      "guid": "https://technews.tw/?p=1613061",
+      "summary": "阿根廷巴塔哥尼亞（Patagonia）地區正吸引越來越多尋找興建大型資料中心地點的投資人目光。他們看上當地涼爽 […]",
+      "published_raw": "Tue, 08 Sep 2026 01:00:49 +0000",
+      "updated_at": "2026-09-08T01:00:49Z",
+      "updated_raw": "Tue, 08 Sep 2026 01:00:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:223bdb1cff399a56dfd5fb6c3269c2e95e4a4788f05977f0266f52ea3598d484",
+      "title": "磷化銦成 AI 關鍵瓶頸 IQE 示警、AXT 訂單不敢全接",
+      "url": "https://technews.tw/2026/09/08/iqe-ceo-warns-of-emerging-china-supply-risk-for-chip-industry/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:50:29Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AXT",
+        "IQE",
+        "中國",
+        "出口管制",
+        "半導體",
+        "半導體產業",
+        "國際貿易",
+        "地緣政治",
+        "材料",
+        "磷化銦",
+        "資料中心"
+      ],
+      "guid": "https://technews.tw/?p=1613057",
+      "summary": "英國磊晶圓供應大廠 IQE Plc 警告，隨著中國出口管制措施為供應增添不確定性，磷化銦（InP）基板的取得管 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:50:29 +0000",
+      "updated_at": "2026-09-08T00:50:29Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:50:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:54308fc498541ea6dd161703648c2c5e394333afaf0ec599abf273f3387db952",
+      "title": "別只盯著 Token 消耗，把 AI 當「數位勞動力」才能精準掌握經濟效益",
+      "url": "https://technews.tw/2026/09/08/rethinking-enterprise-ai-as-a-digital-workforce/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:45:27Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 工作",
+        "Token",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1611184",
+      "summary": "企業導入人工智慧的評估方式，正從「用了多少」轉向「產出了多少」。一篇於 9 月 2 日發布的分析指出，企業若仍 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:45:27 +0000",
+      "updated_at": "2026-09-08T00:45:27Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:45:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:133d4311f1c160bee41bc5019e0084167c466162ceb0aaf91aa94ab0d6eb603c",
+      "title": "Jaguar Land Rover 預計全球裁員四千人",
+      "url": "https://technews.tw/2026/09/08/jaguar-land-rover-plan-4000-job-cut/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:44:50Z",
+      "authors": [
+        "Chen Kobe"
+      ],
+      "categories": [
+        "Jaguar",
+        "Land Rover",
+        "Tata motor",
+        "交通運輸",
+        "人力資源",
+        "汽車科技",
+        "裁員"
+      ],
+      "guid": "https://technews.tw/?p=1613063",
+      "summary": "Jaguar Land Rover 集團昨日宣布預計全球裁員 4 千人，官方點出三大主因：美國關稅、資安危機和 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:44:50 +0000",
+      "updated_at": "2026-09-08T00:44:50Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:44:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a8311a80b156c83044a9bef65ca433ffe172ad02293a449a8c4c0be65495b1e0",
+      "title": "求職者與企業的 AI 軍備競賽，神級履歷為何反而拖垮招募效率？",
+      "url": "https://technews.tw/2026/09/08/ai-chaos-job-market/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:30:37Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "人力資源",
+        "履歷",
+        "招募",
+        "求職",
+        "演算法",
+        "生成式 AI",
+        "職場",
+        "職涯",
+        "職缺"
+      ],
+      "guid": "https://technews.tw/?p=1612543",
+      "summary": "生成式 AI 正將就業市場推向一場越來越難辨真偽的真假角力。在求職端，應徵者積極動用 AI 來潤飾履歷、搜尋職 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:30:37 +0000",
+      "updated_at": "2026-09-08T00:30:37Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:30:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3e542152d17eb8ac0ff8571c5132a620acd78a8c4dd6c8f1c75bc52ba2c8f465",
+      "title": "AI 能否有意識？研究人員嘗試突破生物學與功能主義兩派框架",
+      "url": "https://technews.tw/2026/09/08/researcher-explores-what-consciousness-really-means/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:20:37Z",
+      "authors": [
+        "Evan"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "功能主義",
+        "大腦",
+        "意識",
+        "生物學",
+        "生物科技",
+        "生物自然主義"
+      ],
+      "guid": "https://technews.tw/?p=1611105",
+      "summary": "隨著 AI 像人類一樣地流暢對話、推理與解決問題，對於 AI 是否也能像人類一樣地有意識、能思考的問題正從科幻 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:20:37 +0000",
+      "updated_at": "2026-09-08T00:20:37Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:20:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:efacc8b701042ddc6dc5375c8dc3a2b72df7d684fb30eb2ef2b822fc41d1d8ba",
+      "title": "資料中心耗水惹民怨，輝達帶頭採新型閉環冷卻方式",
+      "url": "https://technews.tw/2026/09/08/ai-data-centers-are-less-thirsty-now/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:15:26Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Nvidia",
+        "水電",
+        "科技業",
+        "能源科技",
+        "資料中心",
+        "輝達",
+        "閉環冷卻"
+      ],
+      "guid": "https://technews.tw/?p=1613058",
+      "summary": "資料中心的龐大用水用電議題，正在美國面臨民眾強大不滿聲浪。但根據對資料中心投資成百上千億美元的科技業大公司說法 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:15:26 +0000",
+      "updated_at": "2026-09-08T00:15:26Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:15:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c1a28fed88411b36bfb7e7310c057af53036280d8ba4529babebb8c098627fb5",
+      "title": "完美到令人發毛，AI 菜單觸發「恐怖谷效應」消費者反倒胃口",
+      "url": "https://technews.tw/2026/09/08/ai-generated-menus/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:10:38Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 生成",
+        "恐怖谷",
+        "科技生活",
+        "科技趣聞",
+        "菜單",
+        "餐廳"
+      ],
+      "guid": "https://technews.tw/?p=1612036",
+      "summary": "近來，越來越多餐廳為了節省成本，開始利用生成式 AI 製作菜單與行銷宣傳圖，沒想到卻弄巧成拙，意外引發顧客反感 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:10:38 +0000",
+      "updated_at": "2026-09-08T00:10:38Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:10:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8b18609478a54180c6a0c761c70264e44f6f2ce63fc696f5236cfb070309e1c8",
+      "title": "傳 Google 台灣大裁員 3 至 5 成，官方澄清：完全背離事實",
+      "url": "https://technews.tw/2026/09/08/google-taiwan-layoffs-30-50-denied-untrue/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:05:38Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Google",
+        "人力資源",
+        "台灣",
+        "裁員"
+      ],
+      "guid": "https://technews.tw/?p=1613055",
+      "summary": "Threads 等社群平台傳出 Google 台灣將啟動大規模裁員，甚至聲稱各組將裁撤至少 30% 至 50% […]",
+      "published_raw": "Tue, 08 Sep 2026 00:05:38 +0000",
+      "updated_at": "2026-09-08T00:05:38Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:05:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3be0d97423efd14a19b4b590442ecfe099dd1ad7c697c982e1caa4b48faa9a59",
+      "title": "4.1 倍更安全？拆解特斯拉 FSD 數據背後的比較陷阱",
+      "url": "https://technews.tw/2026/09/08/tesla-touts-european-supervised-self-driving-safety-data-ahead-of-eu-vote/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-08T00:00:21Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "FSD",
+        "歐盟",
+        "汽車科技",
+        "特斯拉",
+        "自駕車",
+        "電動車"
+      ],
+      "guid": "https://technews.tw/?p=1612186",
+      "summary": "特斯拉 9 月初公布歐洲版 FSD（Supervised）安全數據，宣稱系統在荷蘭、比利時、丹麥、愛沙尼亞與立 […]",
+      "published_raw": "Tue, 08 Sep 2026 00:00:21 +0000",
+      "updated_at": "2026-09-08T00:00:21Z",
+      "updated_raw": "Tue, 08 Sep 2026 00:00:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d7768282d848a04179f63be131df45c42e8601bc5f33b6fea00c8e71ccd6269c",
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "url": "https://github.com/aispace-sh/aispace-client",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T23:59:58Z",
+      "authors": [
+        "tengio"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49604280",
+      "summary": "Article URL: https://github.com/aispace-sh/aispace-client Comments URL: https://news.ycombinator.com/item?id=49604280 Points: 10 # Comments: 1",
+      "published_raw": "Mon, 07 Sep 2026 23:59:58 +0000",
+      "updated_at": "2026-09-07T23:59:58Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:59:58 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:54e343e74e14ec6a65e08427f7f8e2f13a93c8f39a823ebc2fc4e971b1a98c43",
+      "title": "資安設備買再多，也可能輸給一通電話：Apollo 外洩案揭開企業最難防的人為漏洞",
+      "url": "https://finance.technews.tw/2026/09/08/apollo-global-reveals-data-breach-after-hackers-target-financial-firms/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-07T23:50:33Z",
+      "authors": [
+        "Eason"
+      ],
+      "categories": [
+        "FIDO2",
+        "人力資源",
+        "公司治理",
+        "社交工程攻擊",
+        "資訊安全",
+        "離線雙重驗證",
+        "電話詐騙"
+      ],
+      "guid": "https://technews.tw/?p=1609598",
+      "summary": "許多企業規劃資安防禦時，習慣堆疊預算給最新硬體與軟體。執行長與資訊長部署最先進的防火牆、端點偵測系統（EDR） […]",
+      "published_raw": "Mon, 07 Sep 2026 23:50:33 +0000",
+      "updated_at": "2026-09-07T23:50:33Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:50:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d48db83dca0ab71186c156f9cb4e7ef1342878c5ed0cfbc8e9a34b0e86a70bdd",
+      "title": "GPT-6 Astra 接管 Blender：從生成模型到表情綁定，全部交給 AI 搞定",
+      "url": "https://www.inside.com.tw/article/42316-gpt6-astra-blender-tripo-3d-rigging",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-07T23:44:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "BlenderBot 3",
+        "GPT-6 Astra",
+        "人工智慧"
+      ],
+      "guid": "https://www.inside.com.tw/article/42316-gpt6-astra-blender-tripo-3d-rigging",
+      "summary": "OpenAI GPT-6 Astra 可以直接操作 Blender，從 Tripo 生成 3D 模型後，設定、表情處理、骨架綁定（rigging）全部交給 Astra 完成；整個流程到匯出 Unreal Engine 5 都不需要人工手動介入。",
+      "published_raw": "2026-09-08T07:44:00+08:00",
+      "updated_at": "2026-09-07T23:44:00Z",
+      "updated_raw": "2026-09-08T07:44:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:45afc158a33c7bffc0af47a76415bfedf1f595d4569cc5ccd333568c395ae458",
+      "title": "AI 破解竹節蟲移動密碼，六足機器人斷腳也能穿梭崎嶇災區",
+      "url": "https://technews.tw/2026/09/08/six-legged-ai-robot/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-07T23:40:06Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "VISTEC",
+        "六足機器人",
+        "尖端科技",
+        "救援",
+        "日本",
+        "昆蟲",
+        "機器人",
+        "步行",
+        "泰國",
+        "災害",
+        "科技趣聞",
+        "竹節蟲"
+      ],
+      "guid": "https://technews.tw/?p=1609379",
+      "summary": "日本東北大學與泰國 VISTEC 研究團隊開發出一套能以人工智慧（AI）剖析生物步態的全新技術，讓六足機器人順 […]",
+      "published_raw": "Mon, 07 Sep 2026 23:40:06 +0000",
+      "updated_at": "2026-09-07T23:40:06Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:40:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2446ba6a75a7616a937e1bf4db0c7b07b2eb9674b3853d6778cf7dac773fa1d8",
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T23:37:42Z",
+      "authors": [
+        "alixanderwang"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49604150",
+      "summary": "Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 53 # Comments: 6",
+      "published_raw": "Mon, 07 Sep 2026 23:37:42 +0000",
+      "updated_at": "2026-09-07T23:37:42Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:37:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8395aed002d3b6b941bda9ad35e9b6e288dda4e4c752b0c4069731ca1f097e0d",
+      "title": "福斯文件：德國工廠每輛車成本是中國的 4 倍以上",
+      "url": "https://technews.tw/2026/09/08/volkswagen-german-factory-car-costs-more-than-four-times-those-in-china/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-07T23:30:38Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "人力資源",
+        "國際貿易",
+        "德國",
+        "汽車科技",
+        "福斯汽車",
+        "裁員"
+      ],
+      "guid": "https://technews.tw/?p=1612522",
+      "summary": "德國福斯汽車集團（Volkswagen）內部文件顯示，集團在本土恩登車廠每輛車的出廠成本為 4,850 歐元（ […]",
+      "published_raw": "Mon, 07 Sep 2026 23:30:38 +0000",
+      "updated_at": "2026-09-07T23:30:38Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:30:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:28955a533c7b132ad4cef520bd716b523359e258e8494071abd5c12e246c7b3f",
+      "title": "MIT 研究揭密細胞抗鐵防線，多胺扮演「分子儲庫」封鎖致命鐵離子",
+      "url": "https://technews.tw/2026/09/08/mystery-cells-tame-dangerous-metals-polyamines-molecular-reservoirs-iron-toxicity/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-07T23:20:46Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "多胺",
+        "生物科技",
+        "細胞",
+        "蛋白質",
+        "醫療科技",
+        "鐵元素"
+      ],
+      "guid": "https://technews.tw/?p=1608283",
+      "summary": "麻省理工學院（MIT）與懷特黑德生物醫學研究所（Whitehead Institute）的最新研究發現，細胞內 […]",
+      "published_raw": "Mon, 07 Sep 2026 23:20:46 +0000",
+      "updated_at": "2026-09-07T23:20:46Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:20:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9a1891322e63fe91c9ded7968e5de0a6e66032a1740caf47eef8115dd3cd3f02",
+      "title": "地球自轉加速引發「現代千禧蟲」問題，BIPM 擬廢除閏秒誤差放寬至 1 小時",
+      "url": "https://technews.tw/2026/09/08/earth-rotation-speed-leap-second-y2k-utc-2027/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-07T23:10:15Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "UTC",
+        "世界標準時間",
+        "千禧蟲",
+        "國際度量衡局",
+        "地球自轉",
+        "網路",
+        "自然科學",
+        "負閏秒",
+        "閏時",
+        "閏秒"
+      ],
+      "guid": "https://technews.tw/?p=1612714",
+      "summary": "國際度量衡局（BIPM）10 月將表決廢除閏秒（Leap Second）制度。科學家發現近年地球自轉加速，將來 […]",
+      "published_raw": "Mon, 07 Sep 2026 23:10:15 +0000",
+      "updated_at": "2026-09-07T23:10:15Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:10:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d7eafc3027fc69fe58da24b4fdf8d3a87242e3076761864377d58df82e4e408",
+      "title": "SEMICON Taiwan 2026：台積電領銜矽光子論壇，CPO 預計下半年邁入量產",
+      "url": "https://technews.tw/2026/09/08/semicon-taiwan-2026-tsmc-silicon-photonics-forum-cpo-mass-production-h2/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-07T23:00:03Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "COUPE",
+        "SEMICON TAIWAN 2026",
+        "光通訊",
+        "半導體",
+        "台積電",
+        "晶片",
+        "會員專區",
+        "矽光子"
+      ],
+      "guid": "https://technews.tw/?p=1611406",
+      "summary": "半導體年度盛會「SEMICON Taiwan 2026」於 9 月 2～4 日在台北南港舉行，本屆以「Tran […]",
+      "published_raw": "Mon, 07 Sep 2026 23:00:03 +0000",
+      "updated_at": "2026-09-07T23:00:03Z",
+      "updated_raw": "Mon, 07 Sep 2026 23:00:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:477e7448f18529aaeb97bd8ba6a3968f27d17839caa7c4d82064dbdd18f2a8e7",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T22:12:38Z",
+      "authors": [
+        "CMDDestory"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49603546",
+      "summary": "Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=49603546 Points: 61 # Comments: 15",
+      "published_raw": "Mon, 07 Sep 2026 22:12:38 +0000",
+      "updated_at": "2026-09-07T22:12:38Z",
+      "updated_raw": "Mon, 07 Sep 2026 22:12:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6daca2d8d8441b445116ea34b0191a47a71a98e495fd697d6389f5412657ecc4",
+      "title": "Working on Economics with Fable 5",
+      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T21:18:15Z",
+      "authors": [
+        "Wilsoniumite"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49603086",
+      "summary": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49603086 Points: 53 # Comments: 34",
+      "published_raw": "Mon, 07 Sep 2026 21:18:15 +0000",
+      "updated_at": "2026-09-07T21:18:15Z",
+      "updated_raw": "Mon, 07 Sep 2026 21:18:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dc17c56a1f06676a86aaf5c0685d2b98be303a9a4010749e2e147d094f67d10e",
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T20:34:32Z",
+      "authors": [
+        "apophatic"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49602716",
+      "summary": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 32 # Comments: 12",
+      "published_raw": "Mon, 07 Sep 2026 20:34:32 +0000",
+      "updated_at": "2026-09-07T20:34:32Z",
+      "updated_raw": "Mon, 07 Sep 2026 20:34:32 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6f0ba1daf388fe60d2fa0790914b8bd1e7e1ad17808051f8423ab81f1f367dc7",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T20:32:55Z",
+      "authors": [
+        "josephcsible"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49602699",
+      "summary": "Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=49602699 Points: 79 # Comments: 36",
+      "published_raw": "Mon, 07 Sep 2026 20:32:55 +0000",
+      "updated_at": "2026-09-07T20:32:55Z",
+      "updated_raw": "Mon, 07 Sep 2026 20:32:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:29e633391024968ef658c5ce8bde9a56a0d56a9eb301e766c8df015b1b68c14a",
+      "title": "Replaceable but Employed: Automation and the Meaning of Work",
+      "url": "https://www.nber.org/papers/w35559",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T19:06:01Z",
+      "authors": [
+        "mooreds"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49601814",
+      "summary": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 54 # Comments: 47",
+      "published_raw": "Mon, 07 Sep 2026 19:06:01 +0000",
+      "updated_at": "2026-09-07T19:06:01Z",
+      "updated_raw": "Mon, 07 Sep 2026 19:06:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ab98b9e468e24b259a840fba44bd27b6dde4e5e01333eff57822c026d692ad90",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-07T18:52:06Z",
+      "authors": [
+        "rustywasm"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49601655",
+      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 208 # Comments: 97",
+      "published_raw": "Mon, 07 Sep 2026 18:52:06 +0000",
+      "updated_at": "2026-09-07T18:52:06Z",
+      "updated_raw": "Mon, 07 Sep 2026 18:52:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a4c7d57a741ebb47be5a141ba535cfbf49c2240fc94ef5652f4d75286f830b6f",
+      "title": "以太坊砍掉「必須持有 ETH 付 gas」！EIP-8141 入列 2027 年 Hegotá 升級",
+      "url": "https://www.blocktempo.com/ethereum-eip-8141-frame-transactions-hegot-upgrade-no-eth-required-gas-fees/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-07T18:40:40Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "EIP-8141",
+        "Frame Transactions",
+        "Hegota",
+        "Vitalik Buterin",
+        "以太坊"
+      ],
+      "guid": "https://www.blocktempo.com/?p=530992",
+      "summary": "以太坊核心開發者把 EIP-8141「Frame Transactions」列入 2027 年 Hegotá […] 〈 以太坊砍掉「必須持有 ETH 付 gas」！EIP-8141 入列 2027 年 Hegotá 升級 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Mon, 07 Sep 2026 18:40:40 +0000",
+      "updated_at": "2026-09-07T18:40:40Z",
+      "updated_raw": "Mon, 07 Sep 2026 18:40:40 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
