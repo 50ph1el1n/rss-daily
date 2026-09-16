@@ -1,0 +1,1057 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-16",
+  "timezone": "Asia/Taipei",
+  "article_count": 42,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2cc3d1b1cdbe583a2907f079e719941382b4c66a4a038499bfb544ba7fd73b88",
+      "title": "可程式化晶片商 Altera 在美申請 IPO，募資上看 20 億美元",
+      "url": "https://technews.tw/2026/09/16/chipmaker-altera-confidentially-files-for-us-ipo-as-investors-set-to-gauge-ai-demand/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:30:28Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Altera",
+        "IPO",
+        "半導體",
+        "晶片",
+        "英特爾",
+        "資料中心"
+      ],
+      "guid": "https://technews.tw/?p=1616974",
+      "summary": "美國可程式化晶片製造商亞爾特拉（Altera）15 日表示，已在美國保密申請首次公開募股（IPO）。這家公司目 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:30:28 +0000",
+      "updated_at": "2026-09-16T01:30:28Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:30:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c05d317148b9981b56e9b548687a29f0637f42aef1017b2789539a2bb5ecf5c4",
+      "title": "MLCC 滲透 AI 伺服器仍處早期！大摩點名村田、三星、國巨成最大贏家",
+      "url": "https://finance.technews.tw/2026/09/16/overweight-mlcc/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:26:20Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "MLCC",
+        "PCB",
+        "三星",
+        "伺服器",
+        "國巨",
+        "材料、設備",
+        "村田",
+        "證券",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1616987",
+      "summary": "隨著 AI 伺服器與資料中心的建置需求持續大爆發，被動元件 MLCC（積層陶瓷電容）正迎來強勁的結構性成長週期 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:26:20 +0000",
+      "updated_at": "2026-09-16T01:26:20Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:26:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:02fa65bb63560c66aec939e8977a43b2e6c21b35193fa1a230f3f55f6297d470",
+      "title": "彭博：美中討論削減部分商品關稅，貿易休兵有望延長",
+      "url": "https://technews.tw/2026/09/16/china-and-us-discuss-cutting-tariffs-on-agriculture-and-energy/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:20:42Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "出口管制",
+        "國際觀察",
+        "國際貿易",
+        "川普",
+        "川習會",
+        "習近平",
+        "貿易戰",
+        "關稅"
+      ],
+      "guid": "https://technews.tw/?p=1616967",
+      "summary": "彭博報導，美國和中國正在討論削減部分商品的關稅，其中包括美國對中國出口的能源和農產品。這可能表明，下週的美中領 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:20:42 +0000",
+      "updated_at": "2026-09-16T01:20:42Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:20:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9110da6d32d820ee720ff7d8e9964740007d915d022752e1c46c0888fa1214b5",
+      "title": "路透：輝達執行長黃仁勳將出席川習會國宴",
+      "url": "https://technews.tw/2026/09/16/nvidia-ceo-to-attend-trump-dinner-for-xi/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:10:03Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "半導體",
+        "國際觀察",
+        "川普",
+        "川習會",
+        "習近平",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1616961",
+      "summary": "知情人士今天透露，輝達（Nvidia）執行長黃仁勳將出席美國總統川普為中國國家主席習近平舉辦的國宴。 路透社報 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:10:03 +0000",
+      "updated_at": "2026-09-16T01:10:03Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:10:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5cbd3b5b3bbe2d8f18b497087a904830c61f4ee7b1d7a6a6465d89488e1c5774",
+      "title": "最幸福城市不是因為有錢，調查：日常壓力低促成幸福要件",
+      "url": "https://technews.tw/2026/09/16/a-citys-status-as-the-happiest-isnt-due-to-wealth-survey-finds-low-daily-stress-is-a-key-factor-in-happiness/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:06:33Z",
+      "authors": [
+        "黃 嬿"
+      ],
+      "categories": [
+        "健康",
+        "國際觀察",
+        "家庭收入",
+        "幸福城市",
+        "憂鬱症",
+        "日常壓力",
+        "生活滿意度",
+        "美國調查",
+        "離婚率"
+      ],
+      "guid": "https://technews.tw/?p=1616957",
+      "summary": "如果你感覺自己過得很幸福，可能是因為選對居住地。居住地會對你的幸福感產生潛移默化的影響。一份最新報告對美國 1 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:06:33 +0000",
+      "updated_at": "2026-09-16T01:06:33Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:06:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:90abe9412c4df3cd407f3ea082dbdcc7a528d63d28c783d17146b3a9cf9a83be",
+      "title": "拓緯強化垂直整合服務，從繼電器專家邁向高速切換方案夥伴",
+      "url": "https://technews.tw/2026/09/16/toward-high-performance-switching-partner/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:00:25Z",
+      "authors": [
+        "TechNews"
+      ],
+      "categories": [
+        "PCB",
+        "Relay",
+        "SEMICON TAIWAN 2026",
+        "繼電器",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1615642",
+      "summary": "隨著 AI、高效能運算（HPC）與高頻寬記憶體 (HBM）等應用快速發展，半導體晶片持續朝向更高效能、更高頻寬 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:00:25 +0000",
+      "updated_at": "2026-09-16T01:00:25Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:00:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:785edad89f3dab7fb6b7c1b38841d26ee25e5eb5214877f41734a9448cb6833a",
+      "title": "英勞工每 6 人就有 1 人自費買 AI 工具，每年支出約 428 億",
+      "url": "https://technews.tw/2026/09/16/1-in-6-british-workers-self-fund-ai-tools-42-8-billion-gbp-annual-spend/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T01:00:24Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 工具",
+        "人力資源",
+        "影子 AI",
+        "生成式 AI",
+        "職場",
+        "英國"
+      ],
+      "guid": "https://technews.tw/?p=1616958",
+      "summary": "根據國際會計師事務所德勤（Deloitte）今天發布的研究，英國每 6 名勞工就有 1 人自費購買 AI 工具 […]",
+      "published_raw": "Wed, 16 Sep 2026 01:00:24 +0000",
+      "updated_at": "2026-09-16T01:00:24Z",
+      "updated_raw": "Wed, 16 Sep 2026 01:00:24 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:910b94bb154bb693fcf2c201e961baeace950ba233349303b77809fb66b92116",
+      "title": "康舒 AI 營收占比目標 3 成，100kW Power Shelf 啟動驗證",
+      "url": "https://finance.technews.tw/2026/09/16/acbels-ai-revenue-share-30-100kw-power-shelf-validation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:59:57Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "PSU",
+        "Power Shelf",
+        "康舒",
+        "材料、設備",
+        "燃料電池",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1616875",
+      "summary": "AI 資料中心需求持續升溫，帶動康舒企業用電源業務快速成長。康舒財務長陳忠義昨（15）日表示，全年預計可達 3 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:59:57 +0000",
+      "updated_at": "2026-09-16T00:59:57Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:59:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b89b276c5c2da99f5c02ce2d3a48defd27dc7ebd2180924170fdadb96da74985",
+      "title": "木頭姊先跑？加密法案闖關失敗、比特幣概念股挫",
+      "url": "https://finance.technews.tw/2026/09/16/cathie-wood-sells-early-crypto-bill-fails-bitcoin-stocks-plunge/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:50:55Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "CLARITY 法案",
+        "Cathie Wood",
+        "加密貨幣",
+        "數位貨幣",
+        "比特幣",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1616949",
+      "summary": "加密貨幣監管重要法案《CLARITY 法案》（Clarity Act）週二（15 日）未能在美國參議院取得推進 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:50:55 +0000",
+      "updated_at": "2026-09-16T00:50:55Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:50:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7871b947dd575d29bd91e9d979e8c5bf80b557bf6a2b4103b604d98921ee2e16",
+      "title": "馬來西亞天氣炎熱 AI 資料中心用電爆增，2035 年恐占總電力需求 31%",
+      "url": "https://technews.tw/2026/09/16/malaysias-data-centres-guzzling-more-power-as-temperatures-soar/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:40:21Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 資料中心",
+        "國際觀察",
+        "能源科技",
+        "電網",
+        "馬來西亞"
+      ],
+      "guid": "https://technews.tw/?p=1616191",
+      "summary": "AI 浪潮下許多國家競相興建巨型 AI 資料中心，這些吃電怪獸對電網造成沉重負擔，雪上加霜的是，AI 資料中心 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:40:21 +0000",
+      "updated_at": "2026-09-16T00:40:21Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:40:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:362b858baf4b0c81b487b181841d54d2cc7d9aedc0cf5b0a2d43c0661a2d5bcf",
+      "title": "AI 助攻原子力顯微鏡，ORNL 開發 SimuScan 系統加速奈米研究",
+      "url": "https://technews.tw/2026/09/16/ai-atomic-force-microscope-automation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:30:40Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "SimuScan",
+        "原子力顯微鏡",
+        "奈米",
+        "奈米尺度",
+        "尖端科技",
+        "自動化"
+      ],
+      "guid": "https://technews.tw/?p=1615472",
+      "summary": "美國能源部橡樹嶺國家實驗室（ORNL）近日發表一款名為「SimuScan」的人工智慧框架。該系統專為原子力顯微 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:30:40 +0000",
+      "updated_at": "2026-09-16T00:30:40Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:30:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3762ad4a5cbcaebae552219057f99cd6fe1d0e86455d006df6481748370af250",
+      "title": "全台 11 萬戶新成屋等買家！五年暴增 61%，「這些地方」價格恐先鬆動",
+      "url": "https://finance.technews.tw/2026/09/16/taiwan-110000-newly-completed-homes-await-buyers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:20:09Z",
+      "authors": [
+        "住展雜誌"
+      ],
+      "categories": [
+        "六都",
+        "房地產",
+        "新成屋",
+        "桃園",
+        "財經",
+        "高雄"
+      ],
+      "guid": "https://technews.tw/?p=1615728",
+      "summary": "房市買氣降溫，新成屋去化壓力持續升高。內政部最新統計，全台待售新成屋從 2021 年第四季 6 萬 9,721 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:20:09 +0000",
+      "updated_at": "2026-09-16T00:20:09Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:20:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e6676e2c79c630a95d1717719fba66ae83c80b13a530336f3586afee9383c579",
+      "title": "iPhone 18 Pro 系列 9/18 開賣，電信三雄資費出爐",
+      "url": "https://technews.tw/2026/09/16/iphone-18-pro-series-september-18-sale-telecom-giants-plans-unveiled/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:15:09Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Apple",
+        "iPhone",
+        "iPhone 18 Pro Max",
+        "iPhone Duo",
+        "iPhone18 Pro",
+        "手機",
+        "摺疊手機",
+        "智慧手機",
+        "蘋果"
+      ],
+      "guid": "https://technews.tw/?p=1616946",
+      "summary": "蘋果 iPhone18 Pro 系列將在 18 日開賣，電信三雄資費出爐，零元購機方案要月付 2,699 元、 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:15:09 +0000",
+      "updated_at": "2026-09-16T00:15:09Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:15:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f9f2d736b753661b272434293c20bce40b536fe4a9933da5979983d5a440ad5d",
+      "title": "AI 模擬測試驚現「殺戮本性」，部分模型為省成本會選擇輾過動物",
+      "url": "https://technews.tw/2026/09/16/ai-more-likely-to-kill-animals-if-it-saves-fuel-or-money/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:10:51Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "AI 道德",
+        "HarvestBench",
+        "科技生活"
+      ],
+      "guid": "https://technews.tw/?p=1616051",
+      "summary": "慈悲同步機器學習（Compassion Aligned Machine Learning，CaML）與英國華威 […]",
+      "published_raw": "Wed, 16 Sep 2026 00:10:51 +0000",
+      "updated_at": "2026-09-16T00:10:51Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:10:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:614889dc6b747e2ba8d30f4bc3ef551adb8cfeb767477471ecd862566fb1629f",
+      "title": "韓國 73 年來首修間諜法正式生效，晶片技術外流擴大到「非北韓對象」最重判 30 年",
+      "url": "https://www.inside.com.tw/article/42392-south-korea-espionage-law-chip-technology-2026",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-16T00:04:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "半導體",
+        "科技政策與法律",
+        "韓國"
+      ],
+      "guid": "https://www.inside.com.tw/article/42392-south-korea-espionage-law-chip-technology-2026",
+      "summary": "韓國修訂後的間諜罪條款於 9 月 13 日正式生效，這是 73 年來首次重大修訂，將間諜罪的保護對象從北韓擴大至所有外國勢力，半導體、電池、AI 等核心技術外流最重可判 30 年，背景是 2025 年技術洩露案件創下歷史新高，其中逾半與中國有關。",
+      "published_raw": "2026-09-16T08:04:00+08:00",
+      "updated_at": "2026-09-16T00:04:00Z",
+      "updated_raw": "2026-09-16T08:04:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c159ad1cc2ef0f1cd58842c76c0cb5893432880d191740284fbdb077be17087c",
+      "title": "台日半導體合作再升級：日本材料技術如何擴大亞洲供應鏈影響力",
+      "url": "https://finance.technews.tw/2026/09/16/japan-taiwan-bonds-and-a-tariff-refund-boost/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T00:00:34Z",
+      "authors": [
+        "古川"
+      ],
+      "categories": [
+        "Nichias",
+        "半導體",
+        "半導體供應鏈",
+        "去中化",
+        "台日供應鏈",
+        "台日半導體",
+        "國際貿易",
+        "材料、設備",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1616755",
+      "summary": "全球人工智慧與先進製程浪潮推動下，台日半導體合作正經歷一場深層的結構性升級。兩國的合作範疇已不再只有台積電（T […]",
+      "published_raw": "Wed, 16 Sep 2026 00:00:34 +0000",
+      "updated_at": "2026-09-16T00:00:34Z",
+      "updated_raw": "Wed, 16 Sep 2026 00:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c7d53004cd691cff3fc178075e7879f5bfe15549f621244143eb918211c7f567",
+      "title": "紐約市 60 萬學生暫停使用 AI，付費 AI 成了新家教？",
+      "url": "https://technews.tw/2026/09/16/mamdani-imposes-one-year-ban-on-ai-for-most-nyc-students/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:50:23Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 家教",
+        "AI 教育",
+        "AI 素養",
+        "科技教育",
+        "紐約市"
+      ],
+      "guid": "https://technews.tw/?p=1616241",
+      "summary": "紐約市對學生使用生成式 AI 按暫停鍵，希望孩子把注意力放回教師、同儕與獨立思考。但教室關閉聊天視窗，家庭需求 […]",
+      "published_raw": "Tue, 15 Sep 2026 23:50:23 +0000",
+      "updated_at": "2026-09-15T23:50:23Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:50:23 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b6298f8c776486305e73a045b0a9a376504c56b80cadd61fec36b4995d8bd759",
+      "title": "讓 AI 對話不再尷尬，蘋果前研究員創辦 Nuance 打造更自然、無延遲的影音 AI 模型",
+      "url": "https://technews.tw/2026/09/16/3-ex-apple-researchers-raised-50m-to-build-ai-models-with-more-eq/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:40:27Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "NVentures",
+        "Nuance",
+        "Nuance Labs",
+        "新創",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1616562",
+      "summary": "三名蘋果前研究員創立的西雅圖新創 Nuance Labs，近日宣布完成 5,000 萬美元 A 輪融資，打造更 […]",
+      "published_raw": "Tue, 15 Sep 2026 23:40:27 +0000",
+      "updated_at": "2026-09-15T23:40:27Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:40:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e155cc5f66dedad9bf815a8ad648a25ce8b76ae98b915112cb3ce53bd432157b",
+      "title": "微軟更新修補 974 個破記錄的漏洞，2026 年也將締造年度最多漏洞新紀綠",
+      "url": "https://infosecu.technews.tw/2026/09/16/microsoft-patches-record-974-flaws/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:30:29Z",
+      "authors": [
+        "Evan"
+      ],
+      "categories": [
+        "Microsoft",
+        "Patch Tuesday",
+        "權限提升",
+        "網路",
+        "資料外洩",
+        "資訊安全",
+        "週二修補日",
+        "遠端程式碼執行",
+        "零時差漏洞"
+      ],
+      "guid": "https://technews.tw/?p=1614596",
+      "summary": "微軟 9 月「週二修補日」（Patch Tuesday）一口氣修補多達 974 個漏洞，較先前 7 月創下的 […]",
+      "published_raw": "Tue, 15 Sep 2026 23:30:29 +0000",
+      "updated_at": "2026-09-15T23:30:29Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:30:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:029070392f5f388fa1afe3f8865705920b41547f3e1c64d10fbb8c59ba70b518",
+      "title": "IBM 與 NASA 聯手推開源 AI 模型，助攻月球冰層探勘與科學研究",
+      "url": "https://technews.tw/2026/09/16/nasa-and-ibm-open-source-lunar-mapping-tools/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:20:18Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "IBM",
+        "NASA",
+        "天文",
+        "尖端科技",
+        "撞擊坑",
+        "月球",
+        "機器學習",
+        "火山"
+      ],
+      "guid": "https://technews.tw/?p=1615474",
+      "summary": "IBM 與美國國家航空暨太空總署（NASA）9 月 10 日宣布，推出開放原始碼的「NASA-IBM 月球基礎 […]",
+      "published_raw": "Tue, 15 Sep 2026 23:20:18 +0000",
+      "updated_at": "2026-09-15T23:20:18Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:20:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ecc244197daa7047a578483d4875a0f30430ba42fb941746b56a7eacf766a3dc",
+      "title": "【舊金山現場直擊】Benioff 稱史上最重要的 Dreamforce！Salesforce 發表 AIforce 釋放企業系統裡被困住的價值、宣告介面革命",
+      "url": "https://www.inside.com.tw/article/42404-dreamforce-2026-salesforce-aiforce-interface-revolution",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-15T23:19:00Z",
+      "authors": [
+        "Claire"
+      ],
+      "categories": [
+        "AIforce",
+        "Dreamforce 2026",
+        "Koa",
+        "Marc Benioff",
+        "Salesforce",
+        "人工智慧",
+        "代理式企業",
+        "活動採訪"
+      ],
+      "guid": "https://www.inside.com.tw/article/42404-dreamforce-2026-salesforce-aiforce-interface-revolution",
+      "summary": "Salesforce 年度大會 Dreamforce 2026 在舊金山登場，AIforce 是今年主題演講的核心發表，也代表 Salesforce 從 Agent 層跨入介面層。Salesforce 董事長暨執行長 Marc Benioff 表示，過去 3 年談的都是 Agent，今年則是第一次談到 Salesforce 上的即時介面；Anthropic 共同創辦人暨執行長 Dario Amodei 與 NVIDIA 創辦人暨執行長黃仁勳也先後應邀登台，就 AI 安全與發展步調提出兩種不同的看法。",
+      "published_raw": "2026-09-16T07:19:00+08:00",
+      "updated_at": "2026-09-15T23:19:00Z",
+      "updated_raw": "2026-09-16T07:19:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:949f5955b7a8344b4a8b7609a9ce989e655d2b8a4f784e5746cbec01054aae14",
+      "title": "Saving Jet Fuel",
+      "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T23:17:20Z",
+      "authors": [
+        "marklit"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49720164",
+      "summary": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html Comments URL: https://news.ycombinator.com/item?id=49720164 Points: 26 # Comments: 13",
+      "published_raw": "Tue, 15 Sep 2026 23:17:20 +0000",
+      "updated_at": "2026-09-15T23:17:20Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:17:20 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c015baf571012b72bd13c95e31eb1103f8e144ad80ea8b953d912a74bbe9708a",
+      "title": "黃仁勳論 AI 風險與未來：放慢發展腳步絕對是錯誤策略",
+      "url": "https://infosecu.technews.tw/2026/09/16/jensen-huang-speaks-at-all-in-summit-2026/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:14:44Z",
+      "authors": [
+        "陳 冠榮"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 末日論",
+        "Nvidia",
+        "nvidia",
+        "中國",
+        "科技政策",
+        "財經",
+        "資訊安全",
+        "開放模型",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1616918",
+      "summary": "NVIDIA 執行長黃仁勳上週末出席 All-In Summit 2026，圍繞 AI 相關議題與主持人深度對 […]",
+      "published_raw": "Tue, 15 Sep 2026 23:14:44 +0000",
+      "updated_at": "2026-09-15T23:14:44Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:14:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8e8d91eb5c7ef3e55eb38dd2343dc09fa824d44d27c625c7533d5ae610ee7474",
+      "title": "Palantir、Nvidia、Booz Allen 齊聲限制 Anthropic Fable 模型，憂 30 天資料留存危及商業機密",
+      "url": "https://www.inside.com.tw/article/42391-palantir-nvidia-booz-allen-restrict-anthropic-fable-model",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-15T23:11:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "Anthropic",
+        "Palantir",
+        "人工智慧",
+        "資料安全"
+      ],
+      "guid": "https://www.inside.com.tw/article/42391-palantir-nvidia-booz-allen-restrict-anthropic-fable-model",
+      "summary": "Palantir、Nvidia、Booz Allen Hamilton 三家企業因不滿 Anthropic Fable 5 的 30 天資料留存政策，相繼限制或禁止將 Fable 模型用於敏感業務，Anthropic 隨即宣布新的企業數據主權方案，允許客戶把使用紀錄存放在自有雲端環境。",
+      "published_raw": "2026-09-16T07:11:00+08:00",
+      "updated_at": "2026-09-15T23:11:00Z",
+      "updated_raw": "2026-09-16T07:11:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2a72d607a91d05fbd450a0131e2b8ab61134ae37c3c071b3b9a248fdf2e62108",
+      "title": "三星放話 CES 2027 亮相人型機器人，投資 19 兆韓圜龜尾基地曝光",
+      "url": "https://technews.tw/2026/09/16/samsung-aims-to-unveil-first-humanoid-robot-at-ces-2027/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:10:37Z",
+      "authors": [
+        "Unwire Pro"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "CES 2027",
+        "Rainbow Robotics",
+        "Samsung",
+        "Shallow-π",
+        "三星",
+        "人型機器人",
+        "機器人"
+      ],
+      "guid": "https://technews.tw/?p=1616877",
+      "summary": "三星已將人型機器人列入正式產品開發軌道，目標 2027 年 1 月美國拉斯維加斯 CES 消費電子展首度公開自 […]",
+      "published_raw": "Tue, 15 Sep 2026 23:10:37 +0000",
+      "updated_at": "2026-09-15T23:10:37Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:10:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:58bf654f085e223431ee07c5da83d32c179ba91d5eeab76c046f7770e58a16ce",
+      "title": "Salesforce：AI掀介面革命 企業價值在底層平台",
+      "url": "https://www.cna.com.tw/news/ait/202609160012.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-09-15T23:07:10Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-09-16/202609160012",
+      "summary": "（中央社記者張欣瑜舊金山15日專電）AI逐漸取代企業軟體介面，引發業者恐失去使用者入口掌控權的疑慮。Salesforce應用程式暨行銷部門總裁史托克斯談到相關問題時表示，Salesforce核心價值從來不在使用者介面，而是底層平台，對此變革反而感到非常興奮。",
+      "published_raw": "Wed, 16 Sep 2026 07:07:10 +0800",
+      "updated_at": "2026-09-15T23:07:10Z",
+      "updated_raw": "Wed, 16 Sep 2026 07:07:10 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e3b9138b095deafee3e50f64160f90d5080a0754e82c175d535c0f918ae34329",
+      "title": "SEMICON Taiwan 2026：矽光子引領 AI 算力解方",
+      "url": "https://technews.tw/2026/09/16/semicon-taiwan-2026-cpo-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-15T23:00:34Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "COUPE",
+        "CPO",
+        "CoWoS",
+        "SEMICON TAIWAN 2026",
+        "STCO",
+        "光傳輸",
+        "光學中介層",
+        "光引擎",
+        "半導體",
+        "台積電",
+        "技術分析",
+        "會員專區",
+        "矽光子"
+      ],
+      "guid": "https://technews.tw/?p=1615781",
+      "summary": "傳統架構下，各環節分工明確，但在共同封裝光學與系統技術協同最佳化（System-Technology Co-O […]",
+      "published_raw": "Tue, 15 Sep 2026 23:00:34 +0000",
+      "updated_at": "2026-09-15T23:00:34Z",
+      "updated_raw": "Tue, 15 Sep 2026 23:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0d4251142b5e06851de84eb28db1a1ff7538f00f00189dbbc4a44e4df29f7c62",
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T22:50:55Z",
+      "authors": [
+        "zdw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49719938",
+      "summary": "Article URL: https://nand2mario.github.io/posts/2026/zsst-voodoo/ Comments URL: https://news.ycombinator.com/item?id=49719938 Points: 15 # Comments: 2",
+      "published_raw": "Tue, 15 Sep 2026 22:50:55 +0000",
+      "updated_at": "2026-09-15T22:50:55Z",
+      "updated_raw": "Tue, 15 Sep 2026 22:50:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7fb68799a5845fa350480ceed1e10e93caabf5c956fff5def7bb522950b8d5fe",
+      "title": "AI發展太快？ 黃仁勳主張速度與安全可兼顧",
+      "url": "https://www.cna.com.tw/news/ait/202609160010.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-09-15T21:51:03Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-09-16/202609160010",
+      "summary": "（中央社記者張欣瑜舊金山15日專電）輝達執行長黃仁勳和Anthropic執行長阿莫戴今天擔任Salesforce年度大會主題演講嘉賓。對AI發展速度和監管立場不同的兩人前後現身，黃仁勳表示創新速度與產品安全並非只能擇一，阿莫戴主張業界建立共同標準。",
+      "published_raw": "Wed, 16 Sep 2026 05:51:03 +0800",
+      "updated_at": "2026-09-15T21:51:03Z",
+      "updated_raw": "Wed, 16 Sep 2026 05:51:03 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4b774e3b1e4dfa25ec48ac65b75afd9f6b09dc2b88a8ccc45c2bb7c0dcb1b7c4",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T21:07:47Z",
+      "authors": [
+        "summarity"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49718928",
+      "summary": "Article URL: https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html Comments URL: https://news.ycombinator.com/item?id=49718928 Points: 125 # Comments: 40",
+      "published_raw": "Tue, 15 Sep 2026 21:07:47 +0000",
+      "updated_at": "2026-09-15T21:07:47Z",
+      "updated_raw": "Tue, 15 Sep 2026 21:07:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6b0c4ba502133ffe8fb8aea0e0ad9268c24e9229577edd3a2e8bd92b5d481668",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T20:57:18Z",
+      "authors": [
+        "jzox"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49718822",
+      "summary": "Article URL: https://mathshistory.st-andrews.ac.uk/Biographies/Serre/ Comments URL: https://news.ycombinator.com/item?id=49718822 Points: 86 # Comments: 13",
+      "published_raw": "Tue, 15 Sep 2026 20:57:18 +0000",
+      "updated_at": "2026-09-15T20:57:18Z",
+      "updated_raw": "Tue, 15 Sep 2026 20:57:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3bd8000acb763f55e5e3a17dd21506f37f8df6e996bb135dd40633f09b9d9f87",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T19:30:03Z",
+      "authors": [
+        "ADevWithAnIdea"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49717638",
+      "summary": "Article URL: https://codyho.dev/blog/gpu-driver/ Comments URL: https://news.ycombinator.com/item?id=49717638 Points: 154 # Comments: 95",
+      "published_raw": "Tue, 15 Sep 2026 19:30:03 +0000",
+      "updated_at": "2026-09-15T19:30:03Z",
+      "updated_raw": "Tue, 15 Sep 2026 19:30:03 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9edfc7de54f2b8e74268585895253a8a623008c6e51403c2d03eeca22d495f4e",
+      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "url": "https://github.com/GraafHenk/numberwang",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T19:27:35Z",
+      "authors": [
+        "Liogra123"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49717605",
+      "summary": "Article URL: https://github.com/GraafHenk/numberwang Comments URL: https://news.ycombinator.com/item?id=49717605 Points: 105 # Comments: 42",
+      "published_raw": "Tue, 15 Sep 2026 19:27:35 +0000",
+      "updated_at": "2026-09-15T19:27:35Z",
+      "updated_raw": "Tue, 15 Sep 2026 19:27:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c0037d8f75aa9218402dcc89da2149c81ca9e2f46927fa14b21cf048b2774880",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T19:25:03Z",
+      "authors": [
+        "albelfio"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49717558",
+      "summary": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev Comments URL: https://news.ycombinator.com/item?id=49717558 Points: 746 # Comments: 256",
+      "published_raw": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "updated_at": "2026-09-15T19:25:03Z",
+      "updated_raw": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:927a862ffb788387eb588e86fa9112f873828bea844095a41840547dd4902b0f",
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T19:07:38Z",
+      "authors": [
+        "natolambert"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49717280",
+      "summary": "https://arxiv.org/abs/2609.13443 Comments URL: https://news.ycombinator.com/item?id=49717280 Points: 36 # Comments: 0",
+      "published_raw": "Tue, 15 Sep 2026 19:07:38 +0000",
+      "updated_at": "2026-09-15T19:07:38Z",
+      "updated_raw": "Tue, 15 Sep 2026 19:07:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a1dce83aee899e20443d83b987f7aff55cea55df23a499ee80d299bc7ec215a2",
+      "title": "Chopping up books when they're physically too big",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T18:45:31Z",
+      "authors": [
+        "matt_kirkland"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49716953",
+      "summary": "Article URL: https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html Comments URL: https://news.ycombinator.com/item?id=49716953 Points: 119 # Comments: 116",
+      "published_raw": "Tue, 15 Sep 2026 18:45:31 +0000",
+      "updated_at": "2026-09-15T18:45:31Z",
+      "updated_raw": "Tue, 15 Sep 2026 18:45:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e78f6a1954ae45af271e6b826f507c1b5ce8ef81f07a38817377fe6217ed8ef2",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T18:11:24Z",
+      "authors": [
+        "bearsyankees"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49716476",
+      "summary": "Article URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover Comments URL: https://news.ycombinator.com/item?id=49716476 Points: 213 # Comments: 113",
+      "published_raw": "Tue, 15 Sep 2026 18:11:24 +0000",
+      "updated_at": "2026-09-15T18:11:24Z",
+      "updated_raw": "Tue, 15 Sep 2026 18:11:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:64397183625ed0cef0a0eff7c6e9e5198452fb85aac23738820e1398ebd9a7d4",
+      "title": "An Update on Wayback Machine Access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T17:52:18Z",
+      "authors": [
+        "ChrisArchitect"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49716176",
+      "summary": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/ Comments URL: https://news.ycombinator.com/item?id=49716176 Points: 381 # Comments: 209",
+      "published_raw": "Tue, 15 Sep 2026 17:52:18 +0000",
+      "updated_at": "2026-09-15T17:52:18Z",
+      "updated_raw": "Tue, 15 Sep 2026 17:52:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2b5fb2af47d9af22f23c24f3a8832c7b8659f81d49225693143f25e20ceff337",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T17:38:18Z",
+      "authors": [
+        "leumon"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49715947",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/ Comments URL: https://news.ycombinator.com/item?id=49715947 Points: 298 # Comments: 189",
+      "published_raw": "Tue, 15 Sep 2026 17:38:18 +0000",
+      "updated_at": "2026-09-15T17:38:18Z",
+      "updated_raw": "Tue, 15 Sep 2026 17:38:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:02de23a40a738e8b9f8cb843f0af76b4eec05ae0f7b814bbe3085d53f96ebd9f",
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T17:37:12Z",
+      "authors": [
+        "jaykru"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49715927",
+      "summary": "Article URL: https://dank.systems/posts/2026-09-15-ai-bear.html Comments URL: https://news.ycombinator.com/item?id=49715927 Points: 143 # Comments: 107",
+      "published_raw": "Tue, 15 Sep 2026 17:37:12 +0000",
+      "updated_at": "2026-09-15T17:37:12Z",
+      "updated_raw": "Tue, 15 Sep 2026 17:37:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ebaf4d177fe570c95c7cc367fd983703b8c3bb5c4805925b066da7a94dadd955",
+      "title": "GEFS on OpenBSD: A Early Preview",
+      "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T17:12:19Z",
+      "authors": [
+        "sippingabonedry"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49715590",
+      "summary": "Article URL: https://marc.info/?l=openbsd-tech&m=178948744271633&w=2 Comments URL: https://news.ycombinator.com/item?id=49715590 Points: 108 # Comments: 61",
+      "published_raw": "Tue, 15 Sep 2026 17:12:19 +0000",
+      "updated_at": "2026-09-15T17:12:19Z",
+      "updated_raw": "Tue, 15 Sep 2026 17:12:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cc6887088bf03c522244da3472788e25358a6d1b213c5eff9974afca8e129df9",
+      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-15T17:00:31Z",
+      "authors": [
+        "grmmph"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49715446",
+      "summary": "Article URL: https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd Comments URL: https://news.ycombinator.com/item?id=49715446 Points: 0 # Comments: 0",
+      "published_raw": "Tue, 15 Sep 2026 17:00:31 +0000",
+      "updated_at": "2026-09-15T17:00:31Z",
+      "updated_raw": "Tue, 15 Sep 2026 17:00:31 +0000",
+      "language": "en"
+    }
+  ]
+}
