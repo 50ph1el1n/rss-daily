@@ -1,0 +1,1184 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-17",
+  "timezone": "Asia/Taipei",
+  "article_count": 46,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a052ee78c9b8d3b8eb37c6cbd0632889f12766ed0ca8aaf68585592c98e7192c",
+      "title": "英國 FCA 加密授權指引出爐！9 月 30 日開受理，穩定幣、交易平台、質押都管",
+      "url": "https://www.blocktempo.com/uk-fca-crypto-authorization-guidance-stablecoin-trading-platform-staking-september/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-17T01:32:43Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "FCA",
+        "加密法規",
+        "合規",
+        "法規",
+        "英國"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534659",
+      "summary": "英國金融行為監管局（FCA）發布最終指引，明確定義哪些加密活動需要授權，涵蓋合格穩定幣發行、加密交易平台營運、 […] 〈 英國 FCA 加密授權指引出爐！9 月 30 日開受理，穩定幣、交易平台、質押都管 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 17 Sep 2026 01:32:43 +0000",
+      "updated_at": "2026-09-17T01:32:43Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:32:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:998eecbf53459843afd21d52f9688aad0437d72bf94bae6029769523063fb850",
+      "title": "彈性用電解決電網問題，輝達、Google 推 AI 能源管理聯盟",
+      "url": "https://technews.tw/2026/09/17/nvidia-google-ai-energy-management-alliance-flexible-power-grid-solutions/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T01:32:36Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AEMA",
+        "Google",
+        "Nvidia",
+        "彈性用電",
+        "能源科技",
+        "電網"
+      ],
+      "guid": "https://technews.tw/?p=1617628",
+      "summary": "電網併網時程成為擴建瓶頸。輝達、Google 與 Emerald AI 於 16 日宣布成立「AI 能源管理聯 […]",
+      "published_raw": "Thu, 17 Sep 2026 01:32:36 +0000",
+      "updated_at": "2026-09-17T01:32:36Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:32:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:37b1128270ad38379cfe881051fb73370604ec61bab8c4e98109bf41d08dbe5c",
+      "title": "比特幣儲備法案通過眾院委員會！美國將凍結 20 年沒收 BTC 不得賣出",
+      "url": "https://www.blocktempo.com/us-bitcoin-reserve-arma-bill-passes-house-committee-20-year-lock/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-17T01:31:19Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "ARMA 法案",
+        "戰略儲備",
+        "比特幣",
+        "美國加密法規"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534668",
+      "summary": "美國眾院金融服務委員會以 28-21 票透過 ARMA 法案，擬將川普比特幣儲備政策法制化，政府沒收的比特幣須 […] 〈 比特幣儲備法案通過眾院委員會！美國將凍結 20 年沒收 BTC 不得賣出 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 17 Sep 2026 01:31:19 +0000",
+      "updated_at": "2026-09-17T01:31:19Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:31:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c70023f91c6f7345c6a1e375d5618f973c8771542a13a4db59b251246bdfc06c",
+      "title": "猛健樂日本售價便宜一半，韓國旅客瘋搶「壽司健樂」",
+      "url": "https://technews.tw/2026/09/17/korean-patients-flock-to-japan-for-cheaper-mounjaro/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T01:30:41Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "國際觀察",
+        "壽司健樂",
+        "日圓",
+        "日本",
+        "減重",
+        "猛健樂",
+        "生物科技",
+        "醫療科技",
+        "韓國"
+      ],
+      "guid": "https://technews.tw/?p=1617613",
+      "summary": "用於減重的糖尿病治療藥物「猛健樂」因在日本售價據稱不到韓國一半，加上日圓貶值，許多韓國民眾認為「就算加上旅費還 […]",
+      "published_raw": "Thu, 17 Sep 2026 01:30:41 +0000",
+      "updated_at": "2026-09-17T01:30:41Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:30:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:870081dc6bc3519680ca96cb3f2ba0d7117ed029606f62b78b0e45264f4941cd",
+      "title": "川普降息夢碎！聯準會回升一碼壓制通膨，點陣圖曝今年還會再升息",
+      "url": "https://www.blocktempo.com/fed-rate-hike-trump-hopes-dashed-dot-plot-hawkish-2026/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-17T01:30:13Z",
+      "authors": [
+        "PANews"
+      ],
+      "categories": [
+        "利率政策",
+        "美國",
+        "美聯儲",
+        "聯準會",
+        "點陣圖"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534665",
+      "summary": "川普降息夢碎！聯準會三年來首升息 25 個基點，點陣圖顯示 16 人預判至少再升息一次，能源價格衝擊與 AI […] 〈 川普降息夢碎！聯準會回升一碼壓制通膨，點陣圖曝今年還會再升息 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 17 Sep 2026 01:30:13 +0000",
+      "updated_at": "2026-09-17T01:30:13Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:30:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:db43e9914e6baa1bfca7f0ed5fa3df6c780f6c53d143b9cbc4087d9457048277",
+      "title": "Revolut 駭客改勒索 Monero！300 萬鎂倒數 24 小時，否則賣資料給黑市",
+      "url": "https://www.blocktempo.com/revolut-hackers-demand-3-million-monero-ransom-threaten-sell-data/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-17T01:26:32Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Monero",
+        "Revolut",
+        "個資外洩",
+        "勒索軟體",
+        "犯罪",
+        "資安"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534656",
+      "summary": "Revolut 駭客升級手段，索討 6,000 枚 Monero（約 300 萬美元）作為贖金，倒數 24 小 […] 〈 Revolut 駭客改勒索 Monero！300 萬鎂倒數 24 小時，否則賣資料給黑市 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 17 Sep 2026 01:26:32 +0000",
+      "updated_at": "2026-09-17T01:26:32Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:26:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ca9f952764b106ecc99bbfe559305c1834e56c0a7cf175929208fae9aa2708b0",
+      "title": "比特幣守穩7.65萬鎂、以太坊站回2428，Fed升息市場靜待下一步",
+      "url": "https://www.blocktempo.com/morning-roundup-btc-76k-eth-24k-fed-hike-sep-17/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-17T01:24:59Z",
+      "authors": [
+        "flip"
+      ],
+      "categories": [
+        "BTC",
+        "ETH",
+        "以太坊",
+        "市場分析",
+        "比特幣",
+        "聯準會"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534685",
+      "summary": "Fed 9月升息1碼落地，加密市場今（17）日早盤溫和反彈，比特幣守穩7.63萬美元、以太坊回站2,418美元 […] 〈 比特幣守穩7.65萬鎂、以太坊站回2428，Fed升息市場靜待下一步 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 17 Sep 2026 01:24:59 +0000",
+      "updated_at": "2026-09-17T01:24:59Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:24:59 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:231c4538795aefcb69573ab9f22f16ebe562bd318ee989021dddef54098b0da9",
+      "title": "Bitget Wallet 率先集成 Arc 主網，擴展穩定幣鏈上金融基礎設施",
+      "url": "https://www.blocktempo.com/bitget-wallet-arc-mainnet-integration-stablecoin-payments/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-17T01:24:00Z",
+      "authors": [
+        "廣編頻道"
+      ],
+      "categories": [
+        "Arc主網",
+        "Bitget Wallet",
+        "USDC",
+        "穩定幣支付",
+        "跨鏈橋接",
+        "錢包"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534690",
+      "summary": "Bitget Wallet在Arc主網上線首日即完成整合，向1億使用者開放穩定幣鏈上金融基礎設施。使用者可在錢 […] 〈 Bitget Wallet 率先集成 Arc 主網，擴展穩定幣鏈上金融基礎設施 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 17 Sep 2026 01:24:00 +0000",
+      "updated_at": "2026-09-17T01:24:00Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:24:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d8a54341d07477a68e25de1006030850bcd178922bb03af490cf73953539ed1a",
+      "title": "人工智慧先驅班吉歐示警 AI 失控風險，籲比照核武管制",
+      "url": "https://technews.tw/2026/09/17/were-losing-control-ai-pioneer-yoshua-bengio-tells-afp/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T01:20:57Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Yoshua Bengio",
+        "國際觀察",
+        "核武"
+      ],
+      "guid": "https://technews.tw/?p=1617605",
+      "summary": "人工智慧（AI）研究先驅、加拿大電腦科學家約書亞·班吉歐（Yoshua Bengio）告訴法新社，人類正在失去 […]",
+      "published_raw": "Thu, 17 Sep 2026 01:20:57 +0000",
+      "updated_at": "2026-09-17T01:20:57Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:20:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6e7c5ecf67d48b3c2fdf3d2223fcdfbaedb86ff15fdfc2c6da3a63b4cbc67117",
+      "title": "Fed 未啟長期緊縮循環？華許緊盯通膨、稱仍寬鬆",
+      "url": "https://finance.technews.tw/2026/09/17/fed-not-starting-long-term-tightening-cycle-warsh-eyes-inflation-calls-policy-still-accommodative/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T01:15:31Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Fed",
+        "Kevin Warsh",
+        "升息",
+        "國際金融",
+        "物價",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1617599",
+      "summary": "聯準會（Fed）一如市場預期升息一碼，主席華許（Kevin Warsh）認為，通膨回落速度不足，且目前整體金融 […]",
+      "published_raw": "Thu, 17 Sep 2026 01:15:31 +0000",
+      "updated_at": "2026-09-17T01:15:31Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:15:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:30feed154a10ccef6442c6cc398f09665750eb48a77ac9c7ce64f106999277f5",
+      "title": "蘋果續強？分析師看好新款 iPhone 需求超預期",
+      "url": "https://technews.tw/2026/09/17/iphone-18-pro-demand-might-be-stronger-than-expected/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T01:10:50Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Apple",
+        "John Ternus",
+        "iPhone",
+        "iPhone 18 Pro",
+        "iPhone Duo",
+        "手機",
+        "換機週期",
+        "智慧手機",
+        "蘋果"
+      ],
+      "guid": "https://technews.tw/?p=1617588",
+      "summary": "分析人士看好，蘋果（Apple）新款高階機種的需求較市場預期強勁，有望助蘋果股價延續強勢表現，AI 也帶動換機 […]",
+      "published_raw": "Thu, 17 Sep 2026 01:10:50 +0000",
+      "updated_at": "2026-09-17T01:10:50Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:10:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7016a2d5f43dfa433432d2aede727243bf29cd6ba385c0958b1922568fb1171e",
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-17T01:02:13Z",
+      "authors": [
+        "jbegley"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49735180",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html Comments URL: https://news.ycombinator.com/item?id=49735180 Points: 8 # Comments: 4",
+      "published_raw": "Thu, 17 Sep 2026 01:02:13 +0000",
+      "updated_at": "2026-09-17T01:02:13Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:02:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:deb7b91e9c067918d1b7564454e0e08522d7753ade54ff6bf4ad34e0719d8772",
+      "title": "AI 晶片愈做愈大，工程師卻不夠用了！Cadence 把 Agent 帶進 EDA 核心流程",
+      "url": "https://technews.tw/2026/09/17/ai-chips-grow-larger-engineers-scarce-cadence-integrates-agents-core-eda-flow/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T01:00:40Z",
+      "authors": [
+        "TechNews"
+      ],
+      "categories": [
+        "AI agent",
+        "AI 人工智慧",
+        "Cadence",
+        "EDA",
+        "IC 設計",
+        "先進封裝",
+        "晶片設計"
+      ],
+      "guid": "https://technews.tw/?p=1617482",
+      "summary": "2026 年 8 月 27 日 CadenceLIVE Taiwan 舉辦這一天，天氣非常好，但實際上在太平洋 […]",
+      "published_raw": "Thu, 17 Sep 2026 01:00:40 +0000",
+      "updated_at": "2026-09-17T01:00:40Z",
+      "updated_raw": "Thu, 17 Sep 2026 01:00:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:60d4cfac83a9dc09c872fda5547ec263a957d29445d20d893c43d352a7352e50",
+      "title": "傳亞航財務困境，馬來西亞與競爭業者磋商航線接手預案",
+      "url": "https://finance.technews.tw/2026/09/17/malaysia-talks-to-rival-airlines-as-it-monitors-airasias-financial-health/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:50:52Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "亞洲航空",
+        "交通運輸",
+        "公司治理",
+        "航空燃油",
+        "財經",
+        "馬來西亞"
+      ],
+      "guid": "https://technews.tw/?p=1617584",
+      "summary": "兩位知情人士透露，馬來西亞政府已經詢問馬來西亞航空和峇迪航空是否能夠承接亞洲航空公司在國內市場的市占率，形容這 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:50:52 +0000",
+      "updated_at": "2026-09-17T00:50:52Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:50:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d24a9628b740b8492a4638d415852fc5055741a54282013f2fabc98e37b2e53",
+      "title": "號稱人類製造的最後一個 AI 要來了，RSI 是什麼？",
+      "url": "https://infosecu.technews.tw/2026/09/17/what-is-recursive-self-improvement/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:40:06Z",
+      "authors": [
+        "愛范兒"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 末日論",
+        "AI 監管",
+        "Anthropic",
+        "OpenAI",
+        "RSI",
+        "資訊安全",
+        "遞迴式自我改進"
+      ],
+      "guid": "https://technews.tw/?p=1617041",
+      "summary": "要論造詞和包裝概念，AI 業界要是自認第二，恐怕沒人敢稱第一。前陣子 OpenAI 總裁葛雷格·布羅克曼（Gr […]",
+      "published_raw": "Thu, 17 Sep 2026 00:40:06 +0000",
+      "updated_at": "2026-09-17T00:40:06Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:40:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8b286d8566b074083d2550ec3d22b858f03b0d31911c6d85c3bc1cf8c75ac7c4",
+      "title": "聯準會升息 1 碼，川普籲利率降至 1% 以下",
+      "url": "https://finance.technews.tw/2026/09/17/fed-raises-interest-rates-for-first-time-since-2023/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:35:12Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Fed",
+        "Kevin Warsh",
+        "升息",
+        "國際觀察",
+        "國際金融",
+        "川普",
+        "財經",
+        "通膨"
+      ],
+      "guid": "https://technews.tw/?p=1617595",
+      "summary": "美國聯邦準備理事會（Fed）今天召開利率決策會議，宣布升息 1 碼（0.25 個百分點），為 2023 年以來 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:35:12 +0000",
+      "updated_at": "2026-09-17T00:35:12Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:35:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cbf390841d17bf3361e2d430fb9f4a6c19274a30a6332b9e54f4ca2d03c98ec1",
+      "title": "Spotify 前高層創辦 A Vinyl Bar in Shibuya，不必提示詞也能創作音樂",
+      "url": "https://technews.tw/2026/09/17/a-vinyl-bar-in-shibuya-is-a-startup-from-a-former-spotify-leader-for-making-music-apps/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:30:20Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "A Vinyl Bar in Shibuya",
+        "AI 人工智慧",
+        "AI 混音",
+        "AI 音樂",
+        "提示詞",
+        "數位內容",
+        "數位音樂"
+      ],
+      "guid": "https://technews.tw/?p=1616535",
+      "summary": "生成式 AI 帶動「用提示詞做音樂」成為潮流後，新創公司 A Vinyl Bar in Shibuya 選擇走 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:30:20 +0000",
+      "updated_at": "2026-09-17T00:30:20Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:30:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2d340356b6e763b88ab8e602c73378b72c81244bba2e2de3c9c281fe62718290",
+      "title": "美媒：蘋果計劃推出 AI 伺服器，考慮採輝達 NVLink 技術",
+      "url": "https://technews.tw/2026/09/17/apple-considers-return-to-server-market-has-talked-with-nvidia-to-use-network-tech/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:25:24Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 伺服器",
+        "Apple",
+        "M8 Ultra",
+        "Nvidia",
+        "伺服器",
+        "蘋果",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1617592",
+      "summary": "美國媒體 The Information 報導，蘋果公司計劃推出人工智慧（AI）推論伺服器來重返伺服器市場，並 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:25:24 +0000",
+      "updated_at": "2026-09-17T00:25:24Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:25:24 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6620789c4d7d39f3c98a55df6a8cb97b4c90c3f0b46021f2d8f437e0e5e67392",
+      "title": "暖化水溫太高受不了，韓國軟珊瑚趴平了",
+      "url": "https://technews.tw/2026/09/17/slumping-south-korean-corals-worry-divers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:20:01Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "海水",
+        "珊瑚",
+        "珊瑚白化",
+        "環境科學",
+        "生態保育",
+        "自然科學",
+        "韓國"
+      ],
+      "guid": "https://technews.tw/?p=1616200",
+      "summary": "造礁的石珊瑚會以碳酸鈣建構堅硬的骨架，隨著珊瑚不斷成長，建造出越來越大的珊瑚礁，但也有軟珊瑚不會產生完整骨架， […]",
+      "published_raw": "Thu, 17 Sep 2026 00:20:01 +0000",
+      "updated_at": "2026-09-17T00:20:01Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:20:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b3afb4d787245ae68ba42a6ea55a8ec67a098c1dc1c01062e6160734267ce9d5",
+      "title": "安葆台南二廠動土，儲能電池櫃年產能上看 3,000 櫃",
+      "url": "https://technews.tw/2026/09/17/anbao-tainan-second-plant-groundbreaking-energy-storage-battery-cabinets-annual-capacity-3000-units/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:15:28Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "UPS",
+        "儲能電池櫃",
+        "安葆",
+        "材料、設備",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1617563",
+      "summary": "因應半導體擴廠與 AI 資料中心電力需求持續成長，安葆昨（16）日舉行台南永康二廠動土典禮，新廠基地約 1,0 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:15:28 +0000",
+      "updated_at": "2026-09-17T00:15:28Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:15:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:15c01520d089e6461f4ecf0648c05295d9992df13bb89fe2323a9346563b6b6a",
+      "title": "范德賴恩：歐盟無法再放任對中國貿易逆差，不惜動用一切工具",
+      "url": "https://technews.tw/2026/09/17/eu-will-use-all-tools-to-cut-china-trade-deficit/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:10:32Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國",
+        "國際觀察",
+        "國際貿易",
+        "歐盟",
+        "貿易逆差"
+      ],
+      "guid": "https://technews.tw/?p=1617580",
+      "summary": "歐洲聯盟執行委員會（European Commission）主席范德賴恩 16 日告訴歐洲議會，歐盟（EU）與 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:10:32 +0000",
+      "updated_at": "2026-09-17T00:10:32Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:10:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:383cfaf4e6edc4c35f054f457779f2867ab99c5b322b414c10034cca8af2b1a1",
+      "title": "WikiHow 控告 OpenAI：AI 拿網路文章訓練模型，究竟算不算著作權侵權？",
+      "url": "https://finance.technews.tw/2026/09/17/wikihow-sues-openai-for-copyright-infringement-over-ai-training/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-17T00:00:36Z",
+      "authors": [
+        "JA"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Big Data",
+        "OpenAI",
+        "WikiHow",
+        "合理使用",
+        "數位內容",
+        "科技政策",
+        "著作權",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1616703",
+      "summary": "知名教學網站 WikiHow 向美國紐約曼哈頓聯邦地方法院提起訴訟，控告 AI 巨頭 OpenAI 未經授權強 […]",
+      "published_raw": "Thu, 17 Sep 2026 00:00:36 +0000",
+      "updated_at": "2026-09-17T00:00:36Z",
+      "updated_raw": "Thu, 17 Sep 2026 00:00:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f2fc53df20bed7a80f7b7938fbde914b970de42ef84e89fc7da6e60893391081",
+      "title": "淺談蘋果 iPhone Duo：賣的不是摺疊",
+      "url": "https://technews.tw/2026/09/17/apple-iphone-duo-selling-point-not-just-foldability/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T23:50:29Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "Apple",
+        "app",
+        "iOS",
+        "iPhone",
+        "iPhone Duo",
+        "摺疊手機",
+        "蘋果",
+        "面板"
+      ],
+      "guid": "https://technews.tw/?p=1616295",
+      "summary": "如果只看硬體，iPhone Duo 其實是相當乏善可陳的摺疊手機。蘋果晚了 Android 陣營多年才踏進摺疊 […]",
+      "published_raw": "Wed, 16 Sep 2026 23:50:29 +0000",
+      "updated_at": "2026-09-16T23:50:29Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:50:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ed962d857b6ee53df1d093ee80abd34f0841e9c62d21f9197509955b7a573eeb",
+      "title": "矽盛世與WAICO爭霸 東協掀主權AI風潮靈活戰略拒站隊",
+      "url": "https://www.cna.com.tw/news/aopl/202609170020.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-09-16T23:40:30Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-09-17/202609170020",
+      "summary": "（中央社記者曾婷瑄河內17日專電）隨美中掀起矽盛世與WAICO的AI陣營對抗，東協各國正透過靈活雙軌戰略在夾縫中求生，如越南加入中國主導組織，同時引進美企大廠對沖。越南今年頒布東協首部獨立AI法案、研發本土語言模型，證明了東南亞邁向科技多極化時代。",
+      "published_raw": "Thu, 17 Sep 2026 07:40:30 +0800",
+      "updated_at": "2026-09-16T23:40:30Z",
+      "updated_raw": "Thu, 17 Sep 2026 07:40:30 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c755caf61dd7aca33fa55741d7cf9aeef21597430e3017ec623b9bf73f292618",
+      "title": "AI 熱潮催生「內容創作者型」老闆，一文看懂新創圈的 LARP 假象",
+      "url": "https://technews.tw/2026/09/17/why-everyone-in-tech-is-suddenly-talking-about-larping/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T23:40:22Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "LARP",
+        "創業",
+        "國際觀察",
+        "新創",
+        "矽谷",
+        "社群媒體"
+      ],
+      "guid": "https://technews.tw/?p=1616033",
+      "summary": "近期在科技與創業社群中，「LARP」成為熱門關鍵字。這個原本來自「live action role play」 […]",
+      "published_raw": "Wed, 16 Sep 2026 23:40:22 +0000",
+      "updated_at": "2026-09-16T23:40:22Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:40:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1762d56892401fb77b54956f3964714b79d70b9e3a5ebad5ce92cd091607211d",
+      "title": "長期使用褪黑激素安全嗎？新研究發現心臟健康值得留意",
+      "url": "https://technews.tw/2026/09/17/long-term-melatonin-use-linked-to-90-percent-higher-heart-failure-risk/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T23:30:54Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "大腦",
+        "心臟",
+        "心臟衰竭",
+        "生物科技",
+        "睡眠",
+        "褪黑激素",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1611179",
+      "summary": "褪黑激素（melatonin）是許多人熟悉的助眠補充品。睡不著、調整時差時吃一顆，已是不少人生活的一部分。不過 […]",
+      "published_raw": "Wed, 16 Sep 2026 23:30:54 +0000",
+      "updated_at": "2026-09-16T23:30:54Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:30:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5e32fdad4986dbe1466f375354b29daa74dc6662881a82e9d4c85982788f553d",
+      "title": "OpenAI 以逾 3 億美元收購 Glass Imaging，為 Jony Ive AI 裝置補強視覺能力",
+      "url": "https://www.inside.com.tw/article/42408-openai-glass-imaging-camera-acquisition-2026",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-16T23:30:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "AI 硬體",
+        "OpenAI",
+        "人工智慧",
+        "相機"
+      ],
+      "guid": "https://www.inside.com.tw/article/42408-openai-glass-imaging-camera-acquisition-2026",
+      "summary": "OpenAI 以超過 3 億美元收購由前蘋果工程師創立的 Glass Imaging，加速布局搭載視覺感知能力的消費性 AI 裝置，此舉與 Jony Ive 的硬體開發計畫關係密切。",
+      "published_raw": "2026-09-17T07:30:00+08:00",
+      "updated_at": "2026-09-16T23:30:00Z",
+      "updated_raw": "2026-09-17T07:30:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9c789f6517338cc458308098657fd94b96552c00ff3f349416ce7a74e57b4714",
+      "title": "AI 出事別只查技術漏洞：真正的風險起點，藏在更早的人類決策裡",
+      "url": "https://finance.technews.tw/2026/09/17/every-ai-incident-has-two-timelines-we-default-to-one/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T23:20:11Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 資安",
+        "AI 越獄",
+        "企業決策",
+        "公司治理",
+        "管理規則",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1615490",
+      "summary": "科技委員會成員、Mimecast 全球 Field CISO Beth Miller 10 日在《富比士》專欄 […]",
+      "published_raw": "Wed, 16 Sep 2026 23:20:11 +0000",
+      "updated_at": "2026-09-16T23:20:11Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:20:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0e74038d9a9217822f8394824480fb694b6eb1f48874de292046be22197e0b9c",
+      "title": "每天接收巨量訊息大腦卻沒當機，「記憶守門員」決定你睡醒後還記得什麼",
+      "url": "https://technews.tw/2026/09/17/tagging-memories-while-sleeping/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T23:10:56Z",
+      "authors": [
+        "Peggy Tseng"
+      ],
+      "categories": [
+        "Theta 波",
+        "大腦",
+        "情緒",
+        "標籤",
+        "標記",
+        "生物科技",
+        "睡眠",
+        "科技生活",
+        "精神健康",
+        "記憶",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1612083",
+      "summary": "你有沒有想過，為什麼有些事情我們過目不忘，有些卻轉頭就忘？根據發表在《PLOS Biology》的最新研究，大 […]",
+      "published_raw": "Wed, 16 Sep 2026 23:10:56 +0000",
+      "updated_at": "2026-09-16T23:10:56Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:10:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9b0b922055fca99a52008d3babd008867c609b0a953d5f0c65febecb80b60dee",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T23:06:39Z",
+      "authors": [
+        "etoxin"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49734264",
+      "summary": "Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 57 # Comments: 15",
+      "published_raw": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "updated_at": "2026-09-16T23:06:39Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:06:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d428b546622d95445f3a624b29bc07fda7fc4a3804e53e4072e3e470e4fb4ca",
+      "title": "新能源車鎳資源博弈白熱化與台灣企業的南進策略再定位",
+      "url": "https://technews.tw/2026/09/17/intensifying-competition-nickel-resources-new-energy-vehicles-taiwan-companies-southbound-strategy-repositioning/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-16T23:00:06Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "中國",
+        "印尼",
+        "台灣",
+        "技術分析",
+        "會員專區",
+        "材料",
+        "汽車科技",
+        "磷酸鐵鋰電池",
+        "鎳",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1615782",
+      "summary": "磷酸鐵鋰電池的快速崛起，固然稀釋三元體系的主導地位，但鎳在三元動力電池市場中仍是不可或缺的角色，意味「去鎳化」 […]",
+      "published_raw": "Wed, 16 Sep 2026 23:00:06 +0000",
+      "updated_at": "2026-09-16T23:00:06Z",
+      "updated_raw": "Wed, 16 Sep 2026 23:00:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:69b91ebdbd96384de1750f4cde807447007c76c9504fc3d2610f5b595574ab0a",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T22:56:48Z",
+      "authors": [
+        "doener"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49734171",
+      "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html Comments URL: https://news.ycombinator.com/item?id=49734171 Points: 117 # Comments: 70",
+      "published_raw": "Wed, 16 Sep 2026 22:56:48 +0000",
+      "updated_at": "2026-09-16T22:56:48Z",
+      "updated_raw": "Wed, 16 Sep 2026 22:56:48 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:40de2b29a8fb46ab755e325e9cf6d6b8b4b467dd82c0b2c0fc0966c3ee5e2064",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T22:10:13Z",
+      "authors": [
+        "matt_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49733726",
+      "summary": "Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item?id=49733726 Points: 28 # Comments: 3",
+      "published_raw": "Wed, 16 Sep 2026 22:10:13 +0000",
+      "updated_at": "2026-09-16T22:10:13Z",
+      "updated_raw": "Wed, 16 Sep 2026 22:10:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ae5d9660af8d60b0e51bf44a1ee0ecd28b91ecf4348eaefbf2d82698254c8623",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T20:59:24Z",
+      "authors": [
+        "matt_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49732931",
+      "summary": "Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 137 # Comments: 16",
+      "published_raw": "Wed, 16 Sep 2026 20:59:24 +0000",
+      "updated_at": "2026-09-16T20:59:24Z",
+      "updated_raw": "Wed, 16 Sep 2026 20:59:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6a2e3f9fa7d4e10d8780e36c55c03d172b157427b1fd13186d66b30fea8a1373",
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T20:27:16Z",
+      "authors": [
+        "afilipovski"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49732513",
+      "summary": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 72 # Comments: 27",
+      "published_raw": "Wed, 16 Sep 2026 20:27:16 +0000",
+      "updated_at": "2026-09-16T20:27:16Z",
+      "updated_raw": "Wed, 16 Sep 2026 20:27:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0adc35faca69992b31114d018de9d52fad10eb1656e1769f78e6907f0fd8074c",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T20:09:18Z",
+      "authors": [
+        "krackers"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49732270",
+      "summary": "Article URL: https://mimo.xiaomi.com/rl/ Comments URL: https://news.ycombinator.com/item?id=49732270 Points: 245 # Comments: 61",
+      "published_raw": "Wed, 16 Sep 2026 20:09:18 +0000",
+      "updated_at": "2026-09-16T20:09:18Z",
+      "updated_raw": "Wed, 16 Sep 2026 20:09:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:56c018a6b61cca0d5c716531f527008d8e980e892a1e7b20ef7ce7502fd6e2e4",
+      "title": "Why Does the Universe Expand?",
+      "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T19:56:38Z",
+      "authors": [
+        "the__alchemist"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49732087",
+      "summary": "Article URL: https://cosmicave.org/2026/09/15/why-does-the-universe-expand/ Comments URL: https://news.ycombinator.com/item?id=49732087 Points: 22 # Comments: 10",
+      "published_raw": "Wed, 16 Sep 2026 19:56:38 +0000",
+      "updated_at": "2026-09-16T19:56:38Z",
+      "updated_raw": "Wed, 16 Sep 2026 19:56:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:baa396b948afc6235a58c4b054ce61a414678c649d8b3bf32156832b998655ce",
+      "title": "Circle 新公鏈 Arc 主網上線！原生 USDC 支付 Gas，貝萊德、Visa 助陣節點",
+      "url": "https://www.blocktempo.com/circle-launches-arc-mainnet-usdc-gas/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-16T19:21:06Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "ARC",
+        "CIRCLE",
+        "Layer1",
+        "POS",
+        "USDC",
+        "公鏈",
+        "即時新聞",
+        "穩定幣",
+        "貝萊德"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534649",
+      "summary": "穩定幣 USDC 發行商 Circle 於 9 月 16 日宣布，其專為網路經濟打造的 EVM 兼容 Laye […] 〈 Circle 新公鏈 Arc 主網上線！原生 USDC 支付 Gas，貝萊德、Visa 助陣節點 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 16 Sep 2026 19:21:06 +0000",
+      "updated_at": "2026-09-16T19:21:06Z",
+      "updated_raw": "Wed, 16 Sep 2026 19:21:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f6aa2b77273d4dfc211cae97e328eea7a83abb4394ba8500c057adc30c5864d4",
+      "title": "How good are frontier models at physics?",
+      "url": "https://arxiv.org/abs/2609.13009",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T19:19:08Z",
+      "authors": [
+        "qt31415926"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49731620",
+      "summary": "Article URL: https://arxiv.org/abs/2609.13009 Comments URL: https://news.ycombinator.com/item?id=49731620 Points: 80 # Comments: 38",
+      "published_raw": "Wed, 16 Sep 2026 19:19:08 +0000",
+      "updated_at": "2026-09-16T19:19:08Z",
+      "updated_raw": "Wed, 16 Sep 2026 19:19:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fff6fa45880ba896f18d3733493d31e68a3afbf377256d350330fd9b0620d22f",
+      "title": "Fed 主席華許：通膨實在太高！聯準會升息 1 碼對抗通膨",
+      "url": "https://www.blocktempo.com/fed-chair-kevin-warsh-press-conference-rate-hike-2026/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-16T19:04:45Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "FED",
+        "FOMC",
+        "KevinWarsh",
+        "利率",
+        "升息",
+        "沃爾什",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "通膨"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534639",
+      "summary": "美國聯準會（Fed）抗擊通膨的立場轉趨強硬！在 9 月 FOMC 會議以 12 比 0 全票通過升息 1 碼後 […] 〈 Fed 主席華許：通膨實在太高！聯準會升息 1 碼對抗通膨 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 16 Sep 2026 19:04:45 +0000",
+      "updated_at": "2026-09-16T19:04:45Z",
+      "updated_raw": "Wed, 16 Sep 2026 19:04:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ad26c735b7a9c952c04ec18793ad85945be9cc5cd0209ce6611c8f0da60569ad",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T18:56:05Z",
+      "authors": [
+        "matt_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49731360",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14845 Comments URL: https://news.ycombinator.com/item?id=49731360 Points: 59 # Comments: 7",
+      "published_raw": "Wed, 16 Sep 2026 18:56:05 +0000",
+      "updated_at": "2026-09-16T18:56:05Z",
+      "updated_raw": "Wed, 16 Sep 2026 18:56:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1121691baf48eec7c9e2727a877a7da71bd61781ab26eae7e4ac5701903b5260",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T18:50:00Z",
+      "authors": [
+        "polyphilz"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49731285",
+      "summary": "Article URL: https://rohanbansal.com/qorl Comments URL: https://news.ycombinator.com/item?id=49731285 Points: 387 # Comments: 83",
+      "published_raw": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "updated_at": "2026-09-16T18:50:00Z",
+      "updated_raw": "Wed, 16 Sep 2026 18:50:00 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6c831caa4a87a6bc1323f7ceebc0d245d128a66877b34fb6475aedb462bf5fa2",
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T18:49:57Z",
+      "authors": [
+        "rochansinha"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49731282",
+      "summary": "Article URL: https://github.com/vinnylarouge/jevlike Comments URL: https://news.ycombinator.com/item?id=49731282 Points: 73 # Comments: 9",
+      "published_raw": "Wed, 16 Sep 2026 18:49:57 +0000",
+      "updated_at": "2026-09-16T18:49:57Z",
+      "updated_raw": "Wed, 16 Sep 2026 18:49:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3bf8c7bd04e4c5496746681fa30d8d3bf98884080c6f2744e2ba796037fe7c12",
+      "title": "Fed 9 月升息 1 碼！最新點陣圖暗示「今年再升一次、明年不降息」",
+      "url": "https://www.blocktempo.com/fed-hikes-25-bps-september-2026-dot-plot-hawkish/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-16T18:11:01Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "FED",
+        "FOMC",
+        "利率",
+        "升息",
+        "總體經濟",
+        "美國",
+        "聯準會",
+        "通膨",
+        "點陣圖"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534617",
+      "summary": "聯準會（Fed）對抗通膨的戰線再度延長！美國聯邦公開市場委員會（FOMC）於美東時間 9 月 16 日正式宣布 […] 〈 Fed 9 月升息 1 碼！最新點陣圖暗示「今年再升一次、明年不降息」 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 16 Sep 2026 18:11:01 +0000",
+      "updated_at": "2026-09-16T18:11:01Z",
+      "updated_raw": "Wed, 16 Sep 2026 18:11:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:81a98250cec48457e055fd4e6932f6c1df8bd1da104e31eb0b84a65bd4d346ab",
+      "title": "美眾院委員會 38:5 通過「加密稅法案」！明確質押與挖礦規範",
+      "url": "https://www.blocktempo.com/house-committee-passes-digital-asset-tax-certainty-act/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-16T17:15:26Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "CLARITYAct",
+        "免稅門檻",
+        "加密稅",
+        "加密貨幣市場",
+        "挖礦",
+        "數位資產稅務確定性法案",
+        "眾議院",
+        "穩定幣",
+        "質押"
+      ],
+      "guid": "https://www.blocktempo.com/?p=534604",
+      "summary": "在加密產業指標性法案《CLARITY Act》於參議院遭遇挫敗後不到 24 小時，美國眾議院籌款委員會以 38 […] 〈 美眾院委員會 38:5 通過「加密稅法案」！明確質押與挖礦規範 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 16 Sep 2026 17:15:26 +0000",
+      "updated_at": "2026-09-16T17:15:26Z",
+      "updated_raw": "Wed, 16 Sep 2026 17:15:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:54bee0b474532c906f33ffaff6af9256feba1101d9d472c0029d14baa9ed37d9",
+      "title": "Training Text-to-Image Models 3.6× Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-16T16:58:13Z",
+      "authors": [
+        "schopra909"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49729816",
+      "summary": "Article URL: https://www.linum.ai/field-notes/jit-ddt Comments URL: https://news.ycombinator.com/item?id=49729816 Points: 34 # Comments: 7",
+      "published_raw": "Wed, 16 Sep 2026 16:58:13 +0000",
+      "updated_at": "2026-09-16T16:58:13Z",
+      "updated_raw": "Wed, 16 Sep 2026 16:58:13 +0000",
+      "language": "en"
+    }
+  ]
+}
