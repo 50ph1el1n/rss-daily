@@ -1,0 +1,355 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-19",
+  "timezone": "Asia/Taipei",
+  "article_count": 15,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3e26d4f7127fca33719a669c53917f0292fa458444037da9791cca1f0cd03655",
+      "title": "AI 失控成真？Google Gemini 驚爆首度「自主連線」駭入三家企業",
+      "url": "https://infosecu.technews.tw/2026/09/19/hacking/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-19T01:17:03Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Gemini",
+        "Google",
+        "國際觀察",
+        "資訊安全",
+        "駭客行為"
+      ],
+      "guid": "https://technews.tw/?p=1618599",
+      "summary": "Google 在一次測試網路安全能力的活動中，Gemini 模型曾連接到網際網路，並駭入其他公司；這是 Goo […]",
+      "published_raw": "Sat, 19 Sep 2026 01:17:03 +0000",
+      "updated_at": "2026-09-19T01:17:03Z",
+      "updated_raw": "Sat, 19 Sep 2026 01:17:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ce6a12c180834dac4c9b68f05f92ac34ef47fe8fd0c6a00c5cc92f2c768974de",
+      "title": "聯茂 M9 材料超車同業獲美系認證，陳進財祭 4 大策略深耕 4S 市場",
+      "url": "https://finance.technews.tw/2026/09/19/m9-surpasses-competitors-elite-material-different-strategy-chen-jin-cai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-19T01:00:27Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 伺服器",
+        "公司治理",
+        "南僑集團",
+        "基板材料",
+        "材料、設備",
+        "營運",
+        "聯茂",
+        "財經",
+        "銅箔基板",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1618368",
+      "summary": "AI 伺服器的升級，帶動高階銅箔基板（CCL）需求大增，根據《財訊》雙週刊報導，聯茂董事長陳進財表示，當初剛接 […]",
+      "published_raw": "Sat, 19 Sep 2026 01:00:27 +0000",
+      "updated_at": "2026-09-19T01:00:27Z",
+      "updated_raw": "Sat, 19 Sep 2026 01:00:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f0fcd536ef302fe61515dce25096ba4484b5da71d2f18b3eebdd2fab0429c6c6",
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "url": "https://liveworld.info/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-19T00:30:34Z",
+      "authors": [
+        "harisingh1612"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49762099",
+      "summary": "Article URL: https://liveworld.info/ Comments URL: https://news.ycombinator.com/item?id=49762099 Points: 3 # Comments: 0",
+      "published_raw": "Sat, 19 Sep 2026 00:30:34 +0000",
+      "updated_at": "2026-09-19T00:30:34Z",
+      "updated_raw": "Sat, 19 Sep 2026 00:30:34 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8048037b57a718ac8295c6c34ea6a3f85ad5d302587cf123bc81b1509f466590",
+      "title": "破解長新冠腦霧謎團，研究證實多巴胺神經損傷是失去動力的關鍵",
+      "url": "https://technews.tw/2026/09/19/long-covid-brain-fog-biological-explanation-found/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-19T00:30:11Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "多巴胺",
+        "情緒",
+        "生物學",
+        "生物科技",
+        "神經損傷",
+        "腦霧",
+        "醫療科技",
+        "長新冠"
+      ],
+      "guid": "https://technews.tw/?p=1616540",
+      "summary": "長期以來，長新冠患者反覆提到的疲倦、腦霧、記憶力下降與提不起勁等症狀，始終缺乏明確的身體指標供醫師判讀。然而， […]",
+      "published_raw": "Sat, 19 Sep 2026 00:30:11 +0000",
+      "updated_at": "2026-09-19T00:30:11Z",
+      "updated_raw": "Sat, 19 Sep 2026 00:30:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d84374bd4b8a87871e35293b26a18992a15577769e4d9155c3f80bf840441625",
+      "title": "「車燈不是亮就好」，小金雞儒億如何創新搏對手？堤維西二代接班四年攻智慧車燈",
+      "url": "https://finance.technews.tw/2026/09/19/juokuelectronics/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-19T00:00:06Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "Gogoro",
+        "Perodua",
+        "儒億科技",
+        "公司治理",
+        "吳國禎",
+        "堤維西",
+        "智慧 LED 車燈",
+        "汽車科技",
+        "貫穿式尾燈",
+        "車燈",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1617309",
+      "summary": "車燈大廠儒億科技即將上櫃，面對國內車市規模有限、同業競爭激烈，已接班四年的堤維西二代吳國禎打算靠智慧化突圍，照 […]",
+      "published_raw": "Sat, 19 Sep 2026 00:00:06 +0000",
+      "updated_at": "2026-09-19T00:00:06Z",
+      "updated_raw": "Sat, 19 Sep 2026 00:00:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2a207a52abf641acbbaf7d2e842659ff68b3b3a46dd850321c991c2059fb4884",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T23:54:42Z",
+      "authors": [
+        "yogthos"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49761840",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comments URL: https://news.ycombinator.com/item?id=49761840 Points: 14 # Comments: 0",
+      "published_raw": "Fri, 18 Sep 2026 23:54:42 +0000",
+      "updated_at": "2026-09-18T23:54:42Z",
+      "updated_raw": "Fri, 18 Sep 2026 23:54:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:27b6a4334fd3845b763e79734a9e8bd13c2a30555972e578c3866293345cebcc",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T23:04:17Z",
+      "authors": [
+        "maxall4"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49761432",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 48 # Comments: 47",
+      "published_raw": "Fri, 18 Sep 2026 23:04:17 +0000",
+      "updated_at": "2026-09-18T23:04:17Z",
+      "updated_raw": "Fri, 18 Sep 2026 23:04:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ed7040b6bdd438b2396a398416e7f045b9d3fa2c0dde4ad631e58fa71ed2efc9",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T21:00:32Z",
+      "authors": [
+        "datadrivenangel"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49760187",
+      "summary": "Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 502 # Comments: 181",
+      "published_raw": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "updated_at": "2026-09-18T21:00:32Z",
+      "updated_raw": "Fri, 18 Sep 2026 21:00:32 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0a9f641d63e24cdb9b10f5b53faad44285fef36d4fbaace3c3bb7456c5568859",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T19:03:09Z",
+      "authors": [
+        "theanonymousone"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49758736",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576 Comments URL: https://news.ycombinator.com/item?id=49758736 Points: 508 # Comments: 246",
+      "published_raw": "Fri, 18 Sep 2026 19:03:09 +0000",
+      "updated_at": "2026-09-18T19:03:09Z",
+      "updated_raw": "Fri, 18 Sep 2026 19:03:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3ae22dc9062e009bee6ab956ce50b146cbe8f6f0660dc81cb53259fdcf4084f2",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T19:00:06Z",
+      "authors": [
+        "tomjakubowski"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49758689",
+      "summary": "Article URL: https://arxiv.org/abs/2609.02852 Comments URL: https://news.ycombinator.com/item?id=49758689 Points: 51 # Comments: 19",
+      "published_raw": "Fri, 18 Sep 2026 19:00:06 +0000",
+      "updated_at": "2026-09-18T19:00:06Z",
+      "updated_raw": "Fri, 18 Sep 2026 19:00:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:934650e306b80b343acb0f7f45b4552e64d63f30b4b1383fd57cf8a7ed349280",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T18:55:35Z",
+      "authors": [
+        "rochansinha"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49758615",
+      "summary": "Article URL: https://arxiv.org/abs/2510.03215 Comments URL: https://news.ycombinator.com/item?id=49758615 Points: 66 # Comments: 12",
+      "published_raw": "Fri, 18 Sep 2026 18:55:35 +0000",
+      "updated_at": "2026-09-18T18:55:35Z",
+      "updated_raw": "Fri, 18 Sep 2026 18:55:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:801bacdcb18d861a74c10222946c4a0c20762245b3a910d8310f98f13da38a52",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T18:51:46Z",
+      "authors": [
+        "f311a"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49758580",
+      "summary": "Article URL: https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/ Comments URL: https://news.ycombinator.com/item?id=49758580 Points: 220 # Comments: 42",
+      "published_raw": "Fri, 18 Sep 2026 18:51:46 +0000",
+      "updated_at": "2026-09-18T18:51:46Z",
+      "updated_raw": "Fri, 18 Sep 2026 18:51:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e1a4f4543ebdfc906a146d06986c7b23a3197106893557278c2f1d38869af70e",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T18:39:31Z",
+      "authors": [
+        "CameronBanga"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49758419",
+      "summary": "Article URL: https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes Comments URL: https://news.ycombinator.com/item?id=49758419 Points: 111 # Comments: 67",
+      "published_raw": "Fri, 18 Sep 2026 18:39:31 +0000",
+      "updated_at": "2026-09-18T18:39:31Z",
+      "updated_raw": "Fri, 18 Sep 2026 18:39:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a98d02f42888125dc01cb0439e5e6ff7ca09d16b7772c5603402be0638d7bcdf",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-18T16:54:18Z",
+      "authors": [
+        "synack"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49757050",
+      "summary": "Article URL: https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/ Comments URL: https://news.ycombinator.com/item?id=49757050 Points: 151 # Comments: 53",
+      "published_raw": "Fri, 18 Sep 2026 16:54:18 +0000",
+      "updated_at": "2026-09-18T16:54:18Z",
+      "updated_raw": "Fri, 18 Sep 2026 16:54:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d81ea998590843d9c8932ed97d971a7b050294957a959603e3640937ff8a2b74",
+      "title": "59% 患者癌細胞完全消失！大腸癌術前免疫療法創奇蹟，患者近三年零復發",
+      "url": "https://technews.tw/2026/09/19/preoperative-immunotherapy-colorectal-cancer-zero-recurrence-nearly-three-years/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-18T16:00:43Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "免疫療法",
+        "大腸癌",
+        "生物科技",
+        "癌細胞",
+        "腫瘤",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1615509",
+      "summary": "一項最新研究為大腸癌治療帶來振奮人心的好消息。由英國倫敦大學學院（UCL）與附屬醫院（UCLH）主導的「NEO […]",
+      "published_raw": "Fri, 18 Sep 2026 16:00:43 +0000",
+      "updated_at": "2026-09-18T16:00:43Z",
+      "updated_raw": "Fri, 18 Sep 2026 16:00:43 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
