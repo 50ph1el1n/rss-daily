@@ -1,0 +1,995 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-09-21",
+  "timezone": "Asia/Taipei",
+  "article_count": 39,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e984cf6744851cd6804ebfe829439e7f58b91f8e327eb6ce5ad956399aacd68b",
+      "title": "韓廠斗山豪擲 9,700 億韓元擴充 CCL 產能！大摩看好台光電、台燿受惠",
+      "url": "https://finance.technews.tw/2026/09/21/doosan/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:21:16Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "CCL",
+        "PCB",
+        "台光電",
+        "台燿",
+        "國際觀察",
+        "斗山",
+        "證券",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1618701",
+      "summary": "韓國大廠斗山（Doosan）9 月 17 日宣布，將投入高達 9,700 億韓元擴充韓國與中國的銅箔基板（CC […]",
+      "published_raw": "Mon, 21 Sep 2026 01:21:16 +0000",
+      "updated_at": "2026-09-21T01:21:16Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:21:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1fe98195cab16d3ad24906da2cc31c50c435dda95380378d55223dff3fd3c060",
+      "title": "保時捷正式開賣「電動車無線充電板」，暫時只有凱燕能用",
+      "url": "https://technews.tw/2026/09/21/porsche-wireless-ev-charging-into-production/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:17:53Z",
+      "authors": [
+        "Chen Kobe"
+      ],
+      "categories": [
+        "Cayenne Electric",
+        "Porsche",
+        "交通運輸",
+        "汽車科技",
+        "無線充電",
+        "電動車"
+      ],
+      "guid": "https://technews.tw/?p=1618677",
+      "summary": "去年保時捷首次發表電動車無線充電板之後，因為看起來太過科幻，一度讓人懷疑這是不是展覽會場上的噱頭而已，不過現在 […]",
+      "published_raw": "Mon, 21 Sep 2026 01:17:53 +0000",
+      "updated_at": "2026-09-21T01:17:53Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:17:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e9e1da7177392f7091222e90c6158a84364b2eb03679ae7fe168c8ef5b5037f1",
+      "title": "台普威奪 APEA 企業躍進獎，去年營收年增 404%、海外布局加速",
+      "url": "https://technews.tw/2026/09/21/taipuwei-apea-enterprise-progress-award-404-revenue-growth-overseas-expansion/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:13:12Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "儲能",
+        "台普威",
+        "能源科技",
+        "雲豹能源",
+        "電力儲存"
+      ],
+      "guid": "https://technews.tw/?p=1618676",
+      "summary": "雲豹能源旗下儲能子公司台普威能源首次參與 2026 亞太傑出企業獎（APEA），即從逾百家參評企業中脫穎而出， […]",
+      "published_raw": "Mon, 21 Sep 2026 01:13:12 +0000",
+      "updated_at": "2026-09-21T01:13:12Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:13:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c7745ca9ed0fa5406b2a3d2b384d741672fb3cd5f58710bad821687f24af13b6",
+      "title": "全球低利率時代落幕，「便宜的錢」正在消失",
+      "url": "https://finance.technews.tw/2026/09/21/the-era-of-global-low-interest-rates-is-coming-to-an-end-cheap-money-is-disappearing/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:11:22Z",
+      "authors": [
+        "黃 嬿"
+      ],
+      "categories": [
+        "AI投資",
+        "全球升息循環",
+        "利率",
+        "升息",
+        "國債",
+        "國際觀察",
+        "財政赤字",
+        "財經",
+        "通貨膨脹",
+        "金融海嘯"
+      ],
+      "guid": "https://technews.tw/?p=1618685",
+      "summary": "過去十多年，全球經濟長期處在低通膨、低利率環境，企業與家庭早已習慣便宜資金，但這個時代可能正在結束。從美國、歐 […]",
+      "published_raw": "Mon, 21 Sep 2026 01:11:22 +0000",
+      "updated_at": "2026-09-21T01:11:22Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:11:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bce28119dc2bf1983ff00fe8a6bb164ddb2b099e9e2829cb1547828fd916127e",
+      "title": "SK 海力士旗下 Solidigm 正評估赴美建 NAND 工廠",
+      "url": "https://technews.tw/2026/09/21/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-in-us/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:10:07Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "NAND 快閃記憶體",
+        "SK 海力士",
+        "Solidigm",
+        "半導體",
+        "國際貿易",
+        "美國",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1618669",
+      "summary": "川普政府力推半導體製造回流美國，韓國記憶體巨頭 SK 海力士（SK Hynix）旗下 Solidigm 也傳出 […]",
+      "published_raw": "Mon, 21 Sep 2026 01:10:07 +0000",
+      "updated_at": "2026-09-21T01:10:07Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:10:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:81de15cf9613757148672aed268d12ed5eaba4e7a079c3c5e1b31555a3eec2a5",
+      "title": "美光與工會進行首次調解討論多項議題，預計 10 月 22 日舉行第二次調解會議",
+      "url": "https://technews.tw/2026/09/21/micron-and-the-union-held-their-first-mediation-session-to-discuss-several-issues/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:00:14Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "半導體",
+        "工會",
+        "晶片",
+        "科技政策",
+        "美光",
+        "職場",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1618679",
+      "summary": "美光科技與台灣美光記憶體工會發出聯合聲明指出，美光科技與台灣美光記憶體工會於 9 月 18 日舉行首次調解會議 […]",
+      "published_raw": "Mon, 21 Sep 2026 01:00:14 +0000",
+      "updated_at": "2026-09-21T01:00:14Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:00:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:30430a0a0c636584ab238eb2857452af90a67a1d8c66446a55459c71b4c502c3",
+      "title": "不怕新機漲價，pCloud 限時優惠讓你省錢換新機",
+      "url": "https://technews.tw/2026/09/21/pcloud-limited-time-offer/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T01:00:09Z",
+      "authors": [
+        "TechNews"
+      ],
+      "categories": [
+        "手機",
+        "網路",
+        "雲端"
+      ],
+      "guid": "https://technews.tw/?p=1616311",
+      "summary": "前段時間 iPad 和 MacBook 大漲價已讓不少果粉餘悸猶存；一年一度的秋季發表會又緊接登場。先不論今年 […]",
+      "published_raw": "Mon, 21 Sep 2026 01:00:09 +0000",
+      "updated_at": "2026-09-21T01:00:09Z",
+      "updated_raw": "Mon, 21 Sep 2026 01:00:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ae133e2f7399dd458627994df99fc9351ad021c4aebed217cd66451249e98684",
+      "title": "國際海纜掌握經濟命脈，全球水下基礎設施掀起防禦革命",
+      "url": "https://technews.tw/2026/09/21/a-global-underwater-infrastructure-revolution-is-underway/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:45:30Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "數位通訊",
+        "水下無人機",
+        "海底電纜",
+        "網路",
+        "網通設備",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1618672",
+      "summary": "外媒報導，隨著海底電纜與能源管道遭破壞的風險遽增，全球政府與企業正迅速將目光投向海底，未來的戰場已不僅限於天空 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:45:30 +0000",
+      "updated_at": "2026-09-21T00:45:30Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:45:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:505dbd47e1a79e51e1b38285999185a12d28858f487eca51bc4b097da23b3748",
+      "title": "Anthropic 攜手埃森哲 進行第三方 AI 安全評估",
+      "url": "https://infosecu.technews.tw/2026/09/21/anthropic-partnering-with-accenture-on-embedded-evaluation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:40:18Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "Anthropic",
+        "Claude",
+        "埃森哲",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1618662",
+      "summary": "AI 新創 Anthropic 宣布與顧問巨頭埃森哲（Accenture）合作進行嵌入式安全評估，也是執行長阿 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:40:18 +0000",
+      "updated_at": "2026-09-21T00:40:18Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:40:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e487fe45d38484b9edde1be00c894dde005dcda7cb7f7ab20ced597594fb8f88",
+      "title": "台積電 2、3 奈米產能提升爆發，亞利桑那新廠也規劃 2027 年加入",
+      "url": "https://technews.tw/2026/09/21/tsmcs-2nm-and-3nm-production-capacity-is-booming/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:35:03Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "先進製程",
+        "半導體",
+        "台積電",
+        "晶圓",
+        "晶圓代工",
+        "晶片"
+      ],
+      "guid": "https://technews.tw/?p=1618666",
+      "summary": "晶圓代工龍頭龍頭台積電正加速提升其先進製程節點的產能，以因應強勁的客戶需求。當前，台積電除了持續拉升 2 奈米 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:35:03 +0000",
+      "updated_at": "2026-09-21T00:35:03Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:35:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fead19417763870109d92496fbf20c4c30c5dbed450b4ac1b191fc6f391df6e5",
+      "title": "自動駕駛改變乘車習慣：NHTSA 啟動「躺臥」安全研究，推動車輛防護新規範",
+      "url": "https://technews.tw/2026/09/21/self-driving-cars-alter-seating-postures-us-reassess-crash-tests-safety-standards/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:30:02Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Cybercab",
+        "NHTSA",
+        "乘客",
+        "國際觀察",
+        "坐姿",
+        "安全標準",
+        "汽車科技",
+        "無人車",
+        "特斯拉",
+        "科技政策",
+        "自駕車",
+        "規範"
+      ],
+      "guid": "https://technews.tw/?p=1617870",
+      "summary": "隨著自駕車與無人駕駛技術逐步進入實際應用場景，長年建立在「乘客直立乘坐」前提下的車輛安全規範正迎來重新檢視。美 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:30:02 +0000",
+      "updated_at": "2026-09-21T00:30:02Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:30:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e5de47cbed4961dcf82dc0b216f0b4dddfae50a057964d36b776b1bb09839bfa",
+      "title": "解決供應瓶頸，奇異航太斥資 120 億美元購併金屬鑄造大廠",
+      "url": "https://technews.tw/2026/09/21/ge-aerospace-bets-on-black-art-of-castings-to-secure-jet-engine-supply/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:20:14Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "奇異航太",
+        "尖端科技",
+        "翼片",
+        "航太科技",
+        "購併",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1617471",
+      "summary": "全球新冠疫情結束以來，航太大廠均面臨嚴重供不應求，客戶排隊怨聲載道，奇異航太（GE Aerospace）為了解 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:20:14 +0000",
+      "updated_at": "2026-09-21T00:20:14Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:20:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d6fec04ffd0b45ed06ae66289d9d31d8b4b74f1c1bd476702e387ee976386ff7",
+      "title": "川普宣布格陵蘭協議 堵對手敏感投資、稀土股飆",
+      "url": "https://technews.tw/2026/09/21/trumps-greenland-deal-secures-the-arctic/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:15:46Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "丹麥",
+        "國際觀察",
+        "國際貿易",
+        "川普",
+        "材料",
+        "格陵蘭",
+        "稀土"
+      ],
+      "guid": "https://technews.tw/?p=1618659",
+      "summary": "美國總統川普宣布與丹麥、格陵蘭達成新的安全協議，將擴大美國在格陵蘭的軍事部署，並宣稱美方取得當地安全事務的「永 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:15:46 +0000",
+      "updated_at": "2026-09-21T00:15:46Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:15:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d70290b5c64209d78a9ab9b502cffef90272089f9f57cd65cd441028d9e5fbd3",
+      "title": "AI 語音就是品牌門面，接通第一秒決定客戶去留",
+      "url": "https://technews.tw/2026/09/21/ai-voice-losing-customers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:10:22Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 客服",
+        "AI 語音",
+        "人力資源",
+        "企業",
+        "品牌",
+        "形象",
+        "聲音",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1617770",
+      "summary": "隨著企業越來越依賴 AI 語音系統來處理大量來電，最新的產業觀點提醒：AI 的「語音表現」本身，正是決定顧客是 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:10:22 +0000",
+      "updated_at": "2026-09-21T00:10:22Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:10:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:17bc792f9ce33a1ea8f7ab15236b2463c29999f632a45e9b44ce103bb2c8907d",
+      "title": "生成內容愈便宜，驗證為何愈昂貴？AI 成本正在悄悄搬家",
+      "url": "https://finance.technews.tw/2026/09/21/kenyans-made-a-living-writing-college-essays-then-a-i-arrived/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-21T00:00:40Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 工作流",
+        "AI 幻覺",
+        "AI 成本",
+        "公司治理",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1616263",
+      "summary": "AI 能幾秒鐘寫完文案；要確認數字、引文和說法，卻可能得花上幾小時。對企業來說，寫出第一版愈來愈便宜，但內容能 […]",
+      "published_raw": "Mon, 21 Sep 2026 00:00:40 +0000",
+      "updated_at": "2026-09-21T00:00:40Z",
+      "updated_raw": "Mon, 21 Sep 2026 00:00:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b157c3ca7e953480edc174aaac0dd6867d91a2e869fa19bb538bd7698a12282f",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T23:57:10Z",
+      "authors": [
+        "doener"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49781436",
+      "summary": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 13 # Comments: 5",
+      "published_raw": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "updated_at": "2026-09-20T23:57:10Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1e71c82bcd2e5e7a1aad20d337984f41d5fbac7ac6bedf2f3e9302347d41473c",
+      "title": "淺談 Hot Chips 2026：自研晶片當道",
+      "url": "https://technews.tw/2026/09/21/hot-chips-2026-ai-silicon-trend/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:50:43Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Google",
+        "Hot Chips 2026",
+        "Jalapeño",
+        "OpenAI",
+        "半導體",
+        "晶片",
+        "科技生活",
+        "自研晶片"
+      ],
+      "guid": "https://technews.tw/?p=1610750",
+      "summary": "如果要用一句話總結今年 Hot Chips 2026，「自研晶片當道」大概是筆者認為最明顯的趨勢。現在比的已經 […]",
+      "published_raw": "Sun, 20 Sep 2026 23:50:43 +0000",
+      "updated_at": "2026-09-20T23:50:43Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:50:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:36b2eec4a5ffe2656010346c1fdc4c224e242a45eda9e6a7a6d125fb739e3bba",
+      "title": "長鑫存儲第五代 DRAM 技術平台量產，晶圓產出提升至少 50%",
+      "url": "https://technews.tw/2026/09/21/cxmt-announces-mass-production-of-5th-generation-dram-technology-platform/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:49:09Z",
+      "authors": [
+        "陳 冠榮"
+      ],
+      "categories": [
+        "dram",
+        "中國",
+        "中國觀察",
+        "半導體",
+        "記憶體",
+        "長鑫存儲"
+      ],
+      "guid": "https://technews.tw/?p=1618654",
+      "summary": "中國最大 DRAM 製造商長鑫存儲（CXMT）20 日正式宣布，第五代 DRAM 技術平台進入量產，同步展出以 […]",
+      "published_raw": "Sun, 20 Sep 2026 23:49:09 +0000",
+      "updated_at": "2026-09-20T23:49:09Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:49:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5d6235fadf3d3afb2e78977152519add5b3afeacb2900d85580881cab6a21d4f",
+      "title": "AI 時代升遷不看職稱和年資，專家：實質戰力與技能才是晉升關鍵",
+      "url": "https://technews.tw/2026/09/21/new-career-compensation-ai-era/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:40:57Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "人力資源",
+        "企業",
+        "升遷",
+        "員工",
+        "培訓",
+        "專業技能",
+        "工作轉型",
+        "年資",
+        "數位學習",
+        "職場",
+        "職涯"
+      ],
+      "guid": "https://technews.tw/?p=1617121",
+      "summary": "隨著人工智慧（AI）深度滲透各行各業，職涯發展的衡量標準正迎來一場顯著的典範轉移。最新產業觀點指出，在技能半衰 […]",
+      "published_raw": "Sun, 20 Sep 2026 23:40:57 +0000",
+      "updated_at": "2026-09-20T23:40:57Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:40:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b2106252c8bdd3acba538a0ed714aa8288b17180dd8c5d061caf6f6b92338a82",
+      "title": "Google 為何甘願分食 Gemini 的算力？自己用最划算卻把 AI 晶片賣給 Anthropic 的答案是這個",
+      "url": "https://technews.tw/2026/09/21/why-google-willing-share-geminis-computing-power/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:30:38Z",
+      "authors": [
+        "商業周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Anthropic",
+        "Gemini",
+        "Google",
+        "Neocloud",
+        "TPU",
+        "晶片",
+        "算力出租"
+      ],
+      "guid": "https://technews.tw/?p=1617929",
+      "summary": "AI 資本支出過高的隱憂下，Google Cloud 執行長庫里安（Thomas Kurian）在日前舉辦的高 […]",
+      "published_raw": "Sun, 20 Sep 2026 23:30:38 +0000",
+      "updated_at": "2026-09-20T23:30:38Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:30:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fc43e36497338600df075c2bc06788ad5d855bf4479552c47a3e51d5e9e9fffe",
+      "title": "成本漲 1.5 倍！AI 團隊加入愛找碴「上司 」，下屬 AI 開始狂寫報告逢迎拍馬",
+      "url": "https://www.inside.com.tw/article/42440-supervisor-ai-sycophancy-quality-cost-increase",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-09-20T23:23:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "AI",
+        "人工智慧",
+        "大型語言模型",
+        "管理",
+        "職場"
+      ],
+      "guid": "https://www.inside.com.tw/article/42440-supervisor-ai-sycophancy-quality-cost-increase",
+      "summary": "研究人員在多代理人 AI 工作流中引入「上司 AI」負責挑毛病，結果下屬 AI 反而停止反駁、開始大量填充報告，成果品質下降、成本上升至 1.5 倍。研究人員指出，監督者角色只有在能核對答案時才有價值，僅能表達感想則成為累贅。",
+      "published_raw": "2026-09-21T07:23:00+08:00",
+      "updated_at": "2026-09-20T23:23:00Z",
+      "updated_raw": "2026-09-21T07:23:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:73a40fb900f890141cdd7f7f9df3b13dc8bef6401b262c17e96abdae48f8dde0",
+      "title": "AI 創作版權歸誰？專家警告：平台允許商用不等於免除侵權風險",
+      "url": "https://technews.tw/2026/09/21/ai-creation-copyright-ownership/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:20:24Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 作品",
+        "AI 工具",
+        "人機界線",
+        "侵權",
+        "國際觀察",
+        "提示詞",
+        "數位內容",
+        "生成式 AI",
+        "著作權法"
+      ],
+      "guid": "https://technews.tw/?p=1617808",
+      "summary": "生成式 AI 正以前所未有的速度顛覆傳統創作流程，但隨之而來的「作品所有權歸屬」問題卻日益棘手。根據美國現行著 […]",
+      "published_raw": "Sun, 20 Sep 2026 23:20:24 +0000",
+      "updated_at": "2026-09-20T23:20:24Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:20:24 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8e3c77a674f5a9dd7c0cd09bf4fc9066e34d1868a3a23f5b1059424fa66bfa5a",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T23:19:04Z",
+      "authors": [
+        "the_arun"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49781138",
+      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 10 # Comments: 0",
+      "published_raw": "Sun, 20 Sep 2026 23:19:04 +0000",
+      "updated_at": "2026-09-20T23:19:04Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:19:04 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:57c3d19d6cada48cf23bd93832d20fc229b58223d5d190a699b40d5de5c42346",
+      "title": "不當縮小版日月光，台灣「封測小巨人」狂吃 AI 外溢訂單的突圍之道",
+      "url": "https://finance.technews.tw/2026/09/21/taiwanese-osat-little-giants-ase-spil-chipmos-niche-battlegrounds-tsmc-ase-advanced-packaging-investment/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:10:16Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 晶片",
+        "OSAT",
+        "京元電子",
+        "先進製程",
+        "力成科技",
+        "半導體",
+        "台積電",
+        "國際貿易",
+        "封裝測試",
+        "市場外溢",
+        "日月光",
+        "營收",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1617269",
+      "summary": "2026 年，全球封裝測試業正上演一場罕見的資本競賽。 日月光、Amkor、力成、長電科技、通富微電與京元電子 […]",
+      "published_raw": "Sun, 20 Sep 2026 23:10:16 +0000",
+      "updated_at": "2026-09-20T23:10:16Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:10:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5765a2e478a45466f47dfa931e766921982a8b2c1380be85673314e30bf861d5",
+      "title": "Face ID 遭控侵權，德國化工巨頭 BASF 主張蘋果侵犯七項生物辨識專利",
+      "url": "https://finance.technews.tw/2026/09/21/face-id-patent-infringement-basf-alleges-apple-7-biometric-patents/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-20T23:00:32Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "Apple",
+        "Face ID",
+        "iPhone",
+        "trinamiX",
+        "侵權",
+        "光電科技",
+        "專利",
+        "技術分析",
+        "會員專區",
+        "生物科技",
+        "臉部辨識",
+        "蘋果",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1616316",
+      "summary": "德國化工巨頭 BASF 旗下光學感測子公司 trinamiX 本月 3 日，在美國德州聯邦法院對蘋果（Appl […]",
+      "published_raw": "Sun, 20 Sep 2026 23:00:32 +0000",
+      "updated_at": "2026-09-20T23:00:32Z",
+      "updated_raw": "Sun, 20 Sep 2026 23:00:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8f9fe2e4c624ad6d7c4767ae37e1af4e01a4ee23d65abcace93548629c616451",
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T22:35:49Z",
+      "authors": [
+        "EXHades"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49780820",
+      "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive Comments URL: https://news.ycombinator.com/item?id=49780820 Points: 144 # Comments: 53",
+      "published_raw": "Sun, 20 Sep 2026 22:35:49 +0000",
+      "updated_at": "2026-09-20T22:35:49Z",
+      "updated_raw": "Sun, 20 Sep 2026 22:35:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:94019b4fdbb9e7af0528b6282c8767fb1b5a96593585f9262a37cbde316343d0",
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T22:32:43Z",
+      "authors": [
+        "blazarquasar"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49780797",
+      "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 173 # Comments: 71",
+      "published_raw": "Sun, 20 Sep 2026 22:32:43 +0000",
+      "updated_at": "2026-09-20T22:32:43Z",
+      "updated_raw": "Sun, 20 Sep 2026 22:32:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2c169bf1c97eb363595928b7e7b3306277b1b9199a4f2ca2b5c57db62d344331",
+      "title": "Bill to Ban Private Equity from Owning Medical Practices",
+      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T22:13:46Z",
+      "authors": [
+        "paimapi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49780630",
+      "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/ Comments URL: https://news.ycombinator.com/item?id=49780630 Points: 209 # Comments: 135",
+      "published_raw": "Sun, 20 Sep 2026 22:13:46 +0000",
+      "updated_at": "2026-09-20T22:13:46Z",
+      "updated_raw": "Sun, 20 Sep 2026 22:13:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0726bd79f82bc86a361fafe592b582a0cc6edb334d63bca7b73bbc81a7184aeb",
+      "title": "Nobody pays for FOSS, we can force them to",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T21:04:32Z",
+      "authors": [
+        "Muhammad523"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49780064",
+      "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 136 # Comments: 106",
+      "published_raw": "Sun, 20 Sep 2026 21:04:32 +0000",
+      "updated_at": "2026-09-20T21:04:32Z",
+      "updated_raw": "Sun, 20 Sep 2026 21:04:32 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:81ad4832b7aa972a68b3938a370266dbcd128ff6af9c6eb71921b62cb6b261a7",
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T20:59:02Z",
+      "authors": [
+        "frozenlettuce"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49780022",
+      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 27 # Comments: 8",
+      "published_raw": "Sun, 20 Sep 2026 20:59:02 +0000",
+      "updated_at": "2026-09-20T20:59:02Z",
+      "updated_raw": "Sun, 20 Sep 2026 20:59:02 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4718eae83fe9ce5e7c95fd96548caf0ebc195a8150cbc751edee9a0d483532a2",
+      "title": "Why MCP Was Always a Bad Idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T19:44:40Z",
+      "authors": [
+        "maharshi365"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49779329",
+      "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 37 # Comments: 61",
+      "published_raw": "Sun, 20 Sep 2026 19:44:40 +0000",
+      "updated_at": "2026-09-20T19:44:40Z",
+      "updated_raw": "Sun, 20 Sep 2026 19:44:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:948f1c45b315da7c95873fd75e818fdd855c3bff9d60cc833fce274ea2aa9eca",
+      "title": "The Hierarchy of Money",
+      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T19:37:43Z",
+      "authors": [
+        "gwgundersen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49779253",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 89 # Comments: 39",
+      "published_raw": "Sun, 20 Sep 2026 19:37:43 +0000",
+      "updated_at": "2026-09-20T19:37:43Z",
+      "updated_raw": "Sun, 20 Sep 2026 19:37:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e22967051f06106514970605679df54eb2091034b7cb7780f39619bb4e8af73c",
+      "title": "Software sandboxing: The basics (2025)",
+      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T18:42:47Z",
+      "authors": [
+        "mococa"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49778670",
+      "summary": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 65 # Comments: 8",
+      "published_raw": "Sun, 20 Sep 2026 18:42:47 +0000",
+      "updated_at": "2026-09-20T18:42:47Z",
+      "updated_raw": "Sun, 20 Sep 2026 18:42:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ecee858090008408bf85d133e70af452b38bc0119a14d209e944560c458b4497",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T17:55:57Z",
+      "authors": [
+        "NaOH"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49778195",
+      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 94 # Comments: 52",
+      "published_raw": "Sun, 20 Sep 2026 17:55:57 +0000",
+      "updated_at": "2026-09-20T17:55:57Z",
+      "updated_raw": "Sun, 20 Sep 2026 17:55:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ae4d35a7230840dc0efe63df753fda2731879fa61f6267bf039be6b342d3beac",
+      "title": "I turned Jev into a (lousy) chatbot",
+      "url": "https://github.com/kyle-pena-nlp/jevchat/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T17:51:27Z",
+      "authors": [
+        "kp1197"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49778162",
+      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 92 # Comments: 31",
+      "published_raw": "Sun, 20 Sep 2026 17:51:27 +0000",
+      "updated_at": "2026-09-20T17:51:27Z",
+      "updated_raw": "Sun, 20 Sep 2026 17:51:27 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fc4270a145315bf127e5737c2b70d2da627110ba9967f6ff10434c6be7820f7a",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T17:38:50Z",
+      "authors": [
+        "giuliomagnifico"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49778029",
+      "summary": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say Comments URL: https://news.ycombinator.com/item?id=49778029 Points: 342 # Comments: 219",
+      "published_raw": "Sun, 20 Sep 2026 17:38:50 +0000",
+      "updated_at": "2026-09-20T17:38:50Z",
+      "updated_raw": "Sun, 20 Sep 2026 17:38:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:624ecac8b7111d6ec45d1b6b2bc0c0c74fb3fb4f4e447a54cb129f0c316f176e",
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "url": "https://github.com/adonis-singh/re4",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T17:38:27Z",
+      "authors": [
+        "metrofun"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49778022",
+      "summary": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.com/item?id=49778022 Points: 83 # Comments: 51",
+      "published_raw": "Sun, 20 Sep 2026 17:38:27 +0000",
+      "updated_at": "2026-09-20T17:38:27Z",
+      "updated_raw": "Sun, 20 Sep 2026 17:38:27 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:98f8ccad0f4539a2cddd76ae7770e12a58a5c717fdf5cac26ea194c1e847eb55",
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T16:51:26Z",
+      "authors": [
+        "radius89"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49777539",
+      "summary": "Hello HN! I'm relaunching Radius [1] - far too long after the original Show HN [2] (I'll blame the day job for that). Radius started out from my frustration with not knowing what was going on around me. The initial plan was to \"show all and every type of event\" from big to small, but over time I narrowed the focus to communities, groups, events, and helping people connect through them. The initial Show HN gave me 150+ comments (surprising, looking back, given how terrible the plain Bootstrap UI was...) with a huge amount of useful feedback and feature requests. I've spent the time since then working through that, along with additional requests from groups using Radius, and it finally feels ready for a proper relaunch. I've also recently added \"Activities\" [3] - which are lightweight events, independent of groups, intended to help people find others to do things with - for example: > John is going for a cycle and a coffee in New York at 10am People can join and vote for a time that works for them. I've got a bunch of ideas for where to go next with this, including things like open sourcing and federation, but those are for another day! Any feedback would be greatly appreciated! P.S. it's built with Ruby on Rails, for those interested. I highly suspect it would have taken me 2 more years to get to this point without Rails! [1] https://radius.to/ [2] https://news.ycombinator.com/item?id=40717398 [3] https://radius.to/documentation/activities/post-an-activity Comments URL: https://news.ycombinator.com/item?id=49777539 Points: 99 # Comments: 39",
+      "published_raw": "Sun, 20 Sep 2026 16:51:26 +0000",
+      "updated_at": "2026-09-20T16:51:26Z",
+      "updated_raw": "Sun, 20 Sep 2026 16:51:26 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cae0b99a7fd99d8a67ebd891217115fb7090560adcf939450a591abd03ec1f3b",
+      "title": "I am often wrong",
+      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-20T16:41:46Z",
+      "authors": [
+        "bcherny"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49777467",
+      "summary": "Article URL: https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html Comments URL: https://news.ycombinator.com/item?id=49777467 Points: 108 # Comments: 86",
+      "published_raw": "Sun, 20 Sep 2026 16:41:46 +0000",
+      "updated_at": "2026-09-20T16:41:46Z",
+      "updated_raw": "Sun, 20 Sep 2026 16:41:46 +0000",
+      "language": "en"
+    }
+  ]
+}
