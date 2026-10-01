@@ -1,0 +1,1446 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-01",
+  "timezone": "Asia/Taipei",
+  "article_count": 56,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f43ea242b128885818def7b24ac361600a7afd1901330cb7883c39060bb84dc7",
+      "title": "AI 代理沙箱爆異常惹議，FTC 出手調查 AI 巨頭是否違反消保法",
+      "url": "https://technews.tw/2026/10/01/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T02:15:54Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "AI 安全",
+        "Anthropic",
+        "Claude",
+        "FTC",
+        "OpenAI"
+      ],
+      "guid": "https://technews.tw/?p=1622460",
+      "summary": "美國聯邦貿易委員會（FTC）正擴大對 Anthropic、OpenAI 及其他人工智慧公司的調查，重點放在其產 […]",
+      "published_raw": "Thu, 01 Oct 2026 02:15:54 +0000",
+      "updated_at": "2026-10-01T02:15:54Z",
+      "updated_raw": "Thu, 01 Oct 2026 02:15:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:75d01db8828125cc644aab8548a7f6428c6071604c44ed2060e1c58bbb3303de",
+      "title": "台積 2 奈米良率甩三星／Intel？先進製程滿到 2028",
+      "url": "https://technews.tw/2026/10/01/piper-says-tsmc-capacity-sold-out-through-2028-on-strong-ai-demand/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T02:10:36Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "EUV",
+        "HBM",
+        "先進製程",
+        "半導體",
+        "台積電",
+        "國際貿易",
+        "晶圓",
+        "晶片"
+      ],
+      "guid": "https://technews.tw/?p=1622440",
+      "summary": "一名台灣半導體研究專家透露，台積電先進製程晶圓產能直到 2028 年上半年都已售罄。此外，台積電用於汽車及工業 […]",
+      "published_raw": "Thu, 01 Oct 2026 02:10:36 +0000",
+      "updated_at": "2026-10-01T02:10:36Z",
+      "updated_raw": "Thu, 01 Oct 2026 02:10:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7a73e7d052d79e1e52dfe0fbaa8e4ec6a726c7db57c65ffb7e9d4f435a4df807",
+      "title": "三星 Galaxy S27 系列傳迎來有感漲價，大容量版本價差恐再拉大",
+      "url": "https://technews.tw/2026/10/01/samsung-s27-series-price-increase/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T02:00:59Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Android 手機",
+        "Galaxy S27",
+        "Samsung",
+        "快閃記憶體",
+        "手機",
+        "旗艦機",
+        "智慧手機",
+        "漲價",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1622422",
+      "summary": "多則來自韓國供應鏈與爆料人士的消息指出，三星下一代旗艦 Galaxy S27 系列可能在明年上市時迎來全面漲價 […]",
+      "published_raw": "Thu, 01 Oct 2026 02:00:59 +0000",
+      "updated_at": "2026-10-01T02:00:59Z",
+      "updated_raw": "Thu, 01 Oct 2026 02:00:59 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0ca1e348d1d3ccf2f9487f8b090938238a70fa6efe7110426d1a87cc77d6cf62",
+      "title": "美債殖利率飆 24 年新高，台股挑戰 48K 大關卡位 AI 供應鏈",
+      "url": "https://finance.technews.tw/2026/10/01/us-bond-yields-soar-24-year-high-taiwan-stocks-challenge-48k-ai-supply-chain-position/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T02:00:04Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "ABF 載板",
+        "AI 供應鏈",
+        "低軌衛星",
+        "台積電",
+        "台股",
+        "川習會",
+        "矽智財 IP",
+        "美債",
+        "記憶體",
+        "證券",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1622410",
+      "summary": "台股 9 月 30 日受到月底作帳結算影響，加權指數小幅拉回 0.82% 收在 47,631 點。儘管美債殖利 […]",
+      "published_raw": "Thu, 01 Oct 2026 02:00:04 +0000",
+      "updated_at": "2026-10-01T02:00:04Z",
+      "updated_raw": "Thu, 01 Oct 2026 02:00:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:480c0f2f27f2432c31f518a9ec6fad335a1a7c9a90e01db4baade3ac788b995c",
+      "title": "Gemini 4 Argon 強勢來襲！跑分領先 Astra、Fable，一般用戶卻暫不能使用",
+      "url": "https://www.blocktempo.com/google-gemini-argon-leads-benchmarks-undercuts-rivals-restricted-cyber-partners/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:53:38Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "AI",
+        "Anthropic",
+        "DeepMind",
+        "Gemini",
+        "Google",
+        "OpenAI",
+        "即時新聞"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539957",
+      "summary": "Google 延宕十個月交出 Gemini 4 Argon，跑分廣度領先、價格也遠低於對手，但目前僅先交給資安 […] 〈 Gemini 4 Argon 強勢來襲！跑分領先 Astra、Fable，一般用戶卻暫不能使用 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:53:38 +0000",
+      "updated_at": "2026-10-01T01:53:38Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:53:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dfc1a403e2a81786fca14851a8b788ee63d4f3b9857072099dc18c13b22356a2",
+      "title": "戰場涵蓋月球？五角大廈找上馬斯克、Luckey 獻策",
+      "url": "https://technews.tw/2026/10/01/elon-musk-palmer-luckey-and-newt-gingrich-to-help-pentagon-with-warfare-initiative/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T01:50:54Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Anduril Industries",
+        "Palmer Luckey",
+        "Project Meridian",
+        "五角大廈",
+        "太空軍",
+        "尖端科技",
+        "月球",
+        "軍事科技",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1622423",
+      "summary": "美國五角大廈找來 SpaceX 執行長馬斯克（Elon Musk）、美國自動化武器科技獨角獸 Anduril […]",
+      "published_raw": "Thu, 01 Oct 2026 01:50:54 +0000",
+      "updated_at": "2026-10-01T01:50:54Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:50:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:84c5581fe622de459ea5c77b418923495b68b9bf0f62d5cc856008e3df08b9a1",
+      "title": "「HomePad」傳 10/13 亮相，將復刻 iMac G4 經典設計",
+      "url": "https://technews.tw/2026/10/01/homepad-apple-event/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T01:47:36Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "6 吋面板 HomePod",
+        "AI 人工智慧",
+        "Apple",
+        "HomePad",
+        "智慧家庭",
+        "科技生活",
+        "蘋果"
+      ],
+      "guid": "https://technews.tw/?p=1622444",
+      "summary": "市場傳聞已久的蘋果智慧家庭中樞裝置「HomePad」終於要亮相了嗎？ 據《彭博社》最新報導，蘋果預計於 10 […]",
+      "published_raw": "Thu, 01 Oct 2026 01:47:36 +0000",
+      "updated_at": "2026-10-01T01:47:36Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:47:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:62bad4c89e5ae0cc83d296c4c7e5567e67596a16a8d012dcf1f36693f69a3a89",
+      "title": "SEC 九問有答出爐：加密資產證券界線再定義",
+      "url": "https://www.blocktempo.com/faq-sec-howey-staking-tokens-receipt-liquid-provider-redeemable-wrapped/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:47:09Z",
+      "authors": [
+        "PANews"
+      ],
+      "categories": [
+        "SEC",
+        "功能化",
+        "加密資產",
+        "監管",
+        "美國"
+      ],
+      "guid": "https://www.blocktempo.com/?p=540015",
+      "summary": "SEC發布加密資產FAQ，釐清功能化後關鍵管理努力的監管邊界。 （前情提要：SEC 委員 Uyeda 直言：繼 […] 〈 SEC 九問有答出爐：加密資產證券界線再定義 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:47:09 +0000",
+      "updated_at": "2026-10-01T01:47:09Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:47:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bc5ac1ff80550af8c3695bfbb43ec403f40586b67c734caa76126b361cef0ffa",
+      "title": "Base 升級上線！條件交易+強制轉帳，代幣化股票工具一次到位",
+      "url": "https://www.blocktempo.com/base-cobalt-upgrade-conditional-transactions-tokenized-assets-b20/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:41:24Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "B20",
+        "Base",
+        "Cobalt",
+        "Coinbase",
+        "代幣化資產",
+        "加密貨幣市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539944",
+      "summary": "Base 完成第三次重大升級 Cobalt，新增條件交易機制與多重合規檢查工具。創始人 Jesse Polla […] 〈 Base 升級上線！條件交易+強制轉帳，代幣化股票工具一次到位 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:41:24 +0000",
+      "updated_at": "2026-10-01T01:41:24Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:41:24 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ebddea14b9eed4b76d05d0fd99fa42064b100187702153b93f4a22bb9965e6a0",
+      "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
+      "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-01T01:40:50Z",
+      "authors": [
+        "kaycebasques"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49916668",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f Comments URL: https://news.ycombinator.com/item?id=49916668 Points: 31 # Comments: 7",
+      "published_raw": "Thu, 01 Oct 2026 01:40:50 +0000",
+      "updated_at": "2026-10-01T01:40:50Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:40:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:636748839f3b09e9e1afb24de08ad77fd05e9aaf35d65c103626f3814f2fcb92",
+      "title": "路透：麥當勞推 AI 定價工具，曾建議大麥克套餐賣 570 元",
+      "url": "https://technews.tw/2026/10/01/inside-mcdonalds-push-to-have-ai-price-your-big-mac/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T01:40:33Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "加盟",
+        "國際觀察",
+        "大麥克",
+        "定價",
+        "演算法",
+        "食品科技",
+        "麥當勞"
+      ],
+      "guid": "https://technews.tw/?p=1622419",
+      "summary": "路透社報導，速食業巨擘麥當勞正在加強運用 AI 來指導全美及部分全球市場如何定價，其定價工具曾建議美國某加盟餐 […]",
+      "published_raw": "Thu, 01 Oct 2026 01:40:33 +0000",
+      "updated_at": "2026-10-01T01:40:33Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:40:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:29f7badce09c3607520e9098bb5f5bb49f0886ac4ddd6cb713226d14f3b1d229",
+      "title": "RWA 飆漲 26 倍：韓國資產香港代幣化的實操拆解",
+      "url": "https://www.blocktempo.com/korea-hong-kong-rwa-tokenization-real-world-assets-distribution-compliance/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:39:47Z",
+      "authors": [
+        "PANews"
+      ],
+      "categories": [
+        "代幣化",
+        "區塊鏈商業應用",
+        "合規",
+        "韓國"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539971",
+      "summary": "RWA 代幣化市場一年暴漲 26 倍至 388.6 億美元，韓國資產經香港持牌中介賣給海外專業投資者——但真正 […] 〈 RWA 飆漲 26 倍：韓國資產香港代幣化的實操拆解 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:39:47 +0000",
+      "updated_at": "2026-10-01T01:39:47Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:39:47 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a00553b30fc426c9c442b6645f0358b85e59f3a1d82b3028594e8b63259c9a70",
+      "title": "Clarity Act 沒過關反而利多？Bitwise：免受限縮、SEC 出手更快",
+      "url": "https://www.blocktempo.com/clarity-act-failure-bitwise-hougan-faster-wins-sec-stablecoin/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:38:57Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Bitwise",
+        "CLARITY Act",
+        "GENIUS Act",
+        "法規",
+        "穩定幣 stablecoins",
+        "美國證券交易委員會"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539953",
+      "summary": "Bitwise CIO Matt Hougan 認為 Clarity Act 卡關反而讓加密產業躲過不利條款， […] 〈 Clarity Act 沒過關反而利多？Bitwise：免受限縮、SEC 出手更快 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:38:57 +0000",
+      "updated_at": "2026-10-01T01:38:57Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:38:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7278a28ba75fb3d93c443b7b0beb9f00a2c749836f72c54f5590d1b151009f1a",
+      "title": "MetaMask 緊急撤出 Lido 驗證者！資安事件調查中，重創 ETH 質押？",
+      "url": "https://www.blocktempo.com/metamask-exits-lido-validators-security-incident-eth-staking-precautionary-measures/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:33:26Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "ETH質押",
+        "Lido",
+        "metamask",
+        "以太坊",
+        "資安事件",
+        "驗證者"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539974",
+      "summary": "MetaMask 偵測到內部資安威脅，宣布暫停旗下非託管質押服務的 Lido 驗證者營運。Lido 警告退出過 […] 〈 MetaMask 緊急撤出 Lido 驗證者！資安事件調查中，重創 ETH 質押？ 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:33:26 +0000",
+      "updated_at": "2026-10-01T01:33:26Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:33:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:72d978cde7af2365f57c23bd839d4e0e95ef88951840924d555346a3afbf3b3e",
+      "title": "比特幣穩住 8.35 萬鎂、以太坊回 2,684 鎂！全網爆倉 2.68 億鎂",
+      "url": "https://www.blocktempo.com/btc-eth-consolidate-835k-coinglass-liquidations-oct-1/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-01T01:32:17Z",
+      "authors": [
+        "0xJigglypuff"
+      ],
+      "categories": [
+        "以太坊",
+        "加密貨幣",
+        "市場分析",
+        "比特幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539984",
+      "summary": "比特幣今（1）日續守 8.35 萬美元區間，以太坊微彈至 2,684 美元，全網合約爆倉 2.68 億美元，貪 […] 〈 比特幣穩住 8.35 萬鎂、以太坊回 2,684 鎂！全網爆倉 2.68 億鎂 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 01 Oct 2026 01:32:17 +0000",
+      "updated_at": "2026-10-01T01:32:17Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:32:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:582f31a318186ff7bd0789b04c27791aa62f082930b20ac739fcb34449d44789",
+      "title": "英情報機關警告，中國藉資助 AI 等學術研究提升刺探情報能力",
+      "url": "https://infosecu.technews.tw/2026/10/01/uk-accuses-china-of-using-academics-to-spy-on-ai-and-other-tech-research/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T01:30:32Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "中國",
+        "網路",
+        "資訊安全",
+        "軍情五處",
+        "間諜警報"
+      ],
+      "guid": "https://technews.tw/?p=1622413",
+      "summary": "英國情報機關「軍情五處」（MI5）9 月 30 日前所未見發布一份「間諜警報」，警告有一個中國組織代替中國國家 […]",
+      "published_raw": "Thu, 01 Oct 2026 01:30:32 +0000",
+      "updated_at": "2026-10-01T01:30:32Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:30:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d71c5dfb1e9312486077fb18e38bd6ac5c36f27f6590f8d10c4c7b90ab1ad140",
+      "title": "美國第 2 季 GDP 成長上修至 2.2%，消費支出強勁推動經濟",
+      "url": "https://finance.technews.tw/2026/10/01/us-second-quarter-gdp-revised-higher-amid-robust-consumer-spending/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T01:20:01Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "GDP",
+        "國際觀察",
+        "美國",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1622409",
+      "summary": "美國政府今天公布數據，將第 2 季 GDP 成長率上修至 2.2%，主要受強勁消費支出及人工智慧（AI）基礎設 […]",
+      "published_raw": "Thu, 01 Oct 2026 01:20:01 +0000",
+      "updated_at": "2026-10-01T01:20:01Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:20:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:11ca94ac602c1a1309f5e76dff83419901fb293374392a44c68a54811f50bc52",
+      "title": "川普宣布韓將投資阿拉斯加 LNG，日韓台菲可仰賴美能源",
+      "url": "https://technews.tw/2026/10/01/trump-unveils-s-koreas-investment-plans-for-alaska-lng-project/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T01:10:36Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "國際貿易",
+        "液化天然氣",
+        "美國",
+        "能源科技",
+        "阿拉斯加",
+        "韓國"
+      ],
+      "guid": "https://technews.tw/?p=1622405",
+      "summary": "美國總統川普 9 月 30 日宣布，韓國將在美國能源產業投資 2,000 億美元，其中包括阿拉斯加液化天然氣（ […]",
+      "published_raw": "Thu, 01 Oct 2026 01:10:36 +0000",
+      "updated_at": "2026-10-01T01:10:36Z",
+      "updated_raw": "Thu, 01 Oct 2026 01:10:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c940029f58de464b313854896cc46cf7d88f08595dbe0ec94be86950fac3057e",
+      "title": "Google發表旗艦級AI模型Argon 不再計劃推Gemini 3.5 Pro",
+      "url": "https://www.cna.com.tw/news/ait/202610010031.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-10-01T01:03:06Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-10-01/202610010031",
+      "summary": "（中央社舊金山30日綜合外電報導）Alphabet旗下谷歌公司（Google）今天發表新的旗艦級人工智慧（AI）模型Argon，作為其Gemini 4世代的核心，在AI競賽中追趕Anthropic與OpenAI等競爭對手。",
+      "published_raw": "Thu, 01 Oct 2026 09:03:06 +0800",
+      "updated_at": "2026-10-01T01:03:06Z",
+      "updated_raw": "Thu, 01 Oct 2026 09:03:06 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:109cf830abd79746e983c22abb31d19574e76cd49a7c57f1ec14659cd860df5d",
+      "title": "牧德訂單能見度達 1 年，2027 年 AI 營收占比上看 9 成",
+      "url": "https://technews.tw/2026/10/01/motech-order-visibility-1-year-ai-revenue-90-percent-2027/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:58:05Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AOI 檢測",
+        "MSAP",
+        "PCB",
+        "半導體",
+        "封裝測試",
+        "牧德"
+      ],
+      "guid": "https://technews.tw/?p=1622398",
+      "summary": "牧德科技昨（9 月 30 日）召開法人說明會，公司表示，隨 AI 伺服器、高效能運算及高速傳輸應用持續發展，高 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:58:05 +0000",
+      "updated_at": "2026-10-01T00:58:05Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:58:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4090283783b232e7998e0d83398bf3b810350b40a2a83e013e991178886acbca",
+      "title": "土耳其爆基金危機，前部長疑涉內線交易遭凍結資產",
+      "url": "https://finance.technews.tw/2026/10/01/turkey-fund-crisis-former-minister-insider-trading-assets-frozen/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:40:34Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "內線消息",
+        "國際觀察",
+        "土耳其",
+        "投資基金",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1622380",
+      "summary": "土耳其檢方近日著手凍結前家庭部長暨執政黨高層卡雅的資產。卡雅先前被指控從投資基金危機中獲利，已於週末辭去黨職。 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:40:34 +0000",
+      "updated_at": "2026-10-01T00:40:34Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:40:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ddb777876359e19adda3d45fa93a61891efbe7ce16515c1c5fb0a86cde126336",
+      "title": "鎧俠加入應材 EPIC 中心，將攜手合作開發先進記憶體",
+      "url": "https://technews.tw/2026/10/01/kioxia-joins-forces-with-applied-materials-epic-center-to-collaborate-on-the-development-of-advanced-memory/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:40:28Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "Epic",
+        "IC 設計",
+        "半導體",
+        "國際觀察",
+        "應材",
+        "晶片",
+        "記憶體",
+        "鎧俠"
+      ],
+      "guid": "https://technews.tw/?p=1622391",
+      "summary": "應用材料宣布，NAND Flash 與 SSD 製造大廠鎧俠（KIOXIA）將加入應材位於矽谷的設備與製程創新 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:40:28 +0000",
+      "updated_at": "2026-10-01T00:40:28Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:40:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:342fe180d39a22401ce6ff6d72478f08803033464d37c8f82e8f3206ab97b6e4",
+      "title": "土衛二羽狀物冰粒或藏大彩蛋，生命物質自動「濃縮」更方便探測",
+      "url": "https://technews.tw/2026/10/01/enceladus-saturn-moon-ocean-microscopic-life/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:30:40Z",
+      "authors": [
+        "Emma stein"
+      ],
+      "categories": [
+        "土衛二",
+        "地下海洋",
+        "外星生命",
+        "天文",
+        "恩克拉多斯",
+        "羽狀物",
+        "自然科學",
+        "航太科技"
+      ],
+      "guid": "https://technews.tw/?p=1622317",
+      "summary": "有望尋找外星生命的天體通常需具備液態水、能量來源、有機分子 3 大要素，土衛二恩克拉多斯（Enceladus） […]",
+      "published_raw": "Thu, 01 Oct 2026 00:30:40 +0000",
+      "updated_at": "2026-10-01T00:30:40Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:30:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7da2032646c1c421408f4ffe34bf4f14accf8c42ffe4a981f46f40ca55b8c2c8",
+      "title": "為高通打下 Arm Windows 架構基礎，Snapdragon 850 將走到生命週期終點",
+      "url": "https://finance.technews.tw/2026/10/01/the-snapdragon-850-is-nearing-the-end-of-its-lifecycle/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:30:32Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "Arm",
+        "IC 設計",
+        "Qualcomm",
+        "Snapdragon 850",
+        "Windows",
+        "半導體",
+        "國際觀察",
+        "晶片",
+        "處理器",
+        "財經",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1622387",
+      "summary": "高通（Qualcomm）在推動 Windows 系統運行於 ARM 晶片的過程中歷經波折，但若非當年的 Sna […]",
+      "published_raw": "Thu, 01 Oct 2026 00:30:32 +0000",
+      "updated_at": "2026-10-01T00:30:32Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:30:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2c56003a257c1130de32da8e9068bc46616097bfb6e553d7c165c705ba43ad16",
+      "title": "省下千億美元基建費，虛擬電廠攜手智慧調度成 AI 缺電時代救星",
+      "url": "https://technews.tw/2026/10/01/power-grid-revolution-solutions-ai-era/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:30:29Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 運算",
+        "Nvidia",
+        "國際觀察",
+        "發電廠",
+        "能源科技",
+        "資料中心",
+        "輝達",
+        "電網"
+      ],
+      "guid": "https://technews.tw/?p=1621951",
+      "summary": "隨著 AI 運算需求呈爆炸性成長，美國電力業界正面臨迫切挑戰：與其耗時費力興建新發電廠，不如將現有電網與供電資 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:30:29 +0000",
+      "updated_at": "2026-10-01T00:30:29Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:30:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f3e749a4da6b252f24fa0e2acc60df1d826a5113639da430845b805d9cf9f9d8",
+      "title": "不再只靠貝佐斯，藍源首次籌措外部資金",
+      "url": "https://technews.tw/2026/10/01/blue-origin-first-external-funding-no-longer-solely-bezos/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:20:46Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "Artemis",
+        "Blue Origin",
+        "NASA",
+        "SpaceX",
+        "jeff bezos",
+        "太空競賽",
+        "尖端科技",
+        "航太科技"
+      ],
+      "guid": "https://technews.tw/?p=1622089",
+      "summary": "法新社報導，藍源公司（Blue Origin）執行長林普（Dave Limp）29 日表示，這家位於美國的公司 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:20:46 +0000",
+      "updated_at": "2026-10-01T00:20:46Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:20:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:878288422682e9cf3976b4a849be727ff0424b4f0efd502b3fec113ac6e1cbb3",
+      "title": "Fed 偏好通膨指標出爐，美 8 月核心 PCE 年增 3% 低於預期",
+      "url": "https://finance.technews.tw/2026/10/01/feds-preferred-gauge-showed-core-inflation-at-3-0-in-august/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:15:07Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Fed",
+        "PCE",
+        "國際觀察",
+        "國際金融",
+        "財經",
+        "通膨"
+      ],
+      "guid": "https://technews.tw/?p=1622377",
+      "summary": "美國商務部 9 月 30 日公布的資料顯示，美國 8 月核心個人消費支出物價指數（PCE）年增率為 3%，低於 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:15:07 +0000",
+      "updated_at": "2026-10-01T00:15:07Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:15:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:65e4ea03547d259877be87b79c7aeb8829627b5c55ded75ec1acd074669351d4",
+      "title": "拒絕 AI 代筆成職場負擔！科技業掀內容標示潮，連牛排表符都出動",
+      "url": "https://technews.tw/2026/10/01/tech-industry-ai-labeling-trend/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:10:31Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 公司",
+        "AI 寫作",
+        "人力資源",
+        "提示詞",
+        "數位內容",
+        "浮水印",
+        "科技新創",
+        "聊天機器人"
+      ],
+      "guid": "https://technews.tw/?p=1621713",
+      "summary": "AI 公司正面臨一個日益普遍的內部難題：員工利用聊天機器人撰寫文字雖然方便，卻導致同事必須花費更多時間去解讀充 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:10:31 +0000",
+      "updated_at": "2026-10-01T00:10:31Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:10:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:73d094e3021538958ac959d09a2d8cc119bd9f66867538ec6270bd96ce53b89c",
+      "title": "AI 創造更多工作，卻拆掉職場新手村？新人為何更難入場",
+      "url": "https://technews.tw/2026/10/01/how-does-ai-change-labor-demand-evidence-from-41-countries/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:00:57Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 培訓",
+        "人力資源",
+        "企業新人",
+        "入門工作",
+        "初階職位",
+        "新手村",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1621683",
+      "summary": "人工智慧會否消滅工作，一直是科技界和勞動市場關注的議題。史丹佛大學 Bharat Chandar 與倫敦國王學 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:00:57 +0000",
+      "updated_at": "2026-10-01T00:00:57Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:00:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fe2460b3cca7b5d8f79a1d5a8d0b87b0ef0b63ecf16f4825eced15573b73f299",
+      "title": "台積電 2 奈米製程加持，AMD Zen 6 架構 Venice EPYC 處理器 2027 年產能售罄",
+      "url": "https://finance.technews.tw/2026/10/01/amds-zen-6-architecture-venice-epyc-processors-have-sold-out-for-2027/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-01T00:00:48Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "AMD",
+        "Arm",
+        "EPYC",
+        "IC 設計",
+        "IC設計",
+        "intel",
+        "伺服器",
+        "半導體",
+        "台積電",
+        "國際觀察",
+        "晶圓代工",
+        "晶片",
+        "處理器",
+        "財經",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1622368",
+      "summary": "隨著全球人工智慧（AI）產業加速轉向代理人（Agentic）工作，資料中心對高效能CPU的需求急劇暴增。根據最 […]",
+      "published_raw": "Thu, 01 Oct 2026 00:00:48 +0000",
+      "updated_at": "2026-10-01T00:00:48Z",
+      "updated_raw": "Thu, 01 Oct 2026 00:00:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:44b57545e3a2d8df4045dcfa74b4c542a7f2564bbfbb46f9a873ce03635b4d97",
+      "title": "駭客沒有炸工廠，卻讓工廠停擺：Boston Scientific 網攻揭開製造業最怕的資安風險",
+      "url": "https://finance.technews.tw/2026/10/01/boston-scientific-on-road-to-recovery-following-cyberattack/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:50:25Z",
+      "authors": [
+        "Eason"
+      ],
+      "categories": [
+        "Boston Scientific",
+        "公司治理",
+        "網路",
+        "製造業",
+        "資訊安全",
+        "駭客"
+      ],
+      "guid": "https://technews.tw/?p=1620819",
+      "summary": "過去談到製造業的實體營運風險，管理層最先想到的通常是工廠火災、地震、機具故障，或是原料短缺。大家普遍認為，只要 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:50:25 +0000",
+      "updated_at": "2026-09-30T23:50:25Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:50:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ac40e269fae9b075bbf73d6a15ca14ae72f1d285ee3dd3184eeba3f3e0b2465b",
+      "title": "欣興砸百億湖口買地，因應持續擴產高階載板需求",
+      "url": "https://finance.technews.tw/2026/10/01/xinxing-spends-billions-to-buy-land-in-hukou/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:45:33Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "PCB",
+        "伺服器",
+        "公司治理",
+        "欣興",
+        "財經",
+        "載板",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1622364",
+      "summary": "欣興電子於 9 月 30 日發布重大訊息指出，將取得位於新竹縣湖口鄉之不動產，交易總金額達新台幣 100 億 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:45:33 +0000",
+      "updated_at": "2026-09-30T23:45:33Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:45:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:19909b54158fe4ea20981849370b7fdeeef49278ce496d4840f8bdd3f882fc17",
+      "title": "就像《阿達一族》的小手！蘇黎世聯邦理工學院打造能自己走路的五指機械手",
+      "url": "https://technews.tw/2026/10/01/this-robotic-hand-walks-on-its-fingertips/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:40:23Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "尖端科技",
+        "機器人",
+        "機械手",
+        "科技趣聞",
+        "蘇黎世聯邦理工學院"
+      ],
+      "guid": "https://technews.tw/?p=1621027",
+      "summary": "蘇黎世聯邦理工學院（ETH Zurich）軟體機器人實驗室（Soft Robotics Lab）近日展示了一項 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:40:23 +0000",
+      "updated_at": "2026-09-30T23:40:23Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:40:23 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4f6283fef216bb5e8cd1afb7e28d5699c34a2f50305aec763c81d111e630accf",
+      "title": "匿名 AI 模型 Space Bunny，免費一週 20 萬人搶用",
+      "url": "https://technews.tw/2026/10/01/space-bunny-draws-200000-users-in-one-week/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:30:20Z",
+      "authors": [
+        "動區動趨"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "DeepSeek",
+        "Space Bunny",
+        "網路",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1621958",
+      "summary": "匿名開發者製作的 AI 模型「Space Bunny」，上線 6 天就成了開源程式碼代理 OpenCode 上 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:30:20 +0000",
+      "updated_at": "2026-09-30T23:30:20Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:30:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:96607c6fb105e8b5c23b662340cdde201f9f0a753a6486c4755fdd71d17691fe",
+      "title": "美光 2026 年第四季毛利率衝上 86.8%，單季及全年財報均創歷史記錄",
+      "url": "https://finance.technews.tw/2026/10/01/microns-gross-margin-surged-to-86-8-in-the-fourth-quarter-of-2026/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:30:19Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "HBM",
+        "IC 設計",
+        "dram",
+        "半導體",
+        "國際觀察",
+        "晶片",
+        "美光",
+        "記憶體",
+        "財報",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1621755",
+      "summary": "受惠於全球人工智慧（AI）基礎設施建設帶來的歷史性記憶體需求，美國記憶體大廠美光科技（Micron Techn […]",
+      "published_raw": "Wed, 30 Sep 2026 23:30:19 +0000",
+      "updated_at": "2026-09-30T23:30:19Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:30:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:878412352e547b372ba873badaefa19ba62dbe3ec3466352380eab19b2e78090",
+      "title": "俄烏戰爭刺激歐洲需求大規模量產平價飛彈",
+      "url": "https://technews.tw/2026/10/01/ukraine-war-spurs-europe-low-cost-missile-demand/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:20:26Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "Destinus",
+        "俄烏戰爭",
+        "國際觀察",
+        "平價飛彈",
+        "攔截飛彈",
+        "歐洲",
+        "軍事科技",
+        "量產型飛彈"
+      ],
+      "guid": "https://technews.tw/?p=1620716",
+      "summary": "二次世界大戰時，空襲轟炸採地毯式轟炸，耗用大量「笨炸彈」但是效果差強人意，之後軍事武器研發的思路改為精準打擊， […]",
+      "published_raw": "Wed, 30 Sep 2026 23:20:26 +0000",
+      "updated_at": "2026-09-30T23:20:26Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:20:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bf2da02f05d13ce3c7333500be2374ee5b04457b12cfb9f934284de72f2f3c6e",
+      "title": "Google 執行長皮查伊給年輕人的職涯建議：刻意讓自己「不舒服」，和比你強的人共事",
+      "url": "https://technews.tw/2026/10/01/google-ceo-sundar-pichai-says-this-one-uncomfortable-habit-gets-young-workers-ahead/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:20:17Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Google",
+        "Sundar Pichai",
+        "名人談",
+        "工作",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1621033",
+      "summary": "Google 執行長桑達爾‧皮查伊（Sundar Pichai）近日分享自己的職涯體悟。他認為，年輕工作者如果 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:20:17 +0000",
+      "updated_at": "2026-09-30T23:20:17Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:20:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6046dd035fdbb4c1fd31bf3289925985b36b0d8ad9003fbaae64d608fd2d0347",
+      "title": "軌島 RailIsland 免費開放，全台鐵道列車動態一覽無遺",
+      "url": "https://technews.tw/2026/10/01/railisland/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:10:49Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "交通運輸",
+        "台灣",
+        "網路",
+        "軌島 RailIsland",
+        "鐵路"
+      ],
+      "guid": "https://technews.tw/?p=1621891",
+      "summary": "台灣獨立開發者製作的鐵道地圖網站「軌島 RailIsland」，近日在社交平台 Threads 掀起討論。網站 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:10:49 +0000",
+      "updated_at": "2026-09-30T23:10:49Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:10:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bf0e2ff91c803a243e809617b34cb5ed1cf3500ae5cce5cb62a3580c60d52dcb",
+      "title": "波音有望取代洛馬成軍機市場霸主，手握四大機種考驗產能和管理能力",
+      "url": "https://technews.tw/2026/10/01/boeing-now-has-4-military-aircraft-contracts-and-it-will-be-a-serious-test-to-its-management-and-production/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-09-30T23:00:47Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "CCA",
+        "F/A-XX",
+        "國際觀察",
+        "尖端科技",
+        "波音",
+        "美國海軍",
+        "航太科技",
+        "諾斯洛普格魯曼",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1622332",
+      "summary": "美國海軍 9 月 29 日宣布，由波音擊敗諾斯洛普格魯曼，取得總值逾 200 億美元的 F/A-XX 第六代戰 […]",
+      "published_raw": "Wed, 30 Sep 2026 23:00:47 +0000",
+      "updated_at": "2026-09-30T23:00:47Z",
+      "updated_raw": "Wed, 30 Sep 2026 23:00:47 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:66992a4c8f098cb953cc32bd00ba01c4c75f7560cac8bc97aa530cdc9ca4fbdf",
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T22:08:50Z",
+      "authors": [
+        "adunk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49915126",
+      "summary": "Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 60 # Comments: 40",
+      "published_raw": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "updated_at": "2026-09-30T22:08:50Z",
+      "updated_raw": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5b2ed825b993d8ed5115464f0cbd3aa58972ae50912e53a284b88138f7938be5",
+      "title": "Automating Wi-Fi setup testing on the ESP32",
+      "url": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T22:07:51Z",
+      "authors": [
+        "adunk"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49915119",
+      "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/ Comments URL: https://news.ycombinator.com/item?id=49915119 Points: 13 # Comments: 0",
+      "published_raw": "Wed, 30 Sep 2026 22:07:51 +0000",
+      "updated_at": "2026-09-30T22:07:51Z",
+      "updated_raw": "Wed, 30 Sep 2026 22:07:51 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9e19749124fc5d0d9008d55195a6a207d3d7a252ba5bde597cf690a6f8817c13",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T22:03:04Z",
+      "authors": [
+        "Bluestein"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49915082",
+      "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 135 # Comments: 54",
+      "published_raw": "Wed, 30 Sep 2026 22:03:04 +0000",
+      "updated_at": "2026-09-30T22:03:04Z",
+      "updated_raw": "Wed, 30 Sep 2026 22:03:04 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:87223415febba086bc31cdb1d5f60ce79ae473578b6e3139e0a55de32fe30591",
+      "title": "pldb: programming languages papers",
+      "url": "https://pldb.kirancodes.me/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T21:23:24Z",
+      "authors": [
+        "matt_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49914657",
+      "summary": "Article URL: https://pldb.kirancodes.me/ Comments URL: https://news.ycombinator.com/item?id=49914657 Points: 19 # Comments: 1",
+      "published_raw": "Wed, 30 Sep 2026 21:23:24 +0000",
+      "updated_at": "2026-09-30T21:23:24Z",
+      "updated_raw": "Wed, 30 Sep 2026 21:23:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:46a1ea8b6634c84ae49d88b5bf875f9bff11057c9a7f5c3f596f94cb2e28380d",
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T20:06:39Z",
+      "authors": [
+        "pminimax"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49913604",
+      "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from Comments URL: https://news.ycombinator.com/item?id=49913604 Points: 25 # Comments: 6",
+      "published_raw": "Wed, 30 Sep 2026 20:06:39 +0000",
+      "updated_at": "2026-09-30T20:06:39Z",
+      "updated_raw": "Wed, 30 Sep 2026 20:06:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4e364d9068588fa665f1e2cb083b4c5f9aac10ae0e9eaeda830ceaf0b3e63e14",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T20:04:37Z",
+      "authors": [
+        "bradleyg223"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49913571",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombinator.com/item?id=49913571 Points: 1016 # Comments: 680",
+      "published_raw": "Wed, 30 Sep 2026 20:04:37 +0000",
+      "updated_at": "2026-09-30T20:04:37Z",
+      "updated_raw": "Wed, 30 Sep 2026 20:04:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8c9b4b265aa9d092019832cc5a14886f6c523bb9b9c336203654adffbcc28732",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T19:44:37Z",
+      "authors": [
+        "luu"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49913350",
+      "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 77 # Comments: 7",
+      "published_raw": "Wed, 30 Sep 2026 19:44:37 +0000",
+      "updated_at": "2026-09-30T19:44:37Z",
+      "updated_raw": "Wed, 30 Sep 2026 19:44:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1604f9db4bfa0927099be4d7677b76240f001f34f7ecbaa0aa4a06c77e59ba53",
+      "title": "EDG C++ front-end goes public",
+      "url": "https://edgcpp.org/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T19:26:37Z",
+      "authors": [
+        "iandinwoodie"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49913192",
+      "summary": "https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 152 # Comments: 76",
+      "published_raw": "Wed, 30 Sep 2026 19:26:37 +0000",
+      "updated_at": "2026-09-30T19:26:37Z",
+      "updated_raw": "Wed, 30 Sep 2026 19:26:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8a1eafff27ed7d746bf84631313ae08be19914f162b353a305edcfeb324de98e",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T19:04:50Z",
+      "authors": [
+        "ibobev"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49912955",
+      "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/item?id=49912955 Points: 124 # Comments: 40",
+      "published_raw": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "updated_at": "2026-09-30T19:04:50Z",
+      "updated_raw": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5eef6eed4104718c81777bd4cdbd00fe1fd3a8f134b1faa82cac14d1a7df6d81",
+      "title": "Before pixels: Modular industrial dashboards",
+      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T18:49:06Z",
+      "authors": [
+        "leephillips"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49912792",
+      "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 54 # Comments: 11",
+      "published_raw": "Wed, 30 Sep 2026 18:49:06 +0000",
+      "updated_at": "2026-09-30T18:49:06Z",
+      "updated_raw": "Wed, 30 Sep 2026 18:49:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:591a9459424e5e5fb9e712c4811e4a323a73da50ff0027d164c7ddc4157c9aa8",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T18:17:45Z",
+      "authors": [
+        "jbott"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49912444",
+      "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 121 # Comments: 48",
+      "published_raw": "Wed, 30 Sep 2026 18:17:45 +0000",
+      "updated_at": "2026-09-30T18:17:45Z",
+      "updated_raw": "Wed, 30 Sep 2026 18:17:45 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b5e55cfe22d3846d3c3294bdc35327c698c882a550a569e46b97cbf8aeb688ad",
+      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+      "url": "https://www.chompiclub.com/opensource",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T17:42:13Z",
+      "authors": [
+        "lashkari"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49912048",
+      "summary": "Article URL: https://www.chompiclub.com/opensource Comments URL: https://news.ycombinator.com/item?id=49912048 Points: 45 # Comments: 10",
+      "published_raw": "Wed, 30 Sep 2026 17:42:13 +0000",
+      "updated_at": "2026-09-30T17:42:13Z",
+      "updated_raw": "Wed, 30 Sep 2026 17:42:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cf705abc1dec54c6479a8be6a3b14ff9d2f3f7a1884e54614130a3c130bf414b",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T17:37:40Z",
+      "authors": [
+        "anerli"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49911995",
+      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. We're both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case. Inference engines today all make a performance tradeoff. They are either: - Built for batched inference on datacenter hardware at the cost of single-session performance (vLLM, SGLang) - Designed for broad compatibility instead of optimizing for specific hardware (llama.cpp, Ollama) - Specialized for specific hardware or models but lacking engine completeness (oMLX, ds4) Plus none of them are designed for running agents locally. Sessions are long, several often run at once, and you still want to use your computer for other things. Magnitude is built for maximum performance on your hardware and running local agents: - On-device compilation and tuning: Kernels are written with flexible parameters that are tuned on your actual device before the model runs. This gives you broad hardware compatibility with the same performance ceiling as hardware-specific kernels. - Focus on best architectures: We write our tunable, highly efficient kernels for the most popular open-weights families. This allows us to achieve and surpass the performance of hardware or model specialized engines, without forcing ourselves to over-generalize at the cost of performance. - Dynamic memory allocation: Magnitude reserves only enough memory up front to hold model weights. As your agent sessions grow, the memory heap dynamically increases, and frees itself when agents stop. Your hardware can still be used for other stuff while agents run. - Hybrid paged attention: We borrow the best ideas from engines like SGLang to allow concurrent sessions to share prefix caches, but optimize placement for memory-adjacency so single-session performance doesn't suffer. Magnitude is fully open source (Apache 2.0). We built it in Rust, including a custom GPU kernel runtime and autotuner. We take inspiration from the best innovations in inference from academics (e.g. FlashAttention, FlashInfer, TurboQuant) as well as other engines (e.g. SGLang radix attention) to reach the performance ceiling. Benchmarked against llama.cpp with Qwen 3.6 35B A3B (4 bit), 64k context, no speculative decoding: Metal (Mac M4 Pro 48 GB) - 92% faster decode (30 tok/s → 57 tok/s) - 9% faster prefill (466 tok/s → 507 tok/s) - 28% less per-agent memory usage CUDA (DGX Spark) - 19% faster decode (49 tok/s → 58 tok/s) - 23% faster prefill (2,033 tok/s → 2,507 tok/s) - 27% less per-agent memory usage Magnitude ships as a desktop app that you can easily connect with whatever agents you already use (Pi, OpenCode, Hermes, Codex, and more). It automatically runs models on demand when these agents actually need them, and shuts them down after inactivity. Here's what it looks like: https://www.youtube.com/watch?v=0qE8BWEZu7o We're excited to push Magnitude further to let you run bigger models on the same hardware while continuing to improve performance. Our plans include: - Expert streaming: store experts on RAM or disk and load them just-in-time. This lets you run models bigger than what otherwise would fit on your GPU. - Kernel compiler: our current kernels tune a few parameters to fit your hardware. We can take this further with a fully custom compiler that automatically chooses how to fuse kernels and which implementations to use, to make it fit to your hardware even better. - Multi-device utilization: Make the best possible use of all hardware on a system (CPU, GPUs, RAM, disk) by detecting these and automatically solving for the best model layout. We'd love for more people to try it out and give us feedback. Feel free to comment here, we'll be around all day! Comments URL: https://news.ycombinator.com/item?id=49911995 Points: 126 # Comments: 57",
+      "published_raw": "Wed, 30 Sep 2026 17:37:40 +0000",
+      "updated_at": "2026-09-30T17:37:40Z",
+      "updated_raw": "Wed, 30 Sep 2026 17:37:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8210756bfc234b09dd547d7aabc9f52313b1d308e8e287f9f83578371be74a4b",
+      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
+      "url": "https://www.software3d.com/MillersMonster.php",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T17:00:44Z",
+      "authors": [
+        "cobbzilla"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49911534",
+      "summary": "Article URL: https://www.software3d.com/MillersMonster.php Comments URL: https://news.ycombinator.com/item?id=49911534 Points: 40 # Comments: 3",
+      "published_raw": "Wed, 30 Sep 2026 17:00:44 +0000",
+      "updated_at": "2026-09-30T17:00:44Z",
+      "updated_raw": "Wed, 30 Sep 2026 17:00:44 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f673de0bf41742c7d9299cfdef8ed2f5c9c98f1cb7ff57db5bb065dcdc9ab54a",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-09-30T17:00:20Z",
+      "authors": [
+        "rooppal"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49911531",
+      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=49911531 Points: 0 # Comments: 0",
+      "published_raw": "Wed, 30 Sep 2026 17:00:20 +0000",
+      "updated_at": "2026-09-30T17:00:20Z",
+      "updated_raw": "Wed, 30 Sep 2026 17:00:20 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:84e842d00802bdb790d7c375e59eaf634a83bddec57021687da254075023d595",
+      "title": "CFTC 反擊各州！預測市場合約要變衍生品，賭博罪名不背了",
+      "url": "https://www.blocktempo.com/cftc-event-contracts-swaps-definition-states-gambling-kalshi-polymarket/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-30T16:17:37Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "CFTC",
+        "Kalshi",
+        "Polymarket",
+        "法規",
+        "衍生品",
+        "預測市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539910",
+      "summary": "CFTC 向白宮提交兩項法規草案，要把預測市場的事件合約納入 swaps 衍生品定義，同時排除賭博性質。這招可 […] 〈 CFTC 反擊各州！預測市場合約要變衍生品，賭博罪名不背了 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 30 Sep 2026 16:17:37 +0000",
+      "updated_at": "2026-09-30T16:17:37Z",
+      "updated_raw": "Wed, 30 Sep 2026 16:17:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3271d093288577c43dfbf3bfdd110963f783a36e43b4fb5368be1905a58b3905",
+      "title": "企業級穩定幣來了！Open Standard 宣布 OUSD 上線，主打分潤機制、貝萊德託管儲備金",
+      "url": "https://www.blocktempo.com/open-standard-launches-ousd-stablecoin-for-enterprise/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-09-30T16:14:33Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Coinbase",
+        "Defi",
+        "Mastercard",
+        "OUSD",
+        "OpenStandard",
+        "stripe",
+        "穩定幣",
+        "跨境支付"
+      ],
+      "guid": "https://www.blocktempo.com/?p=539909",
+      "summary": "穩定幣戰場再添猛將！Open Standard 於昨（30）日正式宣布，旗下企業級穩定幣 Open USD（O […] 〈 企業級穩定幣來了！Open Standard 宣布 OUSD 上線，主打分潤機制、貝萊德託管儲備金 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 30 Sep 2026 16:14:33 +0000",
+      "updated_at": "2026-09-30T16:14:33Z",
+      "updated_raw": "Wed, 30 Sep 2026 16:14:33 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
