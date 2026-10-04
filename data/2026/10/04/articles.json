@@ -1,0 +1,716 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-04",
+  "timezone": "Asia/Taipei",
+  "article_count": 30,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2a66841d9c38d130386dbd9a8220ab6d7ae701d1a6d537275b096065987d140a",
+      "title": "「自己組一定最省錢」成過去式，套裝電腦重回玩家選購清單",
+      "url": "https://technews.tw/2026/10/04/building-pc-not-cost-effective/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T02:30:07Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "主機",
+        "價格",
+        "儲存設備",
+        "套裝機",
+        "客製化",
+        "硬碟",
+        "科技生活",
+        "自組電腦",
+        "記憶體",
+        "零組件",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1621931",
+      "summary": "長久以來，自行組裝電腦始終是玩家在「價格」與「客製化」之間取得完美平衡的最佳選擇。然而，到了 2026 年，這 […]",
+      "published_raw": "Sun, 04 Oct 2026 02:30:07 +0000",
+      "updated_at": "2026-10-04T02:30:07Z",
+      "updated_raw": "Sun, 04 Oct 2026 02:30:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e622d85cfe4078704a95acb4cc3869bd42d0611b28fa6e368e2bfd338f77819a",
+      "title": "比特小鹿 (Bitdeer) 一週挖 292.3 枚 BTC 全賣光，持續零持倉押注 AI 雲",
+      "url": "https://www.blocktempo.com/bitdeer-zero-bitcoin-holdings-sells-mining-output-pivots-ai-cloud/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-04T02:26:31Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "AI",
+        "Bitdeer",
+        "MARA",
+        "吳忌寒",
+        "挖礦",
+        "比特小鹿",
+        "比特幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=541130",
+      "summary": "Bitdeer 本週挖出的 292.3 枚 BTC 全數賣出，持續零持倉；賣幣資金轉向 AI 雲與電力土地，但 […] 〈 比特小鹿 (Bitdeer) 一週挖 292.3 枚 BTC 全賣光，持續零持倉押注 AI 雲 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 04 Oct 2026 02:26:31 +0000",
+      "updated_at": "2026-10-04T02:26:31Z",
+      "updated_raw": "Sun, 04 Oct 2026 02:26:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d80f9aea08ef4aadb50551f80d6f4d88abff4bc2bbdba1d5a1b1cb9ecf4176b4",
+      "title": "方舟女股神：當 Agent 開始花錢，投資人須關注 AI 使用什麼基礎設施",
+      "url": "https://www.blocktempo.com/cathie-wood-follow-the-agents-ai-spending-stablecoin-payment/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-04T02:20:40Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "AI",
+        "AI Agent",
+        "Ark Invest",
+        "BlackRock",
+        "Cathie Wood",
+        "即時新聞"
+      ],
+      "guid": "https://www.blocktempo.com/?p=541050",
+      "summary": "ARK Invest 共同創辦人 Cathie Wood 在 Robinhood Summit 提出新投資法則 […] 〈 方舟女股神：當 Agent 開始花錢，投資人須關注 AI 使用什麼基礎設施 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 04 Oct 2026 02:20:40 +0000",
+      "updated_at": "2026-10-04T02:20:40Z",
+      "updated_raw": "Sun, 04 Oct 2026 02:20:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3f856f6387c6359ec1ce54287bd5d8a7c45cbe833414f2dd4eb1b9e41cd1518a",
+      "title": "台積電可能加入 Terafab，馬斯克證實正在洽談晶片製造合作",
+      "url": "https://finance.technews.tw/2026/10/04/elon-musk-confirmed-that-hes-in-talks-with-tsmc-for-joining-the-terafab/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T02:01:06Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "JASM",
+        "TeraFab",
+        "半導體",
+        "台積電",
+        "德州",
+        "晶片",
+        "財經",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1623593",
+      "summary": "高燦鳴（Tim Culpan）近日表示，晶圓代工龍頭台積電正與特斯拉執行長馬斯克（Elon Musk）旗下的晶 […]",
+      "published_raw": "Sun, 04 Oct 2026 02:01:06 +0000",
+      "updated_at": "2026-10-04T02:01:06Z",
+      "updated_raw": "Sun, 04 Oct 2026 02:01:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7d47bfe0e635994e8a45202e658f6cb5cb191b355783e629f8da2a38812ec6a6",
+      "title": "漲價不怕用戶退坑？Uber Eats 靠演算法挑會員，「誰值得留」才給深度折扣",
+      "url": "https://finance.technews.tw/2026/10/04/uber-eats-price-hike-amid-complaints-algorithm-precisely-calculates-who-to-retain/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T02:00:43Z",
+      "authors": [
+        "商業周刊"
+      ],
+      "categories": [
+        "Uber EATS",
+        "人力資源",
+        "公司治理",
+        "共享經濟",
+        "外送",
+        "外送專法",
+        "外送平台",
+        "演算法"
+      ],
+      "guid": "https://technews.tw/?p=1623192",
+      "summary": "Uber Eats 在外送專法上路、成本增加之際選擇漲價，為何仍有底氣？關鍵不只在於 Uber 有叫車、廣告等 […]",
+      "published_raw": "Sun, 04 Oct 2026 02:00:43 +0000",
+      "updated_at": "2026-10-04T02:00:43Z",
+      "updated_raw": "Sun, 04 Oct 2026 02:00:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bde8678ca2da867ad5257f4f441be10faef66501388e79a470de9e3e32cc07e5",
+      "title": "Zano 駭客印出 1,800 兆枚假穩定幣！鏈上無法辨別，團隊回滾一個月",
+      "url": "https://www.blocktempo.com/zano-fake-coins-blockchain-rollback-gateway-address-exploit/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-04T01:58:52Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Gateway Address",
+        "Zano",
+        "區塊鏈回滾",
+        "安全",
+        "資安事件",
+        "鏈上漏洞"
+      ],
+      "guid": "https://www.blocktempo.com/?p=541100",
+      "summary": "Zano 駭客利用 Gateway Address 漏洞無限量印幣，3,690 萬枚假 ZANO 與 1,80 […] 〈 Zano 駭客印出 1,800 兆枚假穩定幣！鏈上無法辨別，團隊回滾一個月 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 04 Oct 2026 01:58:52 +0000",
+      "updated_at": "2026-10-04T01:58:52Z",
+      "updated_raw": "Sun, 04 Oct 2026 01:58:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8421445b4fe138d14f11e307150d4930da1320f468988baf3831b5fa296c0a06",
+      "title": "今年還是有成功機會，專家教你六個 AI 商機與無資金創業法",
+      "url": "https://finance.technews.tw/2026/10/04/6-ai-business-ideas-for-2026-and-how-to-start-one-with-no-funding/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T01:30:00Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "AI 創業",
+        "公司治理",
+        "新創"
+      ],
+      "guid": "https://technews.tw/?p=1621895",
+      "summary": "人工智慧應用持續擴大，市場開始出現一批不依賴新模型、技術合夥人或外部融資也能啟動的 AI 創業構想。最新整理的 […]",
+      "published_raw": "Sun, 04 Oct 2026 01:30:00 +0000",
+      "updated_at": "2026-10-04T01:30:00Z",
+      "updated_raw": "Sun, 04 Oct 2026 01:30:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5568b80ef263ad5af953e2059fba5bea8c7352f84d51c011f37b9dc4d2ae3bca",
+      "title": "「窮人的生命價值也一樣！」神祕大亨陳和錦燒錢 20 年催生長弘抗癌新藥",
+      "url": "https://finance.technews.tw/2026/10/04/everfront-biotech-inc/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T01:00:07Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "公司治理",
+        "生物科技",
+        "癌症",
+        "癌細胞",
+        "胰臟癌",
+        "腦膠質瘤",
+        "腫瘤",
+        "製藥",
+        "醫療科技",
+        "醫藥",
+        "長弘生技"
+      ],
+      "guid": "https://technews.tw/?p=1623204",
+      "summary": "根據《財訊》雙週刊報導，長弘生物科技繼今年 7 月，獲首屆「藥華醫藥創新獎」的大獎，得到 10 萬美元獎金後， […]",
+      "published_raw": "Sun, 04 Oct 2026 01:00:07 +0000",
+      "updated_at": "2026-10-04T01:00:07Z",
+      "updated_raw": "Sun, 04 Oct 2026 01:00:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8bbe914e7f3492f6d14e0020e4fbe8f61b5f884413a8fe0a929dc7d4e7b2b05a",
+      "title": "Bob Cringely Has Died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-04T00:50:52Z",
+      "authors": [
+        "paveworld"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49949438",
+      "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed. Comments URL: https://news.ycombinator.com/item?id=49949438 Points: 128 # Comments: 17",
+      "published_raw": "Sun, 04 Oct 2026 00:50:52 +0000",
+      "updated_at": "2026-10-04T00:50:52Z",
+      "updated_raw": "Sun, 04 Oct 2026 00:50:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9267b2f70ea543a2d9387140374cb6cc2b2abbfde62a9679c1ef12d33c600be3",
+      "title": "特斯拉前團隊打造「供應鏈大腦」，AI 新創 Atomic 獲 1,250 萬美元 A 輪募資",
+      "url": "https://technews.tw/2026/10/04/atomic-automated-supply-chain/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T00:30:31Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "A 輪募資",
+        "AI 人工智慧",
+        "AI 供應鏈",
+        "Atomic",
+        "代理式 AI",
+        "新創",
+        "自動化"
+      ],
+      "guid": "https://technews.tw/?p=1621980",
+      "summary": "總部位於波士頓的供應鏈 AI 新創 Atomic，近日宣布完成 1,250 萬美元的 A 輪募資，由 Klas […]",
+      "published_raw": "Sun, 04 Oct 2026 00:30:31 +0000",
+      "updated_at": "2026-10-04T00:30:31Z",
+      "updated_raw": "Sun, 04 Oct 2026 00:30:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:40835e68e5a4f3ebc381c97c24dbb82ab20d969a4d609d3e8a934576dbbd2979",
+      "title": "每週狂聊 89 小時！美研究揭青少年陷「AI 陪伴」成癮，越用竟越孤獨",
+      "url": "https://technews.tw/2026/10/04/us-study-reveals-teenagers-addicted-ai-companionship-chatting-89-hours-weekly-paradoxically-becoming-lonelier/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T00:30:19Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "國際觀察",
+        "憂慮",
+        "社交焦慮",
+        "科技生活",
+        "聊天機器人"
+      ],
+      "guid": "https://technews.tw/?p=1621542",
+      "summary": "美國研究人員最新指出，部分青少年對 AI 角色聊天機器人出現明顯過度依賴，甚至有人每週使用時間高達 89 小時 […]",
+      "published_raw": "Sun, 04 Oct 2026 00:30:19 +0000",
+      "updated_at": "2026-10-04T00:30:19Z",
+      "updated_raw": "Sun, 04 Oct 2026 00:30:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2de44c8821fa7838333bb5841ba8855979de5c79ac31d72931bdf8049c356de7",
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-04T00:20:16Z",
+      "authors": [
+        "elffjs"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49949235",
+      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 199 # Comments: 106",
+      "published_raw": "Sun, 04 Oct 2026 00:20:16 +0000",
+      "updated_at": "2026-10-04T00:20:16Z",
+      "updated_raw": "Sun, 04 Oct 2026 00:20:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3966d858c8815b57f113d3905ff52f59dbd815898b6abf8c07a4f5c229726e3f",
+      "title": "Apple's \"Clean Design\" Is Stupidity When It Comes to Hiding Fire Extinguishers",
+      "url": "https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-04T00:09:21Z",
+      "authors": [
+        "josephcsible"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49949152",
+      "summary": "Article URL: https://www.gadgetreview.com/apples-clean-design-is-stupidity-when-it-comes-to-hiding-fire-extinguishers Comments URL: https://news.ycombinator.com/item?id=49949152 Points: 55 # Comments: 15",
+      "published_raw": "Sun, 04 Oct 2026 00:09:21 +0000",
+      "updated_at": "2026-10-04T00:09:21Z",
+      "updated_raw": "Sun, 04 Oct 2026 00:09:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:abf193d374fbd62f180aa0da82561cdb30f1d84a14adcecca4be2ec6044642fc",
+      "title": "從安全氣囊做到 AI 散熱，時碩工業憑 20 年精密加工奪古河液冷大單",
+      "url": "https://finance.technews.tw/2026/10/04/how-globaltek-won-furukawa-group-major-liquid-cooling-order/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-04T00:00:07Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "公司治理",
+        "古河集團",
+        "時碩工業",
+        "液冷快接頭",
+        "液冷散熱",
+        "零組件",
+        "黃亞興"
+      ],
+      "guid": "https://technews.tw/?p=1622176",
+      "summary": "憑藉近二十年累積的鍛造、沖壓等精密加工技術，時碩工業成功跨足液冷散熱領域。一筆來自古河集團的伺服器散熱系統大單 […]",
+      "published_raw": "Sun, 04 Oct 2026 00:00:07 +0000",
+      "updated_at": "2026-10-04T00:00:07Z",
+      "updated_raw": "Sun, 04 Oct 2026 00:00:07 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2e7e6df0fd61c92590146c2580aa38718f3afeb8f1b3bb6ea5340c7453c24a0f",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T22:18:13Z",
+      "authors": [
+        "jethronethro"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49948332",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycombinator.com/item?id=49948332 Points: 185 # Comments: 131",
+      "published_raw": "Sat, 03 Oct 2026 22:18:13 +0000",
+      "updated_at": "2026-10-03T22:18:13Z",
+      "updated_raw": "Sat, 03 Oct 2026 22:18:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:43592e350fa159c97b3d5284e538bb452f26f5eb555804ef8d56d86578f3f3f7",
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T22:07:13Z",
+      "authors": [
+        "sbulaev"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49948254",
+      "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 325 # Comments: 206",
+      "published_raw": "Sat, 03 Oct 2026 22:07:13 +0000",
+      "updated_at": "2026-10-03T22:07:13Z",
+      "updated_raw": "Sat, 03 Oct 2026 22:07:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9f8a82a371271b941bd8435cff61601ccd97e8a36425ab88991bdb40cbdfdde9",
+      "title": "OpenAI前工程師：AI業應效法核電廠採多重安全防護",
+      "url": "https://www.cna.com.tw/news/ait/202610040005.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-10-03T20:56:18Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-10-04/202610040005",
+      "summary": "（中央社紐約3日綜合外電報導）又一名OpenAI前員工加入要求加強人工智慧（AI）安全的呼籲行列。該公司前工程師羅賓森撰文指出，AI產業應效法航空或核能產業，設置多重安全防護措施，以避免災難發生。",
+      "published_raw": "Sun, 04 Oct 2026 04:56:18 +0800",
+      "updated_at": "2026-10-03T20:56:18Z",
+      "updated_raw": "Sun, 04 Oct 2026 04:56:18 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9e9849bc1199e9a8586a1c045f49307ae03528b3fe04414d175abf4e2b783781",
+      "title": "Reasons I didn't become an EMT, ranked",
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T20:49:15Z",
+      "authors": [
+        "citelao"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49947631",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 107 # Comments: 49",
+      "published_raw": "Sat, 03 Oct 2026 20:49:15 +0000",
+      "updated_at": "2026-10-03T20:49:15Z",
+      "updated_raw": "Sat, 03 Oct 2026 20:49:15 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:364dccfe3b5328e7019501db13dd7051f1b7c6f05b98f8641c18d476e43f92bf",
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T20:27:44Z",
+      "authors": [
+        "simonjgreen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49947472",
+      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 46 # Comments: 23",
+      "published_raw": "Sat, 03 Oct 2026 20:27:44 +0000",
+      "updated_at": "2026-10-03T20:27:44Z",
+      "updated_raw": "Sat, 03 Oct 2026 20:27:44 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f37a36a264d3a189fd259addfb397d5d71a09c6a3793c813cc2883dbdffa469f",
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T19:14:48Z",
+      "authors": [
+        "speckx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946895",
+      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 155 # Comments: 21",
+      "published_raw": "Sat, 03 Oct 2026 19:14:48 +0000",
+      "updated_at": "2026-10-03T19:14:48Z",
+      "updated_raw": "Sat, 03 Oct 2026 19:14:48 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fad5b981f3442d9ca0cc255c8af8f4129275973218d358d379b738b9ffe96969",
+      "title": "RSS Feed Best Practices (2022)",
+      "url": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T19:09:25Z",
+      "authors": [
+        "KomoD"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946845",
+      "summary": "Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/ Comments URL: https://news.ycombinator.com/item?id=49946845 Points: 41 # Comments: 8",
+      "published_raw": "Sat, 03 Oct 2026 19:09:25 +0000",
+      "updated_at": "2026-10-03T19:09:25Z",
+      "updated_raw": "Sat, 03 Oct 2026 19:09:25 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a889e0f10c35fef7bb95b57b9cce212e2c59c876402de233b198ca6c53da37c7",
+      "title": "How to hack time, with C2PA",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T18:52:06Z",
+      "authors": [
+        "Retr0id"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946707",
+      "summary": "Article URL: https://www.da.vidbuchanan.co.uk/blog/hacking-time.html Comments URL: https://news.ycombinator.com/item?id=49946707 Points: 25 # Comments: 3",
+      "published_raw": "Sat, 03 Oct 2026 18:52:06 +0000",
+      "updated_at": "2026-10-03T18:52:06Z",
+      "updated_raw": "Sat, 03 Oct 2026 18:52:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4bb6597e457e30cc0903702079fa3fef6f89cdc9fed22d9f796ce425f779b6c5",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T18:29:30Z",
+      "authors": [
+        "saikatsg"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946567",
+      "summary": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ Comments URL: https://news.ycombinator.com/item?id=49946567 Points: 170 # Comments: 123",
+      "published_raw": "Sat, 03 Oct 2026 18:29:30 +0000",
+      "updated_at": "2026-10-03T18:29:30Z",
+      "updated_raw": "Sat, 03 Oct 2026 18:29:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:28e8eb0917c20ce7511b3f385315b86fd34828341285b3c973b2f624f1bffc0a",
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T18:06:45Z",
+      "authors": [
+        "trwhite"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946393",
+      "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 244 # Comments: 61",
+      "published_raw": "Sat, 03 Oct 2026 18:06:45 +0000",
+      "updated_at": "2026-10-03T18:06:45Z",
+      "updated_raw": "Sat, 03 Oct 2026 18:06:45 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:61edbe894b69f0d846adf47885f15e20b21b46c1fd72edadd9ed3babfbdf2166",
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T18:01:27Z",
+      "authors": [
+        "CosmoWenman"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946355",
+      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 92 # Comments: 47",
+      "published_raw": "Sat, 03 Oct 2026 18:01:27 +0000",
+      "updated_at": "2026-10-03T18:01:27Z",
+      "updated_raw": "Sat, 03 Oct 2026 18:01:27 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:26f93c263efdd8fac2da5ba75981ef309bbb0d6e55c3686796377bf67c288969",
+      "title": "Automating my 35mm film scanning pipeline",
+      "url": "https://shannadige.com/blog/darkroom/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T17:35:42Z",
+      "authors": [
+        "shannadige"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49946148",
+      "summary": "Article URL: https://shannadige.com/blog/darkroom/ Comments URL: https://news.ycombinator.com/item?id=49946148 Points: 16 # Comments: 11",
+      "published_raw": "Sat, 03 Oct 2026 17:35:42 +0000",
+      "updated_at": "2026-10-03T17:35:42Z",
+      "updated_raw": "Sat, 03 Oct 2026 17:35:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5fa843f9f92eec0daed78fc8bcd2bd538618db6ddc50c8c38d9c173ed0e452b3",
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T17:03:37Z",
+      "authors": [
+        "kmeh"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49945933",
+      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 65 # Comments: 51",
+      "published_raw": "Sat, 03 Oct 2026 17:03:37 +0000",
+      "updated_at": "2026-10-03T17:03:37Z",
+      "updated_raw": "Sat, 03 Oct 2026 17:03:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:08220e14b1d6406c55c4befb2fd3cf028679ec36fc04388ae9ff4d1cfe096856",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-03T17:00:12Z",
+      "authors": [
+        "sarah74"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49945904",
+      "summary": "Article URL: https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations Comments URL: https://news.ycombinator.com/item?id=49945904 Points: 0 # Comments: 0",
+      "published_raw": "Sat, 03 Oct 2026 17:00:12 +0000",
+      "updated_at": "2026-10-03T17:00:12Z",
+      "updated_raw": "Sat, 03 Oct 2026 17:00:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d1ec1b196e0e5c9e3f3da51e453b52ad14368d679a11e69dac7860617dc75ba9",
+      "title": "NASA 宣布最新遠紅外線望遠鏡 PRIMA 計畫，探索星球形成與材料之謎",
+      "url": "https://technews.tw/2026/10/04/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-03T16:00:37Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "NASA",
+        "PRIMA",
+        "天文",
+        "恆星形成",
+        "航太科技",
+        "行星形成"
+      ],
+      "guid": "https://technews.tw/?p=1621705",
+      "summary": "恆星如何從厚重的塵埃誕生？行星水又從哪裡來？NASA 宣布新遠紅外線太空望遠鏡 PRIMA（PRobe far […]",
+      "published_raw": "Sat, 03 Oct 2026 16:00:37 +0000",
+      "updated_at": "2026-10-03T16:00:37Z",
+      "updated_raw": "Sat, 03 Oct 2026 16:00:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d035a621fe15a6383340cd7b04c0d4ac2cd226e7491ef577a76f22260835e77b",
+      "title": "本為星際任務設計卻成地球救星，「太空農業」如何破解極端氣候糧食危機？",
+      "url": "https://technews.tw/2026/10/04/space-agriculture-solve-global-food-crisis/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-03T16:00:21Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "傳統農業",
+        "天文",
+        "太空農業",
+        "溫室",
+        "糧食危機",
+        "自然科學",
+        "農場",
+        "農業科技"
+      ],
+      "guid": "https://technews.tw/?p=1621480",
+      "summary": "原本專為太空任務設計的農業技術，正逐漸轉變為拯救地球農業的關鍵解方。根據相關報導與專家分析，包含「控制環境農業 […]",
+      "published_raw": "Sat, 03 Oct 2026 16:00:21 +0000",
+      "updated_at": "2026-10-03T16:00:21Z",
+      "updated_raw": "Sat, 03 Oct 2026 16:00:21 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
