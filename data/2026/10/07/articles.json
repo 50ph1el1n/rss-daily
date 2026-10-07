@@ -1,0 +1,1801 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-07",
+  "timezone": "Asia/Taipei",
+  "article_count": 70,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7214dbdb95fea59ae4de2d49602d8b1455bd1e83c1155e96dee9c25f85b60d9b",
+      "title": "ChatGPT 生圖也要看廣告了！OpenAI 測試視覺贊助內容，強調不影響 AI 回答",
+      "url": "https://technews.tw/2026/10/07/openai-decides-chatgpt-would-be-better-with-more-sponsored-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:35:49Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 助理",
+        "AI 生成圖片",
+        "ChatGPT",
+        "OpenAI",
+        "數位廣告"
+      ],
+      "guid": "https://technews.tw/?p=1625146",
+      "summary": "OpenAI 5 日宣布，將進一步擴大 ChatGPT 的廣告形式，準備將視覺廣告引入圖片生成結果中。這項新格 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:35:49 +0000",
+      "updated_at": "2026-10-07T02:35:49Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:35:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cfefc0da0cbd183c0a199e60fa240594d6d1529bd69f5c24e87c70c6ff24d6ef",
+      "title": "Claude 正式登陸 Google Workspace，側邊欄直接編修三大辦公軟體",
+      "url": "https://technews.tw/2026/10/07/claude-joins-google-workspace/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:30:55Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 助手",
+        "Anthropic",
+        "Claude",
+        "Google",
+        "Google Workspace",
+        "Google 文件",
+        "Google 簡報",
+        "Google 試算表",
+        "辦公軟體"
+      ],
+      "guid": "https://technews.tw/?p=1625136",
+      "summary": "Anthropic 正式宣布旗下 AI 助理 Claude 進駐 Google Workspace 生態系。全 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:30:55 +0000",
+      "updated_at": "2026-10-07T02:30:55Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:30:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:42abd930a8945d1540d3f05839bf87e184196f1b572169f8dbd30cbe0351f1ec",
+      "title": "第三季營收年增大幅成長 297%，美銀、大摩維持川湖買進投資評等",
+      "url": "https://finance.technews.tw/2026/10/07/bank-of-america-and-morgan-stanley-maintain-their-buy-rating-on-chuanhu/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:30:41Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "伺服器",
+        "大摩",
+        "川湖",
+        "美銀",
+        "證券",
+        "財報",
+        "財經",
+        "零組件",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1625201",
+      "summary": "伺服器導軌龍頭川湖公布最新財報，2026 年 9 月單月營收受高基期與部分零組件短缺影響，月減 31% 至新台 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:30:41 +0000",
+      "updated_at": "2026-10-07T02:30:41Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:30:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dbec54f5cfcf0c874dd76fad0992a97fe83d553a8ec4a00235ccc5363e9aaa94",
+      "title": "蘋果找 LG 擴智慧家庭版圖，門鈴、門鎖、攝影機都要來",
+      "url": "https://ccc.technews.tw/2026/10/07/apple-lg-smart-home/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:22:26Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "3C周邊",
+        "Apple",
+        "智慧攝影機",
+        "智慧門鈴",
+        "智慧門鎖",
+        "科技生活",
+        "蘋果智慧家居"
+      ],
+      "guid": "https://technews.tw/?p=1625165",
+      "summary": "蘋果準備進一步擴張智慧家庭生態系，據《彭博社》報導，蘋果正與 LG Electronics 合作開發一系列智慧 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:22:26 +0000",
+      "updated_at": "2026-10-07T02:22:26Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:22:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:413071f4b4a67cec151d394c074294e2039ab5e6246f3a4a58002c0440eef1d9",
+      "title": "台 AI 供應鏈大舉出海！台積電帶頭加碼美國，台廠搶進東南亞",
+      "url": "https://technews.tw/2026/10/07/tsmc-taiwan-company-spending/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:22:00Z",
+      "authors": [
+        "林 妤柔"
+      ],
+      "categories": [
+        "AI 伺服器",
+        "半導體",
+        "台積電",
+        "國際貿易",
+        "晶片",
+        "東南亞",
+        "美國設廠"
+      ],
+      "guid": "https://technews.tw/?p=1625196",
+      "summary": "隨著全球人工智慧（AI）運算基礎設施需求持續攀升，台灣企業加快海外投資腳步，積極建立足以因應強勁需求的供應鏈， […]",
+      "published_raw": "Wed, 07 Oct 2026 02:22:00 +0000",
+      "updated_at": "2026-10-07T02:22:00Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:22:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:29277100ba197f625dd835542769cba3b1a04cb866998ac9212e4809dc421440",
+      "title": "SpaceX 擬籌 400 億美元資金，目標購入大量輝達晶片以打造 AI 算力基建",
+      "url": "https://finance.technews.tw/2026/10/07/spacex-looks-to-raise-40bn-to-buy-nvidia-chips-in-financing-led-by-apollo/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:20:54Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 基建",
+        "GPU",
+        "SpaceX",
+        "伊隆·馬斯克",
+        "公司治理",
+        "財經",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1625164",
+      "summary": "外媒報導，馬斯克旗下太空探索公司 SpaceX 欲籌資 400 億美元，由阿波羅全球管理（Apollo Glo […]",
+      "published_raw": "Wed, 07 Oct 2026 02:20:54 +0000",
+      "updated_at": "2026-10-07T02:20:54Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:20:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9f931e38afc6c51fa4d9744b2866013462fbafc9664b6999c9cd412b937dddd9",
+      "title": "Google 上線 Nano Banana 2.1：生圖成本砍半價、跑分全面勝過前代",
+      "url": "https://www.blocktempo.com/google-nano-banana-halves-image-price-forcing-developers-migrate-deadline/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T02:19:25Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "AI",
+        "DeepMind",
+        "Gemini",
+        "Google",
+        "Nano Banana"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542311",
+      "summary": "Google 推出生圖模型 Nano Banana 2.1，在自家評測中全面領先前代與定位更高的 Pro 版， […] 〈 Google 上線 Nano Banana 2.1：生圖成本砍半價、跑分全面勝過前代 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 02:19:25 +0000",
+      "updated_at": "2026-10-07T02:19:25Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:19:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6f7a82eabc91538d14ec9e48e06a77b49731d0ea9d9aa09912263e2e0ce45939",
+      "title": "亞馬遜測試「About You」功能，購物紀錄透露你的生活偏好",
+      "url": "https://technews.tw/2026/10/07/amazon-about-you/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:15:51Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "About You",
+        "Alexa",
+        "Amazon",
+        "亞馬遜",
+        "數位足跡",
+        "電子商務"
+      ],
+      "guid": "https://technews.tw/?p=1625162",
+      "summary": "亞馬遜（Amazon）近日推出的「About You」功能，讓消費者得以直接查看平台根據自身行為建立的個人檔案 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:15:51 +0000",
+      "updated_at": "2026-10-07T02:15:51Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:15:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:19c41ed80dceebbce39d7ff8ecb35fd2b3a54603a37342ac600e79dc6b13b763",
+      "title": "AI GPU 與 ASIC 測試介面需求帶動，外資花旗與大和都給予穎崴買進評等",
+      "url": "https://finance.technews.tw/2026/10/07/foreign-investors-citigroup-and-daiwa-both-gave-yingwei-a-buy-rating/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:10:31Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "ASIC",
+        "半導體",
+        "半導體測試",
+        "大和",
+        "探針卡",
+        "晶片",
+        "材料、設備",
+        "穎崴",
+        "花旗",
+        "證券",
+        "財報",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1625168",
+      "summary": "測試介面廠商穎崴公布 2026 年 9 月合併營收，金額為新台幣 12.5 億元，雖月減 26.7%，但年增達 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:10:31 +0000",
+      "updated_at": "2026-10-07T02:10:31Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:10:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d8ed1bcce1165c3f14e9bd3b80ce7acfe7c9be1206a16eca7eea4f5ba8e1a0c7",
+      "title": "三星吃 AI 爆發紅利 Q3 營業利益估激增 772%",
+      "url": "https://technews.tw/2026/10/07/samsungs-q3-profit-seen-jumping-nine-fold/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:10:10Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 記憶體",
+        "AI 資料中心",
+        "Samsung",
+        "三星電子",
+        "半導體",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1625140",
+      "summary": "AI 記憶體需求持續火熱，三星電子（Samsung Electronics）獲利可望大爆發。LSEG 統整 2 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:10:10 +0000",
+      "updated_at": "2026-10-07T02:10:10Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:10:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2f8ee815e11332700eb02900ecc945dc759cb341d89cf84d9f92180fbb44c4fd",
+      "title": "瑞昱9月營收月減0.6%",
+      "url": "https://finance.technews.tw/2026/10/07/rt-2379-202609-financial-report/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:10:04Z",
+      "authors": [
+        "TechNews 財報助手"
+      ],
+      "categories": [
+        "財報快訊"
+      ],
+      "guid": "https://technews.tw/2026/10/07/rt-2379-202609-financial-report/",
+      "summary": "瑞昱（2379）公布 9 月合併營收 123.78 億元，較上（8）月成長 -0.6%，與去年同期相比為年增 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:10:04 +0000",
+      "updated_at": "2026-10-07T02:10:04Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:10:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a9241c6c649a84205bb0f8ae8aa22a0799b1204d2acd08773b2653f2bf03ae54",
+      "title": "Mastering SIMD with Java Vector API",
+      "url": "https://lemire.me/blog/2026/10/07/mastering-simd-with-java-vector-api/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-07T02:08:42Z",
+      "authors": [
+        "smilelamp"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49987136",
+      "summary": "Article URL: https://lemire.me/blog/2026/10/07/mastering-simd-with-java-vector-api/ Comments URL: https://news.ycombinator.com/item?id=49987136 Points: 5 # Comments: 0",
+      "published_raw": "Wed, 07 Oct 2026 02:08:42 +0000",
+      "updated_at": "2026-10-07T02:08:42Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:08:42 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6d8710fc3d508fc095dabe9ed907a72410aa313e9414775c789553b931d2ddbd",
+      "title": "Mistral 發表全新兆級參數模型 Large 4，10 月底釋出開源權重",
+      "url": "https://technews.tw/2026/10/07/mistral-large-4-le-chonk/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:05:52Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Large 4",
+        "Le Chonk",
+        "Mistral",
+        "軟體、系統",
+        "開放權重模型"
+      ],
+      "guid": "https://technews.tw/?p=1625133",
+      "summary": "法國人工智慧公司 Mistral 於 10 月 6 日推出新一代大型模型 Mistral Large 4，內部 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:05:52 +0000",
+      "updated_at": "2026-10-07T02:05:52Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:05:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2294538faab0c7d053928d65907c8a730f6a9d1e568ac01e92af32f81b8d32d8",
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-07T02:02:11Z",
+      "authors": [
+        "gmays"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49987076",
+      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 8 # Comments: 1",
+      "published_raw": "Wed, 07 Oct 2026 02:02:11 +0000",
+      "updated_at": "2026-10-07T02:02:11Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:02:11 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c1b23964919fa4582238735694bb6934b82c82312f546c7405e60d28c0ed83f0",
+      "title": "蘇姿丰訪台搶鎖台積電產能！夜盤衝破五萬大關，高盛喊價 3,300 元助攻台股挑戰新里程",
+      "url": "https://finance.technews.tw/2026/10/07/lisa-su-taiwan-tsmc-capacity-taiex-50000-break-goldman-sachs-3300-target/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:00:48Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "ABF 載板",
+        "AI 供應鏈",
+        "AI 晶片",
+        "AMD",
+        "IC 載板",
+        "化學工業",
+        "台積電",
+        "台股",
+        "矽智財",
+        "蘇姿丰",
+        "證券",
+        "財經",
+        "銅箔基板",
+        "雲端服務供應商"
+      ],
+      "guid": "https://technews.tw/?p=1625104",
+      "summary": "台股 6 日多頭氣勢如虹，加權指數狂飆 2.55%（大漲 1,236 點）收在 49,712 點，距離五萬點大 […]",
+      "published_raw": "Wed, 07 Oct 2026 02:00:48 +0000",
+      "updated_at": "2026-10-07T02:00:48Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:00:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7f64ec71d860b7c316b611c8e5e33e8988eab8586bef102f4e3c5e919fa1d734",
+      "title": "AI 訂閱方案誰最划算？研調：Claude 中階模型價值狂甩 GPT 5 倍",
+      "url": "https://technews.tw/2026/10/07/anthropic-vs-openai-cost-effective/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T02:00:38Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 成本",
+        "AI 模型",
+        "AI 訂閱",
+        "API 服務",
+        "Anthropic",
+        "ChatGPT",
+        "Claude",
+        "OpenAI",
+        "科技生活",
+        "開源模型"
+      ],
+      "guid": "https://technews.tw/?p=1625116",
+      "summary": "研調機構 SemiAnalysis 最新分析指出，在 AI 訂閱方案的比較上，Anthropic 的 Clau […]",
+      "published_raw": "Wed, 07 Oct 2026 02:00:38 +0000",
+      "updated_at": "2026-10-07T02:00:38Z",
+      "updated_raw": "Wed, 07 Oct 2026 02:00:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fc599204a5a2881f6f21a547e4c2d59f66eb0f3c70c6d96f363ef42d60352e08",
+      "title": "艾美獎典禮告別傳統電視，2027 年起亞馬遜 Prime 免費直播",
+      "url": "https://technews.tw/2026/10/07/emmys-gala-will-now-stream-its-premier-television-awards/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:50:08Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "串流媒體",
+        "亞馬遜",
+        "數位內容",
+        "艾美獎",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1625121",
+      "summary": "艾美獎（Emmy Awards）是表彰優秀電視作品的盛會，也成為娛樂產業中最新簽下串流合作合約的典禮，明年起將 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:50:08 +0000",
+      "updated_at": "2026-10-07T01:50:08Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:50:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fc13aa6739bc0129537ec600a6fa5aed1308869ecd74c91f3280f2301b0c65c0",
+      "title": "分析師喊 Meta 目標價千美元 看好 Muse 帶動成長",
+      "url": "https://finance.technews.tw/2026/10/07/analysts-raise-meta-target-price-1000-muse-driving-growth/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:45:09Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "MUSE",
+        "Meta",
+        "社群媒體",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1625125",
+      "summary": "社群媒體巨頭 Meta 旗下 AI 個人代理 Muse 初期表現亮眼，富國銀行看好 Muse 有望帶動新一波 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:45:09 +0000",
+      "updated_at": "2026-10-07T01:45:09Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:45:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ea1eab049f2ae86b9c4b1acc5ebdd4d4515635d1f636de552abfe1680d56d479",
+      "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
+      "url": "https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-07T01:42:24Z",
+      "authors": [
+        "colinprince"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49986892",
+      "summary": "Article URL: https://www.cbc.ca/radio/asithappens/milwaukee-swatting-couple-9.7370118 Comments URL: https://news.ycombinator.com/item?id=49986892 Points: 67 # Comments: 47",
+      "published_raw": "Wed, 07 Oct 2026 01:42:24 +0000",
+      "updated_at": "2026-10-07T01:42:24Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:42:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3b94b0b741f7f6011e2cdb02283ef597570e5a18771a6c535279ff2eba6c0702",
+      "title": "派拉蒙完成 1,100 億美元華納兄弟併購，打造好萊塢巨擘",
+      "url": "https://technews.tw/2026/10/07/paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:40:44Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Skydance",
+        "併購",
+        "數位內容",
+        "新聞",
+        "派拉蒙天舞",
+        "華納兄弟探索",
+        "電子娛樂",
+        "電影"
+      ],
+      "guid": "https://technews.tw/?p=1625112",
+      "summary": "派拉蒙天舞（Paramount Skydance）6 日完成 1,100 億美元的華納兄弟探索公司（Warne […]",
+      "published_raw": "Wed, 07 Oct 2026 01:40:44 +0000",
+      "updated_at": "2026-10-07T01:40:44Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:40:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ce8f91a4183c3b63eea85f8409a0a7b9cb3faea8578d4ea9b2ea59d5538f3754",
+      "title": "AI 搶電再推核能熱潮！Google 簽 20 年長約、核能股齊漲",
+      "url": "https://technews.tw/2026/10/07/ai-power-demand-fuels-nuclear-boom-google-20-year-contract-nuclear-stocks-surge/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:39:41Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "Constellation",
+        "Google",
+        "核能",
+        "潔淨能源",
+        "能源科技"
+      ],
+      "guid": "https://technews.tw/?p=1625115",
+      "summary": "Google 再度擴大核能布局，與美國核電業者 Constellation Energy 簽署 20 年購電協 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:39:41 +0000",
+      "updated_at": "2026-10-07T01:39:41Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:39:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:608765e145cbe0237c8b88c31c7632b569280dc24ed073e69c7ce5892218a2fc",
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-07T01:39:21Z",
+      "authors": [
+        "jayhoon"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49986862",
+      "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock Comments URL: https://news.ycombinator.com/item?id=49986862 Points: 3 # Comments: 0",
+      "published_raw": "Wed, 07 Oct 2026 01:39:21 +0000",
+      "updated_at": "2026-10-07T01:39:21Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:39:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:62d654a4155b5a25dd29a4a057d93bc884a1331727eaf9df3df4c2761742011c",
+      "title": "英國六家大行領軍數位國債！DIGIT 試水 DLT 鏈上結算，2027 年初發債",
+      "url": "https://www.blocktempo.com/uk-six-banks-lead-digital-gilt-instrument-digit-dlt-onchain-settlement-2027/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:36:56Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "DLT",
+        "代幣化",
+        "政府債券",
+        "數位債券",
+        "法規",
+        "英國"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542212",
+      "summary": "英國政府宣布由 Barclays、HSBC、Lloyds 等六家大行擔任 DIGIT（Digital Gilt […] 〈 英國六家大行領軍數位國債！DIGIT 試水 DLT 鏈上結算，2027 年初發債 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:36:56 +0000",
+      "updated_at": "2026-10-07T01:36:56Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:36:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0a58a81ba21fd17381c6b5858269cf11f29217c0845cbf0beec8bb1c65c687a7",
+      "title": "Securitize 攜手 LG CNS 進軍韓國！代幣化證券 2 月上路，股票漲 8%",
+      "url": "https://www.blocktempo.com/securitize-lg-cns-partnership-south-korea-tokenized-assets-stocks/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:36:37Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "LG CNS",
+        "Securitize",
+        "代幣化證券",
+        "即時新聞",
+        "韓國加密"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542202",
+      "summary": "代幣化平台 Securitize 宣布與韓國科技大廠 LG CNS 合作開發韓國金融機構的代幣化基礎設施。韓國 […] 〈 Securitize 攜手 LG CNS 進軍韓國！代幣化證券 2 月上路，股票漲 8% 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:36:37 +0000",
+      "updated_at": "2026-10-07T01:36:37Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:36:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4b71a45915d48a3ca07ffcd355a5fe8c780397fd669d19df4c196cb493c2849f",
+      "title": "美國眾議員提案禁止政治家賭自己選舉！Kalshi Polymarket 直接躺槍",
+      "url": "https://www.blocktempo.com/us-lawmaker-bill-ban-politicians-betting-own-elections-kalshi-polymarket/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:34:00Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Kalshi",
+        "Polymarket",
+        "法規",
+        "美國選舉",
+        "預測市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542209",
+      "summary": "美國北卡羅來納州眾議員 Don Davis 提出「No Betting on Your Own Race Ac […] 〈 美國眾議員提案禁止政治家賭自己選舉！Kalshi Polymarket 直接躺槍 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:34:00 +0000",
+      "updated_at": "2026-10-07T01:34:00Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:34:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6c1620ddd71c385d9f492c76af8263a9c5d339d0c0c6318f55e199b026288e0d",
+      "title": "數位盧布首月爆開 22 萬帳戶！BRICS 跨境支付，俄國加速去美元化",
+      "url": "https://www.blocktempo.com/russia-digital-ruble-220k-accounts-first-month-brics-cross-border-payments/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:33:31Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "BRICS",
+        "CBDC",
+        "俄羅斯",
+        "其他國家",
+        "數位盧布",
+        "跨境支付"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542205",
+      "summary": "俄羅斯數位盧布 9 月 1 日正式上線，首月帳戶突破 22 萬，幾乎是央行預估的 4 倍。在西方制裁與 BRI […] 〈 數位盧布首月爆開 22 萬帳戶！BRICS 跨境支付，俄國加速去美元化 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:33:31 +0000",
+      "updated_at": "2026-10-07T01:33:31Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:33:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e1b14dda763f26fd606d713aa8153a3847752f0c432156df6736b3785c2c2ca2",
+      "title": "Adobe 掰掰？開源免費創作軟體「Crafting Apps」公開",
+      "url": "https://technews.tw/2026/10/07/crafting-apps/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:32:55Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "Adobe",
+        "Adobe Creative Cloud",
+        "Crafting App",
+        "創作軟體",
+        "數位內容",
+        "科技生活",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1625123",
+      "summary": "Adobe 長年幾乎壟斷專業影像、影片與設計軟體市場，如今可能迎來一組來勢洶洶的免費開源挑戰者。影像與影片製作 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:32:55 +0000",
+      "updated_at": "2026-10-07T01:32:55Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:32:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7e8c448611ef3043fe47b9f9a3f99164219c2bab1275e350597cb169797faf0d",
+      "title": "SEC 首開 3 倍槓桿加密 ETF！比特幣以太坊上陣，但專家警告：只適合短線交易",
+      "url": "https://www.blocktempo.com/sec-approves-first-3x-leveraged-bitcoin-ether-etfs-volatility-shares-cboe/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:30:39Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Volatility Shares",
+        "以太坊ETF",
+        "加密貨幣市場",
+        "槓桿ETF",
+        "比特幣ETF"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542234",
+      "summary": "SEC 於 10 月 2 日批准 Volatility Shares 發行 6 檔 3 倍槓桿 ETF，涵蓋比 […] 〈 SEC 首開 3 倍槓桿加密 ETF！比特幣以太坊上陣，但專家警告：只適合短線交易 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:30:39 +0000",
+      "updated_at": "2026-10-07T01:30:39Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:30:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:59d3895e2b27b46503c205d94f2a5f861dcac3ec529e6895eb64a694c6ed8ad4",
+      "title": "中國稀土管制衝擊全球，日官員：日本須守住半導體優勢",
+      "url": "https://technews.tw/2026/10/07/china-rare-earth-controls-global-impact-japan-maintain-semiconductor-advantage/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:30:15Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "半導體",
+        "國際貿易",
+        "實體 AI",
+        "日本",
+        "材料",
+        "稀土",
+        "赤澤亮正"
+      ],
+      "guid": "https://technews.tw/?p=1625107",
+      "summary": "日本經濟產業大臣赤澤亮正 6 日表示，中國掌握稀土供應鏈，出口管制不僅影響日本，也衝擊美國及全球經濟；另一方面 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:30:15 +0000",
+      "updated_at": "2026-10-07T01:30:15Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:30:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d2b1c28f2cfadea481e16c13d0062acff8f8b54ebf23f0c69730dabc55b9e127",
+      "title": "Tether 被告了！凍結 276 萬美元 USDT 沒說理由，Conduit 開戰",
+      "url": "https://www.blocktempo.com/conduit-sues-tether-over-frozen-usdt-without-explanation/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:29:52Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Conduit",
+        "Tether",
+        "USDT",
+        "加密貨幣市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542226",
+      "summary": "跨境支付新創 Conduit 向紐約法院起訴穩定幣龍頭 Tether，指控其無故凍結 276 萬美元 USDT […] 〈 Tether 被告了！凍結 276 萬美元 USDT 沒說理由，Conduit 開戰 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:29:52 +0000",
+      "updated_at": "2026-10-07T01:29:52Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:29:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9b98390c96bd839f63d8b5fd97dc21ebc72bac39f9eb7a27f332c849038ace57",
+      "title": "胖企鵝 L2 Abstract 關網！18 個月虧 8 位數美元、12/15 停鏈",
+      "url": "https://www.blocktempo.com/abstract-l2-shutdown-pudgy-penguins-igloo-losing-tens-millions-december-15/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:29:03Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Abstract",
+        "Layer 2",
+        "Pudgy Penguins",
+        "以太坊",
+        "胖企鵝"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542216",
+      "summary": "胖企鵝 Pudgy Penguins 母公司 Igloo 背書的 Ethereum L2 Abstract 宣 […] 〈 胖企鵝 L2 Abstract 關網！18 個月虧 8 位數美元、12/15 停鏈 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:29:03 +0000",
+      "updated_at": "2026-10-07T01:29:03Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:29:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:46602ac3f77a269c7bb96f6b9e2dc81172c08db1ca729b50b7506c3fb948406c",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-07T01:27:49Z",
+      "authors": [
+        "matt_d"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49986765",
+      "summary": "Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis Comments URL: https://news.ycombinator.com/item?id=49986765 Points: 3 # Comments: 0",
+      "published_raw": "Wed, 07 Oct 2026 01:27:49 +0000",
+      "updated_at": "2026-10-07T01:27:49Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:27:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:db142d3a0778e5b8749bfe34d57a092c358407a801638c1f5db9ef9dfdd6703e",
+      "title": "Strategy 總持 84.8 萬枚比特幣，這回只買 334 枚",
+      "url": "https://www.blocktempo.com/strategy-microstrategy-michael-saylor-buys-bitcoin-848000-holdings-sec-filing/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:27:05Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "MSTR",
+        "Michael Saylor",
+        "Strategy",
+        "比特幣",
+        "比特幣庫藏"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542239",
+      "summary": "Strategy 公布 9/28-10/4 買入 334 枚比特幣，總持突破 84.8 萬枚、創歷史新高，但這 […] 〈 Strategy 總持 84.8 萬枚比特幣，這回只買 334 枚 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:27:05 +0000",
+      "updated_at": "2026-10-07T01:27:05Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:27:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6d08f0d9466f6ce0d8015a16edd40aeef78cb42e74e59a431df4fd099b0ac1f0",
+      "title": "比特幣微跌85,540鎂、以太坊回落2,696鎂，全網爆倉1.39億鎂、貪婪指數回落",
+      "url": "https://www.blocktempo.com/bitcoin-eth-morning-roundup-fear-greed-71-oct-7/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-07T01:23:47Z",
+      "authors": [
+        "flip"
+      ],
+      "categories": [
+        "以太坊",
+        "市場分析",
+        "恐懼貪婪指數",
+        "比特幣",
+        "爆倉"
+      ],
+      "guid": "https://www.blocktempo.com/?p=542249",
+      "summary": "今（7）日早晨加密貨幣市場持續狹幅整理，比特幣在85,500鎂附近遊走、以太坊守2,696鎂，四大主流幣全線微 […] 〈 比特幣微跌85,540鎂、以太坊回落2,696鎂，全網爆倉1.39億鎂、貪婪指數回落 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 07 Oct 2026 01:23:47 +0000",
+      "updated_at": "2026-10-07T01:23:47Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:23:47 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dbcdea4b473b644c3158b97efe92b14effec16d31b6c9dc42086ff68fa3d2a9c",
+      "title": "「AI 末日論」退燒 美軟體股指數反攻創今年新高",
+      "url": "https://finance.technews.tw/2026/10/07/us-software-stocks-scale-fresh-2026-highs-as-ai-disruption-worries-fade/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:20:51Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 末日",
+        "標普 500",
+        "財經",
+        "軟體、系統",
+        "軟體股"
+      ],
+      "guid": "https://technews.tw/?p=1625093",
+      "summary": "軟體股年初一度遭「AI 末日論」重擊，如今正從低谷翻身。今年以來，標普500軟體與服務類股指數（S&P […]",
+      "published_raw": "Wed, 07 Oct 2026 01:20:51 +0000",
+      "updated_at": "2026-10-07T01:20:51Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:20:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:99088f9804ef352e939b67534dfe2f9cbb766b345311c52f7da7f0aca6f6f5a4",
+      "title": "CNN：美中研議核設施互訪，擬未來數月持續推進",
+      "url": "https://technews.tw/2026/10/07/us-and-china-discuss-reciprocal-visits-to-nuclear-sites/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:15:28Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國",
+        "國際觀察",
+        "核能",
+        "核設施",
+        "美國",
+        "能源科技"
+      ],
+      "guid": "https://technews.tw/?p=1625101",
+      "summary": "美國有線電視新聞網（CNN）6 日引述多名消息人士報導，美國已與中國討論展開核設施互訪，並計劃在未來數月的會談 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:15:28 +0000",
+      "updated_at": "2026-10-07T01:15:28Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:15:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:832850c743f896f7276413438e053f2e9997940adfdeb2fcc59260165fbf50a7",
+      "title": "補助效應、日本電動車銷量破紀錄 特斯拉飆 1.5 倍",
+      "url": "https://technews.tw/2026/10/07/subsidy-effect-japan-ev-sales-record-tesla-surges-1-5x/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:10:31Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "國際貿易",
+        "日本",
+        "汽車科技",
+        "特斯拉",
+        "購車補助",
+        "電動車",
+        "電動車銷量"
+      ],
+      "guid": "https://technews.tw/?p=1625091",
+      "summary": "受惠日本政府提高電動車（EV）購車補助，帶動上半年度（2026 年 4-9 月）日本電動車銷量飆增 1.5 倍 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:10:31 +0000",
+      "updated_at": "2026-10-07T01:10:31Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:10:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:729830210826e873758757a68810e51ebd4741ca0ba726f99e6f280e237aa682",
+      "title": "Marvell 訂單在手＋客戶多元 展望遠超預期 股價嗨",
+      "url": "https://finance.technews.tw/2026/10/07/what-marvells-rosy-long-term-guidance-means-for-our-ai-chip-stocks/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T01:00:03Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "ASIC",
+        "Marvell",
+        "財經",
+        "超大規模雲端服務商",
+        "雲端"
+      ],
+      "guid": "https://technews.tw/?p=1625086",
+      "summary": "ASIC 設計服務巨擘邁威爾（Marvell Technology, Inc.）最新公布的長期展望遠優於華爾街 […]",
+      "published_raw": "Wed, 07 Oct 2026 01:00:03 +0000",
+      "updated_at": "2026-10-07T01:00:03Z",
+      "updated_raw": "Wed, 07 Oct 2026 01:00:03 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:324bd6f95616d79cbc82462069353dc43fa7641a002b98f29d076c4e0d1eaf2d",
+      "title": "達方 9 月營收 21.62 億元，前三季年增 8.81%",
+      "url": "https://finance.technews.tw/2026/10/07/darfon-september-revenue-2-162-billion-q1-q3-yoy-growth-8-81-percent/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:56:53Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "MLCC",
+        "被動元件",
+        "財經",
+        "達方",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1625087",
+      "summary": "達方電子公布 9 月營收 21.62 億元，月減 6.77%、年減 3.44%；第三季營收 70.11 億元， […]",
+      "published_raw": "Wed, 07 Oct 2026 00:56:53 +0000",
+      "updated_at": "2026-10-07T00:56:53Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:56:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0cd94c18588a4867f108c9ee183bec04698d4ddbf180f3ef8f9fa6d5158f00f5",
+      "title": "7-Eleven 退出印度市場，難敵當地對手競爭",
+      "url": "https://finance.technews.tw/2026/10/07/7-eleven-exits-india-amid-mounting-competition/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:50:29Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "7-ELEVEn",
+        "印度",
+        "國際貿易",
+        "財經",
+        "零售業"
+      ],
+      "guid": "https://technews.tw/?p=1625080",
+      "summary": "就在媒體報導 7-Eleven 難敵印度當地對手競爭同時，日本母公司 6 日表示，這家零售巨頭在印度所有便利商 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:50:29 +0000",
+      "updated_at": "2026-10-07T00:50:29Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:50:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dfaffbded04ed8f6e3428ba212cc7862c3f78094d4bbffef28b07d8fba9b2abf",
+      "title": "AMD 創高 分析師看好還有得漲、估 CPU 需求強增",
+      "url": "https://finance.technews.tw/2026/10/07/citi-now-thinks-amd-stock-could-rip-another-25-percent-because-of-meta-muse/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:40:15Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AMD",
+        "MUSE",
+        "cpu",
+        "半導體",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1625062",
+      "summary": "花旗（Citi）看好，AI 代理將大幅推升運算需求，AMD 將成為 CPU 市場復興的主要受惠者，將目標價大舉 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:40:15 +0000",
+      "updated_at": "2026-10-07T00:40:15Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:40:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8a3c34839f2e6989c839f9d8b11fac6dca96ae543ed08908e9da0997f78f057f",
+      "title": "AI 逐漸成為科研重要參與者，科學運算生態系須兼顧信任與人機合作",
+      "url": "https://technews.tw/2026/10/07/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-12/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:30:21Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 運算",
+        "科學研究",
+        "科技教育",
+        "阿岡國家實驗室"
+      ],
+      "guid": "https://technews.tw/?p=1623307",
+      "summary": "美國能源部阿岡國家實驗室（Argonne National Laboratory）1 日公布「邁向次世代科學運 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:30:21 +0000",
+      "updated_at": "2026-10-07T00:30:21Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:30:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:beac9fdb485f644e43da08283dc4bb873ea7a77545320b5ce438f748099b4aa2",
+      "title": "日本供應鏈受衝擊？Suzuki 擴大採用中國製零件",
+      "url": "https://technews.tw/2026/10/07/japan-supply-chain-impact-suzuki-expands-china-parts/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:20:35Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "ADAS",
+        "Horizon Robotics",
+        "Suzuki",
+        "中國",
+        "供應鏈",
+        "國際貿易",
+        "日本",
+        "汽車科技",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1625050",
+      "summary": "日本汽車大廠鈴木（Suzuki）擴大採用中國製零件，除電動車（EV）電池外，預計今後推出的 ADAS（先進駕駛 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:20:35 +0000",
+      "updated_at": "2026-10-07T00:20:35Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:20:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:52807f013e49fbe7d8a5d4276956949157c11e4102b1bf5e053a7bcd08596f8a",
+      "title": "傳擬請台積電包電廠，台電：未進入政策研議程序",
+      "url": "https://technews.tw/2026/10/07/tsmc-power-plant-rumors-taipower-denies-policy-deliberation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:15:39Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "半導體",
+        "半導體產業",
+        "台積電",
+        "能源科技",
+        "電廠",
+        "電費"
+      ],
+      "guid": "https://technews.tw/?p=1625061",
+      "summary": "媒體報導，台電擬對用電大戶收加成折舊費的差別電價，台電董事長曾文生 5 日表示，沒講過差別電價；又傳出台電備案 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:15:39 +0000",
+      "updated_at": "2026-10-07T00:15:39Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:15:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:597eb2d07f750c1bf9f898e0549d0706cb1970708a1fd5388ca4c67eccae38ad",
+      "title": "福特執行長談 AI 導入工廠：藍領難被取代，但「信任」是關鍵",
+      "url": "https://finance.technews.tw/2026/10/07/ai-reshape-blue-collar-jobs/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:10:41Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Ford",
+        "Jim Farley",
+        "人力資源",
+        "公司治理",
+        "勞動力短缺",
+        "工廠",
+        "技術人員",
+        "汽車科技",
+        "白領",
+        "福特",
+        "維修廠",
+        "缺工危機",
+        "職場",
+        "藍領勞工"
+      ],
+      "guid": "https://technews.tw/?p=1622559",
+      "summary": "福特執行長吉姆·法利（Jim Farley）在一場媒體座談中表示，人工智慧（AI）不會只改變白領工作，也正逐步 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:10:41 +0000",
+      "updated_at": "2026-10-07T00:10:41Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:10:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:32c15066e8b3ab983ecdf00c3cf0b25b11d2998c572af420023c3a50442a8c94",
+      "title": "奇鋐9月營收210.18 億元",
+      "url": "https://finance.technews.tw/2026/10/07/avc-3017-202609-financial-report/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:10:06Z",
+      "authors": [
+        "TechNews 財報助手"
+      ],
+      "categories": [
+        "財報快訊"
+      ],
+      "guid": "https://technews.tw/2026/10/07/avc-3017-202609-financial-report/",
+      "summary": "奇鋐（3017）今（7）日公布 9 月營收，達 210.18 億元，較 8 月成長 7.9%，較去年同期成長 […]",
+      "published_raw": "Wed, 07 Oct 2026 00:10:06 +0000",
+      "updated_at": "2026-10-07T00:10:06Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:10:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5b934e16a69a401ae6bb26489b2c0cafe50ba9a2df79576e3eb8f8be9aa9986b",
+      "title": "當 Google 也開始打造生態系，Windows 會被邊緣化嗎？",
+      "url": "https://technews.tw/2026/10/07/google-building-ecosystem-windows-marginalized/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-07T00:00:54Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "AI 原生",
+        "Android",
+        "Android 手機",
+        "Android 生態系",
+        "Google",
+        "Googlebook",
+        "Windows",
+        "微軟",
+        "筆記型電腦"
+      ],
+      "guid": "https://technews.tw/?p=1624134",
+      "summary": "過去十幾年，消費性電子市場的分工還算明確：蘋果靠 iPhone、Mac、Apple Watch 與 AirPo […]",
+      "published_raw": "Wed, 07 Oct 2026 00:00:54 +0000",
+      "updated_at": "2026-10-07T00:00:54Z",
+      "updated_raw": "Wed, 07 Oct 2026 00:00:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0037f8e4e870551e34110a90a19afe65cc0786c86cae72e4ca7a18e338a804aa",
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T23:50:33Z",
+      "authors": [
+        "thoughtpeddler"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49985861",
+      "summary": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points: 34 # Comments: 8",
+      "published_raw": "Tue, 06 Oct 2026 23:50:33 +0000",
+      "updated_at": "2026-10-06T23:50:33Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:50:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0062d90c4c1f27fe075a3432bcbb056212d48f0ffc87b24a1ba733fdf983892c",
+      "title": "核融合世界盃誰是大熱門？解密全球最大核融合公司",
+      "url": "https://technews.tw/2026/10/07/mit-born-cfs-emerges-frontrunner-fusion-energy-world-cup-targeting-early-commercialization-high-temperature-superconductivity/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:50:15Z",
+      "authors": [
+        "綠學院"
+      ],
+      "categories": [
+        "Commonwealth Fusion Systems",
+        "核能",
+        "核融合",
+        "能源科技"
+      ],
+      "guid": "https://technews.tw/?p=1624709",
+      "summary": "核融合世界盃開打了，而當今賭盤最旺的當屬 Commonwealth Fusion Systems（CFS），網 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:50:15 +0000",
+      "updated_at": "2026-10-06T23:50:15Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:50:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:54429af5c80a58dc7b1bc031dee245ac5927098d42a7a69fcac747c4c809fc3f",
+      "title": "不知不覺滿口「AI 腔」？聊天機器人正悄悄改寫人類的表達方式",
+      "url": "https://technews.tw/2026/10/07/ai-reshapes-human-conversation-social-interaction/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:40:31Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "人力資源",
+        "人際互動",
+        "同理心",
+        "對話",
+        "生成式 AI",
+        "社交",
+        "科技生活",
+        "聊天機器人"
+      ],
+      "guid": "https://technews.tw/?p=1622577",
+      "summary": "人工智慧（AI）聊天機器人不僅翻轉了人類運用科技的模式，如今更悄悄滲透進我們日常交流的語氣與結構中。近期的社會 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:40:31 +0000",
+      "updated_at": "2026-10-06T23:40:31Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:40:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:37c22e5157d9a382dd63bb8c732158cf08a4d1afd8f0d379f1287f4fd12fb5db",
+      "title": "這顆行星竟然「倒著走」！解開 GJ 3090 b 逆行謎團",
+      "url": "https://technews.tw/2026/10/07/star-system-with-backward-planet-moving-the-wrong-way-around-its-star-has-scientists-puzzled/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:30:30Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "GJ 3090",
+        "M 型矮星",
+        "公轉",
+        "天文",
+        "母恆星",
+        "環境科學",
+        "系外行星",
+        "自然科學",
+        "逆行軌道"
+      ],
+      "guid": "https://technews.tw/?p=1623287",
+      "summary": "天文學家最近發現一顆軌道相當奇怪的系外行星 GJ 3090 b。它繞行母恆星的公轉方向，竟與母恆星自轉方向幾乎 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:30:30 +0000",
+      "updated_at": "2026-10-06T23:30:30Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:30:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:01e434c70c3d9de4a80c7b914b76843989d517a75e21dd626728d62fcc9f86e4",
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T23:28:08Z",
+      "authors": [
+        "Fe2O3"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49985664",
+      "summary": "Article URL: https://github.com/boykopovar/AnyPS5 Comments URL: https://news.ycombinator.com/item?id=49985664 Points: 116 # Comments: 89",
+      "published_raw": "Tue, 06 Oct 2026 23:28:08 +0000",
+      "updated_at": "2026-10-06T23:28:08Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:28:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:97a95ad45193b9751e11f107a80fa8534fc9d9f7e4e58e7d808cfbd62442f05e",
+      "title": "State of Devs 2026",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T23:26:30Z",
+      "authors": [
+        "sgdesign"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49985643",
+      "summary": "Article URL: https://2026.stateofdevs.com/en-US/ Comments URL: https://news.ycombinator.com/item?id=49985643 Points: 80 # Comments: 24",
+      "published_raw": "Tue, 06 Oct 2026 23:26:30 +0000",
+      "updated_at": "2026-10-06T23:26:30Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:26:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8d2c325fc921e4b0f824f2a4793deb8aa388de28df013ca1af417709b01f1da9",
+      "title": "AI 改變軟體收費邏輯，舊財務架構難應付「以量計價」新挑戰",
+      "url": "https://finance.technews.tw/2026/10/07/ai-fundamentally-changes-software-pricing-most-financial-systems-arent-prepared/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:20:55Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 成本",
+        "SaaS",
+        "公司治理",
+        "收費模式",
+        "會計系統",
+        "營利",
+        "營運成本",
+        "財報"
+      ],
+      "guid": "https://technews.tw/?p=1622562",
+      "summary": "人工智慧正在改寫軟體產業的收費邏輯，同時也讓許多企業的財務基礎設施暴露出明顯的落差。軟體定價從傳統固定訂閱，轉 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:20:55 +0000",
+      "updated_at": "2026-10-06T23:20:55Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:20:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a5ae6a485a9af9736aea46e65087c0f75b61fe1eed8d59ea98c5be4558d97714",
+      "title": "Integer multiplication below n log n",
+      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T23:14:52Z",
+      "authors": [
+        "E-Reverance"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49985524",
+      "summary": "Article URL: https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026 Comments URL: https://news.ycombinator.com/item?id=49985524 Points: 69 # Comments: 50",
+      "published_raw": "Tue, 06 Oct 2026 23:14:52 +0000",
+      "updated_at": "2026-10-06T23:14:52Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:14:52 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bc26b72c56cb92ba854e78774001e28311843343737044d70d6494bab61ba56d",
+      "title": "每天 20 秒練習自我關懷，就可能慢慢改善心理狀態",
+      "url": "https://technews.tw/2026/10/07/habit-formation-strategies-enhance-long-term-outcomes-of-a-self-compassionate-touch-micropractice/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:10:42Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "心理健康",
+        "生物科技",
+        "科技生活",
+        "習慣",
+        "自我關懷觸碰"
+      ],
+      "guid": "https://technews.tw/?p=1618514",
+      "summary": "照顧好自己的情緒很重要，卻不是人人都做得到。冥想、心理治療或正念練習需要較長時間，忙碌的現代人很容易半途而廢。 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:10:42 +0000",
+      "updated_at": "2026-10-06T23:10:42Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:10:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f8a87f136b54e654cd5b71ab9cc7adf8a2277d0aeda3837d2f696b83d7e82360",
+      "title": "IFA 2026 智慧家庭新格局：品牌高階化、AI Home 與 Physical AI 並進",
+      "url": "https://technews.tw/2026/10/07/ifa-2026-new-smart-home-paradigm-brand-premiumization-ai-home-physical-ai-advancing-together/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:00:53Z",
+      "authors": [
+        "TrendForce 集邦科技"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "IFA 2026",
+        "Mini LED",
+        "亞洲消費電子展",
+        "光電科技",
+        "技術分析",
+        "智慧家庭",
+        "智慧家電",
+        "會員專區",
+        "電視"
+      ],
+      "guid": "https://technews.tw/?p=1623373",
+      "summary": "IFA 2026 顯示，消費電子與家電的成長邏輯正由「增加硬體出貨」轉向「提高單機價值與服務深度」。TV 透過 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:00:53 +0000",
+      "updated_at": "2026-10-06T23:00:53Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:00:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:abec4e13ae2782ee2d1a36681931fed231fd164ce35fa2fcaad8188b35557a59",
+      "title": "讓匿蹤戰機攜彈量增加，美軍和新創公司合作開發小型飛彈發動機",
+      "url": "https://technews.tw/2026/10/07/us-navy-awarded-ursa-major-137-million-contract-for-new-compact-missile-engine/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-06T23:00:51Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "Ursa Major",
+        "國際觀察",
+        "海軍模組化飛彈",
+        "緊湊型空對空飛彈",
+        "美國海軍",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1625041",
+      "summary": "美國海軍正同步推進小型空對空飛彈與新一代艦載攔截飛彈，火箭推進新創 Ursa Major 近日宣布，取得合計 […]",
+      "published_raw": "Tue, 06 Oct 2026 23:00:51 +0000",
+      "updated_at": "2026-10-06T23:00:51Z",
+      "updated_raw": "Tue, 06 Oct 2026 23:00:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d75bc53d485882de35dfd821613a50211c00c1b0b116fe2510c88674245b9296",
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.38721",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T22:51:35Z",
+      "authors": [
+        "gmays"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49985292",
+      "summary": "Article URL: https://arxiv.org/abs/2609.38721 Comments URL: https://news.ycombinator.com/item?id=49985292 Points: 11 # Comments: 3",
+      "published_raw": "Tue, 06 Oct 2026 22:51:35 +0000",
+      "updated_at": "2026-10-06T22:51:35Z",
+      "updated_raw": "Tue, 06 Oct 2026 22:51:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:64aaec4be277832328ff8f1a68a2d136c64fa6a398c9680ed726b79f153ed262",
+      "title": "Qualcomm、Arm 再度對簿公堂！數十億美元權利金成攻防焦點",
+      "url": "https://www.inside.com.tw/article/42571-qualcomm-arm-head-trial-again",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-10-06T22:50:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "人工智慧",
+        "半導體",
+        "安謀",
+        "授權協議",
+        "晶片",
+        "權利金",
+        "法律訴訟",
+        "高通"
+      ],
+      "guid": "https://www.inside.com.tw/article/42571-qualcomm-arm-head-trial-again",
+      "summary": "Qualcomm 與 Arm 的法律戰再度開打！",
+      "published_raw": "2026-10-07T06:50:00+08:00",
+      "updated_at": "2026-10-06T22:50:00Z",
+      "updated_raw": "2026-10-07T06:50:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6532279420171439d0025e0dbf26bcf9f77e9bfe2dd03d765719b4ab72aa0536",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T22:17:21Z",
+      "authors": [
+        "OfficialTurkey"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49984923",
+      "summary": "https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 474 # Comments: 401",
+      "published_raw": "Tue, 06 Oct 2026 22:17:21 +0000",
+      "updated_at": "2026-10-06T22:17:21Z",
+      "updated_raw": "Tue, 06 Oct 2026 22:17:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fefa55b2cbaf84347114ee1435ee833940e164575603c15002282c761b45824e",
+      "title": "The Query Transformation Pipeline",
+      "url": "https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T22:09:14Z",
+      "authors": [
+        "gvsg-rs"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49984834",
+      "summary": "Article URL: https://readyset.io/blog/how-readyset-rewrites-your-sql-inside-the-query-transformation-pipeline Comments URL: https://news.ycombinator.com/item?id=49984834 Points: 13 # Comments: 0",
+      "published_raw": "Tue, 06 Oct 2026 22:09:14 +0000",
+      "updated_at": "2026-10-06T22:09:14Z",
+      "updated_raw": "Tue, 06 Oct 2026 22:09:14 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:00ae2914c41741394ed2c2fb57e0b81caea5d4b037234e0c25a5ce463081f775",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T21:59:43Z",
+      "authors": [
+        "kavourias"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49984716",
+      "summary": "Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 79 # Comments: 32",
+      "published_raw": "Tue, 06 Oct 2026 21:59:43 +0000",
+      "updated_at": "2026-10-06T21:59:43Z",
+      "updated_raw": "Tue, 06 Oct 2026 21:59:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:22db09c6f1d670aad3abd29582eccd461a88d9b704a75610528fba14966e744a",
+      "title": "How Fast is Python 3.15?",
+      "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T21:52:57Z",
+      "authors": [
+        "Qem"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49984652",
+      "summary": "Article URL: https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15 Comments URL: https://news.ycombinator.com/item?id=49984652 Points: 31 # Comments: 20",
+      "published_raw": "Tue, 06 Oct 2026 21:52:57 +0000",
+      "updated_at": "2026-10-06T21:52:57Z",
+      "updated_raw": "Tue, 06 Oct 2026 21:52:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3fddd85eafe4621f46ea17811781d364e81701553e31266d175424da5e3727d2",
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T20:57:25Z",
+      "authors": [
+        "chiefstorm"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49984025",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 160 # Comments: 62",
+      "published_raw": "Tue, 06 Oct 2026 20:57:25 +0000",
+      "updated_at": "2026-10-06T20:57:25Z",
+      "updated_raw": "Tue, 06 Oct 2026 20:57:25 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c0500007a979f9d6350a85a80e615a8df38aeba0b019afb9ef79336a426174ac",
+      "title": "OpenSSH 10.6",
+      "url": "https://www.openssh.org/releasenotes.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T20:41:39Z",
+      "authors": [
+        "torcete"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49983791",
+      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6 Comments URL: https://news.ycombinator.com/item?id=49983791 Points: 89 # Comments: 22",
+      "published_raw": "Tue, 06 Oct 2026 20:41:39 +0000",
+      "updated_at": "2026-10-06T20:41:39Z",
+      "updated_raw": "Tue, 06 Oct 2026 20:41:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9d8ff2278864ee6f5c49fbe5688dbb0f4e3516d658d81114fe94664d22c0451d",
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T20:33:47Z",
+      "authors": [
+        "Mgtyalx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49983703",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983703 Points: 183 # Comments: 302",
+      "published_raw": "Tue, 06 Oct 2026 20:33:47 +0000",
+      "updated_at": "2026-10-06T20:33:47Z",
+      "updated_raw": "Tue, 06 Oct 2026 20:33:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:22d2817213856e354325d2d2ae1568ba6846c7bdb61cd9bbacbed706fc5e6f24",
+      "title": "When random is not actually random enough",
+      "url": "https://ersc.io/blog/when-random-isnt-random-enough",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T20:12:05Z",
+      "authors": [
+        "steveklabnik"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49983404",
+      "summary": "Article URL: https://ersc.io/blog/when-random-isnt-random-enough Comments URL: https://news.ycombinator.com/item?id=49983404 Points: 32 # Comments: 7",
+      "published_raw": "Tue, 06 Oct 2026 20:12:05 +0000",
+      "updated_at": "2026-10-06T20:12:05Z",
+      "updated_raw": "Tue, 06 Oct 2026 20:12:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:84faae43d41ce57f33e92ba6981f6eb25e615dbe713dcadbbdd98ddb00a2c8f0",
+      "title": "Berthd",
+      "url": "https://berthd.app/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T19:14:19Z",
+      "authors": [
+        "handfuloflight"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49982735",
+      "summary": "Article URL: https://berthd.app/ Comments URL: https://news.ycombinator.com/item?id=49982735 Points: 52 # Comments: 66",
+      "published_raw": "Tue, 06 Oct 2026 19:14:19 +0000",
+      "updated_at": "2026-10-06T19:14:19Z",
+      "updated_raw": "Tue, 06 Oct 2026 19:14:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:64c1293bd93596df8707149e9e9b099da529ae06d7a93750a6e21f086d96bb7a",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-06T18:00:34Z",
+      "authors": [
+        "zed_labs_dev"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=49981905",
+      "summary": "Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=49981905 Points: 110 # Comments: 58",
+      "published_raw": "Tue, 06 Oct 2026 18:00:34 +0000",
+      "updated_at": "2026-10-06T18:00:34Z",
+      "updated_raw": "Tue, 06 Oct 2026 18:00:34 +0000",
+      "language": "en"
+    }
+  ]
+}

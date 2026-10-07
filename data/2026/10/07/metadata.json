@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "5f5bcd9c-f6b5-4b3c-b5be-21e390a38a92",
+  "collection_date": "2026-10-07",
+  "timezone": "Asia/Taipei",
+  "started_at": "2026-10-07T02:38:32Z",
+  "completed_at": "2026-10-07T02:38:35Z",
+  "duration_ms": 2164,
+  "status": "success",
+  "trigger": "local",
+  "feed_counts": {
+    "configured": 16,
+    "enabled": 6,
+    "disabled": 10,
+    "succeeded": 6,
+    "failed": 0
+  },
+  "entry_counts": {
+    "seen": 120,
+    "selected": 70,
+    "exported": 70,
+    "duplicate": 0,
+    "skipped_invalid_date": 50,
+    "skipped_invalid_entry": 0
+  },
+  "artifacts": {
+    "markdown": "data/2026/10/07/README.md",
+    "digest": "data/2026/10/07/articles.json",
+    "metadata": "data/2026/10/07/metadata.json",
+    "feed_health": "data/2026/10/07/feed_health.json"
+  },
+  "github_run_id": null,
+  "commit_sha_before": null,
+  "collector_version": "1.0.0"
+}
