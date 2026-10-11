@@ -1,18 +1,25 @@
 {
   "schema_version": "1.0.0",
-  "total_days": 77,
-  "total_articles": 2680,
+  "total_days": 78,
+  "total_articles": 2696,
   "years": [
     {
       "year": "2026",
-      "day_count": 77,
-      "article_count": 2680,
+      "day_count": 78,
+      "article_count": 2696,
       "months": [
         {
           "month": "10",
-          "day_count": 10,
-          "article_count": 496,
+          "day_count": 11,
+          "article_count": 512,
           "days": [
+            {
+              "collection_date": "2026-10-11",
+              "status": "success",
+              "article_count": 16,
+              "digest_path": "data/2026/10/11/articles.json",
+              "markdown_path": "data/2026/10/11/README.md"
+            },
             {
               "collection_date": "2026-10-10",
               "status": "success",
