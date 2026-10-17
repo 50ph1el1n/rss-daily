@@ -1,0 +1,645 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-17",
+  "timezone": "Asia/Taipei",
+  "article_count": 27,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:afef7c6acd480d623b7ca144cb87974ddc87bbf8af34489894fe31120a83f9aa",
+      "title": "付費買授權！Google 推 AI 新聞計畫，CNN、金融時報、Axios 等 400 多家媒體加入",
+      "url": "https://www.inside.com.tw/article/42654-google-ai-news-program-cnn-financial-times-axios-400-publishers-licensing",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-10-17T01:12:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "Google",
+        "內容授權",
+        "行銷"
+      ],
+      "guid": "https://www.inside.com.tw/article/42654-google-ai-news-program-cnn-financial-times-axios-400-publishers-licensing",
+      "summary": "Google 的 AI 新聞計畫已有全球超過 400 家新聞業者加入，CNN、金融時報與 Axios 簽約，媒體授予更廣泛內容使用權，Google 付費，財務條款未公開。",
+      "published_raw": "2026-10-17T09:12:00+08:00",
+      "updated_at": "2026-10-17T01:12:00Z",
+      "updated_raw": "2026-10-17T09:12:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cc150805cb78c132ee06a3e033ded145d3e07a8520ff683f7d377f057926a0d3",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T01:01:51Z",
+      "authors": [
+        "thedogeye"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50126774",
+      "summary": "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0",
+      "published_raw": "Sat, 17 Oct 2026 01:01:51 +0000",
+      "updated_at": "2026-10-17T01:01:51Z",
+      "updated_raw": "Sat, 17 Oct 2026 01:01:51 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:32f6b0160f8c57024074850b22f2df68670691b5de820917d06306e78dca9696",
+      "title": "從「很悶」熬到因 AI「蹦起來」，群聯潘健成：台灣產業已是自己種樹自己涼",
+      "url": "https://finance.technews.tw/2026/10/17/taiwan-electronics-industry-stagnant-booming-ai-pua-kian-seng-taiwan-industries-creating-advantages/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-17T01:00:49Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "IC 設計",
+        "公司治理",
+        "半導體",
+        "工研院",
+        "潘健成",
+        "積體電路",
+        "群聯",
+        "電子業"
+      ],
+      "guid": "https://technews.tw/?p=1631747",
+      "summary": "根據《財訊》雙週刊報導，群聯創辦人暨執行長潘健成，14 日出席潘文淵文教基金會舉辦的《潘文淵──孕育台灣半導體 […]",
+      "published_raw": "Sat, 17 Oct 2026 01:00:49 +0000",
+      "updated_at": "2026-10-17T01:00:49Z",
+      "updated_raw": "Sat, 17 Oct 2026 01:00:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e5298326420be0d7869d7bfc46492e9163ada8b25c8ad42ab6b1c6a3f8517eb8",
+      "title": "馬斯克預言中國 2028 年生產大量 DRAM，衝擊記憶體產業雪上加霜",
+      "url": "https://finance.technews.tw/2026/10/17/musk-predicts-that-china-will-produce-a-large-amount-of-dram-by-2028/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-17T01:00:09Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "IC 設計",
+        "SK海力士",
+        "Samsung",
+        "dram",
+        "三星",
+        "中國觀察",
+        "半導體",
+        "晶片",
+        "記憶體",
+        "財經",
+        "長鑫存儲",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1632150",
+      "summary": "特斯拉執行長馬斯克（Elon Musk）近日的一句簡短留言，將韓國國內的經濟政策討論推升為全球記憶體晶片市場的 […]",
+      "published_raw": "Sat, 17 Oct 2026 01:00:09 +0000",
+      "updated_at": "2026-10-17T01:00:09Z",
+      "updated_raw": "Sat, 17 Oct 2026 01:00:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3c570c9180b6730cfade6136198b8b46d46061e9ce63a74404156671ffbce0bd",
+      "title": "逾七成消費者靠 AI 找折扣！AI 逐漸接管購物決策，近四成用戶願為推薦「變心」換品牌",
+      "url": "https://technews.tw/2026/10/17/study-shows-ai-chatbots-offer-the-rich-higher-price-recommendations/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-17T00:30:47Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "AI 工具",
+        "搜尋引擎",
+        "電子商務"
+      ],
+      "guid": "https://technews.tw/?p=1626269",
+      "summary": "最新研究指出，Claude、ChatGPT 等 AI 購物助理在搜尋商品時，可能會依使用者的財富狀況提供不同的 […]",
+      "published_raw": "Sat, 17 Oct 2026 00:30:47 +0000",
+      "updated_at": "2026-10-17T00:30:47Z",
+      "updated_raw": "Sat, 17 Oct 2026 00:30:47 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:72edfcd12d1ec62e3868438e9760b76358cf3fe5bc9dff35ee74dfcc4577e262",
+      "title": "從缺席黃仁勳「兆元宴」覺醒：仁寶如何撕下 AI 門外漢標籤、急追中段班",
+      "url": "https://finance.technews.tw/2026/10/17/how-compal-is-pivoting-to-ai-servers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-17T00:00:38Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 伺服器",
+        "仁寶",
+        "伺服器",
+        "公司治理",
+        "張耀文",
+        "陳信仲",
+        "陳瑞聰"
+      ],
+      "guid": "https://technews.tw/?p=1629028",
+      "summary": "伺服器營收占比，從去年的2%拉到今年預估一成，讓仁寶自稱已從 AI「門外漢」追到中段班。兩年前，連黃仁勳飯局都 […]",
+      "published_raw": "Sat, 17 Oct 2026 00:00:38 +0000",
+      "updated_at": "2026-10-17T00:00:38Z",
+      "updated_raw": "Sat, 17 Oct 2026 00:00:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fcda023e63929476639c00e80ee983fe0ccca3a7a815e73d934946001a4f953c",
+      "title": "挾陸戰隊計畫成果，空巴向美國陸軍展示 MQ-72C 無人直升機",
+      "url": "https://technews.tw/2026/10/17/airbus-demostrated-mq-72c-to-us-army/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-16T23:00:48Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "ALC",
+        "MQ-72C",
+        "國際觀察",
+        "尖端科技",
+        "無人機",
+        "無人直升機",
+        "空中巴士",
+        "美國陸軍",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1632134",
+      "summary": "空中巴士近日自費為美國陸軍舉辦 MQ-72C 無人直升機展示飛行，這款機型原本是為美國海軍陸戰隊「空中後勤連接 […]",
+      "published_raw": "Fri, 16 Oct 2026 23:00:48 +0000",
+      "updated_at": "2026-10-16T23:00:48Z",
+      "updated_raw": "Fri, 16 Oct 2026 23:00:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a1e2df01cbd02e335986edb407ead129f524d03d22b93fda32be1d155757bb22",
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T22:21:05Z",
+      "authors": [
+        "zdw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50125545",
+      "summary": "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 22 # Comments: 4",
+      "published_raw": "Fri, 16 Oct 2026 22:21:05 +0000",
+      "updated_at": "2026-10-16T22:21:05Z",
+      "updated_raw": "Fri, 16 Oct 2026 22:21:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6d122e62502e71b34cd729fe5555f57d4ea8cf28a08e25c9f595aef7353f1305",
+      "title": "Why harnesses matter for energy (and token) efficiency",
+      "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T21:01:23Z",
+      "authors": [
+        "ccgibson"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50124642",
+      "summary": "Article URL: https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency Comments URL: https://news.ycombinator.com/item?id=50124642 Points: 37 # Comments: 14",
+      "published_raw": "Fri, 16 Oct 2026 21:01:23 +0000",
+      "updated_at": "2026-10-16T21:01:23Z",
+      "updated_raw": "Fri, 16 Oct 2026 21:01:23 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:947b17f112b8df7a7685d4343e792e8212ca63355263a74b9dd44d11f54ff5ef",
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T20:33:41Z",
+      "authors": [
+        "trvrprkr"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50124251",
+      "summary": "Article URL: https://github.com/home-assistant/home-assistant.io/issues/49314 Comments URL: https://news.ycombinator.com/item?id=50124251 Points: 183 # Comments: 135",
+      "published_raw": "Fri, 16 Oct 2026 20:33:41 +0000",
+      "updated_at": "2026-10-16T20:33:41Z",
+      "updated_raw": "Fri, 16 Oct 2026 20:33:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:04e5947f29ea2e5d561d4b629ba8819096973e07b2fe4391df4f573285f6142d",
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T19:47:13Z",
+      "authors": [
+        "gmays"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50123580",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 108 # Comments: 26",
+      "published_raw": "Fri, 16 Oct 2026 19:47:13 +0000",
+      "updated_at": "2026-10-16T19:47:13Z",
+      "updated_raw": "Fri, 16 Oct 2026 19:47:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:57f296e7508667bd86d8d1e7644bdf0db9393dae0579f8feb62a6158a947dc88",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T19:04:47Z",
+      "authors": [
+        "pretext"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50122951",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 228 # Comments: 211",
+      "published_raw": "Fri, 16 Oct 2026 19:04:47 +0000",
+      "updated_at": "2026-10-16T19:04:47Z",
+      "updated_raw": "Fri, 16 Oct 2026 19:04:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a272ead3832c6e596cc17d78ae482fd1202a8325763a9dc3bb33801d2b8ff424",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T19:01:17Z",
+      "authors": [
+        "speckx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50122878",
+      "summary": "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 128 # Comments: 37",
+      "published_raw": "Fri, 16 Oct 2026 19:01:17 +0000",
+      "updated_at": "2026-10-16T19:01:17Z",
+      "updated_raw": "Fri, 16 Oct 2026 19:01:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a1c701c0dbf53b2117c0985cba2df1e16d935a687b02fc9037dc2e6a4b4f3081",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T18:55:59Z",
+      "authors": [
+        "ahlCVA"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50122800",
+      "summary": "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 660 # Comments: 264",
+      "published_raw": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "updated_at": "2026-10-16T18:55:59Z",
+      "updated_raw": "Fri, 16 Oct 2026 18:55:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:daec1aeae2dd5c2cfc800a0ab663b6209809e43782309f3ca428c649d729d96f",
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T18:52:39Z",
+      "authors": [
+        "jandeboevrie"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50122736",
+      "summary": "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 64 # Comments: 7",
+      "published_raw": "Fri, 16 Oct 2026 18:52:39 +0000",
+      "updated_at": "2026-10-16T18:52:39Z",
+      "updated_raw": "Fri, 16 Oct 2026 18:52:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bd17c1988e573e2500bafbff3c136719c9c5c0cbabd5794605aaf2b1afe097a5",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T18:32:35Z",
+      "authors": [
+        "Anon84"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50122431",
+      "summary": "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 188 # Comments: 47",
+      "published_raw": "Fri, 16 Oct 2026 18:32:35 +0000",
+      "updated_at": "2026-10-16T18:32:35Z",
+      "updated_raw": "Fri, 16 Oct 2026 18:32:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9644733574f047f4fc04daeeb2d8aef94644c2e9c8fee68ad37ece1519ac7e10",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T18:06:17Z",
+      "authors": [
+        "7402"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50122034",
+      "summary": "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 165 # Comments: 133",
+      "published_raw": "Fri, 16 Oct 2026 18:06:17 +0000",
+      "updated_at": "2026-10-16T18:06:17Z",
+      "updated_raw": "Fri, 16 Oct 2026 18:06:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a3c8912dc167acd92e1dffc09a923d9f136a80c0f3d7714f1aba62c230619ec2",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T18:00:18Z",
+      "authors": [
+        "pretext"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50121939",
+      "summary": "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 97 # Comments: 18",
+      "published_raw": "Fri, 16 Oct 2026 18:00:18 +0000",
+      "updated_at": "2026-10-16T18:00:18Z",
+      "updated_raw": "Fri, 16 Oct 2026 18:00:18 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1b21cb31847ed99844592fb88df43942baf448931bb416e7bd1cbffb48664dc2",
+      "title": "比特幣短線跌破 8.1 萬美元、以太坊再失 $2,400！PPI 餘波與 AI 股拋售壓頂",
+      "url": "https://www.blocktempo.com/btc-below-81k-eth-retests-2400/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-16T17:42:04Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI股拋售",
+        "BTC",
+        "ETF",
+        "ETH",
+        "PPI",
+        "以太坊",
+        "加密貨幣市場",
+        "比特幣",
+        "聯準會"
+      ],
+      "guid": "https://www.blocktempo.com/?p=546715",
+      "summary": "比特幣短線一度跌破 8.1 萬美元、以太坊再次失守 2,400 美元。據 CoinGecko 與主要交易所數據 […] 〈 比特幣短線跌破 8.1 萬美元、以太坊再失 $2,400！PPI 餘波與 AI 股拋售壓頂 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 16 Oct 2026 17:42:04 +0000",
+      "updated_at": "2026-10-16T17:42:04Z",
+      "updated_raw": "Fri, 16 Oct 2026 17:42:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:56f217d6b226747b03b380b397d6a5d7bd078bdec1a0cd9e49192be871dcb1fc",
+      "title": "GifCities",
+      "url": "https://gifcities.org/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T17:35:07Z",
+      "authors": [
+        "augury"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50121601",
+      "summary": "https://twitter.com/internetarchive/status/21111409457059637... Comments URL: https://news.ycombinator.com/item?id=50121601 Points: 54 # Comments: 11",
+      "published_raw": "Fri, 16 Oct 2026 17:35:07 +0000",
+      "updated_at": "2026-10-16T17:35:07Z",
+      "updated_raw": "Fri, 16 Oct 2026 17:35:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:60db4f0ff6fd7fb9edb93bc632d5cba575d62385853239174c97cc0f3b9cbecc",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T17:08:38Z",
+      "authors": [
+        "speckx"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50121179",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 393 # Comments: 327",
+      "published_raw": "Fri, 16 Oct 2026 17:08:38 +0000",
+      "updated_at": "2026-10-16T17:08:38Z",
+      "updated_raw": "Fri, 16 Oct 2026 17:08:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0332e2c359ae872ac4b2396da38eb9879dd1e4aec51af4e3fa9a68e032c831f6",
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T16:57:49Z",
+      "authors": [
+        "mnapoli"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50121004",
+      "summary": "Article URL: https://dev-null.sh Comments URL: https://news.ycombinator.com/item?id=50121004 Points: 124 # Comments: 110",
+      "published_raw": "Fri, 16 Oct 2026 16:57:49 +0000",
+      "updated_at": "2026-10-16T16:57:49Z",
+      "updated_raw": "Fri, 16 Oct 2026 16:57:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4fec9dd19d0413b5af1d1d41f860e427c5c3e7b5be04122e88eabb671b1b6661",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-16T16:12:02Z",
+      "authors": [
+        "farlight"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50120224",
+      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 196 # Comments: 143",
+      "published_raw": "Fri, 16 Oct 2026 16:12:02 +0000",
+      "updated_at": "2026-10-16T16:12:02Z",
+      "updated_raw": "Fri, 16 Oct 2026 16:12:02 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a150a11cf09b346568db1f393e58935ee206bb76c51bfdf628adda318ba23e2e",
+      "title": "Injective（INJ）單月反彈近七成！白宮會晤、轉讓代理人與 ETF 申報交織，收入／估值比敘事怎麼看？",
+      "url": "https://www.blocktempo.com/inj-rally-white-house-etf-transfer-agent-deep-dive/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-16T16:03:26Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "ETF",
+        "Eric Chen",
+        "INJ",
+        "Injective",
+        "RWA",
+        "SEC",
+        "加密貨幣市場",
+        "市場分析",
+        "轉讓代理人"
+      ],
+      "guid": "https://www.blocktempo.com/?p=546667",
+      "summary": "Injective（INJ）近一個月自低檔反彈逾六成，催化劑並非單一消息，而是合規敘事疊加：執行長赴華府會見白 […] 〈 Injective（INJ）單月反彈近七成！白宮會晤、轉讓代理人與 ETF 申報交織，收入／估值比敘事怎麼看？ 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 16 Oct 2026 16:03:26 +0000",
+      "updated_at": "2026-10-16T16:03:26Z",
+      "updated_raw": "Fri, 16 Oct 2026 16:03:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:30a3ebce8f1ced39285917b8a202205b11893ea38098a77a12edeb5ba552060f",
+      "title": "任天堂重申保留 Switch 2 實體卡，堅守玩家收藏與分享需求",
+      "url": "https://ccc.technews.tw/2026/10/17/switch-2-sticks-with-physical-game-cards-for-now-ondo-finance-company-ondo-tokenized-stocks-institutional-grade-finance-delivered-onchain-accessible-to-all-explore-tokeniz/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-16T16:00:58Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "Nintendo Switch",
+        "任天堂",
+        "實體遊戲卡",
+        "遊戲光碟",
+        "遊戲軟體",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1628776",
+      "summary": "Sony 已宣布 2028 年起停止為 PlayStation 新遊戲製作實體光碟，但任天堂表明目前沒有取消實 […]",
+      "published_raw": "Fri, 16 Oct 2026 16:00:58 +0000",
+      "updated_at": "2026-10-16T16:00:58Z",
+      "updated_raw": "Fri, 16 Oct 2026 16:00:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1ace6cb725b554847157c5d1706dc836cb0e26bcc3e8bb5691d8940b43e06f8c",
+      "title": "精度堪比「240 公里外打硬幣」，NASA 羅曼太空望遠鏡超高穩定度通過關鍵測試",
+      "url": "https://technews.tw/2026/10/17/nasa-roman-space-telescope-initial-optical-test-successful/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-16T16:00:29Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "NASA",
+        "大麥哲倫雲",
+        "天文",
+        "尖端科技",
+        "恆星",
+        "日冕儀",
+        "系外行星",
+        "羅曼望遠鏡",
+        "航太科技"
+      ],
+      "guid": "https://technews.tw/?p=1625429",
+      "summary": "美國國家航空暨太空總署（NASA）的南希·格蕾絲·羅曼太空望遠鏡（Nancy Grace Roman Spac […]",
+      "published_raw": "Fri, 16 Oct 2026 16:00:29 +0000",
+      "updated_at": "2026-10-16T16:00:29Z",
+      "updated_raw": "Fri, 16 Oct 2026 16:00:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:907404fb16917eabe39fb7b5f6ae4c73d38a00bb0dd5ae0182369c837d81a516",
+      "title": "韋伯望遠鏡在宇宙早期捕捉到疑似超新星，爆炸後僅 4~10 天就發現",
+      "url": "https://technews.tw/2026/10/17/jwst-spots-possible-supernova-in-early-universe/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-16T16:00:06Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "天文",
+        "巡天計畫",
+        "恆星",
+        "自然科學",
+        "超新星",
+        "韋伯太空望遠鏡"
+      ],
+      "guid": "https://technews.tw/?p=1630404",
+      "summary": "美國太空總署（NASA）的詹姆斯·韋伯太空望遠鏡（JWST）在恆星爆炸後僅數天，便在宇宙早期偵測到一顆疑似超新 […]",
+      "published_raw": "Fri, 16 Oct 2026 16:00:06 +0000",
+      "updated_at": "2026-10-16T16:00:06Z",
+      "updated_raw": "Fri, 16 Oct 2026 16:00:06 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
