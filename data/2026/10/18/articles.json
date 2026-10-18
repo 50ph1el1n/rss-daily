@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-18",
+  "timezone": "Asia/Taipei",
+  "article_count": 13,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8f8e8fe4bd1c3399f1f2881c884ce9c51159a34fa1413da303d91dea1cb58e3b",
+      "title": "日本五大商社再進化！波克夏深化結盟布局能源、AI 等新事業搶攻成長引擎",
+      "url": "https://finance.technews.tw/2026/10/18/japan-trading-houses-evolution-berkshire-hathaway-deepens-alliances-energy-ai-growth-engines/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-18T01:00:35Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "Greg Abel",
+        "三井物產",
+        "三菱商事",
+        "丸紅株式會社",
+        "伊藤忠商事",
+        "住友商事",
+        "公司治理",
+        "波克夏‧海瑟威",
+        "理財",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1631741",
+      "summary": "巴菲特的投資公司波克夏‧海瑟威，2019 年開始買進日本五大商社；一開始對每家持股 5% 左右，現在持股比率都 […]",
+      "published_raw": "Sun, 18 Oct 2026 01:00:35 +0000",
+      "updated_at": "2026-10-18T01:00:35Z",
+      "updated_raw": "Sun, 18 Oct 2026 01:00:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:db4ee741eaf554f6c88ba32821a4815c86fb552c59f67df34629f84e675b37c2",
+      "title": "拆解 Deepfake 與 AI 幻覺，蘇格蘭高中設立全英首位「AI 素養專責教師」",
+      "url": "https://technews.tw/2026/10/18/ai-literacy-teachers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-18T00:30:43Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 幻覺",
+        "AI 素養",
+        "Deepfake",
+        "國際觀察",
+        "教學",
+        "科技教育",
+        "老師",
+        "蘇格蘭"
+      ],
+      "guid": "https://technews.tw/?p=1625439",
+      "summary": "蘇格蘭東倫弗魯郡的米恩斯城堡高中（Mearns Castle High School）近日成為英國首批、也是被 […]",
+      "published_raw": "Sun, 18 Oct 2026 00:30:43 +0000",
+      "updated_at": "2026-10-18T00:30:43Z",
+      "updated_raw": "Sun, 18 Oct 2026 00:30:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d887bbd43a13ce241729b67848f248576fd1bf7823b482ceca001b1d1e775624",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-18T00:14:22Z",
+      "authors": [
+        "guiambros"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50136536",
+      "summary": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536 Points: 16 # Comments: 3",
+      "published_raw": "Sun, 18 Oct 2026 00:14:22 +0000",
+      "updated_at": "2026-10-18T00:14:22Z",
+      "updated_raw": "Sun, 18 Oct 2026 00:14:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:657c651f2e3d441cd37a130a85f0bc9cd91932b1917b27547a790e3d5bc02e36",
+      "title": "台股叩關五萬點怎麼布局？名家公開「真 AI」供應鏈口袋名單",
+      "url": "https://finance.technews.tw/2026/10/18/which-taiwan-ai-stocks-are-worth-buying/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-18T00:00:50Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI",
+        "AI 概念股",
+        "PCB",
+        "半導體",
+        "南亞科",
+        "台光電",
+        "台積電",
+        "台股",
+        "大立光",
+        "日月光",
+        "聯電",
+        "證券",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1629044",
+      "summary": "台股挑戰五萬點該買什麼股票？哪些 AI 股拉回值得安心布局？投資名家們在此分享他們的口袋名單與操作策略。 台股 […]",
+      "published_raw": "Sun, 18 Oct 2026 00:00:50 +0000",
+      "updated_at": "2026-10-18T00:00:50Z",
+      "updated_raw": "Sun, 18 Oct 2026 00:00:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:93cf08e7e029356cc567382064defe513a59d82f9cc963dfbdb2e6657cdd8ca7",
+      "title": "JDK 28",
+      "url": "https://openjdk.org/projects/jdk/28/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T21:37:07Z",
+      "authors": [
+        "ejboy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50135379",
+      "summary": "Article URL: https://openjdk.org/projects/jdk/28/ Comments URL: https://news.ycombinator.com/item?id=50135379 Points: 53 # Comments: 20",
+      "published_raw": "Sat, 17 Oct 2026 21:37:07 +0000",
+      "updated_at": "2026-10-17T21:37:07Z",
+      "updated_raw": "Sat, 17 Oct 2026 21:37:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:828bb358c7f018c544796de466a3dd5b7e287542c10be346421b5601cd21f442",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T20:07:33Z",
+      "authors": [
+        "croes"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50134617",
+      "summary": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 82 # Comments: 78",
+      "published_raw": "Sat, 17 Oct 2026 20:07:33 +0000",
+      "updated_at": "2026-10-17T20:07:33Z",
+      "updated_raw": "Sat, 17 Oct 2026 20:07:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4b6b5fc59a8b5a5dbfae411dcebeeb03ddf2555916a3ea32890f3b769da4ef65",
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T18:01:41Z",
+      "authors": [
+        "pranshuchittora"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50133401",
+      "summary": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 759 # Comments: 128",
+      "published_raw": "Sat, 17 Oct 2026 18:01:41 +0000",
+      "updated_at": "2026-10-17T18:01:41Z",
+      "updated_raw": "Sat, 17 Oct 2026 18:01:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9b2287c1c2749c82a20dd61e6fe44a206eb2fac72d43d769c58b719efa1de22e",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T17:45:08Z",
+      "authors": [
+        "AIorNot"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50133231",
+      "summary": "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 66 # Comments: 28",
+      "published_raw": "Sat, 17 Oct 2026 17:45:08 +0000",
+      "updated_at": "2026-10-17T17:45:08Z",
+      "updated_raw": "Sat, 17 Oct 2026 17:45:08 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1dd368571da4a5c1f7c0709ffe6e32fd87b4d438c018bfe1048bcfb2c50d2398",
+      "title": "I Became a Citizen of Japan",
+      "url": "https://www.derekwessman.com/blog-1/natural",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T17:36:17Z",
+      "authors": [
+        "luu"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50133150",
+      "summary": "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 145 # Comments: 65",
+      "published_raw": "Sat, 17 Oct 2026 17:36:17 +0000",
+      "updated_at": "2026-10-17T17:36:17Z",
+      "updated_raw": "Sat, 17 Oct 2026 17:36:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2ebf59ee025b7af5a8b1dd619edcc97e8b35c63a12aec469664ff80e45260ecf",
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T17:06:07Z",
+      "authors": [
+        "iamnothere"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50132870",
+      "summary": "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 226 # Comments: 117",
+      "published_raw": "Sat, 17 Oct 2026 17:06:07 +0000",
+      "updated_at": "2026-10-17T17:06:07Z",
+      "updated_raw": "Sat, 17 Oct 2026 17:06:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c39e77b01faa9777169a6c926b154eb01e0e76b2157ffa07c62478de46e02e82",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "url": "https://www.artie.com/careers",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-17T17:02:50Z",
+      "authors": [
+        "j-cheong"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50132839",
+      "summary": "Article URL: https://www.artie.com/careers Comments URL: https://news.ycombinator.com/item?id=50132839 Points: 0 # Comments: 0",
+      "published_raw": "Sat, 17 Oct 2026 17:02:50 +0000",
+      "updated_at": "2026-10-17T17:02:50Z",
+      "updated_raw": "Sat, 17 Oct 2026 17:02:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e7c090c6e59a792939a733524377d432dae1541c26cbb07819d6366531f081c5",
+      "title": "Instagram 私訊也能作曲，Meta AI 新功能讓文字一鍵變成歌",
+      "url": "https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-17T16:00:51Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 生成歌曲",
+        "Instagram",
+        "Meta",
+        "社群",
+        "社群平台",
+        "網路"
+      ],
+      "guid": "https://technews.tw/?p=1629777",
+      "summary": "Instagram（IG）最近在私訊（DM）加入 AI 作曲功能，用戶只要輸入文字或自訂歌詞，再選擇音樂風格， […]",
+      "published_raw": "Sat, 17 Oct 2026 16:00:51 +0000",
+      "updated_at": "2026-10-17T16:00:51Z",
+      "updated_raw": "Sat, 17 Oct 2026 16:00:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d7f763169bb9b0fd1451775d34f86215d83c10a672be1693a8a8c9342203110a",
+      "title": "5 分鐘轉一圈，薇拉·魯賓天文台尋獲史上最大「超高速自轉」小行星",
+      "url": "https://technews.tw/2026/10/18/vera-rubin-observatory-finds-largest-ultra-fast-spinning-asteroid/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-17T16:00:45Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "天文",
+        "小行星",
+        "自轉",
+        "自轉週期",
+        "薇拉·魯賓天文台"
+      ],
+      "guid": "https://technews.tw/?p=1630827",
+      "summary": "美國薇拉·魯賓天文台（Vera C. Rubin Observatory），利用太陽系天體觀測資料，發現目前已 […]",
+      "published_raw": "Sat, 17 Oct 2026 16:00:45 +0000",
+      "updated_at": "2026-10-17T16:00:45Z",
+      "updated_raw": "Sat, 17 Oct 2026 16:00:45 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
