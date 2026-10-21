@@ -1,0 +1,986 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-21",
+  "timezone": "Asia/Taipei",
+  "article_count": 38,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:56a947fe99fbea7ef163d208676126d4ed1ae56eaafd046115ccd00b18d34cd1",
+      "title": "受惠 AI 伺服器與光通訊！外資預估臻鼎 HDI 助攻毛利率大躍進",
+      "url": "https://finance.technews.tw/2026/10/21/hdi/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:52:09Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "HDI",
+        "PCB",
+        "臻鼎",
+        "證券",
+        "財經",
+        "零組件",
+        "高密度互連電路板"
+      ],
+      "guid": "https://technews.tw/?p=1633818",
+      "summary": "臻鼎「One ZDT」策略正式開花結果，外資出具最新研究報告指出，受惠於光收發模組及 AI 伺服器需求強勁成長 […]",
+      "published_raw": "Wed, 21 Oct 2026 01:52:09 +0000",
+      "updated_at": "2026-10-21T01:52:09Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:52:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fd02730b55b30ebe7d65d5a2830592ff005b1b8a1042b9db3e9a7aaf5b0d56c4",
+      "title": "BBC 新聞部擬增裁百人，2 電視頻道僅供網路、1 電台關閉",
+      "url": "https://technews.tw/2026/10/21/bbc-announces-next-phase-of-savings-including-the-closure-of-linear-broadcast-services/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:50:33Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "BBC",
+        "人力資源",
+        "數位內容",
+        "裁員",
+        "電視節目"
+      ],
+      "guid": "https://technews.tw/?p=1633798",
+      "summary": "英國廣播公司（BBC）規劃 2 年內撙節大約 5 億英鎊（約新台幣 220 億元），今天宣布旗下電視頻道 BB […]",
+      "published_raw": "Wed, 21 Oct 2026 01:50:33 +0000",
+      "updated_at": "2026-10-21T01:50:33Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:50:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a5cc690f6445edf43b412f6510210afa5cc37f2fb352e2fe52dc68685f1314ab",
+      "title": "魷魚遊戲後欠話題劇、觀眾收視偏好改變，Netflix 營收放緩",
+      "url": "https://finance.technews.tw/2026/10/21/netflix-revenue-slows-lack-buzzworthy-dramas-post-squid-game-changing-audience-preferences/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:40:44Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 短劇",
+        "Discovery",
+        "HBO Max",
+        "netflix",
+        "串流",
+        "影音平台",
+        "收視率",
+        "數位內容",
+        "派拉蒙天舞",
+        "營收",
+        "華納兄弟",
+        "財報",
+        "財經",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1633790",
+      "summary": "影音串流巨擘 Netflix 今天公布第 3 季財報，營收成長創近年新低。全球觀眾串流收視習慣快速改變，You […]",
+      "published_raw": "Wed, 21 Oct 2026 01:40:44 +0000",
+      "updated_at": "2026-10-21T01:40:44Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:40:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0163c53e841f6b1ebd48bdbc46fdd07bbdb52fbe9f95bc69f704972149cea860",
+      "title": "Anthropic 上半年狂虧 807 億美元 IPO 蒙陰影",
+      "url": "https://finance.technews.tw/2026/10/21/anthropic-s-1-shows-red-hot-growth-risks-and-massive-computing-costs/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:30:15Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "Anthropic",
+        "Claude",
+        "IPO",
+        "財經",
+        "雲端運算"
+      ],
+      "guid": "https://technews.tw/?p=1633783",
+      "summary": "AI 新創公司 Anthropic 正積極籌備掛牌上市，IPO 公開說明書草稿顯示，儘管營收高速成長，2026 […]",
+      "published_raw": "Wed, 21 Oct 2026 01:30:15 +0000",
+      "updated_at": "2026-10-21T01:30:15Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:30:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e122b3f9f518af7ac42b4e2f159fd16ef50046afd3a17f8fffea42c0b41bf520",
+      "title": "把握 AI 發展先機，中國國家數據集團成立",
+      "url": "https://technews.tw/2026/10/21/china-national-data-group-corporation-limited/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:20:55Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "中國",
+        "中國國家數據集團",
+        "中國觀察"
+      ],
+      "guid": "https://technews.tw/?p=1633766",
+      "summary": "中國國家數據集團 20 日在河北雄安新區成立。中國國務院副總理丁薛祥說，組建這一集團對於充分把握人工智慧（AI […]",
+      "published_raw": "Wed, 21 Oct 2026 01:20:55 +0000",
+      "updated_at": "2026-10-21T01:20:55Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:20:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0bd0cf46be82943e9a10ccfae9908409004edb13023f0204ced4683d452cbc0e",
+      "title": "沒變瘦也有用，研究：8 週運動全身器官出現變化",
+      "url": "https://technews.tw/2026/10/21/exercise-benefits-the-body-even-without-weight-loss-study-finds-changes-across-organs-after-8-weeks/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:12:01Z",
+      "authors": [
+        "黃 嬿"
+      ],
+      "categories": [
+        "分子圖譜",
+        "基因表現",
+        "抗發炎",
+        "生物科技",
+        "科技生活",
+        "肌肉變化",
+        "運動8週研究",
+        "運動生理學",
+        "運動科學",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1633775",
+      "summary": "許多人開始運動，是為了減重或改善體態，但如果持續運動幾個星期，體重仍然沒有變化，是否代表努力白費？美國最新研究 […]",
+      "published_raw": "Wed, 21 Oct 2026 01:12:01 +0000",
+      "updated_at": "2026-10-21T01:12:01Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:12:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6c9d38b0e7427da3cff4cb51e710fe0c334293f3eb89faea41b993b0ee6e3911",
+      "title": "提前一年 Panasonic 鈣鈦礦太陽能電池 2029 年量產",
+      "url": "https://technews.tw/2026/10/21/panasonic-perovskite-2029-april/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:10:14Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Panasonic",
+        "太陽能",
+        "能源科技",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1633746",
+      "summary": "日本 Panasonic 將在 2029 年 4 月開始量產次世代太陽能電池「鈣鈦礦」（Perovskite） […]",
+      "published_raw": "Wed, 21 Oct 2026 01:10:14 +0000",
+      "updated_at": "2026-10-21T01:10:14Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:10:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1289838b574a051ae4c5112d046c57e7524900c1c6895fd3d08b50a341fa73a8",
+      "title": "為什麼旅行時別忘了帶上 HDMI 商務與娛樂裝置",
+      "url": "https://ccc.technews.tw/2026/10/21/hdmi-business-and-entertainment/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T01:00:48Z",
+      "authors": [
+        "TechNews"
+      ],
+      "categories": [
+        "3C周邊",
+        "HDMI",
+        "科技生活"
+      ],
+      "guid": "https://technews.tw/?p=1632367",
+      "summary": "走進幾乎任何飯店房間或 Airbnb，旅客通常都會做同一件事：放下行李，接著打開電視。然而，飯店和短期租屋的電 […]",
+      "published_raw": "Wed, 21 Oct 2026 01:00:48 +0000",
+      "updated_at": "2026-10-21T01:00:48Z",
+      "updated_raw": "Wed, 21 Oct 2026 01:00:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8588bf7cadbbcfdd28f01801892d1f50d429b1b69e56d678e4156f3c93950ab9",
+      "title": "網站紛紛擋下 AI 代理！Amazon、Delta、Yelp 設限，Meta Muse、Grok 接連受阻",
+      "url": "https://www.inside.com.tw/article/42678-websites-block-ai-agents-amazon-delta-yelp-meta-muse-grok-verge",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-10-21T00:54:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "AI 代理",
+        "人工智慧",
+        "網路購物",
+        "資料授權"
+      ],
+      "guid": "https://www.inside.com.tw/article/42678-websites-block-ai-agents-amazon-delta-yelp-meta-muse-grok-verge",
+      "summary": "Meta Muse、Grok、OpenAI Dots 等 AI 代理在 Amazon、Delta、Yelp 及銀行網站遇到封鎖，業者改走零售夥伴與付費授權路線。",
+      "published_raw": "2026-10-21T08:54:00+08:00",
+      "updated_at": "2026-10-21T00:54:00Z",
+      "updated_raw": "2026-10-21T08:54:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e1a44b104add2e39dcb36314ce0e5af0dd1f22a4483a79255640e5c0e5439370",
+      "title": "AI 聯手暗能量光譜儀，天文學家尋獲 70 個全新強重力透鏡系統",
+      "url": "https://technews.tw/2026/10/21/largest-2d-map-of-the-universe-reveals-70-new-gravitational-lenses/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:50:44Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "天文",
+        "宇宙二維地圖",
+        "暗物質",
+        "自然科學",
+        "重力透鏡效應"
+      ],
+      "guid": "https://technews.tw/?p=1627683",
+      "summary": "天文學家運用暗能量光譜儀巡天影像計畫（DESI Legacy Imaging Surveys）的龐大觀測資料， […]",
+      "published_raw": "Wed, 21 Oct 2026 00:50:44 +0000",
+      "updated_at": "2026-10-21T00:50:44Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:50:44 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4c2eba9a32c33bdf0d4186ff4f245713f1a3bd0a3d68676174668316400a580e",
+      "title": "安全測試恐失靈？中國智譜 AI GLM-5.3 學會考試時「裝乖」以保護後代模型",
+      "url": "https://infosecu.technews.tw/2026/10/21/z-ais-glm-5-3-raises-researcher-fears-the-chinese-model-can-fake-ai-safety-tests/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:45:49Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 資安",
+        "GLM-5.3",
+        "中國觀察",
+        "智譜 AI",
+        "資訊安全",
+        "開放權重模型"
+      ],
+      "guid": "https://technews.tw/?p=1631697",
+      "summary": "中國人工智慧實驗室智譜（Z.ai）8 月推出旗艦模型 GLM-5.3，AI 安全研究機構 Apollo Res […]",
+      "published_raw": "Wed, 21 Oct 2026 00:45:49 +0000",
+      "updated_at": "2026-10-21T00:45:49Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:45:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cf66c7ee42a20837c9282aebf1232017a4729b331343ead96385021bf9279a9b",
+      "title": "SpaceX 首實現盈利 馬斯克證實與特斯拉洽談合併",
+      "url": "https://finance.technews.tw/2026/10/21/elon-musk-says-tesla-spacex-merger-being-considered/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:40:53Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "SpaceX",
+        "尖端科技",
+        "特斯拉",
+        "航太科技",
+        "財報",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1633748",
+      "summary": "馬斯克旗下太空探索公司 SpaceX 財報超乎預期，實現身為上市公司的首次獲利，人工智慧（AI）業務更躍升最大 […]",
+      "published_raw": "Wed, 21 Oct 2026 00:40:53 +0000",
+      "updated_at": "2026-10-21T00:40:53Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:40:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:efbc7b8fb637a603cc6e39833c43503fd540b92579efb4d29b1718f005b4ac19",
+      "title": "不看措辭看想法，IdeaLens 改從核心論點判斷文章出自人類還是 AI",
+      "url": "https://technews.tw/2026/10/21/a-new-ai-detector-looks-beyond-words-to-check-whether-the-ideas-came-from-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:30:14Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 偵測工具",
+        "AI 生成",
+        "IdeaLens",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1628807",
+      "summary": "馬里蘭大學、Google DeepMind 與西門菲莎大學研究人員開發 IdeaLens，先把文件剝除原始措辭 […]",
+      "published_raw": "Wed, 21 Oct 2026 00:30:14 +0000",
+      "updated_at": "2026-10-21T00:30:14Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:30:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:104a75718900cd418ebbf8192f385a7f23fb899cce2c173aca288944dd6e296f",
+      "title": "Google Cloud 英國當機，銀行與公共服務大規模中斷",
+      "url": "https://technews.tw/2026/10/21/google-cloud-uk-outage-major-disruption-banks-public-services/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:25:21Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Google",
+        "Google Cloud",
+        "當機",
+        "英國",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1633755",
+      "summary": "Google 在倫敦的雲端業務 20 日發生中斷，影響當地多家銀行、金融公司和公共服務供應商的網站和行動應用程 […]",
+      "published_raw": "Wed, 21 Oct 2026 00:25:21 +0000",
+      "updated_at": "2026-10-21T00:25:21Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:25:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:802bb850c40210273f9a32af9ac091c7860867fbfd7d6dccbac70df0891b1752",
+      "title": "美史首例，川普政府拍賣美屬薩摩亞外海深海採礦權",
+      "url": "https://technews.tw/2026/10/21/trump-plans-to-auction-deep-sea-mining-rights-off-american-samoa/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:20:09Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "國際貿易",
+        "川普",
+        "深海採礦",
+        "美國",
+        "美屬薩摩亞",
+        "能源科技"
+      ],
+      "guid": "https://technews.tw/?p=1633149",
+      "summary": "法新社報導，美國總統川普（Donald Trump）政府 19 日宣布，已敲定一項對美屬薩摩亞（America […]",
+      "published_raw": "Wed, 21 Oct 2026 00:20:09 +0000",
+      "updated_at": "2026-10-21T00:20:09Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:20:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d0292fb74270c977493a65c8abe8cae4e94662566341828bfd8968740ecd63bb",
+      "title": "路透：字節阿里騰訊訂購總值逾 350 億美元輝達晶片",
+      "url": "https://technews.tw/2026/10/21/bytedance-alibaba-tencent-place-over-35-billion-worth-of-nvidia-chip-orders/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:15:36Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 資料中心",
+        "Nvidia",
+        "RTX Pro 5500",
+        "中國",
+        "中國觀察",
+        "字節跳動",
+        "晶片",
+        "輝達",
+        "阿里巴巴",
+        "騰訊"
+      ],
+      "guid": "https://technews.tw/?p=1633752",
+      "summary": "路透社 20 日報導，字節跳動、阿里巴巴和騰訊 3 家中國科技巨頭已訂購超過 300 萬個、總值逾 350 億 […]",
+      "published_raw": "Wed, 21 Oct 2026 00:15:36 +0000",
+      "updated_at": "2026-10-21T00:15:36Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:15:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4184bc049c402ba5a2592dbcb1fcbecb656eb88e08b7e708f45c9a3a59b8125c",
+      "title": "Microagi: Accelerating Embodied AGI",
+      "url": "https://www.microagi.ai/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T00:11:30Z",
+      "authors": [
+        "doener"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50174448",
+      "summary": "Article URL: https://www.microagi.ai/ Comments URL: https://news.ycombinator.com/item?id=50174448 Points: 8 # Comments: 6",
+      "published_raw": "Wed, 21 Oct 2026 00:11:30 +0000",
+      "updated_at": "2026-10-21T00:11:30Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:11:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f5cf08d354a06030e31283f297cffa5f374dec08b4b0d0d6778df43f2796af76",
+      "title": "韓國研發 100 吋「發聲顯示器」，聲音隨畫面移動準確率達 99.9%",
+      "url": "https://technews.tw/2026/10/21/your-next-tv-could-play-sound-from-the-exact-spot-where-the-action-happens/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:10:54Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "聲音",
+        "螢幕",
+        "電子娛樂",
+        "面板",
+        "韓國",
+        "顯示器"
+      ],
+      "guid": "https://technews.tw/?p=1633427",
+      "summary": "韓國機械研究院（KIMM）把螢幕本身變成喇叭，聲音會跟著畫面中的人物或物體移動，100 吋原型定位準確率達 9 […]",
+      "published_raw": "Wed, 21 Oct 2026 00:10:54 +0000",
+      "updated_at": "2026-10-21T00:10:54Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:10:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9dbcd4eda8209cd3ae5183b420a05ce2076493fbb523887550bb1bc0b3376f01",
+      "title": "免費 Adobe 對標軟體大放送，AI 會摧毀軟體業嗎？",
+      "url": "https://technews.tw/2026/10/21/ai-destroy-software-industry/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T00:00:15Z",
+      "authors": [
+        "朱熹"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "AI 程式工具",
+        "Photoshop",
+        "vibe coding",
+        "軟體、系統",
+        "軟體業"
+      ],
+      "guid": "https://technews.tw/?p=1632601",
+      "summary": "如果幾年前有人說，只靠一名開發者加上幾個 AI 就能在短時間內做出類似 Photoshop、Premiere、 […]",
+      "published_raw": "Wed, 21 Oct 2026 00:00:15 +0000",
+      "updated_at": "2026-10-21T00:00:15Z",
+      "updated_raw": "Wed, 21 Oct 2026 00:00:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:95ac6e544abca5ece7754de667e7bad489af4aaffea71cd49cf6632f21c39e2d",
+      "title": "Claude 半小時解開 26 年密碼學謎題，揭 NIST 曲線種子來自系統時間",
+      "url": "https://technews.tw/2026/10/21/claude-solves-mystery-behind-nist-curve-seeds/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:50:12Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "Anthropic",
+        "Claude",
+        "ECDSA",
+        "NIST Seed",
+        "密碼學",
+        "數位簽署技術",
+        "科技趣聞"
+      ],
+      "guid": "https://technews.tw/?p=1632567",
+      "summary": "Anthropic 10 月 16 日公布，旗下 Claude 內部研究模型花費不到半小時，成功找出困擾密碼學 […]",
+      "published_raw": "Tue, 20 Oct 2026 23:50:12 +0000",
+      "updated_at": "2026-10-20T23:50:12Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:50:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5bf7cf3ed1f8f554033994941344e8d777cab3d61f14914a2946d9161989486c",
+      "title": "Vibe Coding 改造家中智慧電視，移除廣告與臃腫軟體",
+      "url": "https://technews.tw/2026/10/21/dumbing-down-smart-tvs-to-eliminate-unnecessary-features/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:44:53Z",
+      "authors": [
+        "陳 冠榮"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "軟體、系統",
+        "電視"
+      ],
+      "guid": "https://technews.tw/?p=1633739",
+      "summary": "原本設計用於提供推薦內容、廣告及各種附加服務的智慧電視，現在卻有多名開發者以及 Vibe Coding 愛好者 […]",
+      "published_raw": "Tue, 20 Oct 2026 23:44:53 +0000",
+      "updated_at": "2026-10-20T23:44:53Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:44:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:aa64b2c0dbee5bb40902974071bccac4ddb12d8398e6223075f9b5a7e6daedf1",
+      "title": "自駕車上路前的魔鬼考官，Laplace Intelligence 用 AI 代理打造極端情境模擬",
+      "url": "https://technews.tw/2026/10/21/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:40:25Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "Laplace Intelligence",
+        "實體 AI",
+        "機器人",
+        "自駕車"
+      ],
+      "guid": "https://technews.tw/?p=1628795",
+      "summary": "來自美國密西根州安娜堡的 Laplace Intelligence，正把「先找出失敗，再上路部署」變成一門生意 […]",
+      "published_raw": "Tue, 20 Oct 2026 23:40:25 +0000",
+      "updated_at": "2026-10-20T23:40:25Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:40:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1881f5be7f61a855af69737826f20bbb4f8cd5f10560d847e2cc180cfce15641",
+      "title": "免除高風險開心手術，微型機器人讓數週心臟治療縮至一天",
+      "url": "https://technews.tw/2026/10/21/millirobots-shorten-heart-procedures/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:20:25Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "尖端科技",
+        "微型機器人",
+        "心內膜炎",
+        "心臟",
+        "機器人",
+        "生物科技",
+        "療程",
+        "醫療科技",
+        "靜脈注射"
+      ],
+      "guid": "https://technews.tw/?p=1628463",
+      "summary": "美國約翰霍普金斯大學（Johns Hopkins University）工程團隊近期開發出一款磁控「毫米機器人 […]",
+      "published_raw": "Tue, 20 Oct 2026 23:20:25 +0000",
+      "updated_at": "2026-10-20T23:20:25Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:20:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:16cff9833bbd47807aca0476e8b9c3bc4f72430f119ddb45b8a064c35e2a1896",
+      "title": "OpenCode 遭大規模 AI 蒸餾攻擊，用戶 API Key 恐外洩",
+      "url": "https://infosecu.technews.tw/2026/10/21/opencode-hit-by-distillation-attack-api-keys-at-risk/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:10:12Z",
+      "authors": [
+        "Unwire Pro"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "API Key",
+        "OpenCode",
+        "OpenCode Console",
+        "蒸餾攻擊",
+        "資訊安全"
+      ],
+      "guid": "https://technews.tw/?p=1632600",
+      "summary": "開源 AI 編程工具 OpenCode 於 10 月 17 日證實發生安全事故，事件與大規模 AI 模型蒸餾攻 […]",
+      "published_raw": "Tue, 20 Oct 2026 23:10:12 +0000",
+      "updated_at": "2026-10-20T23:10:12Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:10:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cc7aa26a01afdee3ac992f2cc8168fb91d819153e54d5d7e60f214509c1e3989",
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T23:04:09Z",
+      "authors": [
+        "gaplong"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50173891",
+      "summary": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 57 # Comments: 41",
+      "published_raw": "Tue, 20 Oct 2026 23:04:09 +0000",
+      "updated_at": "2026-10-20T23:04:09Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:04:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d57bbb80842e34f6b5df7dd3bd175762b172bf1c5685b6a86493511e48774d69",
+      "title": "4,000 萬美元徵求防空無人艇，美軍要求 120 天內可部署",
+      "url": "https://technews.tw/2026/10/21/diu-intiated-new-anti-air-usv-competition/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:00:48Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "DIU",
+        "SWAP",
+        "尖端科技",
+        "無人機",
+        "美軍",
+        "軍事科技",
+        "防空無人艇"
+      ],
+      "guid": "https://technews.tw/?p=1633735",
+      "summary": "為了降低艦隊應付無人機等低成本威脅的負擔，美國國防創新單位（Defense Innovation Unit，D […]",
+      "published_raw": "Tue, 20 Oct 2026 23:00:48 +0000",
+      "updated_at": "2026-10-20T23:00:48Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:00:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e61f32acf1a803881f996e63e3c43cc4318b5de8ea0472504eaa52290a1764fb",
+      "title": "2026 年衛星 IoT 供應鏈動態：融入既有通訊體系，價值向終端與服務延伸",
+      "url": "https://technews.tw/2026/10/21/2026-satellite-iot-supply-chain-dynamics-integration-existing-communication-systems-value-extension-end-devices-services/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-20T23:00:45Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "IoT 物聯網",
+        "技術分析",
+        "數位通訊",
+        "會員專區",
+        "網通設備",
+        "衛星 IoT",
+        "衛星網路",
+        "衛星通訊"
+      ],
+      "guid": "https://technews.tw/?p=1632051",
+      "summary": "2026 年全球衛星 IoT 市場的競爭焦點，已逐步由星座數量與覆蓋範圍，轉向頻譜、衛星網路與電信商接入等關鍵 […]",
+      "published_raw": "Tue, 20 Oct 2026 23:00:45 +0000",
+      "updated_at": "2026-10-20T23:00:45Z",
+      "updated_raw": "Tue, 20 Oct 2026 23:00:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f72a90908ea0b1e1df258b74d25bd5a7898cf7883e17ac2ce5255706c1dbee9e",
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T22:21:05Z",
+      "authors": [
+        "Bender"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50173487",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 89 # Comments: 29",
+      "published_raw": "Tue, 20 Oct 2026 22:21:05 +0000",
+      "updated_at": "2026-10-20T22:21:05Z",
+      "updated_raw": "Tue, 20 Oct 2026 22:21:05 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:16f65bbc2448ff15a77da6c9ca7f8637635a0524f8c1be8691ab7a3e3989e227",
+      "title": "Upcoming Critical PHP Security Release",
+      "url": "https://news-web.php.net/php.announce/509",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T20:15:50Z",
+      "authors": [
+        "xd"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50172041",
+      "summary": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 45 # Comments: 3",
+      "published_raw": "Tue, 20 Oct 2026 20:15:50 +0000",
+      "updated_at": "2026-10-20T20:15:50Z",
+      "updated_raw": "Tue, 20 Oct 2026 20:15:50 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a873ae3514cd33d09cb09c7310b46f9cf97a28985bcfbcfa7de5de2b72fc808e",
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T18:51:40Z",
+      "authors": [
+        "jruohonen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50170917",
+      "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 128 # Comments: 69",
+      "published_raw": "Tue, 20 Oct 2026 18:51:40 +0000",
+      "updated_at": "2026-10-20T18:51:40Z",
+      "updated_raw": "Tue, 20 Oct 2026 18:51:40 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:408ca7d19e3e688c989b5e5532a2a21d215d7399948709a1b928acd6edef66e2",
+      "title": "AI 搶工作後怎麼分錢？馬斯克選「送 SpaceX 股票」、Anthropic 設公益股、World 用虹膜發幣",
+      "url": "https://www.blocktempo.com/musk-spacex-share-gift-trump-accounts-ubi/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-20T18:48:51Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI",
+        "Anthropic",
+        "Elon Musk",
+        "Sam Altman",
+        "SpaceX",
+        "UBI",
+        "World",
+        "人工智慧",
+        "川普帳戶",
+        "美國"
+      ],
+      "guid": "https://www.blocktempo.com/?p=548516",
+      "summary": "馬斯克宣布明年將把自己持有的 SpaceX 股票各贈 1 股給全美兒童，並與「川普帳戶」機制相呼應；同一週 A […] 〈 AI 搶工作後怎麼分錢？馬斯克選「送 SpaceX 股票」、Anthropic 設公益股、World 用虹膜發幣 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 20 Oct 2026 18:48:51 +0000",
+      "updated_at": "2026-10-20T18:48:51Z",
+      "updated_raw": "Tue, 20 Oct 2026 18:48:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b8a47b047700b702c6aa88e410d7dc3ab80b53fc40195e15e23326174fd1bd32",
+      "title": "SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T18:29:09Z",
+      "authors": [
+        "pcai"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50170593",
+      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 558 # Comments: 288",
+      "published_raw": "Tue, 20 Oct 2026 18:29:09 +0000",
+      "updated_at": "2026-10-20T18:29:09Z",
+      "updated_raw": "Tue, 20 Oct 2026 18:29:09 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cfdc6a801556ea60720ed4648608a8bcacea0c8fb7a5feea8d83fcb2f5a43c90",
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T17:25:07Z",
+      "authors": [
+        "Curiositry"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50169707",
+      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 258 # Comments: 326",
+      "published_raw": "Tue, 20 Oct 2026 17:25:07 +0000",
+      "updated_at": "2026-10-20T17:25:07Z",
+      "updated_raw": "Tue, 20 Oct 2026 17:25:07 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c0d4aca7295f7efc74f6a335cc2b00c32f401d3fd00c4a667867830b970c0900",
+      "title": "Anthropic 發表 Claude 設計蠍毒結合蛋白：211 件送測、17 件達標，強調非抗毒血清",
+      "url": "https://www.blocktempo.com/anthropic-claude-scorpion-toxin-binder/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-20T17:12:15Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Adaptyv Bio",
+        "Anthropic",
+        "Citrini",
+        "Claude",
+        "人工智慧",
+        "生物科技",
+        "藥物發現",
+        "蛋白質設計"
+      ],
+      "guid": "https://www.blocktempo.com/?p=548509",
+      "summary": "Anthropic 內部研究模型在 Claude Science 中，約 64 小時內為五種蠍子神經毒素設計迷 […] 〈 Anthropic 發表 Claude 設計蠍毒結合蛋白：211 件送測、17 件達標，強調非抗毒血清 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 20 Oct 2026 17:12:15 +0000",
+      "updated_at": "2026-10-20T17:12:15Z",
+      "updated_raw": "Tue, 20 Oct 2026 17:12:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e2d7538ef67fefc8fe64d8163edd336b2e865f82f78006d9bce9535a1ceac7f7",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T17:10:31Z",
+      "authors": [
+        "mdahardy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50169506",
+      "summary": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 25 # Comments: 0",
+      "published_raw": "Tue, 20 Oct 2026 17:10:31 +0000",
+      "updated_at": "2026-10-20T17:10:31Z",
+      "updated_raw": "Tue, 20 Oct 2026 17:10:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2128cbc486c638c9293574b92ebac6a0333f45d39d78c051fedfc94b0e08120b",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T16:40:24Z",
+      "authors": [
+        "ilreb"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50169053",
+      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 258 # Comments: 64",
+      "published_raw": "Tue, 20 Oct 2026 16:40:24 +0000",
+      "updated_at": "2026-10-20T16:40:24Z",
+      "updated_raw": "Tue, 20 Oct 2026 16:40:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ec11b70110c351830b2dde3ae0b14e2d1785461f4f8e41629d08d4ffd3258f71",
+      "title": "以太坊質押量創紀錄達 4,380 萬枚！占總供應 35.9%，收益率與驗證者同步下滑",
+      "url": "https://www.blocktempo.com/ethereum-staking-record-43-8m-eth-q3-2026/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-20T16:10:09Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Bitwise",
+        "ETH",
+        "Lido",
+        "Pectra",
+        "staking",
+        "以太坊",
+        "質押",
+        "驗證者"
+      ],
+      "guid": "https://www.blocktempo.com/?p=548503",
+      "summary": "資產管理公司 Bitwise 於台北時間 10 月 20 日發布季度質押報告，指截至第三季末以太坊質押量升至創 […] 〈 以太坊質押量創紀錄達 4,380 萬枚！占總供應 35.9%，收益率與驗證者同步下滑 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 20 Oct 2026 16:10:09 +0000",
+      "updated_at": "2026-10-20T16:10:09Z",
+      "updated_raw": "Tue, 20 Oct 2026 16:10:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3250dca704896770fe95e6b8583f005e742555111dd797e295e94112de828634",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-20T16:02:07Z",
+      "authors": [
+        "ilreb"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50168396",
+      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 527 # Comments: 141",
+      "published_raw": "Tue, 20 Oct 2026 16:02:07 +0000",
+      "updated_at": "2026-10-20T16:02:07Z",
+      "updated_raw": "Tue, 20 Oct 2026 16:02:07 +0000",
+      "language": "en"
+    }
+  ]
+}
