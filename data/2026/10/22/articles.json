@@ -1,0 +1,1141 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-22",
+  "timezone": "Asia/Taipei",
+  "article_count": 45,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:35e36dc1b44a49fb71e78a3d21dd339659b793c74bf3f65b7609819ef2c4c409",
+      "title": "英特爾俄亥俄州晶圓廠上樑 但量產要等到 2030 年",
+      "url": "https://technews.tw/2026/10/22/intel-hits-construction-milestone-at-ohio-chip-fab-thats-at-least-5-years-behind-schedule/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T01:40:23Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "半導體",
+        "國際貿易",
+        "晶圓",
+        "晶圓代工",
+        "晶圓廠",
+        "英特爾"
+      ],
+      "guid": "https://technews.tw/?p=1634465",
+      "summary": "美國晶片大廠英特爾（Intel）週三（21 日）宣布，俄亥俄州晶圓廠新建工程取得進展，首座廠房已上樑，宣示工程 […]",
+      "published_raw": "Thu, 22 Oct 2026 01:40:23 +0000",
+      "updated_at": "2026-10-22T01:40:23Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:40:23 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6d6c163b5e31ce18653db8017c191d8ee7b6618bd981a12d59797b98f147d10e",
+      "title": "英國 FCA 兩份諮詢一次開！DeFi 反洗錢規則釐清，加密豁免 2027 生效",
+      "url": "https://www.blocktempo.com/uk-fca-defi-guidance-consultation-crypto-regulation-exclusions/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-22T01:36:02Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "FCA",
+        "反洗錢",
+        "法規",
+        "稳定币",
+        "英國加密監管"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549002",
+      "summary": "英國 FCA 同一天開啟兩扇門：一份 DeFi 反洗錢指引諮詢，一份加密資產監管豁免諮詢。前者只釐清舊規則、不 […] 〈 英國 FCA 兩份諮詢一次開！DeFi 反洗錢規則釐清，加密豁免 2027 生效 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 22 Oct 2026 01:36:02 +0000",
+      "updated_at": "2026-10-22T01:36:02Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:36:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9a0eaaf247b7e911e36f3e5a158f8fdf6fcda626d0b3a4f718c89031aa155471",
+      "title": "美國銀行公會開火 OCC！砍掉 GENIUS 收益預設，穩定幣要搶銀行存款了",
+      "url": "https://www.blocktempo.com/aba-pushes-back-occ-genius-yield-rules/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-22T01:35:05Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "GENIUS Act",
+        "OCC",
+        "支付穩定幣",
+        "法規",
+        "穩定幣收益"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549037",
+      "summary": "GENIUS Act 最終規則落地後，美國銀行公會 ABA 週三公開批評 OCC 刪除了第三方可疑收益安排的推 […] 〈 美國銀行公會開火 OCC！砍掉 GENIUS 收益預設，穩定幣要搶銀行存款了 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 22 Oct 2026 01:35:05 +0000",
+      "updated_at": "2026-10-22T01:35:05Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:35:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d9d3c04982f25817ff05fc9b8278a972b315b58782010a143504a22d80d71db",
+      "title": "比特幣守穩8.4萬美元、以太坊收復2,470！貪婪指數回升至68續走高",
+      "url": "https://www.blocktempo.com/morning-roundup-btc-84k-eth-2470-fear-greed-68/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-22T01:33:19Z",
+      "authors": [
+        "flip"
+      ],
+      "categories": [
+        "以太坊",
+        "市場分析",
+        "幣價行情",
+        "恐慌與貪婪指數",
+        "比特幣",
+        "美股"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549046",
+      "summary": "比特幣今（22）日早盤報 84,186 美元、24 小時漲 1.39%，以太坊收復 2,470 美元；美股道瓊 […] 〈 比特幣守穩8.4萬美元、以太坊收復2,470！貪婪指數回升至68續走高 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 22 Oct 2026 01:33:19 +0000",
+      "updated_at": "2026-10-22T01:33:19Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:33:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1511af24503d435beee9e280ac4190651c29401ef50ae03b3d396be93c448699",
+      "title": "中國機器人行業冰火兩重天，一邊排隊 IPO 一邊破產",
+      "url": "https://technews.tw/2026/10/22/china-robotics-industry-duality-ipos-bankruptcies/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T01:30:46Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "IPO",
+        "中國",
+        "中國觀察",
+        "尖端科技",
+        "機器人",
+        "機器人產業",
+        "破產"
+      ],
+      "guid": "https://technews.tw/?p=1634459",
+      "summary": "中國機器人行業出現冰火兩重天現象。過去 19 個月，有超過 20 家機器人公司破產、解散、清算或業務關停；今年 […]",
+      "published_raw": "Thu, 22 Oct 2026 01:30:46 +0000",
+      "updated_at": "2026-10-22T01:30:46Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:30:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cf3e315b178f24018f7ccb230d75affb0ad5030083a0663aaea8109dae3c7166",
+      "title": "輝達推歐洲自駕計程車，攜 Bolt 目標布局 2.5 萬輛",
+      "url": "https://technews.tw/2026/10/22/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T01:20:55Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 晶片",
+        "Bolt",
+        "Nvidia",
+        "德國",
+        "汽車科技",
+        "軟體、系統",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1634454",
+      "summary": "AI 晶片大廠輝達今天在柏林 GTC 大會宣布擴大與歐洲車廠及交通業者合作，推動自動駕駛計程車（Robotax […]",
+      "published_raw": "Thu, 22 Oct 2026 01:20:55 +0000",
+      "updated_at": "2026-10-22T01:20:55Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:20:55 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:92ffd332352e6188ddc59f69551c2ff9f895b7d3ea1baa2ef264e00e4169fe35",
+      "title": "IBM Q3 財報雙喜但毛利率落漆 盤後股價跌逾 4%",
+      "url": "https://finance.technews.tw/2026/10/22/ibm-q3-earnings-positives-weak-gross-margin-after-hours-stock-falls-4-percent/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T01:05:25Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "IBM",
+        "財報",
+        "軟體、系統",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1634442",
+      "summary": "電腦硬體與雲端技術大廠 IBM 週三（21 日）公布 2026 年第三季財報，營收與獲利雙雙優於市場預期，軟體 […]",
+      "published_raw": "Thu, 22 Oct 2026 01:05:25 +0000",
+      "updated_at": "2026-10-22T01:05:25Z",
+      "updated_raw": "Thu, 22 Oct 2026 01:05:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2bc205bb7d2a59ce0eb418f1d033c562b5dc2afb3bbdaa4e83f92670dc268321",
+      "title": "荷莫茲海峽受阻，巴拿馬運河貨物通行量創新高",
+      "url": "https://technews.tw/2026/10/22/hormuz-strait-obstruction-panama-canal-cargo-record/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:50:58Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "交通運輸",
+        "國際貿易",
+        "天然氣",
+        "巴拿馬運河",
+        "石油",
+        "荷莫茲海峽"
+      ],
+      "guid": "https://technews.tw/?p=1634419",
+      "summary": "巴拿馬運河（Panama Canal）營運單位 20 日告訴法新社，由於中東戰爭導致荷莫茲海峽（Strait […]",
+      "published_raw": "Thu, 22 Oct 2026 00:50:58 +0000",
+      "updated_at": "2026-10-22T00:50:58Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:50:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:94ba6cb2f3ebc045e65d66e28178b378621bafc986f7f98cb9e24e2276dd09e0",
+      "title": "不只要拿到電，AI 資料中心的新戰場是把電、熱與運算整合起來",
+      "url": "https://technews.tw/2026/10/22/ais-compute-hit-a-wall/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:45:32Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 資料中心",
+        "GPU",
+        "散熱",
+        "輝達",
+        "運算架構"
+      ],
+      "guid": "https://technews.tw/?p=1633923",
+      "summary": "AI 資料中心的擴張正面臨前所未有的物理限制，單靠增加供電容量已不足以支撐下一代運算需求。隨著超大規模 AI […]",
+      "published_raw": "Thu, 22 Oct 2026 00:45:32 +0000",
+      "updated_at": "2026-10-22T00:45:32Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:45:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:db7df6d256f6f466cfe597b3cad0ba648c14748e99ffd70a9f3e5b5edf235837",
+      "title": "連高市早苗都親自示警！PHP 爆重大漏洞，AI 挖出潛伏 20 年資安危機",
+      "url": "https://infosecu.technews.tw/2026/10/22/php-loopholes/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:43:05Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "PHP",
+        "資安漏洞",
+        "資訊安全",
+        "高市早苗"
+      ],
+      "guid": "https://technews.tw/?p=1634434",
+      "summary": "全球網站爆發重大資安危機，廣泛應用於網站開發的 PHP 程式語言遭揭露兩項高風險漏洞，恐讓駭客在未經身分驗證的 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:43:05 +0000",
+      "updated_at": "2026-10-22T00:43:05Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:43:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d76a100d3483efbfa8b23407c7666476635a947af682eac507a569f29ea2941d",
+      "title": "毅力號刷新火星行駛紀錄，超越機會號與登月太空人",
+      "url": "https://technews.tw/2026/10/22/perseverance-mars-rover-nasa-driving-record/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:42:11Z",
+      "authors": [
+        "Emma stein"
+      ],
+      "categories": [
+        "天文",
+        "尖端科技",
+        "機會號",
+        "毅力號",
+        "火星車",
+        "自然科學",
+        "航太科技"
+      ],
+      "guid": "https://technews.tw/?p=1634431",
+      "summary": "NASA 毅力號（Perseverance）火星車日前再寫太空探索新頁，10 月 11 日於火星表面行駛里程累 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:42:11 +0000",
+      "updated_at": "2026-10-22T00:42:11Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:42:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0be53b00bf08ede9a6383b1606fbb36558afe53dd2e91278db6ebdb977f8f4fa",
+      "title": "Meta 營收創高、Muse 用戶破千萬人 將拆股",
+      "url": "https://finance.technews.tw/2026/10/22/meta-reports-third-quarter-2026-results/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:40:21Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "MUSE",
+        "Meta",
+        "個資",
+        "財報"
+      ],
+      "guid": "https://technews.tw/?p=1634418",
+      "summary": "社群媒體巨頭 Meta 第三季營收創新高，財測也優於市場預期，新推出的 AI 代理 Muse 推出短短六週用戶 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:40:21 +0000",
+      "updated_at": "2026-10-22T00:40:21Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:40:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e64369a79c80255a8b33603ff87832f6d34da8a4a6f37f7863ef4596388d346e",
+      "title": "機器網軍來了！美軍 ECHOTRIBBLE 計畫召集 AI 代理自主數位索敵並消滅目標",
+      "url": "https://www.inside.com.tw/article/42691-us-army-echotribble-autonomous-ai-agents-digital-infrastructure-tomshardware",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-10-22T00:38:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "AI Agent",
+        "AI 代理",
+        "人工智慧",
+        "科技政策與法律",
+        "美國陸軍",
+        "資安"
+      ],
+      "guid": "https://www.inside.com.tw/article/42691-us-army-echotribble-autonomous-ai-agents-digital-infrastructure-tomshardware",
+      "summary": "美國陸軍公開徵求 ECHOTRIBBLE 原型，目標是讓 AI 代理在數位環境自主導航並處置威脅。",
+      "published_raw": "2026-10-22T08:38:00+08:00",
+      "updated_at": "2026-10-22T00:38:00Z",
+      "updated_raw": "2026-10-22T08:38:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:965fa38bff32884f25d4d0f4d4a6d11889a301de9184786fe04cf055a6190941",
+      "title": "台英深化能源合作，聚焦離岸風電、電網韌性與碳捕捉技術",
+      "url": "https://technews.tw/2026/10/22/taiwan-uk-energy-cooperation-offshore-wind-grid-resilience-carbon-capture-technology/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:37:29Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "ESG",
+        "淨零減碳",
+        "碳封存",
+        "碳捕捉",
+        "能源科技",
+        "離岸風電",
+        "風力"
+      ],
+      "guid": "https://technews.tw/?p=1634408",
+      "summary": "經濟部能源署與英國在台辦事處 20 日共同舉辦「第 21 屆台英再生能源交流會議」及「第 8 屆台英能源對話會 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:37:29 +0000",
+      "updated_at": "2026-10-22T00:37:29Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:37:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:466b8b45b21e767ef6a63d69bfb87986569ee3176ed147aadc85e318df359469",
+      "title": "Windows 電腦狂跳「中毒警告」多為詐騙，使用者必學這些應對步驟",
+      "url": "https://infosecu.technews.tw/2026/10/22/ai-deciphers-plant-power-generation-communication-language/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:30:12Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Windows",
+        "安全警告",
+        "惡意程式",
+        "科技生活",
+        "詐騙",
+        "資訊安全",
+        "電腦",
+        "電腦病毒",
+        "駭客"
+      ],
+      "guid": "https://technews.tw/?p=1633943",
+      "summary": "Windows 使用者若突然在螢幕上看到全螢幕跳出的安全警告，要求立刻致電客服、下載掃描工具或進行付款，請務必 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:30:12 +0000",
+      "updated_at": "2026-10-22T00:30:12Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:30:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0280ab761072b8befbffa0a94c8cc6a0b1535babfa4419359e2ab401822a6281",
+      "title": "輝達推歐洲自駕計程車 攜Bolt目標布局2.5萬輛",
+      "url": "https://www.cna.com.tw/news/ait/202610220021.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-10-22T00:28:00Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-10-22/202610220021",
+      "summary": "（中央社記者林尚縈柏林21日專電）AI晶片大廠輝達今天在柏林GTC大會宣布擴大與歐洲車廠及交通業者合作，推動自動駕駛計程車（Robotaxi）發展。歐洲叫車平台Bolt計畫採用輝達技術，未來在歐洲部署至少2萬5000輛具備第4級自動駕駛能力計程車，德國被列為優先市場。",
+      "published_raw": "Thu, 22 Oct 2026 08:28:00 +0800",
+      "updated_at": "2026-10-22T00:28:00Z",
+      "updated_raw": "Thu, 22 Oct 2026 08:28:00 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f2dc8e9e3dfa374a47e4a20b510a6d4633825c1855bc14d6a106ca14a9aef02a",
+      "title": "以色列背景引發資安疑慮，馬來西亞禁止公務員使用 Waze",
+      "url": "https://infosecu.technews.tw/2026/10/22/malaysia-bans-civil-servants-from-using-mapping-app-waze-citing-links-to-israel/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:20:20Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "waze",
+        "以色列",
+        "地圖軟體",
+        "網路",
+        "資訊安全",
+        "軟體、系統",
+        "馬來西亞"
+      ],
+      "guid": "https://technews.tw/?p=1634256",
+      "summary": "在馬來西亞首相安華（Anwar Ibrahim）認為來自以色列的地圖軟體 Waze 有安全疑慮後，馬來西亞已禁 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:20:20 +0000",
+      "updated_at": "2026-10-22T00:20:20Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:20:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:64e55c62ae2845719a5d27a3ae30849564867e75f7a9ce014ccf96e0dc3f3852",
+      "title": "OpenAI 前研究長創立 Arda 募資 2.3 億美元，以 AI 加速美國工廠產線改造",
+      "url": "https://finance.technews.tw/2026/10/22/ex-openai-exec-launches-1-5b-ai-manufacturing-startup-arda/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T00:10:33Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Arda",
+        "實體 AI",
+        "機器人",
+        "產線 AI",
+        "美國製造",
+        "自動化",
+        "製造業",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1633982",
+      "summary": "OpenAI 前研究長 Bob McGrew 創辦的 AI 製造軟體新創 Arda，20 日首度曝光，宣布完成 […]",
+      "published_raw": "Thu, 22 Oct 2026 00:10:33 +0000",
+      "updated_at": "2026-10-22T00:10:33Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:10:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1a8899d40df2e0a92e216727945ee29d1e6c1213eb9769c7f1393e39bff0145b",
+      "title": "When Do We Become the Person We Ought to Be?",
+      "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T23:57:41Z",
+      "authors": [
+        "toomuchtodo"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50189278",
+      "summary": "Article URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought Comments URL: https://news.ycombinator.com/item?id=50189278 Points: 11 # Comments: 4",
+      "published_raw": "Wed, 21 Oct 2026 23:57:41 +0000",
+      "updated_at": "2026-10-21T23:57:41Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:57:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:964284b5bd1660051b7a2ceccbe593fc4e1c2018f3f7f15d703c51ce38a1af87",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T23:51:37Z",
+      "authors": [
+        "ahlCVA"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50189232",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 156 # Comments: 35",
+      "published_raw": "Wed, 21 Oct 2026 23:51:37 +0000",
+      "updated_at": "2026-10-21T23:51:37Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:51:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cbdff84fa10e3fac6f7130f8af18fb9621a70606fc0a03c681df15b3f3063976",
+      "title": "AI 讓人人都能做 App，誰負責讓它活下去？",
+      "url": "https://technews.tw/2026/10/22/ai-lets-anyone-build-apps-but-who-maintains-it/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T23:50:18Z",
+      "authors": [
+        "YuShan C."
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Google",
+        "Google AI Studio",
+        "Google Play",
+        "app",
+        "vibe coding"
+      ],
+      "guid": "https://technews.tw/?p=1634209",
+      "summary": "Google 13 日宣布，Google Play 開始向美國等特定市場、18 歲以上使用者開放新功能，透過 […]",
+      "published_raw": "Wed, 21 Oct 2026 23:50:18 +0000",
+      "updated_at": "2026-10-21T23:50:18Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:50:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:13d93d4bc60e77f0b5bd0d326cbb092a2ef134d35695579c62bc117a83543862",
+      "title": "AI 時代資安更重要！Anthropic 推出 OSS Scanner，開源專案可申請免費定期漏洞掃描",
+      "url": "https://www.inside.com.tw/article/42690-anthropic-oss-scanner-free-periodic-vulnerability-scans-open-source",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-10-21T23:45:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "Anthropic",
+        "人工智慧",
+        "資安",
+        "開源軟體"
+      ],
+      "guid": "https://www.inside.com.tw/article/42690-anthropic-oss-scanner-free-periodic-vulnerability-scans-open-source",
+      "summary": "Anthropic 於 10 月 8 日推出 OSS Scanner，讓符合條件的開源專案免費取得定期漏洞掃描，每項發現附概念驗證，報告未經人工驗證，可能含誤報。",
+      "published_raw": "2026-10-22T07:45:00+08:00",
+      "updated_at": "2026-10-21T23:45:00Z",
+      "updated_raw": "2026-10-22T07:45:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7a5ab4361a83c1e0f6dd246ae7b464c07e7e4daa0741d0b0819e472c93e19dd3",
+      "title": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed",
+      "url": "https://bloffy.co/en",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T23:41:35Z",
+      "authors": [
+        "textlanes33"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50189175",
+      "summary": "Hello. I built a blogging platform on my own over two years. I like running my blog, but I couldn't find a blogging platform I really liked. First. I thought a blog had to be really lightweight. Fortunately, after a lot of effort, I was able to achieve satisfactory results. (99 to 100 score) Here is a sample blog: https://bloffy.bloffy.blog/en You can check it with PageSpeed Insights: https://pagespeed.web.dev/analysis?url=https://bloffy.bloffy... SEO score of the sample blog is low because I blocked it from search engine indexing (noindex). Second. I think bloggers should have control over their own blog. The blogging platforms I used had several problems. Unnecessary JavaScript chunks. Ads that the platform inserted into my blog, not my own ads. Cannot manage multiple blogs. An editor that makes it hard to write semantic markup. Limited customization options. I was dissatisfied with the difficulty of placing my own ads. And to solve this, I spent quite a long time researching and developing it on my own, and finally created it. I'm glad to share this launch with HN. I would appreciate any criticism, feedback, and interest. Comments URL: https://news.ycombinator.com/item?id=50189175 Points: 9 # Comments: 0",
+      "published_raw": "Wed, 21 Oct 2026 23:41:35 +0000",
+      "updated_at": "2026-10-21T23:41:35Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:41:35 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1daf581ee6a37f0c4dcd6b11ccc0ad8381fcdb4c116019c516ffe43daa366f7b",
+      "title": "電動車電池退役不等於報廢，維修、儲能與回收決定「第二池生」",
+      "url": "https://technews.tw/2026/10/22/what-happens-to-an-ev-battery-after-its-removed-from-your-car/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T23:40:20Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "儲能設備",
+        "回收電池",
+        "太陽能儲能",
+        "環境科學",
+        "生態保育",
+        "鋰電池",
+        "電動車",
+        "電動車電池",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1628790",
+      "summary": "電動車電池從車上拆下後，並不代表生命就此結束。外媒 Engadget 13 日報導，退役電池依健康狀態不同，可 […]",
+      "published_raw": "Wed, 21 Oct 2026 23:40:20 +0000",
+      "updated_at": "2026-10-21T23:40:20Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:40:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:de5ab5abbf37ab6e4917037331072019f4868d6ecaba92ea4ceeb8bb0dfdd312",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T23:38:32Z",
+      "authors": [
+        "babelfish"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50189150",
+      "summary": "Article URL: https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update Comments URL: https://news.ycombinator.com/item?id=50189150 Points: 80 # Comments: 55",
+      "published_raw": "Wed, 21 Oct 2026 23:38:32 +0000",
+      "updated_at": "2026-10-21T23:38:32Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:38:32 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bdaedea30063164049be52344f1aee9e0155a3869a765549f1e2b04cc1477c94",
+      "title": "空中巴士測試女武神無人機，計畫 2029 年可服役",
+      "url": "https://technews.tw/2026/10/22/airbus-tests-valkyrie-drone-in-europe/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T23:30:29Z",
+      "authors": [
+        "藍 弋丰"
+      ],
+      "categories": [
+        "Airbus",
+        "Kratos Defense",
+        "無人僚機",
+        "無人機",
+        "空中巴士",
+        "航太科技",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1632705",
+      "summary": "有人戰機搭配輔助無人機的「忠誠僚機」解決方案，成為許多國家新世代戰機的標準配備，歐洲颱風式戰鬥機也想如此搭配， […]",
+      "published_raw": "Wed, 21 Oct 2026 23:30:29 +0000",
+      "updated_at": "2026-10-21T23:30:29Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:30:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:430b702ade256092220b1802323f20297220ef8b93cf1c7de8c01c83b6ec1b5c",
+      "title": "Κ = 0.003 for integer multiplication crossed",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T23:22:21Z",
+      "authors": [
+        "aleph_minus_one"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50189023",
+      "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441 Comments URL: https://news.ycombinator.com/item?id=50189023 Points: 20 # Comments: 9",
+      "published_raw": "Wed, 21 Oct 2026 23:22:21 +0000",
+      "updated_at": "2026-10-21T23:22:21Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:22:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:281b8759d951f83da9c71fd87aab1b7f5d89ccdc6946cb503c9b45f16e9c4acd",
+      "title": "防堵 AI 代理管帳暴走，新創 Fragment 獲 1,200 萬美元打造專屬防線",
+      "url": "https://finance.technews.tw/2026/10/22/fragment-raises-12-million-to-combat-ai-financial-abuse/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T23:20:30Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "3C鍵盤滑鼠",
+        "AI 人工智慧",
+        "AI 代理",
+        "Fragment",
+        "代理式商業",
+        "公司治理",
+        "商務流程",
+        "新創",
+        "理財",
+        "融資",
+        "資訊安全",
+        "金流"
+      ],
+      "guid": "https://technews.tw/?p=1630082",
+      "summary": "隨著企業陸續導入 AI 代理（AI agents）處理帳務與付款，紐約新創 Fragment 宣布完成 1,2 […]",
+      "published_raw": "Wed, 21 Oct 2026 23:20:30 +0000",
+      "updated_at": "2026-10-21T23:20:30Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:20:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:19804c41d77aa0b416cff290fb8dc3629c367b06bbfc9f20e4202a870455099f",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T23:13:27Z",
+      "authors": [
+        "zkldi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50188948",
+      "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 138 # Comments: 59",
+      "published_raw": "Wed, 21 Oct 2026 23:13:27 +0000",
+      "updated_at": "2026-10-21T23:13:27Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:13:27 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:65b9dbc994e4fce94a9c893264cdec3c4f26b2324b390d9789a41a9305d234f3",
+      "title": "地圖出現的地方都可變漫畫背景，日本免費工具用真實地圖畫出線稿和網點",
+      "url": "https://technews.tw/2026/10/22/location-scout/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T23:10:53Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "Claude Code",
+        "Location Scout",
+        "どこでもロケハン",
+        "數位內容",
+        "數位繪圖",
+        "漫畫工具",
+        "科技趣聞",
+        "網路"
+      ],
+      "guid": "https://technews.tw/?p=1633101",
+      "summary": "日本設計師 Sharp（シャープ）近日推出免費網頁工具「どこでもロケハン」（Location Scout），能 […]",
+      "published_raw": "Wed, 21 Oct 2026 23:10:53 +0000",
+      "updated_at": "2026-10-21T23:10:53Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:10:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e228ccec338c7e843c6bb60ae0059f3a744afa0bdaf9587d5640a2f174d26015",
+      "title": "歐中混動汽車配額協商，成帶動供應鏈轉型的契機",
+      "url": "https://finance.technews.tw/2026/10/22/eu-china-hybrid-quota-talks-supply-chain-transformation-opportunity/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T23:00:00Z",
+      "authors": [
+        "TrendForce 集邦科技"
+      ],
+      "categories": [
+        "中國傾銷",
+        "中國觀察",
+        "國際貿易",
+        "國際金融",
+        "技術分析",
+        "新能源車",
+        "會員專區",
+        "歐中協議",
+        "歐洲",
+        "汽車科技",
+        "汽車零組件",
+        "財經",
+        "非紅供應鏈"
+      ],
+      "guid": "https://technews.tw/?p=1633656",
+      "summary": "本月中歐雙方在中歐貿易投資磋商機制下，就混合動力汽車（含油電混動與插電式混動）貿易達成共識諒解。協商限制中國每 […]",
+      "published_raw": "Wed, 21 Oct 2026 23:00:00 +0000",
+      "updated_at": "2026-10-21T23:00:00Z",
+      "updated_raw": "Wed, 21 Oct 2026 23:00:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0f4b659580af7e3df07a265d25804f44ccd07fbd011ab4a15cb747bb675fea0a",
+      "title": "台達電入列輝達 DSX POD 合作陣容，AI 工廠部署最快縮短至 14 天",
+      "url": "https://technews.tw/2026/10/22/delta-electronics-nvidia-dsx-pod-ai-factory-deployment-14-days/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-21T22:00:33Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "DSX POD",
+        "HVDC",
+        "Nvidia",
+        "台達電",
+        "材料、設備",
+        "柏林 GTC",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1634404",
+      "summary": "輝達於德國柏林 GTC 大會宣布推出全新 DSX POD 模組化 AI 工廠參考設計，將 Vera Rubin […]",
+      "published_raw": "Wed, 21 Oct 2026 22:00:33 +0000",
+      "updated_at": "2026-10-21T22:00:33Z",
+      "updated_raw": "Wed, 21 Oct 2026 22:00:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6c9aaf3adc3d39d19effc3556117c9b23073458c7484e39e7a1272d2730c8cd6",
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T21:58:03Z",
+      "authors": [
+        "passenger"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50188228",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 300 # Comments: 147",
+      "published_raw": "Wed, 21 Oct 2026 21:58:03 +0000",
+      "updated_at": "2026-10-21T21:58:03Z",
+      "updated_raw": "Wed, 21 Oct 2026 21:58:03 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:32877ee1b7d19fc6fc2c4ef80c1d02dbf4842ffdf3baf20dc95b1092da642369",
+      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T21:12:59Z",
+      "authors": [
+        "hayd"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50187708",
+      "summary": "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 107 # Comments: 26",
+      "published_raw": "Wed, 21 Oct 2026 21:12:59 +0000",
+      "updated_at": "2026-10-21T21:12:59Z",
+      "updated_raw": "Wed, 21 Oct 2026 21:12:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:78560e624be46ca3e5b27f4e70178b95642adb73fb27493328009dff6ca175f7",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T19:14:01Z",
+      "authors": [
+        "kuberwastaken"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50186037",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 314 # Comments: 272",
+      "published_raw": "Wed, 21 Oct 2026 19:14:01 +0000",
+      "updated_at": "2026-10-21T19:14:01Z",
+      "updated_raw": "Wed, 21 Oct 2026 19:14:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3657ee835ee14ca071898a3a44a8839d20154ba4a7e9f08e9bc9faeab9d347c4",
+      "title": "Google's Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T19:11:57Z",
+      "authors": [
+        "kaycebasques"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50186010",
+      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 204 # Comments: 116",
+      "published_raw": "Wed, 21 Oct 2026 19:11:57 +0000",
+      "updated_at": "2026-10-21T19:11:57Z",
+      "updated_raw": "Wed, 21 Oct 2026 19:11:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fcc9705832c79703e0c0347570568c2c4e2e9bec3023c1997fb7c31a071017f8",
+      "title": "GitLab Critical Patch Release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T19:01:12Z",
+      "authors": [
+        "artooro"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50185869",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 246 # Comments: 59",
+      "published_raw": "Wed, 21 Oct 2026 19:01:12 +0000",
+      "updated_at": "2026-10-21T19:01:12Z",
+      "updated_raw": "Wed, 21 Oct 2026 19:01:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b64c7b4581b09feb863551ae68d7e45eed070b41e4e54906365ff39e41b6f66d",
+      "title": "川普點名海外加密詐騙！攔阻約 8.33 億美元、查扣 503 假投資站",
+      "url": "https://www.blocktempo.com/trump-white-house-overseas-crypto-scam-crackdown/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-21T18:36:11Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "OFAC",
+        "Scam Center Strike Force",
+        "中期選舉",
+        "加密詐騙",
+        "川普",
+        "東南亞詐騙園區",
+        "白宮",
+        "美國"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549009",
+      "summary": "美國總統川普於台北時間 10 月 21 日就網路犯罪召開白宮活動，重點凸顯打擊海外加密投資騙局與跨國犯罪組織。 […] 〈 川普點名海外加密詐騙！攔阻約 8.33 億美元、查扣 503 假投資站 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 21 Oct 2026 18:36:11 +0000",
+      "updated_at": "2026-10-21T18:36:11Z",
+      "updated_raw": "Wed, 21 Oct 2026 18:36:11 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b84ac2fe3abcf0d006ac73f556b2444fa87fa8ae3dd796a9909441d5bd4d057d",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T17:45:13Z",
+      "authors": [
+        "cbg0"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50184820",
+      "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 370 # Comments: 229",
+      "published_raw": "Wed, 21 Oct 2026 17:45:13 +0000",
+      "updated_at": "2026-10-21T17:45:13Z",
+      "updated_raw": "Wed, 21 Oct 2026 17:45:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a88cbf1d520c72c6df337a09f5f4298c4e328077ac1923ddd23546a5bfc44026",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T17:29:33Z",
+      "authors": [
+        "aaronbrethorst"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50184586",
+      "summary": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 523 # Comments: 313",
+      "published_raw": "Wed, 21 Oct 2026 17:29:33 +0000",
+      "updated_at": "2026-10-21T17:29:33Z",
+      "updated_raw": "Wed, 21 Oct 2026 17:29:33 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:17283e13713095d7a9e42c88ae17ed31eeea17af1cea43b081c912e93f198f63",
+      "title": "Node.js 緊急修 Brotli 高危漏洞！三現行分支齊發安全版，EOL 版本也恐受影響",
+      "url": "https://www.blocktempo.com/nodejs-october-2026-security-releases/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-21T17:17:38Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Brotli",
+        "CVE",
+        "Node.js",
+        "OpenSSL",
+        "安全",
+        "資安",
+        "遠端程式碼執行",
+        "開發者安全"
+      ],
+      "guid": "https://www.blocktempo.com/?p=548987",
+      "summary": "Node.js 於台北時間 10 月 21 日發布安全更新，現行分支 26.x、24.x、22.x 分別升級至 […] 〈 Node.js 緊急修 Brotli 高危漏洞！三現行分支齊發安全版，EOL 版本也恐受影響 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 21 Oct 2026 17:17:38 +0000",
+      "updated_at": "2026-10-21T17:17:38Z",
+      "updated_raw": "Wed, 21 Oct 2026 17:17:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:617ddc05468fb97b77d6346a094b4b9bf742b6096994aa53c096da70f0eab037",
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-21T16:20:37Z",
+      "authors": [
+        "giuliomagnifico"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50183512",
+      "summary": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 100 # Comments: 37",
+      "published_raw": "Wed, 21 Oct 2026 16:20:37 +0000",
+      "updated_at": "2026-10-21T16:20:37Z",
+      "updated_raw": "Wed, 21 Oct 2026 16:20:37 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b67c576f089a216b14e0cf35b4b328e40fc72c549cc42111cce39a813cec03b8",
+      "title": "PHP爆重大資安漏洞 歐洲多地政府網站緊急下線防駭",
+      "url": "https://www.cna.com.tw/news/ait/202610220002.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-10-21T16:17:10Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-10-22/202610220002",
+      "summary": "（中央社倫敦21日綜合外電報導）受到廣泛使用的程式語言PHP被揭露存在重大安全漏洞後，網站營運者急忙採取保護措施，歐洲等地政府網站今天紛紛離線。據統計，大約75%可辨識使用何種程式語言的網站都是使用PHP。",
+      "published_raw": "Thu, 22 Oct 2026 00:17:10 +0800",
+      "updated_at": "2026-10-21T16:17:10Z",
+      "updated_raw": "Thu, 22 Oct 2026 00:17:10 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c4f3d2ba0651034574ae01b10d9862f0a6939065112b9d8850a0d3f5e1b371f6",
+      "title": "Bybit 進軍美國不自己拿牌！Ben Zhou 點名找盈透級券商合作，正面挑戰 Robinhood",
+      "url": "https://www.blocktempo.com/bybit-us-broker-partnership-robinhood/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-21T16:10:47Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "Ben Zhou",
+        "Bybit",
+        "CLARITY Act",
+        "Interactive Brokers",
+        "Robinhood",
+        "交易所",
+        "盈透證券",
+        "美國",
+        "美國市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=548981",
+      "summary": "Bybit 執行長 Ben Zhou 表示，進軍美國將不走逐州申請牌照的路線，改找已有美國客群、尚未切入加密業 […] 〈 Bybit 進軍美國不自己拿牌！Ben Zhou 點名找盈透級券商合作，正面挑戰 Robinhood 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 21 Oct 2026 16:10:47 +0000",
+      "updated_at": "2026-10-21T16:10:47Z",
+      "updated_raw": "Wed, 21 Oct 2026 16:10:47 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7ba2a4b2f970170234c8fb9e948efa5c2da1f5c4d57e14d9c51e8123c3211d7f",
+      "title": "普丁原則同意 11 月重啟俄烏美三方和談！地點擬在阿布達比，還喊話調解美伊",
+      "url": "https://www.blocktempo.com/putin-witkoff-resume-trilateral-talks/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-21T16:02:44Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "三方和談",
+        "伊朗",
+        "俄烏戰爭",
+        "即時新聞",
+        "威特科夫",
+        "普丁",
+        "比特幣",
+        "阿布達比"
+      ],
+      "guid": "https://www.blocktempo.com/?p=548977",
+      "summary": "普丁 10/21 在聖彼得堡會見美國特使威特科夫後，克里姆林宮稱俄方原則上同意在 11 月 10 日前後恢復俄 […] 〈 普丁原則同意 11 月重啟俄烏美三方和談！地點擬在阿布達比，還喊話調解美伊 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Wed, 21 Oct 2026 16:02:44 +0000",
+      "updated_at": "2026-10-21T16:02:44Z",
+      "updated_raw": "Wed, 21 Oct 2026 16:02:44 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
