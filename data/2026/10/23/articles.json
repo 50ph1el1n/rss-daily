@@ -1,0 +1,1234 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-10-23",
+  "timezone": "Asia/Taipei",
+  "article_count": 47,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cb0b43e01556add22d92794597cc6fecdf571ddf05bdb3a69820319ad6e8201d",
+      "title": "a16z 正式去「crypto」！基金改名 Frontier，Dixon 說標籤不重要",
+      "url": "https://www.blocktempo.com/a16z-drops-crypto-label-rebrands-frontier-fund-expansion/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-23T01:43:51Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "AI 投資",
+        "Paradigm",
+        "a16z",
+        "加密監管",
+        "加密貨幣市場",
+        "風投"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549704",
+      "summary": "Andreessen Horowitz 把 a16z Crypto 正式改名為 a16z Frontier，投 […] 〈 a16z 正式去「crypto」！基金改名 Frontier，Dixon 說標籤不重要 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 23 Oct 2026 01:43:51 +0000",
+      "updated_at": "2026-10-23T01:43:51Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:43:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5383ad20a90e1a067d035f21760a402244e37c7349a612cfef3dd2d55a2e6173",
+      "title": "五角大廈禁軍人下注預測市場戰局！Hegseth：敵人正盯著這些數據",
+      "url": "https://www.blocktempo.com/pentagon-bans-military-bets-prediction-markets-hegseth-memo/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-23T01:40:50Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Kalshi",
+        "Polymarket",
+        "五角大廈",
+        "內線交易",
+        "法規",
+        "預測市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549746",
+      "summary": "Hegseth 週二下達全軍禁令：所有國防部員工嚴停用未公開情報在 Kalshi、Polymarket 下注軍 […] 〈 五角大廈禁軍人下注預測市場戰局！Hegseth：敵人正盯著這些數據 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 23 Oct 2026 01:40:50 +0000",
+      "updated_at": "2026-10-23T01:40:50Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:40:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a19d0abeeff17b1d82ad6aa5179cfd8e9e7a66f37cc0ad31f4484aa34d153b69",
+      "title": "中國前 9 個月召回逾 2,000 萬輛智慧汽車，警告勿犧牲安全搶上市",
+      "url": "https://technews.tw/2026/10/23/china-recalled-over-20-million-smart-cars-in-first-9-months-warning-against-sacrificing-safety-for-market-launch/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:40:06Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國觀察",
+        "中國車廠",
+        "召回",
+        "安全缺陷",
+        "汽車科技",
+        "科技政策",
+        "車門把手"
+      ],
+      "guid": "https://technews.tw/?p=1636216",
+      "summary": "中國官員表示，今年前 9 個月，共召回 2039.38 萬輛智慧聯網汽車，其中逾 7 成是因督促調查召回。 中 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:40:06 +0000",
+      "updated_at": "2026-10-23T01:40:06Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:40:06 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b7b64a1edd169d8e687e5d4d3213c296a89c62c2d6a97cd2391454d526da8064",
+      "title": "Zcash NU7 確定 11 月 5 日升級！ZEC 出塊縮到 25 秒，付款快 3 倍",
+      "url": "https://www.blocktempo.com/zcash-nu7-upgrade-november-5-block-3543405-payment-speed-triple/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-23T01:40:04Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Nu7",
+        "ZEC",
+        "Zakura",
+        "Zcash",
+        "出塊加速",
+        "加密貨幣市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549754",
+      "summary": "Zcash 開發者 Sean Bowe 提案 NU7 升級在區塊 3,543,405 啟動，預計 11 月 5 […] 〈 Zcash NU7 確定 11 月 5 日升級！ZEC 出塊縮到 25 秒，付款快 3 倍 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 23 Oct 2026 01:40:04 +0000",
+      "updated_at": "2026-10-23T01:40:04Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:40:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f160b63256464164c66e4016849a9dbbdd60c1e117058d128945d63b06fe522b",
+      "title": "比特幣重挫3.2%至8.15萬、以太坊續走低！全網爆倉「4.7億鎂」恐慌指數回落50",
+      "url": "https://www.blocktempo.com/bitcoin-ether-pullback-us-stocks-selloff-crypto-liquidations-oct-23/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-23T01:37:14Z",
+      "authors": [
+        "flip"
+      ],
+      "categories": [
+        "以太坊",
+        "市場分析",
+        "幣價行情",
+        "恐慌與貪婪指數",
+        "比特幣",
+        "爆倉"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549759",
+      "summary": "比特幣今（23）日重挫3.23%至81,466美元，全網爆倉約4.7億鎂，美股科技股重挫為主因 （前情提要：美 […] 〈 比特幣重挫3.2%至8.15萬、以太坊續走低！全網爆倉「4.7億鎂」恐慌指數回落50 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Fri, 23 Oct 2026 01:37:14 +0000",
+      "updated_at": "2026-10-23T01:37:14Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:37:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1d1aaa93b95c3b69d2a00f03eb4e86563b6db55f199064853281ebfdc7e187f9",
+      "title": "PHP 爆漏洞多國網站急搶修，駭客嘗試攻擊數百萬次",
+      "url": "https://infosecu.technews.tw/2026/10/23/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:30:36Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "PHP",
+        "國際觀察",
+        "程式語言",
+        "網路",
+        "資訊安全",
+        "駭客"
+      ],
+      "guid": "https://technews.tw/?p=1636215",
+      "summary": "支撐網際網路運作的程式語言 PHP 爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:30:36 +0000",
+      "updated_at": "2026-10-23T01:30:36Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:30:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2b87e2a0432a97fa9d6367591cb11eb8707e472acd1a233a57905c195ec5cd25",
+      "title": "006208 啟動分割計畫！預估一張變八張重返發行價 30 元以上",
+      "url": "https://finance.technews.tw/2026/10/23/segmentation/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:28:22Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "006208",
+        "分割計畫",
+        "國際金融",
+        "富邦投信",
+        "證券",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1636232",
+      "summary": "富邦投信公告旗下規模最大的 ETF「富邦台 50 ETF（006208）」，預計將在 12 月 18 日召開受 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:28:22 +0000",
+      "updated_at": "2026-10-23T01:28:22Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:28:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:379a21de7ce3eabd5abc589c6274589f4595bacc83eb8affe872bcd6bfd33c2d",
+      "title": "不確定哪些 App 支援摺疊螢幕？蘋果推「Made for iPhone Duo」標籤",
+      "url": "https://technews.tw/2026/10/23/made-for-iphone-duo/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:24:46Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "Apple",
+        "Made for iPhone Duo",
+        "app",
+        "iPhone Duo",
+        "手機",
+        "蘋果"
+      ],
+      "guid": "https://technews.tw/?p=1636223",
+      "summary": "隨著蘋果首款摺疊手機 iPhone Duo 正式上市，蘋果也開始擴大摺疊裝置的應用程式生態系，宣布將在 App […]",
+      "published_raw": "Fri, 23 Oct 2026 01:24:46 +0000",
+      "updated_at": "2026-10-23T01:24:46Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:24:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0ca6b9e7b930538b9cc2214137d32c3c38c6ec99bedf4b5d1f23dc0e073ffbe0",
+      "title": "含華為人臉辨識晶片，首度依新規封殺 2 款裝置",
+      "url": "https://technews.tw/2026/10/23/two-devices-containing-huawei-facial-recognition-chips-banned-first-time-new-regulations/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:20:29Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "FCC",
+        "中國觀察",
+        "中美科技戰",
+        "人臉辨識",
+        "國家安全",
+        "國際觀察",
+        "晶片",
+        "海思半導體",
+        "科技政策",
+        "華為"
+      ],
+      "guid": "https://technews.tw/?p=1636209",
+      "summary": "美國聯邦傳播委員會（FCC）今天宣布，禁止 2 款內含中國華為旗下海思半導體製造的監控晶片裝置進入美國市場，這 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:20:29 +0000",
+      "updated_at": "2026-10-23T01:20:29Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:20:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6621e113beb999db6e00ae25c8ab1b1094dd3cd973368e81120b2bbce9d0defe",
+      "title": "川普拒證實是否促解除烏克蘭星鏈限制，稱重點在已恢復",
+      "url": "https://technews.tw/2026/10/23/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:10:58Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "Starlink",
+        "川普",
+        "數位通訊",
+        "星鏈",
+        "烏克蘭",
+        "網通設備",
+        "衛星通訊",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1636210",
+      "summary": "美媒引述美國官員報導，美國總統川普 21 日致電馬斯克，要求他解除對烏克蘭使用星鏈（Starlink）的限制。 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:10:58 +0000",
+      "updated_at": "2026-10-23T01:10:58Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:10:58 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1a042d08237324bd555085bf59463b04fb859b564e24121758955ccdc801b247",
+      "title": "Vibe Coding 太普及，企業需守住關鍵步驟以免日後付出更高代價",
+      "url": "https://infosecu.technews.tw/2026/10/23/vibe-coding-be-sure-to-include-these-critical-development-steps/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:00:37Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 監管",
+        "AI 程式",
+        "AI 資安",
+        "vibe coding",
+        "資訊安全",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1633262",
+      "summary": "Vibe coding 已改變軟體開發模式，團隊只要以自然語言描述需求，就能在短時間內做出可運作的應用程式。但 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:00:37 +0000",
+      "updated_at": "2026-10-23T01:00:37Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:00:37 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fc3c89b82d407e8c4dd8b5eaa12954cdd0748bf0df86c699994b6c88989f23fe",
+      "title": "市場投資人難以被滿足，科技大廠資本支出變化引發美股科技股重挫",
+      "url": "https://finance.technews.tw/2026/10/23/changes-in-capital-expenditures-by-major-tech-companies-triggered-a-sharp-drop-in-us-tech-stocks/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T01:00:17Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AMD",
+        "Meta",
+        "半導體",
+        "科林研發",
+        "美光",
+        "美股",
+        "證券",
+        "財報",
+        "財經",
+        "資本支出",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1636200",
+      "summary": "美股市場對人工智慧（AI）榮景的疑慮加劇，週四清晨盤前半導體與科技股遭遇顯著拋售潮，主因科技大廠在資本支出上釋 […]",
+      "published_raw": "Fri, 23 Oct 2026 01:00:17 +0000",
+      "updated_at": "2026-10-23T01:00:17Z",
+      "updated_raw": "Fri, 23 Oct 2026 01:00:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2dcbde0f6931b62af76be29007dfb1f800440069049284bf0a2678235c3d5fdb",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-23T00:52:01Z",
+      "authors": [
+        "xiaoyu2006"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50203161",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 13 # Comments: 9",
+      "published_raw": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "updated_at": "2026-10-23T00:52:01Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2edd2aec6e3c4942cbada47caf14c8f331ce8ebb062f2e40508ec484c13b90ca",
+      "title": "路透：台積電探尋稀土零組件替代方案，防中國管制衝擊",
+      "url": "https://technews.tw/2026/10/23/tsmc-seeks-factory-equipment-alternatives-to-thwart-chinas-rare-earths-grip/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:50:35Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "中國",
+        "半導體",
+        "台積電",
+        "晶圓",
+        "晶片",
+        "材料",
+        "稀土"
+      ],
+      "guid": "https://technews.tw/?p=1636197",
+      "summary": "路透社獨家報導，3 名知情人士透露，台積電正尋求工廠設備中稀土零組件的替代方案，目的是降低中國政府出口管制干擾 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:50:35 +0000",
+      "updated_at": "2026-10-23T00:50:35Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:50:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dc11818103a1d219e9be0c4d732a0a7bd5438b1da8923a51db17d250d13a5237",
+      "title": "AI 不會終結 SaaS，Virtana 執行長指軟體服務將與 AI 共同演進",
+      "url": "https://finance.technews.tw/2026/10/23/schrodingers-saas-how-saas-will-evolve-alongside-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:45:51Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI",
+        "AI 人工智慧",
+        "AI 代理",
+        "SaaS",
+        "財經",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1634674",
+      "summary": "可觀測性平台業者 Virtana 執行長 Paul Appleby 在《富比士》（Forbes）專欄撰文，外界 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:45:51 +0000",
+      "updated_at": "2026-10-23T00:45:51Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:45:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b10eaf00f25763ec8be4cc5bfe17bf3fdea24a6d88207ed682a6a99999adeb11",
+      "title": "Bloom Energy 第三季營收暴增 138%，全年財測再上修",
+      "url": "https://technews.tw/2026/10/23/bloom-energy-q3-revenue-soars-138-full-year-forecast-raised-again/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:32:22Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "Bloom Energy",
+        "SOFC",
+        "燃料電池",
+        "電池"
+      ],
+      "guid": "https://technews.tw/?p=1636148",
+      "summary": "AI 資料中心用電需求，帶動燃料電池市場快速成長。美國燃料電池業者 Bloom Energy 公布 2026 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:32:22 +0000",
+      "updated_at": "2026-10-23T00:32:22Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:32:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a53bcada0341a8cb292cd0e7b9d2012bff1c688edd2b46d71931e70e1666cb50",
+      "title": "AI 新創 Flapping Airplanes 獲 10 億美元注資，誓言將晶片效能榨到極致",
+      "url": "https://technews.tw/2026/10/23/flapping-airplanes-1-billion-funding/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:30:30Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 實驗室",
+        "Flapping Airplanes",
+        "半導體",
+        "新創",
+        "晶片",
+        "晶片效率",
+        "算力",
+        "融資",
+        "資料中心",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1634686",
+      "summary": "據外媒報導，成立僅一年的 AI 新創公司 Flapping Airplanes 宣布完成 10 億美元的新一輪 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:30:30 +0000",
+      "updated_at": "2026-10-23T00:30:30Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:30:30 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0666185eaf8f37dbe8e2c0a8f527b8af7510337eeedf14527b55f863a6b3e1ef",
+      "title": "漢翔 9MW / 54MWh 電力島啟用，全台最大工業級表後儲能微電網運轉",
+      "url": "https://technews.tw/2026/10/23/aidc-9mw54mwh-power-island-officially-put-into-use/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:30:09Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "儲能",
+        "台電",
+        "尖端科技",
+        "漢翔",
+        "能源科技",
+        "航太科技",
+        "電力儲存",
+        "電力島"
+      ],
+      "guid": "https://technews.tw/?p=1636159",
+      "summary": "多角化經營有成的漢翔公司於台中水湳廠區舉行「9MW/54MWh 大型微電網（電力島）系統啟用典禮」，宣告全台最 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:30:09 +0000",
+      "updated_at": "2026-10-23T00:30:09Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:30:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:beb377b61adb4c97d9fe69bc67bb1566812578290fa64102d0538d5cfeca3acc",
+      "title": "聯電攜手愛普科技推進 AI 與高效能運算系統電源解決方案",
+      "url": "https://technews.tw/2026/10/23/umc-and-app-technology-advance-power-solutions-for-ai-and-high-performance-computing-systems/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:30:00Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "IC 設計",
+        "IC設計",
+        "半導體",
+        "愛普科技",
+        "晶圓",
+        "晶圓代工",
+        "晶片",
+        "聯電",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1636150",
+      "summary": "晶圓代工大廠聯電與愛普科技共同宣布展開技術與製造合作，推進 AI 與高效能運算（HPC）系統的供電解決方案。此 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:30:00 +0000",
+      "updated_at": "2026-10-23T00:30:00Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:30:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:404a04fb81c5e5545640795502ad08c65361debd7a9a30941cdc5f9e79171d3a",
+      "title": "中國星巴克推「消費才能入座」新規，網路反應兩極",
+      "url": "https://finance.technews.tw/2026/10/23/starbucks-china-requires-purchase-to-use-seating/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:20:26Z",
+      "authors": [
+        "中央廣播電台"
+      ],
+      "categories": [
+        "公司治理",
+        "星巴克",
+        "星巴克中國",
+        "財經",
+        "食品科技"
+      ],
+      "guid": "https://technews.tw/?p=1634837",
+      "summary": "就在台灣星巴克祭出「去冰加奶付費」新規引發爭議之際，中國星巴克近日也成了熱搜話題。根據中國媒體報導，星巴克中國 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:20:26 +0000",
+      "updated_at": "2026-10-23T00:20:26Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:20:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4fd7ecd3efc23211281e599682460ce6ae076d9ea67ecba5d8f4c1590a4b8b08",
+      "title": "黃仁勳批 AI 毀滅人類論：搏版面的不實廉價說法",
+      "url": "https://technews.tw/2026/10/23/nvidia-boss-criticises-cheap-ai-doomsday-warnings/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:15:53Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Nvidia",
+        "德國",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1636145",
+      "summary": "美國人工智慧（AI）晶片業巨擘輝達（Nvidia）執行長黃仁勳 22 日表示，有關 AI 可能毀滅人類的相關警 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:15:53 +0000",
+      "updated_at": "2026-10-23T00:15:53Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:15:53 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5cdfe27623487418cd7a0977c6500c3c3bcf3ffe1f3d4644ac39d6cf8aaab0f2",
+      "title": "台灣網友自製〈Fab24hr〉晶圓廠模擬器暴紅，高壓日常連外媒都驚呼：恐怖遊戲",
+      "url": "https://ccc.technews.tw/2026/10/23/taiwan-wafer-fab-simulation-game-goes-viral/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:10:19Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "fab24hr",
+        "人力資源",
+        "半導體",
+        "工程師",
+        "數位內容",
+        "晶圓",
+        "晶片",
+        "科技業",
+        "網友",
+        "網路趣聞",
+        "蝕刻機",
+        "遊戲軟體",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1632461",
+      "summary": "台灣網友自製的免費網頁遊戲〈fab24hr 半導體晶圓廠打工人的一天〉，將機台故障、半夜接 on-call 電 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:10:19 +0000",
+      "updated_at": "2026-10-23T00:10:19Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:10:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:97b4a1e0b297f3791baff2c50347e6acf54de9ef1843087e11d514e1b754c28e",
+      "title": "膝關節退化有機會真正修復？科學家找到軟骨再生的新契機",
+      "url": "https://technews.tw/2026/10/23/stanford-scientists-found-a-way-to-regrow-cartilage-and-stop-arthritis/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-23T00:00:14Z",
+      "authors": [
+        "YAP KUO"
+      ],
+      "categories": [
+        "15-PGDH",
+        "15-羥基前列腺素脫氫酶",
+        "生物科技",
+        "膝蓋關節",
+        "軟骨",
+        "醫療科技",
+        "關節退化"
+      ],
+      "guid": "https://technews.tw/?p=1628148",
+      "summary": "年齡增長，膝關節的軟骨（cartilage）會逐漸磨損，導致疼痛與僵硬，嚴重時甚至需要換成人工關節。關節軟骨修 […]",
+      "published_raw": "Fri, 23 Oct 2026 00:00:14 +0000",
+      "updated_at": "2026-10-23T00:00:14Z",
+      "updated_raw": "Fri, 23 Oct 2026 00:00:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:314b34fe60560dcf7269a9050384a8a9e59b62f51b39629eb39b7b82b84d7892",
+      "title": "Mapping the Northern Sky",
+      "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T23:56:39Z",
+      "authors": [
+        "tmseidman"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50202766",
+      "summary": "Article URL: https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/ Comments URL: https://news.ycombinator.com/item?id=50202766 Points: 13 # Comments: 4",
+      "published_raw": "Thu, 22 Oct 2026 23:56:39 +0000",
+      "updated_at": "2026-10-22T23:56:39Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:56:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ddc6272a0967d349b3ea011ba350fb9fb3201648cfab2522301626815461bb53",
+      "title": "公平會禁止 Grab 與 foodpanda 結合案，宣示政府維護市場競爭的決心",
+      "url": "https://finance.technews.tw/2026/10/23/ftc-blocks-grab-foodpanda-merger-demonstrating-government-resolve-maintain-market-competition/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:50:08Z",
+      "authors": [
+        "蔡 明芳"
+      ],
+      "categories": [
+        "Grab",
+        "Uber",
+        "UberEats",
+        "foodpanda",
+        "交通運輸",
+        "併購",
+        "公平交易委員會",
+        "共享經濟",
+        "市場競爭",
+        "財經",
+        "金融政策"
+      ],
+      "guid": "https://technews.tw/?p=1634625",
+      "summary": "經營東南亞外送平台、叫車平台及數位金融服務業者 Grab 欲申請併購富胖達股份有限公司（foodpanda）結 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:50:08 +0000",
+      "updated_at": "2026-10-22T23:50:08Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:50:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5df2d0657cd7009945c2ff8a0bc17ebce6d927b723badd811785fca503b80490",
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T23:45:56Z",
+      "authors": [
+        "psxuaw"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50202681",
+      "summary": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 106 # Comments: 36",
+      "published_raw": "Thu, 22 Oct 2026 23:45:56 +0000",
+      "updated_at": "2026-10-22T23:45:56Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:45:56 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4ab0f198421aef01f1ca08c24cee1852a8d33a6ec499cd923d42335e546f90c7",
+      "title": "AI compute is the new oil–and needs a new market",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T23:45:16Z",
+      "authors": [
+        "ijidak"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50202671",
+      "summary": "Article URL: https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market Comments URL: https://news.ycombinator.com/item?id=50202671 Points: 15 # Comments: 7",
+      "published_raw": "Thu, 22 Oct 2026 23:45:16 +0000",
+      "updated_at": "2026-10-22T23:45:16Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:45:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b7dba772971b2edfe8cf3d845e6599ad8142208d8f8726af94fdbc7a509dd859",
+      "title": "輝達前團隊打造新創 Dream Labs 獲 9,000 萬美元融資，推出通用機器人 API",
+      "url": "https://technews.tw/2026/10/23/robot-brain-api-debuts/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:40:02Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Dream Labs",
+        "Dream-1",
+        "Nvidia",
+        "尖端科技",
+        "新創",
+        "機器人",
+        "機器人 API",
+        "融資",
+        "輝達",
+        "通用機器人"
+      ],
+      "guid": "https://technews.tw/?p=1633210",
+      "summary": "由輝達前機器人研究團隊成員創立的美國新創 Dream Labs，於 10 月 19 日宣布完成 9,000 萬 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:40:02 +0000",
+      "updated_at": "2026-10-22T23:40:02Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:40:02 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cba70e896f6431fb1b1765edd18aa89d10c28a7a2b4f5ea0135beee5aca3b7a3",
+      "title": "科技廠台中搶地，豪砸 130 億，大立光連買七座廠房最受注目",
+      "url": "https://finance.technews.tw/2026/10/23/tech-firms-rush-to-snap-up-land-in-taichung/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:30:32Z",
+      "authors": [
+        "經濟日報"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "半導體",
+        "半導體供應鏈",
+        "台中",
+        "台中產業園區",
+        "大立光",
+        "房地產",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1634628",
+      "summary": "台中 AI 半導體聚落加速成形，掀科技廠搶地大戰。今年前三季，八大上市櫃科技廠斥資逾 130 億元，狂掃逾 3 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:30:32 +0000",
+      "updated_at": "2026-10-22T23:30:32Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:30:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:68490f9855796422117554ade1288580026c5fef221bac863058b6dc6ce3ff79",
+      "title": "SK 海力士取消 Solidigm 美國 IPO 計畫，股東反對與監管疑慮成關鍵",
+      "url": "https://technews.tw/2026/10/23/sk-hynix-cancel-solidigm-us-ipo-shareholder-opposition-regulatory-concerns/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:30:12Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "SK 海力士",
+        "Solidigm",
+        "半導體",
+        "快閃記憶體",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1636139",
+      "summary": "根據外電報導，韓國記憶體大廠 SK 海力士原計劃推動旗下快閃記憶體子公司 Solidigm 赴美上市，但因面臨 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:30:12 +0000",
+      "updated_at": "2026-10-22T23:30:12Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:30:12 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d51dbf8061dbd79d4cf3cb02455b110b87245a2b2834390fd4758b20e4ba5821",
+      "title": "算力成本降 67%，輝達力挺新創 doubleAI 推出首款「程式碼執行模型」",
+      "url": "https://technews.tw/2026/10/23/nvidia-startup-maxwell-cuts-computing-costs/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:20:40Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "H100",
+        "Maxwell",
+        "Nvidia",
+        "doubleAI",
+        "新創",
+        "新創 AI",
+        "融資",
+        "輝達"
+      ],
+      "guid": "https://technews.tw/?p=1633326",
+      "summary": "以色列特拉維夫 AI 新創公司 doubleAI 於 19 日宣布推出首款人工智慧模型「Maxwell」，旨在 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:20:40 +0000",
+      "updated_at": "2026-10-22T23:20:40Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:20:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:90ec5cad9217b7e86b20b228d764cf638064d54029d7f4c00129e47acfc20ad6",
+      "title": "時間標準大變革：明年廢除閏秒，終結「加減一秒」科技風險",
+      "url": "https://technews.tw/2026/10/23/global-leap-second-abolished-may-next-year-prevent-computer-system-malfunctions-due-to-extra-second/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:10:31Z",
+      "authors": [
+        "Unwire HK"
+      ],
+      "categories": [
+        "國際度量衡大會",
+        "國際標準",
+        "地球自轉",
+        "標準時間",
+        "科技生活",
+        "網路",
+        "自然科學",
+        "閏秒",
+        "電腦",
+        "電腦系統"
+      ],
+      "guid": "https://technews.tw/?p=1632602",
+      "summary": "全球沿用超過半世紀的「閏秒」（Leap Second）制度即將走入歷史。國際度量衡大會（CGPM）10 月 1 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:10:31 +0000",
+      "updated_at": "2026-10-22T23:10:31Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:10:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8a1ab85b4bd69655892c40b6f30b1f269d5085fd75e7f3f6b0193ecfcd8c6838",
+      "title": "Tesla 無人監督 FSD 目標延至 2027 年第二季，初期僅限 Robotaxi 營運區域",
+      "url": "https://www.inside.com.tw/article/42706-tesla-unsupervised-fsd-q2-2027-robotaxi-fleet",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-10-22T23:07:00Z",
+      "authors": [
+        "Sherlock"
+      ],
+      "categories": [
+        "Tesla",
+        "智慧交通",
+        "無人監督 FSD",
+        "電動車"
+      ],
+      "guid": "https://www.inside.com.tw/article/42706-tesla-unsupervised-fsd-q2-2027-robotaxi-fleet",
+      "summary": "Tesla 目標於 2027 年第二季推出無人監督 FSD。初期規劃並非開放個人隨處使用，而是讓車主將車輛加入官方管理的 Robotaxi 車隊，服務範圍將受限於特定地理圍欄區域，能否擴及私人用途仍是觀察重點。",
+      "published_raw": "2026-10-23T07:07:00+08:00",
+      "updated_at": "2026-10-22T23:07:00Z",
+      "updated_raw": "2026-10-23T07:07:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:05f1f8814452c8c3de12d0ac3f720bf10dcdc57cad9d3da0c0752ab36b40f868",
+      "title": "2026 智慧能源週：標檢局推氫能檢測標準、台捷論壇聚焦 AI 綠電布局",
+      "url": "https://technews.tw/2026/10/23/2026-smart-energy-week-bsmi-promotes-hydrogen-energy-testing-standards-taiwan-czech-forum-focuses-ai-green-power-layout/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-22T23:00:38Z",
+      "authors": [
+        "拓墣產研"
+      ],
+      "categories": [
+        "再生能源",
+        "台灣",
+        "太陽能",
+        "技術分析",
+        "智慧能源",
+        "會員專區",
+        "氫能",
+        "綠電",
+        "能源科技",
+        "風力"
+      ],
+      "guid": "https://technews.tw/?p=1634235",
+      "summary": "2026 年台灣國際智慧能源週與國際淨零永續展於 10 月 14～16 日在南港展開，其中經濟部標準檢驗局在「 […]",
+      "published_raw": "Thu, 22 Oct 2026 23:00:38 +0000",
+      "updated_at": "2026-10-22T23:00:38Z",
+      "updated_raw": "Thu, 22 Oct 2026 23:00:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c129cc1874604e53d4c24815850e258a42514bbdc5ff4ee53cd4e5fddd18d17b",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T22:54:43Z",
+      "authors": [
+        "johnbender"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50202217",
+      "summary": "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 104 # Comments: 52",
+      "published_raw": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "updated_at": "2026-10-22T22:54:43Z",
+      "updated_raw": "Thu, 22 Oct 2026 22:54:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a6bd8e311ba7ae6571a53f79f9d9e7556feec26a0820fac0ba637ed403d7a2b2",
+      "title": "含華為人臉偵測晶片 美首度依新規封殺2款裝置",
+      "url": "https://www.cna.com.tw/news/ait/202610230012.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-10-22T21:40:44Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-10-23/202610230012",
+      "summary": "（中央社華盛頓22日綜合外電報導）美國聯邦傳播委員會（FCC）今天宣布，禁止2款內含中國華為旗下海思半導體製造的監控晶片裝置進入美國市場，這是FCC首度依新法規行使這項權力。",
+      "published_raw": "Fri, 23 Oct 2026 05:40:44 +0800",
+      "updated_at": "2026-10-22T21:40:44Z",
+      "updated_raw": "Fri, 23 Oct 2026 05:40:44 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:218fa206e90e8d15cae1ba60b59041d908b5a63bfbc1cf0b04eb2958d03760fd",
+      "title": "Railpass",
+      "url": "https://train.samismith.com/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T21:38:32Z",
+      "authors": [
+        "CharlesW"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50201414",
+      "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 44 # Comments: 14",
+      "published_raw": "Thu, 22 Oct 2026 21:38:32 +0000",
+      "updated_at": "2026-10-22T21:38:32Z",
+      "updated_raw": "Thu, 22 Oct 2026 21:38:32 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:043417848dbfde93f74cb33771a9f11031f245111a7c93cf25edc2001e775ff0",
+      "title": "PHP爆漏洞多國網站急搶修 駭客嘗試攻擊數百萬次",
+      "url": "https://www.cna.com.tw/news/ait/202610230009.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-10-22T19:55:36Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-10-23/202610230009",
+      "summary": "（中央社東京22日綜合外電報導）支撐網際網路運作的程式語言PHP爆嚴重漏洞，全球企業與政府今天加緊腳步搶修，多國銀行、航空、鐵路與政府網站緊急暫停服務，駭客已嘗試攻擊達數百萬次。",
+      "published_raw": "Fri, 23 Oct 2026 03:55:36 +0800",
+      "updated_at": "2026-10-22T19:55:36Z",
+      "updated_raw": "Fri, 23 Oct 2026 03:55:36 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:05f87a47f8ee8221b8d9c9385cdcfc7a97004505cd8261ce9c1559c3cc430a1c",
+      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+      "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T18:44:36Z",
+      "authors": [
+        "maxilevi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50199389",
+      "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 134 # Comments: 29",
+      "published_raw": "Thu, 22 Oct 2026 18:44:36 +0000",
+      "updated_at": "2026-10-22T18:44:36Z",
+      "updated_raw": "Thu, 22 Oct 2026 18:44:36 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bf8f5090edf171ab04141671ca62128b3adf8368ac8c8bc0678dc448e342d7e3",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T18:28:16Z",
+      "authors": [
+        "jrepinc"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50199230",
+      "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 112 # Comments: 66",
+      "published_raw": "Thu, 22 Oct 2026 18:28:16 +0000",
+      "updated_at": "2026-10-22T18:28:16Z",
+      "updated_raw": "Thu, 22 Oct 2026 18:28:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d14fd032c3090d4860aac0b4123ea01ffa56a90d891cab5efd4e28f6ee0c6b11",
+      "title": "Linux KSMBD 爆兩項 CVSS 9.0 遠端執行漏洞！一項免認證，mainline 尚未修補",
+      "url": "https://www.blocktempo.com/linux-ksmbd-cvss9-rce-unpatched/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-22T18:05:31Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "KSMBD",
+        "Linux",
+        "RCE",
+        "SMB",
+        "ZDI",
+        "安全",
+        "核心",
+        "漏洞",
+        "資安"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549693",
+      "summary": "Trend Micro Zero Day Initiative 在公開的 Linux 核心郵件清單揭露兩項 K […] 〈 Linux KSMBD 爆兩項 CVSS 9.0 遠端執行漏洞！一項免認證，mainline 尚未修補 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 22 Oct 2026 18:05:31 +0000",
+      "updated_at": "2026-10-22T18:05:31Z",
+      "updated_raw": "Thu, 22 Oct 2026 18:05:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:528302e8f95544e99aea724c016942f8a0bc649f6ba494391f969b47a51622f1",
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T17:44:06Z",
+      "authors": [
+        "niemandhier"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50198675",
+      "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 298 # Comments: 158",
+      "published_raw": "Thu, 22 Oct 2026 17:44:06 +0000",
+      "updated_at": "2026-10-22T17:44:06Z",
+      "updated_raw": "Thu, 22 Oct 2026 17:44:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:431563ae67521d8a14f11838f0b17f3dd4717f7f99d6a20bae063a0c142c9f36",
+      "title": "比特幣下探 8.1 萬美元、以太坊失守 $2,400！多單爆倉佔逾 9 成，一日回吐 3,400 美元",
+      "url": "https://www.blocktempo.com/bitcoin-below-81k-ethereum-loses-2400/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-22T17:05:08Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "BTC",
+        "ETH",
+        "IBIT",
+        "以太坊",
+        "加密貨幣市場",
+        "比特幣",
+        "清算",
+        "爆倉",
+        "美股"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549680",
+      "summary": "比特幣下探 8.1 萬美元關口，24 小時跌幅約 3.7%，以太坊失守 2,400 美元、跌逾 5%。槓桿多單 […] 〈 比特幣下探 8.1 萬美元、以太坊失守 $2,400！多單爆倉佔逾 9 成，一日回吐 3,400 美元 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 22 Oct 2026 17:05:08 +0000",
+      "updated_at": "2026-10-22T17:05:08Z",
+      "updated_raw": "Thu, 22 Oct 2026 17:05:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:912e2b9c6c32525ae038d2b0fdeb344156ba648cee37413f3cbf7d6c65a29594",
+      "title": "A farewell to Arc browser",
+      "url": "https://arc.net/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T16:27:47Z",
+      "authors": [
+        "suhdonghwi"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50197601",
+      "summary": "Article URL: https://arc.net/ Comments URL: https://news.ycombinator.com/item?id=50197601 Points: 229 # Comments: 208",
+      "published_raw": "Thu, 22 Oct 2026 16:27:47 +0000",
+      "updated_at": "2026-10-22T16:27:47Z",
+      "updated_raw": "Thu, 22 Oct 2026 16:27:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:dc5d7217de7191d5c9113ef4ddbdffa703adbba596b5e7aa3d2f559dfc3ddf6e",
+      "title": "美股血洗！那斯達克重挫 2%、晶片股暴跌 5%，比特幣跌破 8.2 萬美元",
+      "url": "https://www.blocktempo.com/us-stocks-selloff-iran-oil-ai-bitcoin/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-10-22T16:18:04Z",
+      "authors": [
+        "Aspen"
+      ],
+      "categories": [
+        "AI 股",
+        "Coinbase",
+        "Strategy",
+        "伊朗",
+        "原油",
+        "比特幣",
+        "美股",
+        "那斯達克",
+        "金融市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=549669",
+      "summary": "美股週四盤中重挫，那斯達克指數一度跌逾 2%，費城半導體指數下殺 5.4%。美以傳將於期中選舉後再攻伊朗，布蘭 […] 〈 美股血洗！那斯達克重挫 2%、晶片股暴跌 5%，比特幣跌破 8.2 萬美元 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Thu, 22 Oct 2026 16:18:04 +0000",
+      "updated_at": "2026-10-22T16:18:04Z",
+      "updated_raw": "Thu, 22 Oct 2026 16:18:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fa62fbf667bb999cd5ed168b33ce89fb1b10d60eaab010727703eb22edaf0fcd",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T16:14:31Z",
+      "authors": [
+        "dewey"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50197404",
+      "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 227 # Comments: 85",
+      "published_raw": "Thu, 22 Oct 2026 16:14:31 +0000",
+      "updated_at": "2026-10-22T16:14:31Z",
+      "updated_raw": "Thu, 22 Oct 2026 16:14:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:deee41e4d5f724bddb6f5862abe49f190e50e38a40164d54effdf8d11b69dc64",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-22T16:08:00Z",
+      "authors": [
+        "rakannimer"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50197313",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 241 # Comments: 305",
+      "published_raw": "Thu, 22 Oct 2026 16:08:00 +0000",
+      "updated_at": "2026-10-22T16:08:00Z",
+      "updated_raw": "Thu, 22 Oct 2026 16:08:00 +0000",
+      "language": "en"
+    }
+  ]
+}
