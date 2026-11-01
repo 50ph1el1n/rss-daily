@@ -1,0 +1,703 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-11-01",
+  "timezone": "Asia/Taipei",
+  "article_count": 30,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e5105bef7985001f85d527193f84d9a7810b16b3732ab37e8926a1b76e83287a",
+      "title": "比特幣白皮書問世 18 週年，但離「拿來買咖啡」的原始設想似乎愈來愈遠",
+      "url": "https://www.blocktempo.com/bitcoin-whitepaper-18th-anniversary-price-tokenization-wall-street/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-01T02:05:22Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "中本聰",
+        "代幣化",
+        "市場分析",
+        "比特幣",
+        "比特幣白皮書",
+        "穩定幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=553724",
+      "summary": "比特幣白皮書在 2008 年 10 月 31 日問世滿 18 年，這份 9 頁的點對點電子現金提案，如今催生出 […] 〈 比特幣白皮書問世 18 週年，但離「拿來買咖啡」的原始設想似乎愈來愈遠 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 01 Nov 2026 02:05:22 +0000",
+      "updated_at": "2026-11-01T02:05:22Z",
+      "updated_raw": "Sun, 01 Nov 2026 02:05:22 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:56944a2c90b93b7aa90150aa89c31e1bf514d9e095a87006683f3106d33e58f5",
+      "title": "同公司兩樣情！台中簽密約、桃園拉布條，解析美光勞資角力的三方算計",
+      "url": "https://finance.technews.tw/2026/11/01/taiwan-semiconductor-industry-first-legal-strike-11-protestors-micron-negotiations-stalled/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-01T02:00:48Z",
+      "authors": [
+        "商業周刊"
+      ],
+      "categories": [
+        "人力資源",
+        "保密條款",
+        "公司治理",
+        "勞工",
+        "半導體",
+        "工會",
+        "政府",
+        "晶片",
+        "桃園",
+        "罷工",
+        "美光",
+        "職場"
+      ],
+      "guid": "https://technews.tw/?p=1641136",
+      "summary": "台灣半導體業首場合法罷工，10 月 22 日在美光桃園廠登場。只有 11 名工會幹部上街，背後卻是同一家公司兩 […]",
+      "published_raw": "Sun, 01 Nov 2026 02:00:48 +0000",
+      "updated_at": "2026-11-01T02:00:48Z",
+      "updated_raw": "Sun, 01 Nov 2026 02:00:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2df490404c42e808c082bce3d414609ef9e8603e1e4d266173c2a637ce087c44",
+      "title": "雙 11 終身雲端跳水價 pCloud 三合一新方案不怕 iPhone 18 Pro 漲價",
+      "url": "https://www.inside.com.tw/article/42756-pCloud",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-11-01T02:00:00Z",
+      "authors": [
+        "廣編企劃"
+      ],
+      "categories": [
+        "pCloud",
+        "品牌",
+        "省錢攻略",
+        "終身方案",
+        "資安",
+        "趨勢",
+        "雲端",
+        "雲端硬碟"
+      ],
+      "guid": "https://www.inside.com.tw/article/42756-pCloud",
+      "summary": "新機容量漲幅吃不消？退一步買小容量手機，再搭配 pCloud 終身雲端空間更划算！只要買斷免月租，約 2.8 年即回本。趁著雙 11 限時大促，快把握超值方案聰明省荷包。",
+      "published_raw": "2026-11-01T10:00:00+08:00",
+      "updated_at": "2026-11-01T02:00:00Z",
+      "updated_raw": "2026-11-01T10:00:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:014fafe8633081c093fd1d112ec86e0cffad5fbdb750ed4864746ae221a7f198",
+      "title": "FBI 定調幣安63億鎂竊案是北韓幹的，籲業界團結封鎖600個洗錢地址",
+      "url": "https://www.blocktempo.com/fbi-confirms-north-korea-tradertraitor-binance-hack-block-addresses-defi/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-01T01:55:35Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "FBI",
+        "Lazarus",
+        "北韓",
+        "北韓駭客",
+        "即時新聞",
+        "市場分析",
+        "幣安",
+        "幣安史上最大駭案！63 億美元是怎麼被搬走的？"
+      ],
+      "guid": "https://www.blocktempo.com/?p=553766",
+      "summary": "美國 FBI 正式定調幣安 63 億美元竊案為北韓駭客組織 TraderTraitor 所為，並公布 600 […] 〈 FBI 定調幣安63億鎂竊案是北韓幹的，籲業界團結封鎖600個洗錢地址 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 01 Nov 2026 01:55:35 +0000",
+      "updated_at": "2026-11-01T01:55:35Z",
+      "updated_raw": "Sun, 01 Nov 2026 01:55:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9b97dc518d69dae48795299c642863250444d1c6b00a2560cc03bbf2557ce27f",
+      "title": "經濟與降險還不夠，牛津研究提倡將「幸福感」列為 AI 政策第三大核心",
+      "url": "https://technews.tw/2026/11/01/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-01T01:30:21Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 產業",
+        "國際觀察",
+        "幸福感",
+        "科技生活"
+      ],
+      "guid": "https://technews.tw/?p=1634685",
+      "summary": "牛津大學研究人員呼籲，歐盟在推動人工智慧政策時，不應只看經濟成長與風險降低，還要把民眾的幸福感納入評估標準，讓 […]",
+      "published_raw": "Sun, 01 Nov 2026 01:30:21 +0000",
+      "updated_at": "2026-11-01T01:30:21Z",
+      "updated_raw": "Sun, 01 Nov 2026 01:30:21 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7157ddd57a96ea6b06c81a37ce5e25a30411f14f54a3c68a1b187962b8346660",
+      "title": "「延續黃崇仁上市櫃心願！」力晶 11/25 召開股東臨時會，全面改選董監事",
+      "url": "https://finance.technews.tw/2026/11/01/pihc-stock-3/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-01T01:20:38Z",
+      "authors": [
+        "林 妤柔"
+      ],
+      "categories": [
+        "力晶",
+        "力積電",
+        "臨時股東會",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1642617",
+      "summary": "力晶近日公告將於 11 月 25 日召開股東臨時會，討論公司章程修訂，及全面改選董事、監察人。根據力晶致全體股 […]",
+      "published_raw": "Sun, 01 Nov 2026 01:20:38 +0000",
+      "updated_at": "2026-11-01T01:20:38Z",
+      "updated_raw": "Sun, 01 Nov 2026 01:20:38 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8f473fa392ae95b36d55c57fc53a31e3a408b830d810828c349a41e67130841e",
+      "title": "旺宏前三季大賺逾一個股本，Q3 毛利率飆破 70% 寫歷史新高",
+      "url": "https://finance.technews.tw/2026/11/01/macronix-q3-profit-hits-record-as-gross-margin-tops-70/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-01T01:00:15Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "3D NOR Flash",
+        "NAND Flash",
+        "公司治理",
+        "半導體",
+        "吳敏求",
+        "旺宏",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1642062",
+      "summary": "記憶體價格持續走揚，帶動旺宏營運強勢反彈。根據《財訊》雙週刊報導，旺宏 10 月 27 日舉行線上法說會，第三 […]",
+      "published_raw": "Sun, 01 Nov 2026 01:00:15 +0000",
+      "updated_at": "2026-11-01T01:00:15Z",
+      "updated_raw": "Sun, 01 Nov 2026 01:00:15 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:35ae14c63b25edf22e561f2b8db841e2d00d9dc05edd049360ff4489f2eebd2f",
+      "title": "研究推半對抗式訓練，打造更貼近真實的 AI 心理輔助",
+      "url": "https://technews.tw/2026/11/01/ai-personas-as-therapists-versus-clients-shed-new-light-on-improving-ai-powered-mental-health-guidance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-01T00:30:33Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 人格",
+        "大型語言模型",
+        "心理健康",
+        "諮商",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1628451",
+      "summary": "一項聚焦 AI 心理健康應用的研究指出，傳統訓練方式多半讓兩個 AI 人格分別扮演治療師與個案，並在高度合作、 […]",
+      "published_raw": "Sun, 01 Nov 2026 00:30:33 +0000",
+      "updated_at": "2026-11-01T00:30:33Z",
+      "updated_raw": "Sun, 01 Nov 2026 00:30:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e9b2c72da3eec204be3e5fd9de1f018e8cdb3a9a8ebb0415ac11e86c4580f065",
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-01T00:10:30Z",
+      "authors": [
+        "creack"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50321522",
+      "summary": "Hi HN, I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot. The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions. A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad. Happy to answer anything, and tell me what breaks. p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it. Comments URL: https://news.ycombinator.com/item?id=50321522 Points: 4 # Comments: 0",
+      "published_raw": "Sun, 01 Nov 2026 00:10:30 +0000",
+      "updated_at": "2026-11-01T00:10:30Z",
+      "updated_raw": "Sun, 01 Nov 2026 00:10:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2f3b15020414bbc73ade7ad0750500f7ff615e94ba46ffc74567373514c05dc3",
+      "title": "全台最高齡捷運七成故障源自老化！文湖線啟動十年換新血，專家揪兩大致命傷：現在才做已太慢",
+      "url": "https://technews.tw/2026/11/01/wenhua-line-most-breakdowns-taiwan-oldest-mrt-5-years-16-delays-70-equipment-failure-taipei-mrt-10-year-replacement-too-late/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-01T00:00:26Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "交通運輸",
+        "北捷",
+        "延誤",
+        "故障",
+        "文湖線",
+        "科技政策",
+        "通勤"
+      ],
+      "guid": "https://technews.tw/?p=1639990",
+      "summary": "台北捷運文湖線設備老舊、延誤頻傳，近 5 年受影響旅客高達 1.9 萬人次。北捷設下在 2039 年完成換車的 […]",
+      "published_raw": "Sun, 01 Nov 2026 00:00:26 +0000",
+      "updated_at": "2026-11-01T00:00:26Z",
+      "updated_raw": "Sun, 01 Nov 2026 00:00:26 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6ba80f40efe06893d6d3eb87620ccb53f0c20cc55a550861abf3fadad0fc937f",
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "url": "https://emarzion.github.io/KSRT/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T23:55:21Z",
+      "authors": [
+        "mkckto"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50321436",
+      "summary": "Article URL: https://emarzion.github.io/KSRT/ Comments URL: https://news.ycombinator.com/item?id=50321436 Points: 6 # Comments: 0",
+      "published_raw": "Sat, 31 Oct 2026 23:55:21 +0000",
+      "updated_at": "2026-10-31T23:55:21Z",
+      "updated_raw": "Sat, 31 Oct 2026 23:55:21 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c1976e27cc58e05ec7051ab819bf146e2ed451e1c9d84e9f2f4e82cbb2babf7f",
+      "title": "Work Requirements for Trick-or-Treaters",
+      "url": "https://morewrong.lol/?post=work-requirements-trick-or-treaters",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T23:43:29Z",
+      "authors": [
+        "HeliumHydride"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50321373",
+      "summary": "Article URL: https://morewrong.lol/?post=work-requirements-trick-or-treaters Comments URL: https://news.ycombinator.com/item?id=50321373 Points: 8 # Comments: 0",
+      "published_raw": "Sat, 31 Oct 2026 23:43:29 +0000",
+      "updated_at": "2026-10-31T23:43:29Z",
+      "updated_raw": "Sat, 31 Oct 2026 23:43:29 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cef9c2431d97588e0e298e410fdddbf6b8aa2936851368cd5de23c897fd1efd4",
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T23:08:12Z",
+      "authors": [
+        "dverlaeckt80"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50321130",
+      "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 37 # Comments: 9",
+      "published_raw": "Sat, 31 Oct 2026 23:08:12 +0000",
+      "updated_at": "2026-10-31T23:08:12Z",
+      "updated_raw": "Sat, 31 Oct 2026 23:08:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:89e5e62cc738815d31375900736d132b696a1f335c34614a7607994b2f9e5c0c",
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T22:54:55Z",
+      "authors": [
+        "uvdn7"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50321048",
+      "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 44 # Comments: 1",
+      "published_raw": "Sat, 31 Oct 2026 22:54:55 +0000",
+      "updated_at": "2026-10-31T22:54:55Z",
+      "updated_raw": "Sat, 31 Oct 2026 22:54:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8033a5993a3ea6e291522b75d802496d2eccd76a64093715dad193214865587b",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T22:46:12Z",
+      "authors": [
+        "guregodevo"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50320995",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 87 # Comments: 44",
+      "published_raw": "Sat, 31 Oct 2026 22:46:12 +0000",
+      "updated_at": "2026-10-31T22:46:12Z",
+      "updated_raw": "Sat, 31 Oct 2026 22:46:12 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:68c2eb5917aba710449fa0f39bedb7668ef258f4c56272e2550dd198b968ac92",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T22:41:06Z",
+      "authors": [
+        "ecares"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50320963",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 161 # Comments: 47",
+      "published_raw": "Sat, 31 Oct 2026 22:41:06 +0000",
+      "updated_at": "2026-10-31T22:41:06Z",
+      "updated_raw": "Sat, 31 Oct 2026 22:41:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:218f9f137fd2ae1f64bcd03862cbb5cb2171c8bbbffc637ae875f81576d5f968",
+      "title": "AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T21:50:13Z",
+      "authors": [
+        "danielfoster"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50320599",
+      "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 25 # Comments: 5",
+      "published_raw": "Sat, 31 Oct 2026 21:50:13 +0000",
+      "updated_at": "2026-10-31T21:50:13Z",
+      "updated_raw": "Sat, 31 Oct 2026 21:50:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:89c726d4cc3ff074f276c7d81094c4e79545b4f260ec38aac9b53c20ad43b5d0",
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T20:46:39Z",
+      "authors": [
+        "lakesare"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50320028",
+      "summary": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 70 # Comments: 44",
+      "published_raw": "Sat, 31 Oct 2026 20:46:39 +0000",
+      "updated_at": "2026-10-31T20:46:39Z",
+      "updated_raw": "Sat, 31 Oct 2026 20:46:39 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e2dd8d486a4a8549f768bdd3ac1879dd91b100b3d263971e7108f15a45fc4977",
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T20:02:06Z",
+      "authors": [
+        "samizdis"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319563",
+      "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 60 # Comments: 18",
+      "published_raw": "Sat, 31 Oct 2026 20:02:06 +0000",
+      "updated_at": "2026-10-31T20:02:06Z",
+      "updated_raw": "Sat, 31 Oct 2026 20:02:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ea32772c1ed881abd8406abd4e7cd4c33232c9451e8eaa12ef71cc83a4a33d42",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T19:56:53Z",
+      "authors": [
+        "karpathy"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319510",
+      "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 749 # Comments: 246",
+      "published_raw": "Sat, 31 Oct 2026 19:56:53 +0000",
+      "updated_at": "2026-10-31T19:56:53Z",
+      "updated_raw": "Sat, 31 Oct 2026 19:56:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a625d19a973f2cd02e5cbc2a81b7367b4674d76d5c369ac184620ab48e676ddc",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T19:39:19Z",
+      "authors": [
+        "pretext"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319358",
+      "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 206 # Comments: 118",
+      "published_raw": "Sat, 31 Oct 2026 19:39:19 +0000",
+      "updated_at": "2026-10-31T19:39:19Z",
+      "updated_raw": "Sat, 31 Oct 2026 19:39:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1e040c15d484c8915db9ce5aa1d207686107748e5681010039f30dd9bbe26933",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T19:18:48Z",
+      "authors": [
+        "tevlon"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319169",
+      "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser. The cherry on top: online multiplayer, so two players can play co-op over the internet. Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 53 # Comments: 32",
+      "published_raw": "Sat, 31 Oct 2026 19:18:48 +0000",
+      "updated_at": "2026-10-31T19:18:48Z",
+      "updated_raw": "Sat, 31 Oct 2026 19:18:48 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8ea999c21820998d9f20e94eb601ff54ec7e82d8feb04e005f53701f716a03d3",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T19:16:30Z",
+      "authors": [
+        "oger"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319143",
+      "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 354 # Comments: 168",
+      "published_raw": "Sat, 31 Oct 2026 19:16:30 +0000",
+      "updated_at": "2026-10-31T19:16:30Z",
+      "updated_raw": "Sat, 31 Oct 2026 19:16:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a0cfe65be53c26171d6a8acb5d4d8c26df8f079706a655bcabc25bfc24f823fa",
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T19:13:34Z",
+      "authors": [
+        "toomuchtodo"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319110",
+      "summary": "Article URL: https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/ Comments URL: https://news.ycombinator.com/item?id=50319110 Points: 29 # Comments: 3",
+      "published_raw": "Sat, 31 Oct 2026 19:13:34 +0000",
+      "updated_at": "2026-10-31T19:13:34Z",
+      "updated_raw": "Sat, 31 Oct 2026 19:13:34 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a8914a4e66500c8916d75541ed79ca993b452553389e151c360ce291f00eb3f9",
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T19:07:36Z",
+      "authors": [
+        "gslin"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50319061",
+      "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 89 # Comments: 28",
+      "published_raw": "Sat, 31 Oct 2026 19:07:36 +0000",
+      "updated_at": "2026-10-31T19:07:36Z",
+      "updated_raw": "Sat, 31 Oct 2026 19:07:36 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7cee273fe65842269baadfb1d79150d8fe93fc827066fc309a21ec2b47e15b2f",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T18:38:16Z",
+      "authors": [
+        "ntur1337"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50318720",
+      "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 129 # Comments: 41",
+      "published_raw": "Sat, 31 Oct 2026 18:38:16 +0000",
+      "updated_at": "2026-10-31T18:38:16Z",
+      "updated_raw": "Sat, 31 Oct 2026 18:38:16 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e9a68fe7fc7a08123886cbe6b22af616d50296f8e2b31691d7106a90c970c303",
+      "title": "William Nordhaus has died",
+      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-10-31T17:59:41Z",
+      "authors": [
+        "ilreb"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50318376",
+      "summary": "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 56 # Comments: 21",
+      "published_raw": "Sat, 31 Oct 2026 17:59:41 +0000",
+      "updated_at": "2026-10-31T17:59:41Z",
+      "updated_raw": "Sat, 31 Oct 2026 17:59:41 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1467ff94110a3068a894cc4a139d1db228bd69d4433b905b01fb6bb8717e3ebb",
+      "title": "毅力號首度在火星實測太空衣沾附微塵，超細顆粒恐成載人任務健康隱憂",
+      "url": "https://technews.tw/2026/11/01/the-martian-dust-threatening-astronauts/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-31T16:00:33Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "天文",
+        "太空人",
+        "太空衣",
+        "毅力號",
+        "火星",
+        "火星塵埃",
+        "自然科學"
+      ],
+      "guid": "https://technews.tw/?p=1639836",
+      "summary": "美國太空總署（NASA）的「毅力號」（Perseverance）火星車在進行長達 1,645 個火星日（Mar […]",
+      "published_raw": "Sat, 31 Oct 2026 16:00:33 +0000",
+      "updated_at": "2026-10-31T16:00:33Z",
+      "updated_raw": "Sat, 31 Oct 2026 16:00:33 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7b97e4144e8fbc9e6fcf8be3d74844e2eaab993603115f4205d8046da9633003",
+      "title": "最新數學研究翻轉宇宙學暗能量假說：愛因斯坦重力方程即可驅動宇宙膨脹",
+      "url": "https://technews.tw/2026/11/01/challenging-dark-energy-reinterpreting-cosmic-expansion/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-31T16:00:14Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "宇宙膨脹",
+        "暗能量",
+        "標準模型",
+        "環境科學",
+        "自然科學",
+        "重力方程式"
+      ],
+      "guid": "https://technews.tw/?p=1642006",
+      "summary": "一項最新數學研究指出，驅動宇宙加速膨脹的神祕力量，可能根本不需要「暗能量」來解釋。研究團隊分析發現，愛因斯坦的 […]",
+      "published_raw": "Sat, 31 Oct 2026 16:00:14 +0000",
+      "updated_at": "2026-10-31T16:00:14Z",
+      "updated_raw": "Sat, 31 Oct 2026 16:00:14 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:533e0ece393f0002e070369382b12083bdf4d681aaa93a0150572049636325ef",
+      "title": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法",
+      "url": "https://technews.tw/2026/11/01/scientists-discover-a-hidden-trigger-that-keeps-inflammation-alive/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-10-31T16:00:01Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Myddosome",
+        "TLR",
+        "生物科技",
+        "發炎反應",
+        "自體免疫疾病",
+        "醫療科技",
+        "類鐸受體"
+      ],
+      "guid": "https://technews.tw/?p=1629830",
+      "summary": "免疫系統偵測到威脅時，細胞會透過訊號相互溝通並啟動發炎反應。數十年來，科學界普遍認為這類訊號必須經由受體傳遞， […]",
+      "published_raw": "Sat, 31 Oct 2026 16:00:01 +0000",
+      "updated_at": "2026-10-31T16:00:01Z",
+      "updated_raw": "Sat, 31 Oct 2026 16:00:01 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
