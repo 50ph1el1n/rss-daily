@@ -1,0 +1,246 @@
+# RSS Daily — 2026-11-08
+
+共 27 篇文章。
+
+## [TeraWulf 挖礦收入崩 69%，但 AI 租賃暴增 774%](https://www.blocktempo.com/terawulf-q3-bitcoin-mining-revenue-falls-69-hpc-leasing-surges-anthropic/)
+
+- Article ID：`sha256:28f4de06f79315b155d6ae0ecc221d7565c94f1184a46804cca48fa0e010314c`
+- Source：blocktempo
+- Published：2026-11-08T02:31:39Z
+- Authors：冷麵
+
+週五公布的美國比特幣礦企 TeraWulf 第三季財報，挖礦收入較一年前掉了約 69%，AI 與高階運算租賃收 […] 〈 TeraWulf 挖礦收入崩 69%，但 AI 租賃暴增 774% 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。
+
+## [AI 理財是神隊友還是陷阱，採納建議前必做的交叉驗證四步驟](https://finance.technews.tw/2026/11/08/how-to-check-ai-financial-advice-before-you-act-on-it/)
+
+- Article ID：`sha256:7eddd65558f3c735d537dc1ef7fb93e56f0718fb059caf085ff2934fd19e3f12`
+- Source：technews
+- Published：2026-11-08T02:30:24Z
+- Authors：TechNews 編輯台
+
+隨著越來越多人將 AI 當作理財與投資研究工具，最新內容也同步提醒，這類建議不能直接照單全收。文章指出，AI […]
+
+## [幣安財務長 Kaiser Ng 請辭，何一：接班已談了半年、由他接任](https://www.blocktempo.com/binance-cfo-kaiser-ng-steps-down-justin-yek/)
+
+- Article ID：`sha256:ac93a5b90acd0c560ccf1c171a11cb13ccced1dcd921c186af6c7e9c0873e1fd`
+- Source：blocktempo
+- Published：2026-11-08T02:20:44Z
+- Authors：冷麵
+
+幣安財務長 Kaiser Ng 五年多任期結束，由 Airwallex 前財務副總裁 Justin Yek 接 […] 〈 幣安財務長 Kaiser Ng 請辭，何一：接班已談了半年、由他接任 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。
+
+## [維生素 D 該何時吃？研究指隨餐服用比早晚時段更關鍵](https://technews.tw/2026/11/08/the-best-time-to-take-vitamin-d-for-better-sleep/)
+
+- Article ID：`sha256:95aac92206fa78b39e2ee6af60291c6da36220b70e77387c8a1cbbed14f03f15`
+- Source：technews
+- Published：2026-11-08T02:00:29Z
+- Authors：商業周刊
+
+現代人睡眠品質不佳，已成為普遍的健康危機。美國健康資訊媒體《Health》刊出一位藥劑師的解析，指出維生素 D […]
+
+## [比特幣 ETF 單週失血 12.8 億美元：今年由淨流入翻負](https://www.blocktempo.com/bitcoin-etf-1-28-billion-weekly-outflow-2026-flips-negative/)
+
+- Article ID：`sha256:fc3fe0532dbf0004e3f49b67f84aa693476ad3a898ff8d0acdfb09cdef0b61c1`
+- Source：blocktempo
+- Published：2026-11-08T01:55:05Z
+- Authors：冷麵
+
+美國 12 檔現貨比特幣 ETF 上週淨流出 12.8 億美元，是 6 月底以來最差單週，也讓今年資金流由正翻 […] 〈 比特幣 ETF 單週失血 12.8 億美元：今年由淨流入翻負 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。
+
+## [輝達力推 PTFE 無玻纖布方案，材料商搶卡位、PCB 大廠審慎評估](https://technews.tw/2026/11/08/materials-suppliers-rush-to-develop-glass-free-ptfe-laminates/)
+
+- Article ID：`sha256:a0bfa1601109b0121c7c8b5c31ba7fc9283ea3d3de6e4429066a22a024fb9a96`
+- Source：technews
+- Published：2026-11-08T01:00:58Z
+- Authors：財訊
+
+輝達力推 PTFE 無玻纖布方案，材料商搶先布局，PCB 大廠卻審慎評估。新材料從送樣到量產，誰投入資源、誰承 […]
+
+## [AI 聊天機器人也能當學者？實測揭露學術出版防線的新危機](https://technews.tw/2026/11/08/ai-generated-fake-papers-challenge-academic-defenses/)
+
+- Article ID：`sha256:41b5a40e137d0669b57fd22f97fbcaa6c4849db37ca479199dc9f560dfdc3051`
+- Source：technews
+- Published：2026-11-08T00:30:44Z
+- Authors：TechNews 編輯台
+
+一項與《IEEE Access》期刊合作的實驗，大膽將 AI 生成內容直接帶進學術出版流程。結果顯示：即使是看 […]
+
+## [鎖定「超乎預期」獲利黑馬！台股年底突圍，聚焦 ABC 三大族群與半導體](https://finance.technews.tw/2026/11/08/unexpected-profit-dark-horses-taiwan-stocks-year-end-breakout-focus-abc-sectors-semiconductors/)
+
+- Article ID：`sha256:d6f6524fb6a8681b11881892b4def92ac47e1bcfbda93f66167d4d7bf897172d`
+- Source：technews
+- Published：2026-11-08T00:00:42Z
+- Authors：今周刊
+
+台股面臨半年線保衛戰，在線型收復前，短期操作宜保持謹慎，理性過濾市場雜音，逢低布局長線獲利具爆發力的好公司，以 […]
+
+## [Commodore PET – The Worlds First Personal Computer](https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/)
+
+- Article ID：`sha256:90662c7addd40edba15c3e08a668220a3cf08255e85f932b67646a47c82f7944`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T23:15:34Z
+- Authors：andsoitis
+
+Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 21 # Comments: 3
+
+## [GitHub New pull request overview page in public preview](https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/)
+
+- Article ID：`sha256:0104c48365a0c135d596f09f71202933f9cd566c3491ec09b22566d638943edd`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T23:09:40Z
+- Authors：xiaoyu2006
+
+Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 69 # Comments: 52
+
+## [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/)
+
+- Article ID：`sha256:728cec474eb28888e2a92ce1fcaeef12e5d1a601272a67479662e5ba920adcd1`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T22:45:39Z
+- Authors：erickhill
+
+Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 13 # Comments: 0
+
+## [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+
+- Article ID：`sha256:04cbb53194171b35b4f7546993d71780caa1cf6b9e8a2ab4afe91d361da7ccc1`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T22:38:58Z
+- Authors：germanrabbit
+
+Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 66 # Comments: 14
+
+## [Show HN: An offline desktop companion to help maintain a healthy blink rhythm](https://eyesrhythm.com/)
+
+- Article ID：`sha256:986a692342fb1ab9ee1508890a5c4fcdc78a20bed338b24cc49101c15646e8f6`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T21:47:47Z
+- Authors：prnysoni
+
+Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe. Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are. EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection. Most importantly it works completely local no internet required. Comments URL: https://news.ycombinator.com/item?id=50408350 Points: 27 # Comments: 12
+
+## [Shadow of the Sun (2021)](https://mattlakeman.org/2021/07/27/shadow-of-the-sun/)
+
+- Article ID：`sha256:18e0bf2fdc6b5bffa7796500cb81a7f9cc04bf38dce11249fddf322d77ccc6cf`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T21:11:05Z
+- Authors：andsoitis
+
+Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 21 # Comments: 4
+
+## [Show HN: Where Were We](https://wherewerewe.app/)
+
+- Article ID：`sha256:c257b4999133910e1978fcf1e7ac4e3f36b5dd3f9c6b51335b06b2c853a16a86`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T21:08:35Z
+- Authors：zkiihne
+
+A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points: 25 # Comments: 11
+
+## [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+
+- Article ID：`sha256:448fd16afc86e11df52dfa70714abfa714121ee8ed8db36902eebf97b40c6d03`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T20:45:32Z
+- Authors：shmulc
+
+Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 191 # Comments: 131
+
+## [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+
+- Article ID：`sha256:eeb13e776e4254be4d722f5127a29eb612272edd7a732c9dc17f5f84bd7730b9`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T18:12:12Z
+- Authors：LaurensBER
+
+Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 351 # Comments: 87
+
+## [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+
+- Article ID：`sha256:0ff083bc2e5fdbf18db572156d6f038285bebda4f593eaac9920d4e12aaf885e`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T18:02:17Z
+- Authors：srean
+
+https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 395 # Comments: 235
+
+## [GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)](https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor)
+
+- Article ID：`sha256:9c91fc5344843c0a5e16330e4d0f4783489c328ec4dc7d3901e860d081d77881`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T17:54:56Z
+- Authors：andsoitis
+
+Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 43 # Comments: 18
+
+## [Five memorable books about programming (2008)](https://prog21.dadgum.com/19.html)
+
+- Article ID：`sha256:f5c293359183f40f2c4ce48170a8651e73faa7ceaebab857713e7fa4a7140371`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T17:30:49Z
+- Authors：andsoitis
+
+Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 88 # Comments: 55
+
+## [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+
+- Article ID：`sha256:030d40aaea851f67483a1eb7ebb692b754080d6a98241d9f68e50beaa6e042c8`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T17:27:30Z
+- Authors：hedgerow-dev
+
+I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real ones (an not as honeypots). It’s one Python file using only the standard library, and it builds on eppser/danfoss-ak-sm-decoy and public research by Synacktiv, Claroty and Ironhackers. Things that were fun to get right: - Matching real units. I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions. The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A. The Dixell persona sends no Server header and pads its page to exactly 8,202 bytes. - Recognising exploit attempts. It recognises CVE-2025-41450, the Danfoss “code of the day” login bypass, and records whether the submitted code is correct for today. It also tags attempts targeting three other Danfoss CVEs and the XWEB vulnerabilities. - Letting them in. Default logins open a fake store dashboard with defrost buttons, so you see the second move, not just the first. Nothing behind it is real. Two instances have been live for a day. So far they’ve only seen generic scanners and Shodan’s crawler, which is called refrigerator.census.shodan.io. Feedback welcome, especially from anyone who has seen these devices in the field! Comments URL: https://news.ycombinator.com/item?id=50406292 Points: 193 # Comments: 42
+
+## [MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)
+
+- Article ID：`sha256:1df60213b61de6bd43c1134cd9572f01ff6a1dcf3d68bbc0e4ed6f7f229fe2fa`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T17:19:00Z
+- Authors：antiuniverse
+
+Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 208 # Comments: 63
+
+## [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+
+- Article ID：`sha256:5a68b1446271bcbb3b25f65a26e18e88eae30e7bdb5e8af6b53411bf8dcca208`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T17:06:36Z
+- Authors：user_7832
+
+Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 373 # Comments: 249
+
+## [Every processor die anyone has photographed and given away](https://sheets.works/data-viz/cpu-dies)
+
+- Article ID：`sha256:e3e1e60e51301a047113d442b4409bd3c55f607d1eb008c5e312dafa6648c2f6`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T16:21:36Z
+- Authors：user_7832
+
+Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 80 # Comments: 17
+
+## [Terry Pratchett's Study](https://www.sussi.dk/terry-pratchetts-study)
+
+- Article ID：`sha256:5b1d2682e00502b141a9702298ff8e56f34c9e5e23235662612e0727757ea688`
+- Source：hacker-news-frontpage
+- Published：2026-11-07T16:05:45Z
+- Authors：ColinWright
+
+Article URL: https://www.sussi.dk/terry-pratchetts-study Comments URL: https://news.ycombinator.com/item?id=50405674 Points: 106 # Comments: 29
+
+## [睪固酮低下加上高果糖飲食超傷肝，研究揭腸道菌是惡化幫兇](https://technews.tw/2026/11/08/low-testosterone-exacerbates-sugar-induced-fatty-liver-disease/)
+
+- Article ID：`sha256:8061bcb064f19fec2806e9a81930b2e9cf2215e7cd157bd1db5711d05d5e2e1e`
+- Source：technews
+- Published：2026-11-07T16:00:56Z
+- Authors：TechNews 編輯台
+
+日本大阪公立大學研究團隊發現，低睪固酮與高果糖飲食並非各自獨立影響肝臟，而是會產生強烈的相互作用，進一步惡化脂 […]
+
+## [星系風吹走生命元素，GLOW 計畫證實超新星爆發加速矮星系氧氣流失](https://technews.tw/2026/11/08/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/)
+
+- Article ID：`sha256:0373223936efd008644a7a6021128c45692150b58d09bca1fc5c49aa10049cc8`
+- Source：technews
+- Published：2026-11-07T16:00:01Z
+- Authors：台北 天文館
+
+美國太空總署（NASA）的哈伯太空望遠鏡近期在我們的宇宙鄰近區域發現了一項神祕現象。根據週一發表於《天文物理學 […]
