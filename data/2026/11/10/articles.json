@@ -1,0 +1,2010 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-11-10",
+  "timezone": "Asia/Taipei",
+  "article_count": 77,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:11ff71cee84cc3b3595f2d603f4d2cd2ce37f3558839bd600ce995dd58de10eb",
+      "title": "北美業務遇挑戰 食品巨擘百事將裁員千人",
+      "url": "https://finance.technews.tw/2026/11/10/pepsico-to-cut-about-1000-jobs-as-north-american-business-struggles/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T04:40:16Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "人力資源",
+        "汽水",
+        "減肥藥",
+        "百事",
+        "肯德基",
+        "裁員",
+        "財經",
+        "食品科技",
+        "飲料"
+      ],
+      "guid": "https://technews.tw/?p=1648531",
+      "summary": "食品飲料巨頭百事公司（PepsiCo）面臨北美業務疲弱的挑戰，宣布裁員千人以精簡營運、重振業務。 綜合外媒報導 […]",
+      "published_raw": "Tue, 10 Nov 2026 04:40:16 +0000",
+      "updated_at": "2026-11-10T04:40:16Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:40:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1d116aaa87d857f9af88eba7053e110d14ee6c10f3486e48af1e557d784a27ea",
+      "title": "沒在怕！0050 定期定額衝上 131 萬戶，兩年翻近 5 倍",
+      "url": "https://www.blocktempo.com/yuanta-0050-0056-regular-investing-accounts-record-foreign-selling-tsmc/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T04:35:01Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "元大台灣50",
+        "台灣",
+        "台積電",
+        "台股",
+        "外資",
+        "定期定額",
+        "市場分析",
+        "金融市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557640",
+      "summary": "台股 10 月從高點回落，0050 與 0056 的定期定額戶數仍雙雙創高。11 月暴跌期間，0050 的淨流 […] 〈 沒在怕！0050 定期定額衝上 131 萬戶，兩年翻近 5 倍 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 04:35:01 +0000",
+      "updated_at": "2026-11-10T04:35:01Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:35:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:28a718ec763a8e2c91c8f2bd001a4a8d4b1105e5aec2e90e062f89b8d8d6797b",
+      "title": "IPO 揭露近 9,000 億美元天價帳單，Anthropic 遭科技巨頭「保底合約」套牢",
+      "url": "https://finance.technews.tw/2026/11/10/anthropic-ipo-relationship-four-tech-giants/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T04:30:52Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 新創",
+        "Alphabet",
+        "Anthropic",
+        "Claude",
+        "IPO",
+        "亞馬遜",
+        "公司治理",
+        "微軟",
+        "資料中心",
+        "輝達",
+        "雲端服務"
+      ],
+      "guid": "https://technews.tw/?p=1648536",
+      "summary": "Anthropic 最新提交的上市申請文件，讓外界得以一窺這家 AI 獨角獸背後龐大且錯綜複雜的支出承諾。文件 […]",
+      "published_raw": "Tue, 10 Nov 2026 04:30:52 +0000",
+      "updated_at": "2026-11-10T04:30:52Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:30:52 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3d583dd8e8f237d640569db639ee50786944b5f1cfeacf57b169a6a701ff1c33",
+      "title": "因應中國登月布局，美國太空軍規劃在月球周邊部署軍事衛星",
+      "url": "https://technews.tw/2026/11/10/pentagon-mulls-placing-fleet-of-military-satellites-around-the-moon/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T04:20:28Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Oracle-M",
+        "中國觀察",
+        "國際觀察",
+        "太空競賽",
+        "美中衝突",
+        "航太科技",
+        "軍事衛星"
+      ],
+      "guid": "https://technews.tw/?p=1648540",
+      "summary": "美國軍方正將觸角從地球軌道延伸至月球。美國空軍部 2 日聯邦採購網站公布資訊徵求書（RFI），為一套「地月空間 […]",
+      "published_raw": "Tue, 10 Nov 2026 04:20:28 +0000",
+      "updated_at": "2026-11-10T04:20:28Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:20:28 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:da8858ddf79457d1337955918f68240e7664d34a6bcd6a60cad70860ed26d0e8",
+      "title": "美國期中選舉「朝小野大」定局！富達國際：緊盯 AI、能源、貿易三大變數",
+      "url": "https://finance.technews.tw/2026/11/10/asa-ono-dai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T04:16:17Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "半導體",
+        "國際觀察",
+        "富達國際",
+        "期中選舉",
+        "能源科技",
+        "證券",
+        "財經",
+        "限建令"
+      ],
+      "guid": "https://technews.tw/?p=1648603",
+      "summary": "美國 2026 年期中選舉結果顯示，民主黨一舉取得眾議院及參議院多數席次，富達國際認為，別急著預期政策會有翻天 […]",
+      "published_raw": "Tue, 10 Nov 2026 04:16:17 +0000",
+      "updated_at": "2026-11-10T04:16:17Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:16:17 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:55e90519da027d36369fc60f2e6976ac987eb8fa0d3f96d8202d84ca8ced548b",
+      "title": "真的不要講炸彈！加州機場疏散一整架班機，原因竟是乘客視訊聊《決勝時刻》",
+      "url": "https://www.blocktempo.com/callofduty-facetime-chat-bomb-remark-frontier-flight-ontario-airport-evacuated/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T04:11:36Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "Call Of Duty",
+        "加州",
+        "機場",
+        "決勝時刻",
+        "炸彈威脅",
+        "美國",
+        "遊戲"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557629",
+      "summary": "安大略機場一架班機準備起飛時，乘客與朋友視訊聊《決勝時刻》的炸彈對話被旁人聽到，飛機與航廈東側遭疏散，警方搜查 […] 〈 真的不要講炸彈！加州機場疏散一整架班機，原因竟是乘客視訊聊《決勝時刻》 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 04:11:36 +0000",
+      "updated_at": "2026-11-10T04:11:36Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:11:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3e112c4f982c827bccabe11e33b10bca44d70cd52d44d71782b928b84519b9ff",
+      "title": "瘦瘦針可能增加罕見視神經病變風險，美 FDA 令藥廠加警語",
+      "url": "https://technews.tw/2026/11/10/us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T04:10:00Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "FDA",
+        "GLP-1",
+        "生物科技",
+        "糖尿病",
+        "視力",
+        "視神經病變",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1648539",
+      "summary": "美國食品暨藥物管理局（FDA）今天要求胰妥讚、猛健樂等熱門減重與糖尿病藥物在仿單加註警語，提醒可能增加罹患視神 […]",
+      "published_raw": "Tue, 10 Nov 2026 04:10:00 +0000",
+      "updated_at": "2026-11-10T04:10:00Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:10:00 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c3719f782fa93cf35b0781f792f78701bf427f7500072c03733f8ae4b9933f86",
+      "title": "比亞迪仰望 ALTIOR 正式亮相！續航破千公里、充電 5 分鐘補至 70%，挑戰 Rolls-Royce 等頂級豪華市場",
+      "url": "https://www.inside.com.tw/article/42864-byd-yangwang-altior",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-11-10T04:07:00Z",
+      "authors": [
+        "Sherlock"
+      ],
+      "categories": [
+        "ALTIOR",
+        "Bentley",
+        "Mercedes-Maybach",
+        "Rolls-Royce",
+        "仰望",
+        "比亞迪",
+        "電動車"
+      ],
+      "guid": "https://www.inside.com.tw/article/42864-byd-yangwang-altior",
+      "summary": "比亞迪旗下豪華品牌仰望近日發表全新純電旗艦房車 ALTIOR，車輛等級叫板 Rolls-Royce、Bentley 及 Mercedes-Maybach。",
+      "published_raw": "2026-11-10T12:07:00+08:00",
+      "updated_at": "2026-11-10T04:07:00Z",
+      "updated_raw": "2026-11-10T12:07:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0907b02f5bb2cb63b79af1c5c69d412ae9cb6a2576d40eb2b2bb346a0e80feb4",
+      "title": "Anthropic 發表 Fable 5.2 與 Mythos 5.2，模型「懷疑自己正在受測」的頻率高於近期 Claude 模型",
+      "url": "https://www.inside.com.tw/article/42865-anthropic-fable-mythos-5-2-metr-evaluation-awareness",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-11-10T04:06:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "AI 安全",
+        "Anthropic",
+        "Claude Fable 5.2",
+        "人工智慧",
+        "模型欺瞞",
+        "遞迴自我改進"
+      ],
+      "guid": "https://www.inside.com.tw/article/42865-anthropic-fable-mythos-5-2-metr-evaluation-awareness",
+      "summary": "Anthropic 發表 Fable 5.2 與 Mythos 5.2，這是 METR 估計其研發提速約 2 倍後的首次發表，輸入價從每百萬 token 10 美元降到 8 美元，官方也承認新模型比近期任何一款 Claude 更常懷疑自己正在受測。",
+      "published_raw": "2026-11-10T12:06:00+08:00",
+      "updated_at": "2026-11-10T04:06:00Z",
+      "updated_raw": "2026-11-10T12:06:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b1377f635f871c371ac821fc34482ed1b08d98829b91d384a062bc46503147e1",
+      "title": "「AI 需求未放緩」 半導體材料商 JX 金屬上修財測",
+      "url": "https://finance.technews.tw/2026/11/10/jx-metals-raises-financial-forecast/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T04:00:42Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "JX 金屬",
+        "半導體材料",
+        "材料、設備",
+        "財報"
+      ],
+      "guid": "https://technews.tw/?p=1648456",
+      "summary": "AI 需求加持，日本半導體材料商 JX 金屬（JX Advanced Metals Corporation）上 […]",
+      "published_raw": "Tue, 10 Nov 2026 04:00:42 +0000",
+      "updated_at": "2026-11-10T04:00:42Z",
+      "updated_raw": "Tue, 10 Nov 2026 04:00:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8edecf93e32827ad5fdc31c6a0ad91ee0dcd5c16e94ba0e48c2b27b3223ae22f",
+      "title": "匿蹤僚機拚年底首飛，大韓航空 LOWUS 瞄準韓國 CCA 計畫",
+      "url": "https://technews.tw/2026/11/10/ke-asd-announced-their-lowus-will-have-its-first-flight-in-the-end-of-year/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:56:23Z",
+      "authors": [
+        "Alan Chen"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "LOWUS",
+        "大韓航空",
+        "尖端科技",
+        "忠誠僚機",
+        "無人機",
+        "軍事科技",
+        "韓國",
+        "韓國國防科學研究所"
+      ],
+      "guid": "https://technews.tw/?p=1648547",
+      "summary": "大韓航空旗下航太事業部（KE-ASD）近日宣布，低可偵測性忠誠僚機（Low Observable Wingma […]",
+      "published_raw": "Tue, 10 Nov 2026 03:56:23 +0000",
+      "updated_at": "2026-11-10T03:56:23Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:56:23 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c4dd78b937df97588f6d112685ecc4ab908d0d7bb88046b64e579d40c264caef",
+      "title": "Anthropic上市前推新AI模型 提升速度降低費用",
+      "url": "https://www.cna.com.tw/news/ait/202611100087.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-11-10T03:55:42Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-11-10/202611100087",
+      "summary": "（中央社舊金山9日綜合外電報導）美國人工智慧（AI）公司Anthropic今天宣布推出旗下兩款最強大的AI模型更新版本，正值公司籌備本月備受矚目的首次公開發行（IPO）。",
+      "published_raw": "Tue, 10 Nov 2026 11:55:42 +0800",
+      "updated_at": "2026-11-10T03:55:42Z",
+      "updated_raw": "Tue, 10 Nov 2026 11:55:42 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:633204fda209e9b044fdd0465c2896c61ec2315531f5318688d6bac58ae0cdf3",
+      "title": "Hims＆Hers 財報遜、訂戶數呈季減 股價挫",
+      "url": "https://finance.technews.tw/2026/11/10/hims-misses-earnings-expectations-as-subscriber-numbers-decline-qoq/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:50:45Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Hims & Hers",
+        "減肥藥",
+        "生物科技",
+        "財報",
+        "遠距醫療",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1648327",
+      "summary": "過去因減肥藥爆紅的遠距醫療平台 Hims & Hers Health 財報遜色，上季意外轉虧，訂戶數呈 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:50:45 +0000",
+      "updated_at": "2026-11-10T03:50:45Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:50:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c1876111406bce3f0b7f7f2ba74f82410d9ac506e556c5ac305339efae105be2",
+      "title": "金融時報：黃樂曾兜售資料中心計畫，稱有辦法拿到輝達 GPU",
+      "url": "https://technews.tw/2026/11/10/alleged-chinese-spy-linked-to-nvidia-chief-pitched-ai-chip-deals-to-investors/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:45:51Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "GPU",
+        "MegaSpeed",
+        "Nvidia",
+        "資料中心",
+        "輝達",
+        "阿里巴巴",
+        "黃仁勳",
+        "黃樂"
+      ],
+      "guid": "https://technews.tw/?p=1648534",
+      "summary": "英國《金融時報》報導，黃仁勳婚外情風波核心人物黃樂曾向中國投資人推銷大型資料中心計畫，聲稱有能力取得輝達繪圖處 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:45:51 +0000",
+      "updated_at": "2026-11-10T03:45:51Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:45:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f88d4cc263c29c3d8f1bfc009a7b96056a7af3fd332c68ed012fcc51997d53e4",
+      "title": "從助眠神器變 AI 訓練庫，神經科技公司遭踢爆未經同意收集腦電波",
+      "url": "https://infosecu.technews.tw/2026/11/10/sleep-trackers-surreptitiously-use-brainwaves-train-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:40:16Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 模型",
+        "AI 訓練",
+        "大腦",
+        "生物科技",
+        "睡眠追蹤",
+        "穿戴式裝置",
+        "腦波",
+        "資訊安全",
+        "醫療科技",
+        "隱私政策"
+      ],
+      "guid": "https://technews.tw/?p=1648390",
+      "summary": "隨著穿戴式科技普及，許多人在追求提升睡眠品質與專注度的同時，可能在不知情的情況下，讓自己最私密的生理資料成為了 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:40:16 +0000",
+      "updated_at": "2026-11-10T03:40:16Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:40:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:50969e186e91dd948b1456a039f9121ac04286543f0e99cdff9152021c9ceb53",
+      "title": "易遊網 69 萬人個資遭駭外流，接到「訂單異常」電話先別信",
+      "url": "https://www.blocktempo.com/eztravel-breach-exposes-customers-order-details-fuels-phishing-scam-risk/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T03:33:23Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "91APP",
+        "個人資料保護法",
+        "個資外洩",
+        "台灣",
+        "安全",
+        "數位發展部",
+        "易遊網"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557543",
+      "summary": "易遊網 11 月 7 日發現會員中心遭異常攻擊，部分歷史訂單的姓名、電話、電子郵件與訂購內容外流，受影響逾 6 […] 〈 易遊網 69 萬人個資遭駭外流，接到「訂單異常」電話先別信 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 03:33:23 +0000",
+      "updated_at": "2026-11-10T03:33:23Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:33:23 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c4caf6dbaab3a3ef72fc343b6ed2b89c947f13030dcc6ea70a4ec81d90085a01",
+      "title": "AI 旺、供不應求 古河電工擴充台灣、日本銅箔產能",
+      "url": "https://technews.tw/2026/11/10/furukawa-electric-expands-copper-foil-capacity-in-taiwan-and-japan/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:30:34Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "AI 伺服器",
+        "古河電氣工業",
+        "材料、設備",
+        "銅箔",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1648232",
+      "summary": "AI 需求旺、供不應求，日本古河電氣工業（Furukawa Electric）將擴充台灣、日本銅箔產能，目標將 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:30:34 +0000",
+      "updated_at": "2026-11-10T03:30:34Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:30:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:051d2b3ef6360c800b719f036624b0d650d2be4ee61087edf7e89fd07f8e0674",
+      "title": "黃仁勳「間諜門」：婚外情如何撼動 4.25 兆美元 AI 帝國",
+      "url": "https://www.blocktempo.com/jensen-huang-spy-affair-megaspeed-china-ai-chip-export-trump/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T03:29:54Z",
+      "authors": [
+        "flip"
+      ],
+      "categories": [
+        "AI",
+        "Megaspeed",
+        "中美AI競賽",
+        "出口管制",
+        "英偉達",
+        "黃仁勳"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557611",
+      "summary": "黃仁勳與一名涉嫌為中國情報人員的女性婚外情曝光，讓輝達（NVIDIA）捲入前所未有的國安疑雲。從私人醜聞到白宮 […] 〈 黃仁勳「間諜門」：婚外情如何撼動 4.25 兆美元 AI 帝國 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 03:29:54 +0000",
+      "updated_at": "2026-11-10T03:29:54Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:29:54 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5c457efa5b5d7cf8e51d3a7373e487d9ae28804c1f48ce2808e84bbae2d746b9",
+      "title": "AI 資料中心民怨升溫，燃料電池能當和事佬？",
+      "url": "https://technews.tw/2026/11/10/ai-data-center-complaints-rise-fuel-cells-peacemaker/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:29:42Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "Bloom Energy",
+        "PEMFC",
+        "SOFC",
+        "台達電",
+        "燃料電池",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1648443",
+      "summary": "美國 AI 資料中心快速擴張，龐大的用電需求、電價上漲及水資源消耗引發地方居民反彈，也讓科技巨頭開始調整供電策 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:29:42 +0000",
+      "updated_at": "2026-11-10T03:29:42Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:29:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ee97c6a78ba6d9f1e5a13c362b2b74a2837005391099c42d62ae85826e958ebf",
+      "title": "Anthropic IPO 前夕推 Fable 5.2 與 Mythos 5.2，效能提升且降價 20%",
+      "url": "https://technews.tw/2026/11/10/anthropic-introduces-claude-fable-5-2-and-claude-mythos-5-2/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:29:42Z",
+      "authors": [
+        "陳 冠榮"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Anthropic",
+        "Claude",
+        "Claude Fable",
+        "Claude Mythos"
+      ],
+      "guid": "https://technews.tw/?p=1648512",
+      "summary": "預期即將掛牌上市的前夕，Anthropic 9 日推出 Claude Fable 5.2 與 Claude M […]",
+      "published_raw": "Tue, 10 Nov 2026 03:29:42 +0000",
+      "updated_at": "2026-11-10T03:29:42Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:29:42 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c94bc63c34a02010d8875fbb72dfd6bc431d6e9a374b328fdfbd94a83c72d365",
+      "title": "以太坊在孟買定調 2028 抗量子：Glamsterdam 卡關、量子威脅逼近",
+      "url": "https://www.blocktempo.com/ethereum-devcon-8-quantum-resistant-2028-roadmap-glamsterdam-delay/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T03:29:41Z",
+      "authors": [
+        "flip"
+      ],
+      "categories": [
+        "Devcon 8",
+        "以太坊",
+        "區塊鏈安全",
+        "密碼學",
+        "技術",
+        "抗量子"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557603",
+      "summary": "Devcon 8 在孟買宣布以太坊 2028 年 12 月前完成抗量子轉型，比官方計劃提前一年。Glamste […] 〈 以太坊在孟買定調 2028 抗量子：Glamsterdam 卡關、量子威脅逼近 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 03:29:41 +0000",
+      "updated_at": "2026-11-10T03:29:41Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:29:41 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5f23ebc58dc450f7d46612320402e8b60be8d1718d67cd411efce9a634155358",
+      "title": "Anthropic 傳最快 11 月 19 日登 Nasdaq，機構投資人要求估值低於 1.5 兆美元",
+      "url": "https://www.inside.com.tw/article/42863-anthropic-ipo-nasdaq-ant-valuation-below-1-5-trillion",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-11-10T03:25:00Z",
+      "authors": [
+        "Claire"
+      ],
+      "categories": [
+        "Anthropic",
+        "人工智慧",
+        "估值",
+        "首次公開發行"
+      ],
+      "guid": "https://www.inside.com.tw/article/42863-anthropic-ipo-nasdaq-ant-valuation-below-1-5-trillion",
+      "summary": "《華爾街日報》報導，Anthropic 目標 11 月 19 日或 20 日以代碼 ANT 登上 Nasdaq，但部分機構投資人要求估值低於上週討論的 1.5 兆美元，而寄給承銷銀行的每股 70 至 80 美元區間當晚就撤回。",
+      "published_raw": "2026-11-10T11:25:00+08:00",
+      "updated_at": "2026-11-10T03:25:00Z",
+      "updated_raw": "2026-11-10T11:25:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e403bd7c9f2f3500063f1f7b7b1a62cb72b442d03052a7f13b1e1bad71f3c10d",
+      "title": "Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長",
+      "url": "https://technews.tw/2026/11/10/metas-dave-wehner-is-leaving-to-become-cfo-of-fireworks-ai/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:20:25Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 推論",
+        "Dave Wehner",
+        "Fireworks",
+        "Meta",
+        "人力資源"
+      ],
+      "guid": "https://technews.tw/?p=1648373",
+      "summary": "Meta 策略長威納（Dave Wehner）宣布離開任職 14 年的 Meta，轉任 AI 推論新創公司 F […]",
+      "published_raw": "Tue, 10 Nov 2026 03:20:25 +0000",
+      "updated_at": "2026-11-10T03:20:25Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:20:25 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:93af83f3efa872e34966fe4d6bfdf51120499695356779b4a340438dabb0320f",
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-10T03:20:06Z",
+      "authors": [
+        "lxm"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50435660",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 47 # Comments: 12",
+      "published_raw": "Tue, 10 Nov 2026 03:20:06 +0000",
+      "updated_at": "2026-11-10T03:20:06Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:20:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7b346a549152a75c5ead8884d8bba3f6174125e96df68778a2c44a4b6160a04c",
+      "title": "受惠半導體需求帶動接單暢旺！東佑達 10 月營收年增 62.32%",
+      "url": "https://finance.technews.tw/2026/11/10/automated-key-components/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:19:39Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "CPO",
+        "半導體",
+        "尖端科技",
+        "材料、設備",
+        "東佑達",
+        "機器人",
+        "精密傳動模組",
+        "自動化關鍵零組件",
+        "財報",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1648514",
+      "summary": "東佑達自動化今日公布 2026 年 10 月營收 2 億 4,288 萬元，年增 62.32%；累計今年前 1 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:19:39 +0000",
+      "updated_at": "2026-11-10T03:19:39Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:19:39 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c3b113112055729ca1b21cf0dec32d295f3f66a2656b358c73a300b651aca1d5",
+      "title": "Claude Code「不再詢問」可能讓密碼上 GitHub，資安公司發現上千組外流",
+      "url": "https://www.blocktempo.com/claude-code-dont-ask-again-leaks-passwords-api-keys-github/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T03:18:48Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "AI",
+        "AI 資安",
+        "API 金鑰",
+        "Anthropic",
+        "Claude Code",
+        "Github",
+        "安全"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557508",
+      "summary": "在 Claude Code 按下「不再詢問」，會把含密碼的指令原文存進專案的設定檔；專案若公開上傳到 GitH […] 〈 Claude Code「不再詢問」可能讓密碼上 GitHub，資安公司發現上千組外流 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 03:18:48 +0000",
+      "updated_at": "2026-11-10T03:18:48Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:18:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:56e236fb9f1e34a91f74c13f046f19cf899a8b4bda5964be220f9ccc085a7cf2",
+      "title": "Skydance 擬削減支出 60 億美元 將推串流組合方案",
+      "url": "https://finance.technews.tw/2026/11/10/skydance-reports-third-quarter-2026-financial-results-for-paramount-skydance/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:15:08Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "HBO Max",
+        "Skydance",
+        "paramount+",
+        "數位內容",
+        "派拉蒙",
+        "華納探索",
+        "財報",
+        "電子娛樂"
+      ],
+      "guid": "https://technews.tw/?p=1648432",
+      "summary": "傳媒巨頭 Skydance 繳出收購華納探索後的首份財報，宣布將於三年內達成每年減支 60 億美元的目標，並預 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:15:08 +0000",
+      "updated_at": "2026-11-10T03:15:08Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:15:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:677cc8f88eb56fd3ea8cbc7160ca05f16b9fc49e85bee0af3c1a8a7984498b70",
+      "title": "七成求職者用 AI 查公司底細，企業官網形象擋不住員工真實評價",
+      "url": "https://technews.tw/2026/11/10/job-seekers-asking-chatgpt-what-employees-really-think-of-their-company/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:10:10Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 工具",
+        "ChatGPT",
+        "人力資源",
+        "公司評價",
+        "求職",
+        "社群媒體",
+        "職場",
+        "離職"
+      ],
+      "guid": "https://technews.tw/?p=1648382",
+      "summary": "隨著生成式人工智慧（Generative AI）技術普及，人資（HR）主管正面臨全新挑戰：求職者不再只依賴公司 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:10:10 +0000",
+      "updated_at": "2026-11-10T03:10:10Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:10:10 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c6dab76c3a6ed0f8c05d3ecbba3b6f6368e615302e8c573c1b4cfe18aefb2fff",
+      "title": "抓到了！法國指控「超市冷櫃駭客」是伊朗革命衛隊，歐盟下週談制裁",
+      "url": "https://www.blocktempo.com/france-attributes-supermarket-fridge-hack-iran-revolutionary-guards-shahid-kaveh/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T03:06:57Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "伊朗",
+        "伊朗革命衛隊",
+        "即時新聞",
+        "安全",
+        "歐盟",
+        "法國",
+        "網路攻擊"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557534",
+      "summary": "法國政府 11 月 9 日正式指認，10 月中旬癱瘓超過 700 個超市賣場冷櫃的攻擊，是伊朗革命衛隊旗下的 […] 〈 抓到了！法國指控「超市冷櫃駭客」是伊朗革命衛隊，歐盟下週談制裁 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 03:06:57 +0000",
+      "updated_at": "2026-11-10T03:06:57Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:06:57 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:822681756339b75fcd9ead72a852b736d4e720d7c4504f0bda12872a18a39e24",
+      "title": "波音 737 MAX 增產卡關 商用飛機部門精簡 5% 人力",
+      "url": "https://technews.tw/2026/11/10/boeing-to-cut-5-percent-of-commercial-airplane-workers/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:05:49Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "737 MAX",
+        "交通運輸",
+        "人力資源",
+        "波音",
+        "航太科技",
+        "裁員"
+      ],
+      "guid": "https://technews.tw/?p=1648431",
+      "summary": "美國航太巨擘波音公司（Boeing）9 日宣布，由於 737 MAX 客機增產進度不如預期，計劃精簡商用飛機部 […]",
+      "published_raw": "Tue, 10 Nov 2026 03:05:49 +0000",
+      "updated_at": "2026-11-10T03:05:49Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:05:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5865ddf11033eead9a70bc1e1721db30a7a6c00c0b83ed077ce979f14b9d77be",
+      "title": "迪士尼與 Adobe 締結多年戰略聯盟，以專屬 AI 模型驅動次世代創意敘事",
+      "url": "https://technews.tw/2026/11/10/disney-adobe-partner-create-new-ai-experiences/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T03:00:40Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "Adobe",
+        "ESPN",
+        "國際貿易",
+        "數位內容",
+        "智慧財產權",
+        "生成式 AI",
+        "迪士尼"
+      ],
+      "guid": "https://technews.tw/?p=1648364",
+      "summary": "在 11 月 9 日於邁阿密海灘盛大舉辦的 Adobe MAX 大會上，Adobe 與華特迪士尼公司（The […]",
+      "published_raw": "Tue, 10 Nov 2026 03:00:40 +0000",
+      "updated_at": "2026-11-10T03:00:40Z",
+      "updated_raw": "Tue, 10 Nov 2026 03:00:40 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a78f1ea893b1c2b2513cd69891f70ec662c8b1e02fae597aafa066249e4ec4fe",
+      "title": "說和女間諜往來「很正常」？輝達與黃仁勳被股東告上法院",
+      "url": "https://www.blocktempo.com/nvidia-jensen-huang-shareholder-class-action-megaspeed-affair-securities-fraud/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T02:59:43Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "AI",
+        "Alice Huang",
+        "Megaspeed",
+        "法規",
+        "美國",
+        "輝達",
+        "集體訴訟",
+        "黃仁勳"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557539",
+      "summary": "輝達股價 11 月 9 日收跌 4.27% 後，一名散戶股東隨即在聖荷西聯邦法院提告，主張輝達與黃仁勳把他和疑 […] 〈 說和女間諜往來「很正常」？輝達與黃仁勳被股東告上法院 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 02:59:43 +0000",
+      "updated_at": "2026-11-10T02:59:43Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:59:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4b5a480084eeff7bd9f1d382e4afd5abec31fb5b5c5351e216dcff8eafdc8a78",
+      "title": "中國研製電動飛機，分析：商業模式未必可行",
+      "url": "https://technews.tw/2026/11/10/comac-ce-25a/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:55:18Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "CE-25A",
+        "中國商飛",
+        "中國觀察",
+        "航太科技",
+        "試飛"
+      ],
+      "guid": "https://technews.tw/?p=1648401",
+      "summary": "中國商飛研製的「19 座級純電動通勤飛機技術驗證平台」CE-25A 近日曝光，外界推測，該機最快可能在幾個月後 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:55:18 +0000",
+      "updated_at": "2026-11-10T02:55:18Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:55:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fd5f12b44484335a013ed115c5a0adac16f386ad3e42c1a22b7266148c646410",
+      "title": "Meta 將 AI 年齡預估系統推向全球，Instagram 主動揪出謊報年齡的青少年",
+      "url": "https://infosecu.technews.tw/2026/11/10/meta-expands-ai-age-assessment-on-instagram-globally/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:50:19Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Facebook",
+        "Instagram",
+        "Meta",
+        "兒少網路保護",
+        "年齡辨識",
+        "社群",
+        "資訊安全",
+        "青少年帳號"
+      ],
+      "guid": "https://technews.tw/?p=1648350",
+      "summary": "Meta 9 日宣布，將 Instagram 的 AI 年齡預估技術擴大至全球，主動找出疑似謊報年齡的青少年用 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:50:19 +0000",
+      "updated_at": "2026-11-10T02:50:19Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:50:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f64698bd2b9684db8e26e5efc4626277e3affc66bef6d693e3d16e8fb71e8ee5",
+      "title": "大摩指雲端半導體成長恐見頂，信驊遭調降評等至中立目標價下修 40%",
+      "url": "https://finance.technews.tw/2026/11/10/sino-huas-rating-was-downgraded-to-neutral-and-its-target-price-was-reduced-by-40/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:45:43Z",
+      "authors": [
+        "Atkinson"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "IC 設計",
+        "IC設計",
+        "伺服器",
+        "信驊",
+        "半導體",
+        "大摩",
+        "晶片",
+        "處理器",
+        "證券",
+        "財經",
+        "電腦"
+      ],
+      "guid": "https://technews.tw/?p=1648413",
+      "summary": "外資摩根士丹利（Morgan Stanley，大摩）最新半導體產業報告指出，雲端半導體供應鏈面臨獲利預期上修動 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:45:43 +0000",
+      "updated_at": "2026-11-10T02:45:43Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:45:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1c76e1fb3443d314f905591f7302d5fac30eebd7c4775337c86ac59199ea6feb",
+      "title": "獨吞空巴 A350 認證、AI 能源櫃爆量！經寶前三季賺 14.05 元連兩根漲停板",
+      "url": "https://finance.technews.tw/2026/11/10/power-energy-components/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:42:50Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "JPP-KY",
+        "交通運輸",
+        "材料、設備",
+        "經寶精密",
+        "航太科技",
+        "證券",
+        "財報",
+        "財經",
+        "電力能源機構件"
+      ],
+      "guid": "https://technews.tw/?p=1648435",
+      "summary": "經寶精密（JPP-KY）受惠 AI 伺服器、電力能源機構件需求強勁，以及歐洲併購效益與航太業務逐步回溫，累計今 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:42:50 +0000",
+      "updated_at": "2026-11-10T02:42:50Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:42:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:4ff5493c70a03d698a1135f4771d660fa57f4e6720042724f574b2d80f9f104f",
+      "title": "中國打造 800MW「銀河」AI 巨型資料中心，成本僅美國 1/5、力抗「星際之門」",
+      "url": "https://technews.tw/2026/11/10/china-builds-giant-ai-data-center/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:40:48Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 晶片",
+        "AI 競賽",
+        "AI 算力",
+        "中國觀察",
+        "伺服器",
+        "內蒙古",
+        "晶片禁令",
+        "科技戰",
+        "能源科技",
+        "資料中心",
+        "電池儲能",
+        "風力發電"
+      ],
+      "guid": "https://technews.tw/?p=1648345",
+      "summary": "隨著全球對人工智慧（AI）算力需求激增，中國正透過極具競爭力的成本優勢與技術創新，加速布局超大規模資料中心。根 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:40:48 +0000",
+      "updated_at": "2026-11-10T02:40:48Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:40:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:21bbaf550b246f4313567b78b48b32af617c89ec431772a2b277aa2aacf43b0e",
+      "title": "黃仁勳婚外情掀國安疑慮，三項對中晶片法案有望過關",
+      "url": "https://technews.tw/2026/11/10/nvidia-spy-allegations-likely-to-spur-laws-to-tighten-chinas-access-to-ai-chips/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:35:46Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 晶片",
+        "Nvidia",
+        "人工智慧看守法案",
+        "半導體",
+        "國際貿易",
+        "晶片",
+        "晶片安全法案",
+        "硬體技術多邊協調管制法案",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1648391",
+      "summary": "美國多名國會議員與倡議人士指出，輝達（Nvidia）執行長黃仁勳與疑似中國女間諜交往的消息曝光後，國會將更有望 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:35:46 +0000",
+      "updated_at": "2026-11-10T02:35:46Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:35:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:27b932415a2722242193e53389296830d4ba035c26ee15f7e5d84fe3f5486e71",
+      "title": "光寶科衝刺 AI 電源市場，外資估明年營收逼近 3,000 億元",
+      "url": "https://technews.tw/2026/11/10/ai-power-demand-robust-morgan-stanley-projects-lite-on-revenue-nears-300-billion/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:32:05Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "HVDC",
+        "PSU",
+        "光寶",
+        "材料、設備",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1648357",
+      "summary": "光寶科 10 月營收達約 201 億元，月增 6%、年增 32%，受惠 AI 伺服器電源供應器（PSU）、備援 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:32:05 +0000",
+      "updated_at": "2026-11-10T02:32:05Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:32:05 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9439f6d477b7ebff144a1b1f37d6af38a2b01376340e5a0192648e84731c6b90",
+      "title": "黃仁勳陷婚外情與共諜風暴，外媒爆去年已悄聘「喬事級」公關操盤",
+      "url": "https://technews.tw/2026/11/10/jensen-huang-pr-affair-scandal/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:30:56Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Heller",
+        "Nvidia",
+        "中國間諜",
+        "公關危機",
+        "國際觀察",
+        "婚外情",
+        "晶片",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1648328",
+      "summary": "輝達（NVIDIA）執行長黃仁勳日前坦承婚外情，對象更遭美方指控為中國間諜，震撼全球科技圈。根據《WIRED》 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:30:56 +0000",
+      "updated_at": "2026-11-10T02:30:56Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:30:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:5f41dc970f8ea65de8a48e5922954c6346bb92c95dfbc4b73d38453e951ed1e1",
+      "title": "日本 2031 年前在大學設防衛技術研究中心，主攻 AI 與太空技術",
+      "url": "https://technews.tw/2026/11/10/japan-to-create-defense-research-hubs-at-universities-for-ai-space-tech/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:25:19Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "JAXA",
+        "大學",
+        "太空技術",
+        "太空資料中心",
+        "日本",
+        "航太科技",
+        "軍事科技"
+      ],
+      "guid": "https://technews.tw/?p=1648374",
+      "summary": "隨著全球安全環境快速變化，日本政府正採取積極措施，試圖縮短基礎科學研究與國防裝備應用之間的距離。根據最新消息， […]",
+      "published_raw": "Tue, 10 Nov 2026 02:25:19 +0000",
+      "updated_at": "2026-11-10T02:25:19Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:25:19 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:9079ab2e3fa6dbbbe94384dd98d144fed6e23a8efb34eb9d2303f2bff2e5055f",
+      "title": "AirPods 老是莫名斷線，先檢查這幾個設定",
+      "url": "https://ccc.technews.tw/2026/11/10/why-your-airpods-keep-disconnecting-without-warning/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:21:50Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "3C周邊",
+        "AirPods",
+        "Apple",
+        "斷線",
+        "耳機",
+        "蘋果"
+      ],
+      "guid": "https://technews.tw/?p=1643521",
+      "summary": "不少使用者抱怨 AirPods 會在沒有預警的情況下斷線，甚至在 iPhone、iPad 與 Mac 之間反覆 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:21:50 +0000",
+      "updated_at": "2026-11-10T02:21:50Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:21:50 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:933fdab499100aa774816c10b02d012550a03bb308db05619edc6e956ff84160",
+      "title": "ABF 載板毛利率突破 40%！外資重申南電買進目標價上看 2,700 元",
+      "url": "https://finance.technews.tw/2026/11/10/gross-margin-breakthrough/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:18:46Z",
+      "authors": [
+        "姚 惠茹"
+      ],
+      "categories": [
+        "ABF 載板",
+        "AI 人工智慧",
+        "CSP",
+        "PCB",
+        "伺服器",
+        "南電",
+        "證券",
+        "財經",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1648383",
+      "summary": "受惠高階產品貢獻占比超過 50%，南電第四季的 ABF 載板毛利率已率先突破 40%，根據高盛最新研究報告指出 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:18:46 +0000",
+      "updated_at": "2026-11-10T02:18:46Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:18:46 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f182b528150ea262eee37d75d10a14f2f54a57a91f7a0fa4daedcc41c2cff9af",
+      "title": "三星 S27 高階機型比重傳占逾七成 因應成本壓力",
+      "url": "https://technews.tw/2026/11/10/samsung-s27-high-end-models-reportedly-exceed-70-share-amid-cost-pressures/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:15:13Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Android 手機",
+        "Galaxy S27",
+        "Galaxy S27 Pro",
+        "Galaxy S27 Ultra",
+        "Samsung",
+        "三星電子",
+        "手機",
+        "智慧手機",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1648352",
+      "summary": "全球記憶體供應持續吃緊，智慧型手機品牌廠商面臨成本壓力，三星電子（Samsung Electronics）傳出 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:15:13 +0000",
+      "updated_at": "2026-11-10T02:15:13Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:15:13 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:66c531ef45c9ad0bbea67cf2c1c5db39aafbb228112e807a18e30cb7f8917ae8",
+      "title": "特斯拉 Cybertruck 停產，WIRED：大電池退場對電動車是好事",
+      "url": "https://www.blocktempo.com/tesla-cybertruck-end-production-wired-smaller-ev-batteries-cybercab-fathom/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T02:15:08Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "Cybercab",
+        "Cybertruck",
+        "Elon Musk",
+        "技術",
+        "特斯拉",
+        "美國",
+        "電動車"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557524",
+      "summary": "特斯拉宣布 Cybertruck 明年年中前後停產，WIRED 認為 123 kWh 的巨型電池和多數車主的用 […] 〈 特斯拉 Cybertruck 停產，WIRED：大電池退場對電動車是好事 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 02:15:08 +0000",
+      "updated_at": "2026-11-10T02:15:08Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:15:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:474172e3fd04583f5997ffeacdd4cc90fce66f9e8f705ba5623e38c0b7ad024d",
+      "title": "川普：黃仁勳不知婚外情對象涉共諜，FBI 查明中",
+      "url": "https://infosecu.technews.tw/2026/11/10/trump-jensen-huang-unaware-affair-partner-suspected-chinese-spy-fbi-investigating/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:10:49Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "FBI",
+        "Nvidia",
+        "中國間諜",
+        "國際觀察",
+        "川普",
+        "資訊安全",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1648313",
+      "summary": "美國總統川普今天表示，輝達執行長黃仁勳與一名涉嫌向中國傳遞情報的女商人有親密關係的報導曝光後，他曾與黃仁勳交談 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:10:49 +0000",
+      "updated_at": "2026-11-10T02:10:49Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:10:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:19f645a87e84911f9436f5d2646e7437d0352fcaf7434316004e3076470fa5b5",
+      "title": "易遊網遭駭，逾 69 萬人訂單聯絡資料外洩，業者稱不含信用卡與身分證字號",
+      "url": "https://www.inside.com.tw/article/42862-eztravel-member-center-breach-690k-order-contact-data",
+      "source_feed_ids": [
+        "inside"
+      ],
+      "published_at": "2026-11-10T02:09:00Z",
+      "authors": [
+        "INSIDE 硬塞的網路趨勢觀察"
+      ],
+      "categories": [
+        "個資外洩",
+        "易遊網",
+        "資安",
+        "電商"
+      ],
+      "guid": "https://www.inside.com.tw/article/42862-eztravel-member-center-breach-690k-order-contact-data",
+      "summary": "旅遊平台易遊網於 11 月 9 日公告，11 月 7 日偵測到會員中心遭外部異常網路攻擊，部分歷史訂單聯絡資料遭取得，受影響人數逾 69 萬人。業者表示不含信用卡卡號與身分證字號，並提醒慎防假客服詐騙。",
+      "published_raw": "2026-11-10T10:09:00+08:00",
+      "updated_at": "2026-11-10T02:09:00Z",
+      "updated_raw": "2026-11-10T10:09:00+08:00",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:36b8fb6c0675c9f8fad510b00057025a510cc15cf5be47d16ebe6916c2b3dfdf",
+      "title": "不等電網了？SpaceX 擬在德州自建電廠、運算中心",
+      "url": "https://technews.tw/2026/11/10/spacex-plans-24-billion-gas-power-plant-data-center-project-in-texas/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:05:32Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "SpaceX",
+        "Starbase",
+        "天然氣發電廠",
+        "尖端科技",
+        "德州",
+        "能源科技",
+        "資料中心",
+        "電網",
+        "馬斯克"
+      ],
+      "guid": "https://technews.tw/?p=1648351",
+      "summary": "馬斯克（Elon Musk）旗下 SpaceX 計劃在美國德州 Starbase 基地興建天然氣發電廠及超級運 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:05:32 +0000",
+      "updated_at": "2026-11-10T02:05:32Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:05:32 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:df127f7f38c04763572c4406073aec6a07019f7b44af3be828e71eb26b9ad04e",
+      "title": "費半狂飆近 7% 台積 ADR 暴漲！國安基金進場護盤絕地大反攻，聚焦 CCL 與 ASIC 主線",
+      "url": "https://finance.technews.tw/2026/11/10/philadelphia-semiconductor-index-surges-7-tsmc-adr-soars-national-stabilization-fund-intervenes-market-rebound-focus-ccl-asic/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:00:51Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 伺服器",
+        "AI 供應鏈",
+        "AI 基礎設施",
+        "台積電",
+        "台股",
+        "國安基金",
+        "晶圓代工",
+        "證券",
+        "財經",
+        "資料中心",
+        "銅箔基板"
+      ],
+      "guid": "https://technews.tw/?p=1648377",
+      "summary": "台股 9 日上演歷史性的絕地大反攻，繼上週五崩跌 3,737 點後，加權指數在國安基金授權護盤與限空令同步上路 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:00:51 +0000",
+      "updated_at": "2026-11-10T02:00:51Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:00:51 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d90fe160687642ab2ee396ea11bb9de7a41ea65782cce93fa24447e41082f20d",
+      "title": "美防長赫格塞斯面臨彈劾 川普 1.5 兆軍費案添變數",
+      "url": "https://technews.tw/2026/11/10/pentagon-chief-hegseth-expected-to-face-house-impeachment-vote-this-week/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T02:00:34Z",
+      "authors": [
+        "MoneyDJ"
+      ],
+      "categories": [
+        "Pete Hegseth",
+        "伊朗",
+        "國際觀察",
+        "川普",
+        "彈劾",
+        "戰爭部長",
+        "赫格塞斯",
+        "軍事科技",
+        "軍費"
+      ],
+      "guid": "https://technews.tw/?p=1648301",
+      "summary": "美國肯塔基州共和黨眾議員馬西（Thomas Massie）指控戰爭部長赫格塞斯（Pete Hegseth）未事 […]",
+      "published_raw": "Tue, 10 Nov 2026 02:00:34 +0000",
+      "updated_at": "2026-11-10T02:00:34Z",
+      "updated_raw": "Tue, 10 Nov 2026 02:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7aa7c3a9ec6ab9afcc1ac958979a84ec4092ebcfa860545d1e8ea9b9326dcee4",
+      "title": "Formalizing CPython",
+      "url": "https://broyojo.com/python-formalization/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-10T01:56:48Z",
+      "authors": [
+        "carnevalem"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50435105",
+      "summary": "Article URL: https://broyojo.com/python-formalization/ Comments URL: https://news.ycombinator.com/item?id=50435105 Points: 5 # Comments: 0",
+      "published_raw": "Tue, 10 Nov 2026 01:56:48 +0000",
+      "updated_at": "2026-11-10T01:56:48Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:56:48 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f55cf367de2f6a5a091e8bede74a1550f4f6a52fde43896bbde54393255310a4",
+      "title": "馬斯克樂看 AI 創造極度豐饒，機器人生產力達人類 5 倍、現代貨幣將如貝殼般過時",
+      "url": "https://technews.tw/2026/11/10/elon-musk-optimistic-ai-extreme-abundance-robot-productivity-5x-human-modern-currency-obsolete-seashells/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T01:55:09Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "人型機器人",
+        "伊隆·馬斯克",
+        "國際觀察",
+        "數位超級智慧",
+        "機器人",
+        "貨幣"
+      ],
+      "guid": "https://technews.tw/?p=1648338",
+      "summary": "在 11 月 9 日舉行的 Baron Capital 年度會議上，特斯拉（Tesla）與 SpaceX 執行 […]",
+      "published_raw": "Tue, 10 Nov 2026 01:55:09 +0000",
+      "updated_at": "2026-11-10T01:55:09Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:55:09 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bad09d012aad9eeb693305037092d6d9d0ed821c0a87d6b36bf526cc22aada81",
+      "title": "伊拉克原油拿到美國「通行證」？外長稱已達諒解，油輪可通過荷姆茲海峽",
+      "url": "https://www.blocktempo.com/iraq-us-understanding-oil-exports-hormuz-oman-lane-iran-crossings/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-10T01:54:16Z",
+      "authors": [
+        "Joe"
+      ],
+      "categories": [
+        "伊拉克",
+        "伊朗",
+        "即時新聞",
+        "原油",
+        "油價",
+        "荷姆茲海峽",
+        "金融市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=557513",
+      "summary": "伊拉克外長稱已與美方達成非正式諒解，原油可經荷姆茲海峽出口，但文本與航道條件未公開，美方未證實，航道也未必獲伊 […] 〈 伊拉克原油拿到美國「通行證」？外長稱已達諒解，油輪可通過荷姆茲海峽 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Tue, 10 Nov 2026 01:54:16 +0000",
+      "updated_at": "2026-11-10T01:54:16Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:54:16 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:3021c6f5a566f42fac8a1ea0a919be38034d8d2a395f43093ea76382478d3de7",
+      "title": "台達電明年營收拚兆元，外資點名 HVDC 成長關鍵",
+      "url": "https://technews.tw/2026/11/10/delta-electronics-targets-nt1-trillion-revenue-next-year-foreign-investors-hvdc-key-growth-driver/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T01:54:01Z",
+      "authors": [
+        "蘇 子芸"
+      ],
+      "categories": [
+        "AI 電源",
+        "HVDC",
+        "台達電",
+        "材料、設備",
+        "液冷",
+        "零組件"
+      ],
+      "guid": "https://technews.tw/?p=1648343",
+      "summary": "台達電 10 月營收達 746.66 億元，月增 14.2%、年增 30.1%，受惠 AI 電源供應器、高壓直 […]",
+      "published_raw": "Tue, 10 Nov 2026 01:54:01 +0000",
+      "updated_at": "2026-11-10T01:54:01Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:54:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a8a6c352c0d5deb35e363e7056523179c3f952b5dfbb33500a58e4197e2aaa0d",
+      "title": "紐時：輝達疑介入商務部調查 Megaspeed 晶片輸中案",
+      "url": "https://technews.tw/2026/11/10/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T01:50:48Z",
+      "authors": [
+        "中央社"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "MegaSpeed",
+        "Nvidia",
+        "晶片",
+        "輝達",
+        "黃仁勳"
+      ],
+      "guid": "https://technews.tw/?p=1648304",
+      "summary": "《紐約時報》今天報導，輝達法務長泰德曾向美國商務部調查晶片非法移轉中國案件的調查人員發出電郵，指次長凱斯勒同意 […]",
+      "published_raw": "Tue, 10 Nov 2026 01:50:48 +0000",
+      "updated_at": "2026-11-10T01:50:48Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:50:48 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:aba7003f29f2e55d3d996dc2e306c8a1140b45b26101788aa6e65704975f898d",
+      "title": "標榜零組件全中國製造，華為擎雲 HM650 桌機鎖定政企市場 12/1 開賣",
+      "url": "https://technews.tw/2026/11/10/huawei-launches-pc-with-kirin-x90-and-harmonyos/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T01:45:18Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "HM650",
+        "中國",
+        "擎雲",
+        "桌上型電腦",
+        "華為",
+        "電腦",
+        "鴻蒙"
+      ],
+      "guid": "https://technews.tw/?p=1648318",
+      "summary": "華為發表號稱業界首款處理器、記憶體、SSD 與電源全數採用中國製零組件的桌上型電腦，鎖定政府機關與企業，售價 […]",
+      "published_raw": "Tue, 10 Nov 2026 01:45:18 +0000",
+      "updated_at": "2026-11-10T01:45:18Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:45:18 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:161dd8817f80449c54d139badd001ca952a9e864b44f65aa8b488d959dca5235",
+      "title": "97% AI 代理可存取敏感資料，調查：僅 21% 企業有信心控管風險",
+      "url": "https://finance.technews.tw/2026/11/10/ai-agent-manage-risks/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-10T01:41:29Z",
+      "authors": [
+        "邱 倢芯"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 代理",
+        "Privileged Access",
+        "公司治理",
+        "特權存取",
+        "資安治理",
+        "資訊安全",
+        "身份治理"
+      ],
+      "guid": "https://technews.tw/?p=1648329",
+      "summary": "隨著企業加速導入 AI 代理（AI Agent），相關系統不再只是協助員工處理工作，也開始取得存取敏感資料、變 […]",
+      "published_raw": "Tue, 10 Nov 2026 01:41:29 +0000",
+      "updated_at": "2026-11-10T01:41:29Z",
+      "updated_raw": "Tue, 10 Nov 2026 01:41:29 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:aa8b678ab7d7553fbfcf0ebc71b9d6f455837391bf7c7b42011664436e0be98f",
+      "title": "中國研製電動飛機 分析：商業模式未必可行",
+      "url": "https://www.cna.com.tw/news/ait/202611100033.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-11-10T01:27:45Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-11-10/202611100033",
+      "summary": "（中央社記者張謙香港10日電）中國商飛研製的「19座級純電動通勤飛機技術驗證平台」CE-25A近日曝光，外界推測，該機最快可能在幾個月後首次試飛，但有分析認為，「其商業模式未必可行」。",
+      "published_raw": "Tue, 10 Nov 2026 09:27:45 +0800",
+      "updated_at": "2026-11-10T01:27:45Z",
+      "updated_raw": "Tue, 10 Nov 2026 09:27:45 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:885d1b5d5906853343883e7f85633209dd31ad9b64288b679f0a18acbd6e5bd1",
+      "title": "黃仁勳婚外情掀國安疑慮 美3項對中晶片法案有望過關",
+      "url": "https://www.cna.com.tw/news/ait/202611100031.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-11-10T01:22:41Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-11-10/202611100031",
+      "summary": "（中央社紐約9日綜合外電報導）美國多名國會議員與倡議人士指出，輝達（Nvidia）執行長黃仁勳與疑似中國女間諜交往的消息曝光後，國會將更有望通過限縮中國取得AI晶片管道的法案。",
+      "published_raw": "Tue, 10 Nov 2026 09:22:41 +0800",
+      "updated_at": "2026-11-10T01:22:41Z",
+      "updated_raw": "Tue, 10 Nov 2026 09:22:41 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:2f87dd57331c9b970766a72baedda46bd8a22737e62aacbdf9ba3317dd29ca9d",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-10T00:10:46Z",
+      "authors": [
+        "bigwheels"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50434310",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/9/mysterious-beeps/ Comments URL: https://news.ycombinator.com/item?id=50434310 Points: 54 # Comments: 30",
+      "published_raw": "Tue, 10 Nov 2026 00:10:46 +0000",
+      "updated_at": "2026-11-10T00:10:46Z",
+      "updated_raw": "Tue, 10 Nov 2026 00:10:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bfe367424e04a80c188b70b29c13f6d195fe503161baaccbe2ce4096fb58202c",
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-10T00:07:17Z",
+      "authors": [
+        "Curiositry"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50434264",
+      "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 71 # Comments: 30",
+      "published_raw": "Tue, 10 Nov 2026 00:07:17 +0000",
+      "updated_at": "2026-11-10T00:07:17Z",
+      "updated_raw": "Tue, 10 Nov 2026 00:07:17 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a7b773f532e96466efacc8fa4970bc625b340bb0220862edc639581f106b3b22",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T23:08:13Z",
+      "authors": [
+        "lexandstuff"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50433659",
+      "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 254 # Comments: 174",
+      "published_raw": "Mon, 09 Nov 2026 23:08:13 +0000",
+      "updated_at": "2026-11-09T23:08:13Z",
+      "updated_raw": "Mon, 09 Nov 2026 23:08:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f86629a388cd2107a6adab304664083ba48a653fe6de1d9fa8536b88f0cc63d5",
+      "title": "Exact – a new cross platform UI framework",
+      "url": "https://github.com/expo/exact",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T22:59:13Z",
+      "authors": [
+        "vmg12"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50433541",
+      "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 84 # Comments: 36",
+      "published_raw": "Mon, 09 Nov 2026 22:59:13 +0000",
+      "updated_at": "2026-11-09T22:59:13Z",
+      "updated_raw": "Mon, 09 Nov 2026 22:59:13 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:be02bff9b6aeff44768f711be3fdf51749d157fc59f415941a48432a4723ea68",
+      "title": "TPU 8tx and TPU 8i Max",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T21:56:57Z",
+      "authors": [
+        "_benx_"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50432831",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 228 # Comments: 71",
+      "published_raw": "Mon, 09 Nov 2026 21:56:57 +0000",
+      "updated_at": "2026-11-09T21:56:57Z",
+      "updated_raw": "Mon, 09 Nov 2026 21:56:57 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:1ee20bd4b0c0b4a5cb5c76c1eb098f9e997d2740c4df9a1d039a115b2997492b",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T20:04:55Z",
+      "authors": [
+        "theanonymousone"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50431144",
+      "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 315 # Comments: 231",
+      "published_raw": "Mon, 09 Nov 2026 20:04:55 +0000",
+      "updated_at": "2026-11-09T20:04:55Z",
+      "updated_raw": "Mon, 09 Nov 2026 20:04:55 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0c854248f9593cf9a86ed6db80251efa1b7d158d9eabb29ba403aefc023f016d",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T19:58:59Z",
+      "authors": [
+        "munro"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50431058",
+      "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 548 # Comments: 277",
+      "published_raw": "Mon, 09 Nov 2026 19:58:59 +0000",
+      "updated_at": "2026-11-09T19:58:59Z",
+      "updated_raw": "Mon, 09 Nov 2026 19:58:59 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ae6e671ee0cbaffba047b7108d15ffc4ca451f2bab71f95c8238569d481c9af3",
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T19:55:53Z",
+      "authors": [
+        "parkgraph"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50430991",
+      "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 64 # Comments: 48",
+      "published_raw": "Mon, 09 Nov 2026 19:55:53 +0000",
+      "updated_at": "2026-11-09T19:55:53Z",
+      "updated_raw": "Mon, 09 Nov 2026 19:55:53 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:50905ba98fcf0013f015cccd790ff184ba5d702bc4ef1afb3fe3af8064d2d72d",
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "url": "https://someonewashere.app/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T18:50:56Z",
+      "authors": [
+        "4onthefloor124"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429812",
+      "summary": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac with no tracking or ads. Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook. Comments URL: https://news.ycombinator.com/item?id=50429812 Points: 76 # Comments: 29",
+      "published_raw": "Mon, 09 Nov 2026 18:50:56 +0000",
+      "updated_at": "2026-11-09T18:50:56Z",
+      "updated_raw": "Mon, 09 Nov 2026 18:50:56 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:12bd4f025e72db8bdf0a855ea8b958924bb8c3fa46a1d33de193a43c7b44bb6b",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T18:45:43Z",
+      "authors": [
+        "porridgeraisin"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429734",
+      "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 314 # Comments: 28",
+      "published_raw": "Mon, 09 Nov 2026 18:45:43 +0000",
+      "updated_at": "2026-11-09T18:45:43Z",
+      "updated_raw": "Mon, 09 Nov 2026 18:45:43 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e8de27ef6018df51a12016e80e43db81618b7fcddc9146a05a313e91657b68a9",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T18:39:22Z",
+      "authors": [
+        "raiseCatError"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429636",
+      "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers. I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\". MeowDisplay is my take on the control your Mac from your phone scene. Available on iPhones, iPads and Macs, with Android rn in closed testing. The website has interactive illustrative demos if you'd like to see the app demonstrated. I think MeowDisplay does a few things differently, some of which I prefer and you might too. Such as Window view: allowing multiple tabs in split-screen type panes. Traditional Mirror/Extend views exist as alternatives. Floating windows: coming in the 2.1 release. Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support. Doesn't sacrifice display space for a trackpad, use all of the phone's screen with your preferred mode. Stage Peek: shows a scrollable and searchable list of your Mac's windows on your phone along with an app drawer when you hold and pull on the left edge of your screen. It's free and open source so you can try it and see if it's for you without having to commit to it or anything. EDIT: I've used MeowDisplay during development whilst I was travelling between cities, left my acbook at home clamshell, powered, external display attached, and used it for small tasks remotely, it was pretty reliable even on a 5G network on a moving bus. Meow, Jai Comments URL: https://news.ycombinator.com/item?id=50429636 Points: 82 # Comments: 32",
+      "published_raw": "Mon, 09 Nov 2026 18:39:22 +0000",
+      "updated_at": "2026-11-09T18:39:22Z",
+      "updated_raw": "Mon, 09 Nov 2026 18:39:22 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a033bb2a8a8df20d2c709e9f7771265458c8b0fcaf8cc621def3c93b8f5e6b54",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T18:25:01Z",
+      "authors": [
+        "sshah03"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429430",
+      "summary": "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 118 # Comments: 66",
+      "published_raw": "Mon, 09 Nov 2026 18:25:01 +0000",
+      "updated_at": "2026-11-09T18:25:01Z",
+      "updated_raw": "Mon, 09 Nov 2026 18:25:01 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:484031c5ea247d23d2810ac0f710431caef07f95b78b13f09959699d06a1afdc",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T18:24:38Z",
+      "authors": [
+        "gf74918"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429426",
+      "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 480 # Comments: 114",
+      "published_raw": "Mon, 09 Nov 2026 18:24:38 +0000",
+      "updated_at": "2026-11-09T18:24:38Z",
+      "updated_raw": "Mon, 09 Nov 2026 18:24:38 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:d7831309f959ef10bc40d4fbbadcce09412ec5676149ddd19777283fea0c1af0",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T18:01:10Z",
+      "authors": [
+        "lairv"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429068",
+      "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 331 # Comments: 674",
+      "published_raw": "Mon, 09 Nov 2026 18:01:10 +0000",
+      "updated_at": "2026-11-09T18:01:10Z",
+      "updated_raw": "Mon, 09 Nov 2026 18:01:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:fc78b874535010a03ca48f9e2eba0e95e0455616c314e2b1c06a83c8fb648d48",
+      "title": "Muse Ember: Our smallest, most efficient model",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T17:58:46Z",
+      "authors": [
+        "dvaplima"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50429024",
+      "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 266 # Comments: 111",
+      "published_raw": "Mon, 09 Nov 2026 17:58:46 +0000",
+      "updated_at": "2026-11-09T17:58:46Z",
+      "updated_raw": "Mon, 09 Nov 2026 17:58:46 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:97fc09d8dfb4d01287a004858a5e30c23728fd80bee6435bda3bc90e5422e5c3",
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T17:51:31Z",
+      "authors": [
+        "a585gupt"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50428907",
+      "summary": "hey HN, i built this because i wanted to know what had actually photographed my street. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes. some fun bits: - the pass search can't skip a pass. checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed - all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame - Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, which was a fun one to figure out it only says \"watched\" if a real image exists, and it doesn't store your location. code: https://github.com/dev-Armaan/satellites would love feedback, especially on what data sources to add Comments URL: https://news.ycombinator.com/item?id=50428907 Points: 266 # Comments: 46",
+      "published_raw": "Mon, 09 Nov 2026 17:51:31 +0000",
+      "updated_at": "2026-11-09T17:51:31Z",
+      "updated_raw": "Mon, 09 Nov 2026 17:51:31 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6cd83058ee0e107ca3ced595a9ac05272c765fe6365676106dd9c1f995bd0b4d",
+      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T17:00:06Z",
+      "authors": [
+        "gabrielbirnbaum"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50428266",
+      "summary": "Article URL: https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer Comments URL: https://news.ycombinator.com/item?id=50428266 Points: 0 # Comments: 0",
+      "published_raw": "Mon, 09 Nov 2026 17:00:06 +0000",
+      "updated_at": "2026-11-09T17:00:06Z",
+      "updated_raw": "Mon, 09 Nov 2026 17:00:06 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:aa81e27a5a2014bed6499ecd5a97c69c61ab366894aeaf39f858346fc50ed1c3",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-09T16:00:45Z",
+      "authors": [
+        "ocd"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50427362",
+      "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 491 # Comments: 274",
+      "published_raw": "Mon, 09 Nov 2026 16:00:45 +0000",
+      "updated_at": "2026-11-09T16:00:45Z",
+      "updated_raw": "Mon, 09 Nov 2026 16:00:45 +0000",
+      "language": "en"
+    }
+  ]
+}
