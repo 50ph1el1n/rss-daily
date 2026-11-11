@@ -1,7 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "day_count": 108,
+  "day_count": 109,
   "days": [
+    {
+      "collection_date": "2026-11-11",
+      "status": "success",
+      "article_count": 71,
+      "digest_path": "data/2026/11/11/articles.json",
+      "metadata_path": "data/2026/11/11/metadata.json"
+    },
     {
       "collection_date": "2026-11-10",
       "status": "success",
