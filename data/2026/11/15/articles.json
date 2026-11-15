@@ -1,0 +1,618 @@
+{
+  "schema_version": "1.0.0",
+  "collection_date": "2026-11-15",
+  "timezone": "Asia/Taipei",
+  "article_count": 25,
+  "articles": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cb49568d4c7eef23ea010cad8958b1812315a32f6dd807550ad69efc7ca616dd",
+      "title": "Gemini 交易所 Q3 營收摔 19%、交易量崩 73%，但透過砍成本虧損連兩季收窄",
+      "url": "https://www.blocktempo.com/gemini-q3-revenue-drops-trading-volume-crashes-73-percent-loss-narrows/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-15T02:57:01Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Gemini",
+        "Winklevoss",
+        "加密交易所",
+        "即時新聞",
+        "市場分析",
+        "財報",
+        "預測市場"
+      ],
+      "guid": "https://www.blocktempo.com/?p=560027",
+      "summary": "Gemini 第三季總營收 4,090 萬美元、年減 19%，現貨交易量從去年同期的 164 億美元萎縮到 4 […] 〈 Gemini 交易所 Q3 營收摔 19%、交易量崩 73%，但透過砍成本虧損連兩季收窄 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 15 Nov 2026 02:57:01 +0000",
+      "updated_at": "2026-11-15T02:57:01Z",
+      "updated_raw": "Sun, 15 Nov 2026 02:57:01 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:295b48d82914e885c00b7a47b3cb3b173b219d78f05bc9302c172bb69fa8111b",
+      "title": "為向妻子證明自己沒打呼，英國創業家自學寫程式打造熱門睡眠 App",
+      "url": "https://technews.tw/2026/11/15/the-snoring-problem-that-launched-a-tech-company-how-one-entrepreneur-is-reinventing-sleep/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T02:30:36Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "Jules Goldber",
+        "Sleepwave",
+        "SnoreLab",
+        "app",
+        "打呼",
+        "打鼾",
+        "生物科技",
+        "睡眠呼吸中止症",
+        "睡眠監測",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1646776",
+      "summary": "英國創業者 Jules Goldberg 為了解決自己的打呼問題自學程式，開發睡眠 App「SnoreLab」 […]",
+      "published_raw": "Sun, 15 Nov 2026 02:30:36 +0000",
+      "updated_at": "2026-11-15T02:30:36Z",
+      "updated_raw": "Sun, 15 Nov 2026 02:30:36 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:6dd4a58df59e7d95a13f5c09564cf494e0f4d218026cdb8bf9a6cc2b580fcc45",
+      "title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+      "url": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T02:25:49Z",
+      "authors": [
+        "林 妤柔"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "IC 設計",
+        "擷發科",
+        "記憶體"
+      ],
+      "guid": "https://technews.tw/?p=1651263",
+      "summary": "近期 AI 浪潮帶動記憶體需求快速攀升，然而記憶體價格短期內仍未見緩解訊號。擷發科董事長楊健盟認為，記憶體短缺 […]",
+      "published_raw": "Sun, 15 Nov 2026 02:25:49 +0000",
+      "updated_at": "2026-11-15T02:25:49Z",
+      "updated_raw": "Sun, 15 Nov 2026 02:25:49 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ed84126d62f9c586e5f111de45f9ce4023e5d90ca506746dfa108c5896d8ea4b",
+      "title": "泰國 SEC 監管草案：穩定幣轉帳日限 500 萬泰銖、禁止轉他人錢包",
+      "url": "https://www.blocktempo.com/thailand-sec-stablecoin-daily-cap-5-million-baht-aml/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-15T02:19:04Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "Travel Rule",
+        "即時新聞",
+        "法規",
+        "泰國",
+        "洗錢防制",
+        "監管",
+        "穩定幣"
+      ],
+      "guid": "https://www.blocktempo.com/?p=560063",
+      "summary": "泰國 SEC 就穩定幣交易監理草案公開徵詢，同一客戶在每家受監理業者每日存入、提出各限 500 萬泰銖，且只能 […] 〈 泰國 SEC 監管草案：穩定幣轉帳日限 500 萬泰銖、禁止轉他人錢包 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 15 Nov 2026 02:19:04 +0000",
+      "updated_at": "2026-11-15T02:19:04Z",
+      "updated_raw": "Sun, 15 Nov 2026 02:19:04 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:cae082e1df0778f26a9854b2d25226c65fb6bcfd13c956ece2e108b7dc684076",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-15T02:00:54Z",
+      "authors": [
+        "nobody9999"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50503255",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 28 # Comments: 1",
+      "published_raw": "Sun, 15 Nov 2026 02:00:54 +0000",
+      "updated_at": "2026-11-15T02:00:54Z",
+      "updated_raw": "Sun, 15 Nov 2026 02:00:54 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b91957447cc8bec5a18d0d68973e1be1aee4ab6830df720130d2cc3fc4831f3b",
+      "title": "那斯達克改了，白天也能買美股！全球股市為何搶拚 24 小時不打烊？",
+      "url": "https://finance.technews.tw/2026/11/15/why-global-markets-are-racing-toward-24-hour-trading/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T02:00:45Z",
+      "authors": [
+        "商業周刊"
+      ],
+      "categories": [
+        "亞洲資金",
+        "全球股市",
+        "台股",
+        "國際金融",
+        "美股",
+        "股市交易",
+        "證券",
+        "財經",
+        "那斯達克"
+      ],
+      "guid": "https://technews.tw/?p=1650273",
+      "summary": "一個 24 小時不休市、可以隨時自由交易的股票市場，會把我們帶向什麼樣的世界？ 這並非幻想，而是越來越近的現實 […]",
+      "published_raw": "Sun, 15 Nov 2026 02:00:45 +0000",
+      "updated_at": "2026-11-15T02:00:45Z",
+      "updated_raw": "Sun, 15 Nov 2026 02:00:45 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:8a61716983f0073be7031a7f3d3f9482fbd082d00746ed21623fac74d7c06dfa",
+      "title": "比特幣下殺 6.2 萬創四個月新低、以太坊跌破 $1,750！市場極度恐懼",
+      "url": "https://www.blocktempo.com/bitcoin-ethereum-crypto-market-crash-fear-index-extreme-fear/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-15T01:59:20Z",
+      "authors": [
+        "0xJigglypuff"
+      ],
+      "categories": [
+        "以太坊",
+        "即時新聞",
+        "市場分析",
+        "恐慌指數",
+        "比特幣",
+        "比特幣減半"
+      ],
+      "guid": "https://www.blocktempo.com/?p=560058",
+      "summary": "今（15）日加密市場延續上週末賣壓，上午 9 點後再跌一段，比特幣最低跌至 62,006 美元、創 7 月中以 […] 〈 比特幣下殺 6.2 萬創四個月新低、以太坊跌破 $1,750！市場極度恐懼 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 15 Nov 2026 01:59:20 +0000",
+      "updated_at": "2026-11-15T01:59:20Z",
+      "updated_raw": "Sun, 15 Nov 2026 01:59:20 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:c201ce3a039cdaf6f90f6cda8410e1e14337bfb6df27e1974ceaed5978bd1ebc",
+      "title": "KAVA 慘崩 59%！Kava Lend 遇駭掏空 376 萬美元，抵押品膨脹 24 萬倍",
+      "url": "https://www.blocktempo.com/kava-lend-busd-collateral-exploit-55-million-kava-drained-layerzero/",
+      "source_feed_ids": [
+        "blocktempo"
+      ],
+      "published_at": "2026-11-15T01:53:08Z",
+      "authors": [
+        "冷麵"
+      ],
+      "categories": [
+        "BUSD",
+        "Kava",
+        "借貸協議",
+        "即時新聞",
+        "駭客攻擊"
+      ],
+      "guid": "https://www.blocktempo.com/?p=560047",
+      "summary": "Kava 公鏈原生借貸協議 Kava Lend 在週六夜被掏空，攻擊者用一筆小額 BUSD 借款把沉睡市場的抵 […] 〈 KAVA 慘崩 59%！Kava Lend 遇駭掏空 376 萬美元，抵押品膨脹 24 萬倍 〉這篇文章最早發佈於動區BlockTempo《 動區動趨-最具影響力的區塊鏈新聞媒體 》。",
+      "published_raw": "Sun, 15 Nov 2026 01:53:08 +0000",
+      "updated_at": "2026-11-15T01:53:08Z",
+      "updated_raw": "Sun, 15 Nov 2026 01:53:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:31d840681b42cee57acbeafe65e8892b42a7582f245ec6ed0ef7c5609b0951f0",
+      "title": "準確率再高也不夠，AI 財務應用的關鍵在「例外處理」",
+      "url": "https://finance.technews.tw/2026/11/15/why-exception-handling-is-the-new-finance-discipline/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T01:30:31Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 系統",
+        "自動化工具",
+        "財經",
+        "軟體、系統"
+      ],
+      "guid": "https://technews.tw/?p=1645446",
+      "summary": "隨著人工智慧更深入財務與金融作業，風險管理的重心正出現明顯變化。相關觀點指出，系統即使維持很高的整體準確率，仍 […]",
+      "published_raw": "Sun, 15 Nov 2026 01:30:31 +0000",
+      "updated_at": "2026-11-15T01:30:31Z",
+      "updated_raw": "Sun, 15 Nov 2026 01:30:31 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:a6fa799d7a56df404a2984cad1ed7b97345abce156960e2ecaedec8d3021c9c0",
+      "title": "26 億資金活水注入，力晶投控未上市股流動性勁揚",
+      "url": "https://finance.technews.tw/2026/11/15/pihc-stock-9/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T01:15:27Z",
+      "authors": [
+        "林 妤柔"
+      ],
+      "categories": [
+        "力晶投控",
+        "庫藏股",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1651259",
+      "summary": "力晶投控未上市股票流動性再添助力，除本公司實行庫藏股、山一投資公開購買股份，合計總額20億元股權外，鈺創、晶豪 […]",
+      "published_raw": "Sun, 15 Nov 2026 01:15:27 +0000",
+      "updated_at": "2026-11-15T01:15:27Z",
+      "updated_raw": "Sun, 15 Nov 2026 01:15:27 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:0436899343106f21634d1d0ec666468c785a81cbeb412e4d1c6a3ca9c12abcd1",
+      "title": "搶攻歐美邊緣 AI 市場！擷發科鎖定無人機、車載等應用，美 IPO 最快估明年 Q1 底上市",
+      "url": "https://technews.tw/2026/11/15/microip-us-and-eu-edge-ai-and-us-ipo/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T01:08:43Z",
+      "authors": [
+        "林 妤柔"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "IC 設計",
+        "擷發科",
+        "晶片",
+        "無人機",
+        "邊緣 AI"
+      ],
+      "guid": "https://technews.tw/?p=1651255",
+      "summary": "今年可說是邊緣 AI 實質落地的一年，目前已看到許多企業展出多種相關應用，擷發科近年積極布局車載、無人機、機器 […]",
+      "published_raw": "Sun, 15 Nov 2026 01:08:43 +0000",
+      "updated_at": "2026-11-15T01:08:43Z",
+      "updated_raw": "Sun, 15 Nov 2026 01:08:43 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:e678a2f3785cfb1ef3579f16e8a6484b8687a3129e3c129d7dbe275e674ff7fe",
+      "title": "光電整合進入「打群架」時代，聯發科侯上勇：CPO路線未定，良率才是關鍵",
+      "url": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T01:00:35Z",
+      "authors": [
+        "財訊"
+      ],
+      "categories": [
+        "AI 晶片",
+        "CPO",
+        "先進封裝",
+        "光學元件",
+        "光學整合",
+        "半導體",
+        "摩爾定律",
+        "晶片",
+        "欣興",
+        "聯發科",
+        "運算晶片"
+      ],
+      "guid": "https://technews.tw/?p=1650748",
+      "summary": "CPO（共同封裝光學）被視為 AI 突破資料傳輸與功耗瓶頸的重要技術，但未來是否由 CPO 主導，產業界仍有不 […]",
+      "published_raw": "Sun, 15 Nov 2026 01:00:35 +0000",
+      "updated_at": "2026-11-15T01:00:35Z",
+      "updated_raw": "Sun, 15 Nov 2026 01:00:35 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:ef719a6d03d390b731200cf441beacb6885621e66e33c0791fba2316c7e842dd",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-15T00:56:45Z",
+      "authors": [
+        "bobbiechen"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50502839",
+      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 5 # Comments: 1",
+      "published_raw": "Sun, 15 Nov 2026 00:56:45 +0000",
+      "updated_at": "2026-11-15T00:56:45Z",
+      "updated_raw": "Sun, 15 Nov 2026 00:56:45 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:deb117b6e3a6aa7e98cce46a1a9a661fd612a0436e72b4190d095212212255e4",
+      "title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑",
+      "url": "https://technews.tw/2026/11/15/scientists-say-this-medication-could-be-the-next-wonder-drug/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T00:30:08Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "sotagliflozin",
+        "慢性腎臟病",
+        "生物科技",
+        "糖尿病",
+        "血栓",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1643263",
+      "summary": "美國密西根大學醫學院研究團隊發現，第二型糖尿病藥物 sotagliflozin（商品名 Inpefa）除了控制 […]",
+      "published_raw": "Sun, 15 Nov 2026 00:30:08 +0000",
+      "updated_at": "2026-11-15T00:30:08Z",
+      "updated_raw": "Sun, 15 Nov 2026 00:30:08 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b938388fa9ca0c10c82c54a1166b3ac89a277415f2abf2e1e0d46e6ce51551cf",
+      "title": "「雨露均霑」時代終結！AI 狂潮首現明確減速訊號，專家示警：未來投資心臟要夠大",
+      "url": "https://finance.technews.tw/2026/11/15/ai-sector-shows-first-signs-of-slowdown-in-three-years/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-15T00:00:56Z",
+      "authors": [
+        "今周刊"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 投資",
+        "AI 資料中心",
+        "GPU",
+        "伺服器",
+        "美國期中選舉",
+        "財經"
+      ],
+      "guid": "https://technews.tw/?p=1649403",
+      "summary": "一場美國期中選舉，讓整個金融市場對 AI 前景的審美觀驟然改變。 贏得史詩級勝選的，是主張「嚴控AI資料中心建 […]",
+      "published_raw": "Sun, 15 Nov 2026 00:00:56 +0000",
+      "updated_at": "2026-11-15T00:00:56Z",
+      "updated_raw": "Sun, 15 Nov 2026 00:00:56 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:bd4d5aef767a3030e97772132ca1835b6086e2d2bdce93bd96ef279643b6afe0",
+      "title": "SpaceX首度完成太空船捕捉回收 星艦返回發射台[影]",
+      "url": "https://www.cna.com.tw/news/ait/202611150008.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-11-14T22:47:14Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-11-15/202611150008",
+      "summary": "（中央社美國星際基地14日綜合外電報導）馬斯克（Elon Musk）旗下太空探索科技公司（SpaceX）今天成功完成史上首次太空船捕捉回收作業，星艦（Starship）太空船在軌道飛行一天後，安全返回發射台。",
+      "published_raw": "Sun, 15 Nov 2026 06:47:14 +0800",
+      "updated_at": "2026-11-14T22:47:14Z",
+      "updated_raw": "Sun, 15 Nov 2026 06:47:14 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:f74c5b8cc32f66eaa2fd6480bcd806cb1a73b7fa393df71d8550448a13379c46",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-14T22:26:30Z",
+      "authors": [
+        "madihaa"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50501631",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 232 # Comments: 127",
+      "published_raw": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "updated_at": "2026-11-14T22:26:30Z",
+      "updated_raw": "Sat, 14 Nov 2026 22:26:30 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:7a1e593b1ec7193d605cd12911f16f0fc0cb0176a88c8e0a06fcc15af4482e7c",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-14T22:22:49Z",
+      "authors": [
+        "Skyfall106"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50501594",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 119 # Comments: 38",
+      "published_raw": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "updated_at": "2026-11-14T22:22:49Z",
+      "updated_raw": "Sat, 14 Nov 2026 22:22:49 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:53a0d7e28151b82ef8745d25cd08d7ffb76a44ad35551485160e5ff39816c1c0",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-14T21:22:24Z",
+      "authors": [
+        "ls612"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50500963",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 797 # Comments: 539",
+      "published_raw": "Sat, 14 Nov 2026 21:22:24 +0000",
+      "updated_at": "2026-11-14T21:22:24Z",
+      "updated_raw": "Sat, 14 Nov 2026 21:22:24 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:52194b4ba268031c195687c26dd67e6821c9719e88ce9f6387a65a4c5ba011db",
+      "title": "輝達兩大股東籲審慎評估領導人選 黃仁勳回任列入考量",
+      "url": "https://www.cna.com.tw/news/aopl/202611150004.aspx",
+      "source_feed_ids": [
+        "cna-technology"
+      ],
+      "published_at": "2026-11-14T19:30:02Z",
+      "authors": [],
+      "categories": [],
+      "guid": "CNA/2026-11-15/202611150004",
+      "summary": "（中央社紐約14日綜合外電報導）輝達（Nvidia）兩大股東呼籲董事會，在評估公司未來領導人所有選項時，要包括「黃仁勳可能回任」。",
+      "published_raw": "Sun, 15 Nov 2026 03:30:02 +0800",
+      "updated_at": "2026-11-14T19:30:02Z",
+      "updated_raw": "Sun, 15 Nov 2026 03:30:02 +0800",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:848d88199f37ef6b47d7503588fd4af9c232f2d14fff116fed1751e8d4c0b52d",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-14T18:56:47Z",
+      "authors": [
+        "gnabgib"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50499723",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 204 # Comments: 116",
+      "published_raw": "Sat, 14 Nov 2026 18:56:47 +0000",
+      "updated_at": "2026-11-14T18:56:47Z",
+      "updated_raw": "Sat, 14 Nov 2026 18:56:47 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:17197bbec4612e09fdbdae612518fcf978c045937917cfabbd6e3b5697c731aa",
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-14T17:45:19Z",
+      "authors": [
+        "umerf"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50499038",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 225 # Comments: 110",
+      "published_raw": "Sat, 14 Nov 2026 17:45:19 +0000",
+      "updated_at": "2026-11-14T17:45:19Z",
+      "updated_raw": "Sat, 14 Nov 2026 17:45:19 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:b4bee79009a1b1d3299c5a18e20110ca9482fba75776ebb3a9e704b3a0b6cffb",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "source_feed_ids": [
+        "hacker-news-frontpage"
+      ],
+      "published_at": "2026-11-14T17:43:10Z",
+      "authors": [
+        "armcat"
+      ],
+      "categories": [],
+      "guid": "https://news.ycombinator.com/item?id=50499017",
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 674 # Comments: 281",
+      "published_raw": "Sat, 14 Nov 2026 17:43:10 +0000",
+      "updated_at": "2026-11-14T17:43:10Z",
+      "updated_raw": "Sat, 14 Nov 2026 17:43:10 +0000",
+      "language": "en"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:83b7c0b2fa082ae3d2f11d0cab74b0c2bd5dc0704446a674bd54ae0c284413dc",
+      "title": "就算從未誕生生命，地球仍能靠地質循環維持數十億年宜居環境",
+      "url": "https://technews.tw/2026/11/15/scientists-simulated-what-earth-would-be-like-if-life-never-existed/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-14T16:00:34Z",
+      "authors": [
+        "台北 天文館"
+      ],
+      "categories": [
+        "地球",
+        "天文",
+        "液態水",
+        "無生物地球",
+        "科技趣聞",
+        "自然科學",
+        "蓋亞假說"
+      ],
+      "guid": "https://technews.tw/?p=1649706",
+      "summary": "我們在這裡。雖然我們並不完全清楚自己究竟是如何來到這裡的，但我們確實存在於此。但是…… […]",
+      "published_raw": "Sat, 14 Nov 2026 16:00:34 +0000",
+      "updated_at": "2026-11-14T16:00:34Z",
+      "updated_raw": "Sat, 14 Nov 2026 16:00:34 +0000",
+      "language": "zh-TW"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sha256:076c1f447b5407c2bdf1033aaa08528f27ceae21c7b4483c9ec5b8bb3ea220a3",
+      "title": "AI 問診漸成主流但侵蝕大眾信任感，醫病關係仍是最重要核心",
+      "url": "https://technews.tw/2026/11/15/in-the-ai-era-can-we-preserve-humanity-in-healthcare/",
+      "source_feed_ids": [
+        "technews"
+      ],
+      "published_at": "2026-11-14T16:00:06Z",
+      "authors": [
+        "TechNews 編輯台"
+      ],
+      "categories": [
+        "AI 人工智慧",
+        "AI 問診",
+        "AI 看病",
+        "信任度",
+        "醫病關係",
+        "醫療科技"
+      ],
+      "guid": "https://technews.tw/?p=1641105",
+      "summary": "民眾愈來愈常問 AI 聊天機器人健康資訊，但醫療現場的人性溫度仍難取代。埃默里大學（Emory Univers […]",
+      "published_raw": "Sat, 14 Nov 2026 16:00:06 +0000",
+      "updated_at": "2026-11-14T16:00:06Z",
+      "updated_raw": "Sat, 14 Nov 2026 16:00:06 +0000",
+      "language": "zh-TW"
+    }
+  ]
+}
